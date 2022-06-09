@@ -41,7 +41,7 @@ const config = {
   tagline: 'Anleitungen, Tipps und Tricks',
   url: 'https://ict.gbsl.website',
   baseUrl: '/',
-  onBrokenLinks: 'throw',
+  onBrokenLinks: 'warn',
   onBrokenMarkdownLinks: 'warn',
   favicon: 'img/favicon.ico',
 
