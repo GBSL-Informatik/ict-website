@@ -1,0 +1,24 @@
+---
+title: 'Fussnoten einfügen'
+icon: mdi-foot-print
+tags:
+    - Fussnoten
+    - Endnoten
+apps: [LibreOffice Writer]
+sort: 10
+---
+
+
+
+Fussnoten dienen dazu, Erklärungen zu einem Begriff im Text zu liefern, ohne dabei beim Lesen des eigentlichen Textes zu stören. Die Erklärung wird nicht direkt im Satz dargestellt, sondern unten an der Seite oder am Ende des Dokuments. Eine kleine, hochgestellte Zahl direkt hinter dem entsprechenden Begriff weist den/die Leser*in auf die Existenz einer entsprechenden Erklärung hin.
+
+Wie kann ich Anmerkungen in einem Dokument in Form von Fussnoten hinzufügen?
+
+
+Fussnoten können über das Menu __Einfügen__ :mdi-chevron-right: __Fuss-/Endnote__ eingefügt werden. **Fussnoten** werden am Seitenende dargestellt, während **Endnoten** gesammelt am Ende des Dokumentes aufgeführt werden.
+
+![Fussnoten einfügen über Menu](./images/fussnoten-einfuegen.lo.png)
+
+Der dritte Menupunkt __Fuss-/Endnote…__ öffnet ein Fenster mit zusätzlichen Einstellungsmöglichkeiten:
+
+![Zusatzliche Optionen zur Nummerierung der Fussnoten](./images/fussnoten-optionen.lo.png)

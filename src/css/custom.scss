@@ -1,0 +1,92 @@
+@import "@mdi/font/css/materialdesignicons.min.css";
+
+/**
+ * Any CSS included here will be global. The classic template
+ * bundles Infima by default. Infima is a CSS framework designed to
+ * work well for content-centric websites.
+ */
+
+/* You can override the default Infima variables here. */
+:root {
+	--ifm-color-primary: #00615f;
+	--ifm-color-primary-dark: #005756;
+	--ifm-color-primary-darker: #005251;
+	--ifm-color-primary-darkest: #004443;
+	--ifm-color-primary-light: #006b69;
+	--ifm-color-primary-lighter: #00706d;
+	--ifm-color-primary-lightest: #007e7c;
+	--ifm-code-font-size: 95%;
+	--docusaurus-highlighted-code-line-bg: rgba(0, 0, 0, 0.1);
+}
+
+/* For readability concerns, you should choose a lighter palette in dark mode. */
+[data-theme='dark'] {
+	--ifm-color-primary: #afe5f3;
+	--ifm-color-primary-dark: #8bd9ee;
+	--ifm-color-primary-darker: #78d3eb;
+	--ifm-color-primary-darkest: #42c2e3;
+	--ifm-color-primary-light: #d3f1f8;
+	--ifm-color-primary-lighter: #e6f7fb;
+	--ifm-color-primary-lightest: #ffffff;
+	--docusaurus-highlighted-code-line-bg: rgba(0, 0, 0, 0.3);
+}
+
+p > img {
+	display: block;
+	margin-left: auto;
+	margin-right: auto;
+}
+
+table {
+	margin-left: auto;
+	margin-right: auto;
+    display: table;
+    td,
+    th {
+        border: none;
+    }
+	th:empty {
+		display: none;
+	}
+}
+
+@media screen and (min-width: 997px) {
+	main > .container {
+		padding-left: 3em;
+	}
+}
+
+
+// @media (max-width: 996px) {
+    .navbar__inner {
+        .navbar__items {
+            div[class^='searchBox'] {
+                position: static;
+            }
+        }
+    }
+// }
+
+.dsla-search-wrapper {
+    order: 0;
+    --aa-search-input-height: 34px;
+    --aa-primary-color-rgb: 35, 42, 64;
+    .dsla-search-field {
+        .aa-DetachedSearchButton {
+            border-radius: 20px;
+        }
+    }
+}
+
+.plugin-docs {
+    .dsla-search-wrapper {
+        display: block;
+    }
+}
+
+html[data-theme='dark'] {
+    .dsla-search-wrapper {
+        --aa-primary-color-rgb: 103, 125, 195;
+        --aa-muted-color-rgb: 65, 78, 120;
+    }
+}

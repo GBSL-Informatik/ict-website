@@ -1,0 +1,24 @@
+---
+title: Abbildungsverzeichnis
+icon: mdi-image-multiple
+apps: [Microsoft Word]
+sort: 3
+---
+
+
+
+## Voraussetzungen
+
+Voraussetzung ist, dass die Abbildungen mit einer **Beschriftung** versehen worden sind.
+
+Siehe [Beschriftungen](../../word-1/beschriftungen/)
+
+## Abbildungsverzeichnis erstellen
+
+Um ein Abbildungsverzeichnis zu erstellen, wähle den Menüpunkt __Referenzen__ :mdi-chevron-right: __Abbildungsverzeichnis&nbsp;einfügen__.
+
+![](./menue-beschriftungen.png)
+
+Anschliessend wird das folgende Fenster angezeigt. Hier kannst du einfach auf __OK__ klicken:
+
+![](./abbildungsverzeichnis-einfuegen.png)

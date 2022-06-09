@@ -1,0 +1,32 @@
+---
+title: 'Bilder einfügen und positionieren'
+subtitle: "Wie füge ich ein Bild ein? Wie kann ich den Textfluss um das Bild ändern?"
+icon: mdi-image-plus
+tags:
+    - Bilder
+    - Textfluss
+apps: [LibreOffice Writer]
+sort: 5
+---
+
+
+
+## Bilder einfügen
+Bilder können über die Zwischenablage mit [[Ctrl]] + [[V_]] oder über __Einfügen__ :mdi-chevron-right: __Bild…__ als Datei eingefügt werden.
+
+![Bild aus Datei einfügen](./images/bild-einfuegen.lo.png)
+
+## Textfluss festlegen
+Ein Rechtsklick auf das Bild und __Umlauf__ :mdi-chevron-right: __Textumbruch__ erlaubt es dir, verschiedene Positionierungen zu wählen:
+
+![Einstellungen Textfluss](./images/bild-textfluss.lo.png)
+
+
+Ein Rechtsklick und __Eigenschaften__ :mdi-chevron-right: Tab _Umlauf_ öffnet das Layout-Fenster mit den Detaileinstellungen:
+
+![Bildeigenschaften «Umlauf»](./images/bild-eigenschaften.lo.png)
+
+
+---
+
+Siehe auch: Tipp [Beschriftungen einfügen](../beschriftungen-einfuegen)

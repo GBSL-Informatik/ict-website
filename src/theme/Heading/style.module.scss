@@ -1,0 +1,23 @@
+.title {
+    display: flex;
+    align-items: baseline;
+    justify-content: start;
+    gap: 12px;
+    .icon {
+        display: none;
+        color: var(--ifm-color-primary);
+        border: 1px solid var(--ifm-color-primary);
+        border-radius: 50%;
+        padding: 0 calc(var(--ifm-heading-line-height)*1em/4);
+        &:hover {
+            background-color: var(--ifm-color-primary);
+            color: var(--ifm-color-primary-contrast-background);
+            transition-duration: 1s;
+        }
+    }
+    &:first-child {
+        .icon {
+            display: block;
+        }
+    }
+}
