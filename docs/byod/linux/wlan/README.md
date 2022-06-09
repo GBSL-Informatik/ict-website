@@ -43,11 +43,11 @@ Beim neuen Netzwerk __gymKIRCHENFELD__ bitte die **Schul-E-Mail-Adresse** in das
     - _Anonyme Identität_: **anonymous**
     - _CA Zertifikat_: öffne das in Schritt 1 gespeicherte Zertifikat.
     - _Innere Authentifizierung_: **MSCHAPv2**
-    - _Benutzername_: (deine [Schul-E-Mail-Adresse](../../konto/))
+    - _Benutzername_: (deine [Schul-E-Mail-Adresse](/byod/konto))
     - _Passwort_: (dein Passwort)
 
 ![](./wlan.png)
 
-7. Klicke auf __Anwenden__.
+1. Klicke auf __Anwenden__.
 
 [2]: https://media.mygymer.ch/wifi/Gymnasium_Kirchenfeld_Root_X1.crt

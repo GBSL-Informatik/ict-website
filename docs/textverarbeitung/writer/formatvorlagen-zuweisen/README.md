@@ -9,7 +9,7 @@ sort: 1
 
 
 :::warning
-Eventuell empfiehlt es sich, den Text zuerst zu säubern (siehe Tipp [Text säubern](../text-saeubern/)).
+Eventuell empfiehlt es sich, den Text zuerst zu säubern (siehe Tipp [Text säubern](/textverarbeitung/writer/text-saeubern/)).
 :::
 
 Formatvorlagen können sehr einfach zugewiesen werden:

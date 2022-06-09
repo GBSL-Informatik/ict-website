@@ -12,7 +12,7 @@ Du kannst dir den Notizenbereich mit __Notizen__ in der Fussleiste des Programmf
 
 ![Notizenansicht](./images/notizen.png)
 
-Die Notizen kannst du dann entweder ausdrucken (siehe Tipp [Drucken](../drucken) oder während der Präsentation anzeigen lassen (siehe Tipp [Referentenansicht](../referentenansicht)).
+Die Notizen kannst du dann entweder ausdrucken (siehe Tipp [Drucken](/praesentation/powerpoint/drucken) oder während der Präsentation anzeigen lassen (siehe Tipp [Referentenansicht](/praesentation/powerpoint/referentenansicht)).
 
 
 

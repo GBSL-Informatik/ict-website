@@ -7,15 +7,15 @@ sort: 20
 
 
 
-[:mdi-music-circle: Audio-CDs](audio-CD/)
+[:mdi-music-circle: Audio-CDs](/anderesoftware/video-audio/audio-CD)
 
-[:mdi-play-circle: DVDs](dvd/)
+[:mdi-play-circle: DVDs](/anderesoftware/video-audio/dvd)
 
-[:mdi-youtube: Youtube](youtube/)
+[:mdi-youtube: Youtube](/anderesoftware/video-audio/youtube)
 
-[:mdi-vhs: Video aus Mediathek herunterladen](video-mediathek/)
+[:mdi-vhs: Video aus Mediathek herunterladen](/anderesoftware/video-audio/video-mediathek)
 
-[:mdi-play-outline: Stream](stream/)
+[:mdi-play-outline: Stream](/anderesoftware/video-audio/stream)
 
 
 

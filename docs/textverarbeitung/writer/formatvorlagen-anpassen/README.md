@@ -10,7 +10,7 @@ sort: 3
 
 :::tip
 Vor dem Gestalten eines Dokumentes durch Anpassen der Formatvorlagen solltest du sicherstellen, dass dein Dokument keine Direktformatierungen enthält. Sonst können die Formatvorlagen nicht korrekt angewandt werden.
-Falls du noch Direktformatierungen hast, dann empfiehlt es sich, den Text zuerst zu säubern (siehe Tipp [Text säubern](../text-saeubern)) und dann erst die Formatvorlagen zuzuweisen (siehe Tipp [Formatvorlagen zuweisen](../formatvorlagen-zuweisen)).
+Falls du noch Direktformatierungen hast, dann empfiehlt es sich, den Text zuerst zu säubern (siehe Tipp [Text säubern](/textverarbeitung/writer/text-saeubern)) und dann erst die Formatvorlagen zuzuweisen (siehe Tipp [Formatvorlagen zuweisen](/textverarbeitung/writer/formatvorlagen-zuweisen)).
 :::
 
 ## Formatvorlagen ändern

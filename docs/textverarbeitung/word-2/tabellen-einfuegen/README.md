@@ -26,4 +26,4 @@ Wenn man eine Tabelle anklickt, erscheint ein neues Menuband __Layout__. Hier k�
 
 ---
 
-Siehe auch: Tipp [Beschriftungen einfügen](../../word-1/beschriftungen)
+Siehe auch: Tipp [Beschriftungen einfügen](/textverarbeitung/word-1/beschriftungen)

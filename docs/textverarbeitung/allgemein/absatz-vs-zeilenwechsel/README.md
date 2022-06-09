@@ -10,7 +10,7 @@ sort: 1
 
 
 
-Wenn du dein Dokument nach Absatz- und Zeilenwechseln untersuchen möchtest, empfiehlt es sich, Formatierungszeichen anzeigen zu lassen (siehe «Formatierungszeichen» [Microsoft Word](../../word-1/formatierungszeichen/)/ [LibreOffice Writer](../../writer/versteckte-zeichen/)).
+Wenn du dein Dokument nach Absatz- und Zeilenwechseln untersuchen möchtest, empfiehlt es sich, Formatierungszeichen anzeigen zu lassen (siehe «Formatierungszeichen» [Microsoft Word](/textverarbeitung/word-1/formatierungszeichen)/ [LibreOffice Writer](/textverarbeitung/writer/versteckte-zeichen)).
 
 ## Absatzwechsel
 

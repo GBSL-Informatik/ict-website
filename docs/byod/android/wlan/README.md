@@ -1,11 +1,9 @@
 ---
-title: WLAN einrichten
 icon: mdi-wifi
 systems: [Android]
 sort: 10
 ---
-
-<PageTitle/>
+# WLAN einrichten
 
 ## Automatische Installation
 
@@ -15,7 +13,7 @@ Leider können wir für Android (noch) keine automatische Installation anbieten.
 
 1. Lade das Schul-Zertifikat herunter.
 
-   ::: tip
+   :::tip
    Dieser Schritt ist ab Android 11 **unumgänglich** und für Android <= 10 ebenfalls empfohlen.
    :::
 

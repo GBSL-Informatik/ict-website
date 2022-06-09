@@ -23,7 +23,7 @@ Handzettel
 : Handzettel werden häufig als **Handout** verwendet: Du verteilst den Zuhörern vor der Präsentation einen Ausdruck – 3, 4 oder 6 Folien pro Seite. Diesen können die Zuhörer während der Präsentation mit Notizen ergänzen und dann mit nach Hause nehmen.
 
 Notizen
-: Hier erhältst du pro Folie eine Seite – im oberen Bereich siehst du **die Folie**, in der unteren Hälfte werden die **zur Folie notierten Anmerkungen** (siehe Tipp [Notizen](../notizen)) ausgedruckt. Diese Blätter eignen sich als Spickzettel, wenn du mit der eingebauten Notizfunktion arbeitest.
+: Hier erhältst du pro Folie eine Seite – im oberen Bereich siehst du **die Folie**, in der unteren Hälfte werden die **zur Folie notierten Anmerkungen** (siehe Tipp [Notizen](/praesentation/impress/notizen)) ausgedruckt. Diese Blätter eignen sich als Spickzettel, wenn du mit der eingebauten Notizfunktion arbeitest.
 
 Gliederung
 : Dabei handelt es sich um die **Gliederungsansicht zum Ausdrucken**. Dabei wird nur der Titel und Text aller Folien in der korrekten Reihenfolge gedruckt. Grafiken und andere Elemente sind hier nicht ersichtlich. Dafür passen mehrere Folien auf eine Seite und du kannst so schnell die Präsentation noch einmal im Geiste durchspielen.

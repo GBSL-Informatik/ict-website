@@ -13,7 +13,7 @@ In Word gibt es Listen mit mehreren Ebenen, welche mit den _Überschrift_-Format
 
 Voraussetzung ist, dass allen Überschriften im Dokument eine _Überschrift_-Formatvorlage zugewiesen wird.
 
-Siehe [Formatvorlagen zuweisen](../../word-1/formatvorlagen-zuweisen/)
+Siehe [Formatvorlagen zuweisen](/textverarbeitung/word-1/formatvorlagen-zuweisen/)
 
 ## Hierarchische Nummerierung
 

@@ -11,7 +11,7 @@ sort: 3
 
 Voraussetzung ist, dass die Abbildungen mit einer **Beschriftung** versehen worden sind.
 
-Siehe [Beschriftungen](../../word-1/beschriftungen/)
+Siehe [Beschriftungen](/textverarbeitung/word-1/beschriftungen/)
 
 ## Abbildungsverzeichnis erstellen
 

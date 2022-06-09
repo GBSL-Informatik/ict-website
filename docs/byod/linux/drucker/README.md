@@ -7,7 +7,7 @@ sort: 20
 
 
 
-Um die Drucker einrichten zu können, muss zuerst zwingend [unser Kinet-Repository hinzugefügt werden.](../repo/)
+Um die Drucker einrichten zu können, muss zuerst zwingend [unser Kinet-Repository hinzugefügt werden.](/byod/linux/repo)
 
 ## Druckerpaket für Schule installieren
 

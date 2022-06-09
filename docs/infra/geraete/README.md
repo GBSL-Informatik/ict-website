@@ -7,12 +7,12 @@ icon: mdi-home-circle
 
 
 
-[:mdi-printer: Drucken](drucker/)
+[:mdi-printer: Drucken](/infra/geraete/drucker)
 
-[:mdi-human-male-board: Stehpult](stehpult/)
+[:mdi-human-male-board: Stehpult](/infra/geraete/stehpult)
 
-[:mdi-camera-metering-center: Visualizer](visualizer/)
+[:mdi-camera-metering-center: Visualizer](/infra/geraete/visualizer)
 
-[:mdi-projector: Beamer](beamer/)
+[:mdi-projector: Beamer](/infra/geraete/beamer)
 
-[:mdi-human-greeting-proximity: Konferenzgeräte](konf/)
+[:mdi-human-greeting-proximity: Konferenzgeräte](/infra/geraete/konf)

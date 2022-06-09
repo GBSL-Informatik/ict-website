@@ -7,9 +7,9 @@ sort: 10
 
 
 
-[:mdi-cloud-sync: Synchronisation in Windows](sync/)
+[:mdi-cloud-sync: Synchronisation in Windows](/microsoft365/onedrive/sync)
 
-[:mdi-share-all: Inhalte teilen](teilen/)
+[:mdi-share-all: Inhalte teilen](/microsoft365/onedrive/teilen)
 
 
 

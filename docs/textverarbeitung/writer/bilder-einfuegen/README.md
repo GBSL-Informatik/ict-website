@@ -29,4 +29,4 @@ Ein Rechtsklick und __Eigenschaften__ :mdi-chevron-right: Tab _Umlauf_ öffnet d
 
 ---
 
-Siehe auch: Tipp [Beschriftungen einfügen](../beschriftungen-einfuegen)
+Siehe auch: Tipp [Beschriftungen einfügen](/textverarbeitung/writer/beschriftungen-einfuegen)

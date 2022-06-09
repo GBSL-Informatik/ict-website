@@ -31,4 +31,4 @@ Ein Klick auf __Weitere anzeigen__ oder ein Rechtsklick auf das Bild und __Grös
 
 Hier kann man neben der Art des Textflusses auch den Abstand des Bildes zum Text definieren.
 
-Siehe auch: [Beschriftungen](../beschriftungen)
+Siehe auch: [Beschriftungen](/textverarbeitung/word-1/beschriftungen)
