@@ -47,8 +47,10 @@ const config = {
 
   // GitHub pages deployment config.
   // If you aren't using GitHub pages, you don't need these.
-  organizationName: 'gbsl', // Usually your GitHub org/user name.
-  projectName: 'ict-gbsl', // Usually your repo name.
+  organizationName: 'GBSL-Informatik', // Usually your GitHub org/user name.
+  projectName: 'ict-website', // Usually your repo name.
+  deploymentBranch: 'gh-pages',
+  trailingSlash: false,
 
   // Even if you don't use internalization, you can use this field to set useful
   // metadata like html lang. For example, if your site is Chinese, you may want
@@ -95,6 +97,11 @@ const config = {
         theme: lightCodeTheme,
         darkTheme: darkCodeTheme,
       },
+      announcementBar: {
+        backgroundColor: '#fcff00',
+        content: '🚧 Seite im Aufbau... 🚧',
+        isCloseable: false
+      }
     }),
   stylesheets: [
     'https://fonts.googleapis.com/icon?family=Material+Icons'
