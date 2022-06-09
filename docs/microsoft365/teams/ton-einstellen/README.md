@@ -1,9 +1,10 @@
 ---
-title: Einstellungen für Tonausgabe und Mikrofon
 chapter: Teams
 icon: mdi-microphone
 apps: [Microsoft Teams]
 ---
+
+# Einstellungen für Tonausgabe und Mikrofon
 
 
 

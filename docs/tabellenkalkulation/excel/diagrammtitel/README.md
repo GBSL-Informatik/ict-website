@@ -1,10 +1,11 @@
 ---
-title: 'Diagrammtitel'
 description: So kann ein Diagrammtitel hinzugefügt und bearbeitet werden
 icon: mdi-format-title
 apps: [Microsoft Excel]
 sort: 4
 ---
+
+# 'Diagrammtitel'
 
 
 

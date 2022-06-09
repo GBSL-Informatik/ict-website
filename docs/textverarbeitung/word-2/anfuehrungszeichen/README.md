@@ -1,10 +1,11 @@
 ---
-title: 'Anführungszeichen'
 description: "Verwenden von benutzerdefinierten Anführungszeichen in Word."
 icon: mdi-format-quote-close
 apps: [Microsoft Word]
 sort: 14
 ---
+
+# 'Anführungszeichen'
 
 <PageTitle />
 

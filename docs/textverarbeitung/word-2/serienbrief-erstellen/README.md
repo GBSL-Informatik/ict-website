@@ -1,10 +1,11 @@
 ---
-title: 'Serienbrief erstellen'
 description: "So kann ein Serienbrief erstellt werden."
 icon: mdi-text-box-multiple-outline
 apps: [Microsoft Word, Microsoft Excel]
 sort: 15
 ---
+
+# 'Serienbrief erstellen'
 
 
 

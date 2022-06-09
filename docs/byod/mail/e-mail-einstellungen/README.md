@@ -1,8 +1,9 @@
 ---
-title: E-Mail-Einstellungen
 icon: mdi-email
 sort: 20
 ---
+
+# E-Mail-Einstellungen
 
 
 

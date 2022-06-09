@@ -1,9 +1,10 @@
 ---
-title: 'Thunderbird'
 icon: mdi-email
 apps: [Thunderbird]
 sort: 40
 ---
+
+# 'Thunderbird'
 
 
 

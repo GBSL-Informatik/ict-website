@@ -1,9 +1,10 @@
 ---
-title: 'Tastaturkürzel'
 icon: mdi-keyboard
 apps: [Microsoft Word]
 sort: 12
 ---
+
+# 'Tastaturkürzel'
 
 
 

@@ -1,5 +1,4 @@
 ---
-title: 'Text säubern'
 description: ""
 icon: mdi-spray-bottle
 tags:
@@ -9,6 +8,8 @@ tags:
 apps: [Microsoft Word]
 sort: 9
 ---
+
+# 'Text säubern'
 
 
 

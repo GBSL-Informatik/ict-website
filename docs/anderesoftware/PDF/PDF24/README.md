@@ -1,11 +1,12 @@
 ---
-title: PDF24
 chapter: Textverarbeitung
 description: Bearbeiten von PDFs
 icon: mdi-sheep
 systems: [Windows]
 apps: [PDF24]
 ---
+
+# PDF24
 
 
 

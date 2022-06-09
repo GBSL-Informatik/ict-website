@@ -1,9 +1,10 @@
 ---
-title: e-Thek
 icon: mdi-book-open-page-variant
 systems: [Windows]
 apps: [Adobe Digital Editions]
 ---
+
+# e-Thek
 
 
 

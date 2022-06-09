@@ -1,8 +1,9 @@
 ---
-title: YouTube
 icon: mdi-youtube
 sort: 3
 ---
+
+# YouTube
 
 
 

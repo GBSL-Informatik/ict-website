@@ -1,9 +1,10 @@
 ---
-title: "Quellenangaben"
 description: Wie schreibe ich eine korrekte Quellenangabe
 icon: mdi-typewriter
 sort: 2
 ---
+
+# "Quellenangaben"
 
 
 

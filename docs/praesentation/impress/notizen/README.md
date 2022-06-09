@@ -1,10 +1,11 @@
 ---
-title: 'Notizen'
 description: "Anmerkungen und Notizen speichern"
 icon: "mdi-note-multiple-outline"
 apps: [LibreOffice Impress]
 sort: 7
 ---
+
+# 'Notizen'
 
 
 

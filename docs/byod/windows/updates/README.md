@@ -1,8 +1,9 @@
 ---
-title: Windows-Updates
 icon: mdi-microsoft-windows
 systems: [Windows]
 ---
+
+# Windows-Updates
 
 
 

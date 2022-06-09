@@ -1,9 +1,10 @@
 ---
-title: Beschriftungen
 icon: mdi-tag-text
 apps: [Microsoft Word]
 sort: 7
 ---
+
+# Beschriftungen
 
 
 

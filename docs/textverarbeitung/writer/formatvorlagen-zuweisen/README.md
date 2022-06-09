@@ -1,10 +1,11 @@
 ---
-title: 'Formatvorlagen zuweisen'
 description: "Wie strukturiere ich ein Dokument?"
 icon: mdi-format-paragraph
 apps: [LibreOffice Writer]
 sort: 1
 ---
+
+# 'Formatvorlagen zuweisen'
 
 
 

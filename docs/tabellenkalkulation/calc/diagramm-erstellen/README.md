@@ -1,10 +1,11 @@
 ---
-title: 'Diagramm erstellen'
 description: So kann ein Diagramm erstellt werden
 icon: mdi-chart-areaspline
 apps: [LibreOffice Calc]
 sort: 3
 ---
+
+# 'Diagramm erstellen'
 
 
 

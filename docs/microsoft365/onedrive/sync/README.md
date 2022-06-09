@@ -1,9 +1,10 @@
 ---
-title: 'Synchronisation Windows'
 icon: 'mdi-cloud-sync'
 systems: [Windows]
 apps: [Microsoft OneDrive]
 ---
+
+# 'Synchronisation Windows'
 
 
 

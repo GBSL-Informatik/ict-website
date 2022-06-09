@@ -1,10 +1,11 @@
 ---
-title: 'Zellen benennen'
 description: Zellen mit wichtigen Werten können benannt werden.
 icon: mdi-form-textbox
 apps: [Microsoft Excel]
 sort: 12
 ---
+
+# 'Zellen benennen'
 
 
 

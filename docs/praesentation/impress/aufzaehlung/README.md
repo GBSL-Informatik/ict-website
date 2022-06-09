@@ -1,10 +1,11 @@
 ---
-title: Aufzählung
 description: die berühmenten «Bullet Points»
 icon: "mdi-format-list-bulleted"
 apps: [LibreOffice Impress]
 sort: 2
 ---
+
+# Aufzählung
 
 
 

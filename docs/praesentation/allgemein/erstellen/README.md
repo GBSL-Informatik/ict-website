@@ -1,10 +1,11 @@
 ---
-title: "Präsentation erstellen"
 description: "erste Überlegungen"
 icon: "mdi-presentation"
 apps: [Microsoft PowerPoint, LibreOffice Impress]
 sort: 1
 ---
+
+# "Präsentation erstellen"
 
 
 

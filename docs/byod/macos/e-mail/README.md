@@ -1,9 +1,10 @@
 ---
-title: E-Mail einrichten
 icon: mdi-email
 systems: [macOS]
 sort: 30
 ---
+
+# E-Mail einrichten
 
 
 

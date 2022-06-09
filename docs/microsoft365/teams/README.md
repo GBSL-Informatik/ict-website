@@ -1,9 +1,10 @@
 ---
-title: Teams
 icon: mdi-microsoft-teams
 apps: [Microsoft Teams]
 sort: 20
 ---
+
+# Teams
 
 
 

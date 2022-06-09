@@ -1,5 +1,4 @@
 ---
-title: 'Tabellen einfügen'
 description: "Wie kann ich eine Tabellen einfügen? Welche Einstellungen eigenen sich?"
 icon: mdi-table-plus
 tags:
@@ -7,6 +6,8 @@ tags:
 apps: [LibreOffice Writer]
 sort: 6
 ---
+
+# 'Tabellen einfügen'
 
 ## Tabellen einfügen
 Im Menu wählst du __Tabelle__ :mdi-chevron-right: __Tabelle einfügen…__, dann gibst du Anzahl der Spalten und Zeilen an. Zusätzlich kannst du wählen, ob die Tabelle eine Überschrift und eine Umrandung haben soll.

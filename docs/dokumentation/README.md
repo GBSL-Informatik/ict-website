@@ -1,8 +1,9 @@
 ---
-title: Hinweise für Autoren
 description: Einige Regeln, an die wir uns halten sollten, damit ein einheitlicher Auftritt entstehen kann
 icon: mdi-account-details
 ---
+
+# Hinweise für Autoren
 
 
 

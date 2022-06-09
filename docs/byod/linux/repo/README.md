@@ -1,9 +1,10 @@
 ---
-title: Gymkirchenfeld-Repo installieren
 icon: mdi-linux
 systems: [Linux]
 sort: 20
 ---
+
+# Gymkirchenfeld-Repo installieren
 
 
 

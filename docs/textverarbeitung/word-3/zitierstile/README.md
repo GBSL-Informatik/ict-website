@@ -1,9 +1,10 @@
 ---
-title: Zitierstile
 icon: mdi-bookshelf
 apps: [Microsoft Word]
 sort: 5
 ---
+
+# Zitierstile
 
 
 

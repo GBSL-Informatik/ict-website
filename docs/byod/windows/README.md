@@ -1,8 +1,9 @@
 ---
-title: Windows
 icon: mdi-microsoft-windows
 systems: [Windows]
 ---
+
+# Windows
 
 
 

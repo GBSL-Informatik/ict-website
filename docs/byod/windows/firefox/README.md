@@ -1,10 +1,11 @@
 ---
-title: Firefox einrichten
 icon: mdi-firefox
 systems: [Windows]
 apps: [Firefox]
 sort: 80
 ---
+
+# Firefox einrichten
 
 
 

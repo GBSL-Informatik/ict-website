@@ -1,10 +1,11 @@
 ---
-title: Teams einrichten
 icon: mdi-microsoft-teams
 systems: [macOS]
 apps: [Microsoft Teams]
 sort: 20
 ---
+
+# Teams einrichten
 
 
 

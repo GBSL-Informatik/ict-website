@@ -1,8 +1,9 @@
 ---
-title: "Components"
 description: "vue-components von theme/global-components/"
 icon: "mdi-puzzle"
 ---
+
+# "Components"
 
 
 
@@ -11,12 +12,13 @@ Beispiel dieser Seite (bis auf die Listen `systems` und `Apps` – welche zur Ke
 
 ``` yaml
 ---
-title: "Components"
 description: "vue-components von theme/global-components/"
 icon: "mdi-puzzle"
 systems: ["macOS", "Windows"]
 apps: ["Microsoft OneDrive", "Linux TwoDrive"]
 ---
+
+# "Components"
 ```
 
 ``` md

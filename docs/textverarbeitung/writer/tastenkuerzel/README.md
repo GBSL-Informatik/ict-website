@@ -1,9 +1,10 @@
 ---
-title: 'Tastaturkürzel'
 icon: mdi-keyboard
 apps: [LibreOffice Writer]
 sort: 12
 ---
+
+# 'Tastaturkürzel'
 
 
 

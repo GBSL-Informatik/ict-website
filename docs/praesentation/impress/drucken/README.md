@@ -1,10 +1,11 @@
 ---
-title: 'Drucken'
 description: 'Handzettel und Notizseiten drucken'
 icon: "mdi-printer"
 apps: [LibreOffice Impress]
 sort: 8
 ---
+
+# 'Drucken'
 
 
 

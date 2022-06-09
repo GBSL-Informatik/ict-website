@@ -1,9 +1,10 @@
 ---
-title: "Masterfolie"
 description: "Wie kann ich ein eigenes Design für meine Präsentation erstellen?"
 apps: [LibreOffice Impress]
 sort: 5
 ---
+
+# "Masterfolie"
 
 
 

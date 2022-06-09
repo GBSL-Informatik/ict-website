@@ -1,5 +1,4 @@
 ---
-title: 'Versteckte Zeichen'
 description: "Wie können versteckte Steuer- und Formatierungszeichen eingefügt und angezeigt werden? Was bewirken sie?"
 icon: mdi-eye-off
 tags:
@@ -12,6 +11,8 @@ tags:
 apps: [LibreOffice Writer]
 sort: 8
 ---
+
+# 'Versteckte Zeichen'
 
 
 

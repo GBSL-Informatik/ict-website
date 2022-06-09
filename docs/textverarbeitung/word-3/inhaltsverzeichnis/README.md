@@ -1,9 +1,10 @@
 ---
-title: Inhaltsverzeichnis
 apps: [Microsoft Word]
 icon: mdi-table-of-contents
 sort: 2
 ---
+
+# Inhaltsverzeichnis
 
 
 

@@ -1,9 +1,10 @@
 ---
-title: Dateien hochladen
 chapter: Teams
 icon: mdi-file-document
 apps: [Microsoft Teams]
 ---
+
+# Dateien hochladen
 
 
 

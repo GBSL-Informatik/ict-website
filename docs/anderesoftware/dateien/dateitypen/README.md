@@ -1,8 +1,9 @@
 ---
-title: Wichtige Dateitypen
 icon: mdi-file-multiple
 sort: 10
 ---
+
+# Wichtige Dateitypen
 
 
 

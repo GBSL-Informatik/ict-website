@@ -1,9 +1,10 @@
 ---
-title: 'Referentenansicht'
 description: "Welche Möglichkeiten bietet mir die Referentenansicht?"
 apps: [LibreOffice Impress]
 sort: 6
 ---
+
+# 'Referentenansicht'
 
 
 

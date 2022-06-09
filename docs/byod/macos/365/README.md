@@ -1,10 +1,11 @@
 ---
-title: Microsoft 365 einrichten
 icon: mdi-microsoft-office
 systems: [macOS]
 apps: [Microsoft 365]
 sort: 40
 ---
+
+# Microsoft 365 einrichten
 
 
 

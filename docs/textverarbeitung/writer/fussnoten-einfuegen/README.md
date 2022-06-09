@@ -1,5 +1,4 @@
 ---
-title: 'Fussnoten einfügen'
 icon: mdi-foot-print
 tags:
     - Fussnoten
@@ -7,6 +6,8 @@ tags:
 apps: [LibreOffice Writer]
 sort: 10
 ---
+
+# 'Fussnoten einfügen'
 
 
 

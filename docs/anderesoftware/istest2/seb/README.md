@@ -1,9 +1,10 @@
 ---
-title: Safe Exam Browser mit isTest2
 icon: mdi-check-outline
 apps: [isTest2, Safe Exam Browser]
 sort: 40
 ---
+
+# Safe Exam Browser mit isTest2
 
 
 

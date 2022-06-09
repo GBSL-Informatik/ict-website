@@ -1,5 +1,4 @@
 ---
-title: Formatierungszeichen
 icon: mdi-format-pilcrow
 tags:
     - Leerzeichen
@@ -10,6 +9,8 @@ tags:
 apps: [Microsoft Word]
 sort: 8
 ---
+
+# Formatierungszeichen
 
 
 

@@ -1,10 +1,11 @@
 ---
-title: 'Weitere Funktionen'
 description: Welche weiteren Funktionen stehen zur Verfügung?
 icon: mdi-function-variant
 apps: [LibreOffice Calc]
 sort: 10
 ---
+
+# 'Weitere Funktionen'
 
 
 

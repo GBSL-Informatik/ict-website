@@ -1,9 +1,10 @@
 ---
-title: 'Rechtschreibekorrektur'
 icon: mdi-spellcheck
 apps: [Microsoft Word]
 sort: 11
 ---
+
+# 'Rechtschreibekorrektur'
 
 
 

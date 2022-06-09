@@ -1,8 +1,9 @@
 ---
-title: Frageart Regex
 icon: mdi-check-outline
 sort: 10
 ---
+
+# Frageart Regex
 
 <PageTitle />
 

@@ -1,9 +1,10 @@
 ---
-title: Aufgaben abgeben (Schüler*innen)
 chapter: Teams
 icon: mdi-account-multiple
 apps: [Microsoft Teams]
 ---
+
+# Aufgaben abgeben (Schüler*innen)
 
 
 

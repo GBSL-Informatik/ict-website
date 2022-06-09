@@ -1,10 +1,11 @@
 ---
-title: Teams einrichten
 icon: mdi-microsoft-teams
 systems: [Windows]
 apps: [Microsoft Teams]
 sort: 20
 ---
+
+# Teams einrichten
 
 
 

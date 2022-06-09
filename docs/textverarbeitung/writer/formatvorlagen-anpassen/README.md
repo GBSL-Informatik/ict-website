@@ -1,10 +1,11 @@
 ---
-title: 'Formatvorlagen anpassen'
 subitle: "Aussehen eines gesamten Dokumentes anpassen"
 icon: mdi-pencil-outline
 apps: [LibreOffice Writer]
 sort: 3
 ---
+
+# 'Formatvorlagen anpassen'
 
 
 

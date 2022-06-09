@@ -1,9 +1,10 @@
 ---
-title: Formatvorlagensatz wählen
 icon: mdi-format-paragraph
 apps: [Microsoft Word]
 sort: 2
 ---
+
+# Formatvorlagensatz wählen
 
 
 

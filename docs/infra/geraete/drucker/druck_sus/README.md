@@ -1,8 +1,9 @@
 ---
-title: Schüler*innen
 icon: mdi-account-multiple
 sort: 30
 ---
+
+# Schüler*innen
 
 
 

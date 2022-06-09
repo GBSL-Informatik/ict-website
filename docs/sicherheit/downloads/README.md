@@ -1,9 +1,10 @@
 ---
-title: Software-Download
 description: Wo beziehe ich die meine Software sicher?
 icon: mdi-download
 sort: 80
 ---
+
+# Software-Download
 
 
 

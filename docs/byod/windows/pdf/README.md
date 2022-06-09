@@ -1,9 +1,10 @@
 ---
-title: Acrobat Reader einrichten
 icon: mdi-file-pdf-box
 systems: [Windows]
 sort: 70
 ---
+
+# Acrobat Reader einrichten
 
 
 

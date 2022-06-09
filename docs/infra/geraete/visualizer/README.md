@@ -1,8 +1,9 @@
 ---
-title: "Visualizer"
 chapter: "Visualizer"
 icon: mdi-camera-metering-center
 ---
+
+# "Visualizer"
 
 
 

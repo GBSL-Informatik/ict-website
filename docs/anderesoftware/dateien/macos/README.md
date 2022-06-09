@@ -1,9 +1,10 @@
 ---
-title: Dateien mit macOS
 icon: mdi-apple
 systems: [macOS]
 sort: 20
 ---
+
+# Dateien mit macOS
 
 
 

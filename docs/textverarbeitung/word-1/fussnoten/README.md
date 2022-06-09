@@ -1,11 +1,12 @@
 ---
-title: Fussnoten
 icon: mdi-chevron-up
 tags:
     - Fussnoten
 apps: [Microsoft Word]
 sort: 10
 ---
+
+# Fussnoten
 
 
 

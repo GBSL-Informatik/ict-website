@@ -1,9 +1,10 @@
 ---
-title: Updates installieren
 description: Betriebssystem- und Software-Updates sind entscheidend für die Sicherheit
 icon: mdi-shield-check
 sort: 120
 ---
+
+# Updates installieren
 
 
 

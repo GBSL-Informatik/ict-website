@@ -1,8 +1,9 @@
 ---
-title: Frageart Zuordnung (Eingabe der zugeordneten Texte)
 icon: mdi-check-outline
 sort: 10
 ---
+
+# Frageart Zuordnung (Eingabe der zugeordneten Texte)
 
 
 

@@ -1,9 +1,10 @@
 ---
-title: 'Phishing'
 description: Angreifer versuchen sensitive Information wie Logindaten zu erlangen, indem sie sich als bekannter, vertrauenswürdiger Partner ausgeben.
 icon: mdi-fish
 sort: 20
 ---
+
+# 'Phishing'
 
 
 

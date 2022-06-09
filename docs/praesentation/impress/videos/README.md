@@ -1,9 +1,10 @@
 ---
-title: "Videos"
 description: "Wie kann ich Videos einfügen und sicherstellten, dass diese korrekt abspielen?"
 icon: "mdi-movie-open"
 sort: 4
 ---
+
+# "Videos"
 
 
 

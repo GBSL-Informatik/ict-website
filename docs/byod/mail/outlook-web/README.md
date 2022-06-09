@@ -1,9 +1,10 @@
 ---
-title: Outlook im Browser
 icon: mdi-microsoft-outlook
 apps: [outlook]
 sort: 30
 ---
+
+# Outlook im Browser
 
 
 

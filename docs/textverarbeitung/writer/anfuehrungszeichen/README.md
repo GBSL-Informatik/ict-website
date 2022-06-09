@@ -1,10 +1,11 @@
 ---
-title: 'Anführungszeichen'
 description: "Einstellen der bevorzugten Anführungszeichen in LibreOffice Writer"
 icon: mdi-format-quote-close
 apps: [LibreOffice Writer]
 sort: 14
 ---
+
+# 'Anführungszeichen'
 
 
 

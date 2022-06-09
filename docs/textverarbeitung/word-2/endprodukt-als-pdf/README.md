@@ -1,10 +1,11 @@
 ---
-title: 'Endprodukt als PDF'
 description: Endprodukt plattformunabhängig als PDF-Datei abliefern
 icon: mdi-file-pdf
 apps: [Microsoft Word]
 sort: 13
 ---
+
+# 'Endprodukt als PDF'
 
 
 

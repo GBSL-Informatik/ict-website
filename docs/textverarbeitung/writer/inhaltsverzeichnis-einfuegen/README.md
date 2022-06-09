@@ -1,10 +1,11 @@
 ---
-title: 'Inhaltsverzeichnis einfügen'
 description: "ein automatisches Inhaltsverzeichnis generieren"
 icon: mdi-table-of-contents
 apps: [LibreOffice Writer]
 sort: 2
 ---
+
+# 'Inhaltsverzeichnis einfügen'
 
 
 

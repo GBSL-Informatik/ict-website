@@ -1,8 +1,9 @@
 ---
-title: iOS / iPadOS
 icon: mdi-apple
 systems: [iOS / iPadOS]
 ---
+
+# iOS / iPadOS
 
 
 

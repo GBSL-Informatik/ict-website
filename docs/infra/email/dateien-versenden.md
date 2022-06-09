@@ -1,9 +1,10 @@
 ---
-title: 'Dateien versenden'
 description: Welche Dateitypen eignen sich für den elektronischen Versand?
 icon: mdi-attachment
 sort: 40
 ---
+
+# 'Dateien versenden'
 
 
 

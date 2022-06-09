@@ -1,10 +1,11 @@
 ---
-title: OneDrive einrichten
 icon: mdi-microsoft-onedrive
 systems: [Windows]
 apps: [Microsoft OneDrive]
 sort: 50
 ---
+
+# OneDrive einrichten
 
 
 

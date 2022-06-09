@@ -1,8 +1,9 @@
 ---
-title: Word Maturaarbeiten
 icon: mdi-microsoft-word
 apps: [Microsoft Word]
 ---
+
+# Word Maturaarbeiten
 
 
 

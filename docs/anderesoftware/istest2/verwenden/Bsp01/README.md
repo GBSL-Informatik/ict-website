@@ -1,8 +1,9 @@
 ---
-title: Frageart Auswahl (eine Möglichkeit)
 icon: mdi-check-outline
 sort: 10
 ---
+
+# Frageart Auswahl (eine Möglichkeit)
 
 
 

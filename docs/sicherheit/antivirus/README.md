@@ -1,9 +1,10 @@
 ---
-title: Antivirensoftware
 description: Virenschutz unter Windows ist zentral – überlegtes und vorsichtiges Surfen trotzdem unerlässlich.
 icon: mdi-shield-bug
 sort: 110
 ---
+
+# Antivirensoftware
 
 
 

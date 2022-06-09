@@ -1,9 +1,10 @@
 ---
-title: Abbildungsverzeichnis
 icon: mdi-image-multiple
 apps: [Microsoft Word]
 sort: 3
 ---
+
+# Abbildungsverzeichnis
 
 
 

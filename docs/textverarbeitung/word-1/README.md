@@ -1,8 +1,9 @@
 ---
-title: Word Basis
 icon: mdi-microsoft-word
 apps: [Microsoft Word]
 ---
+
+# Word Basis
 
 
 

@@ -1,8 +1,9 @@
 ---
-title: Entscheidungshilfe E-Mail
 icon: mdi-email
 sort: 10
 ---
+
+# Entscheidungshilfe E-Mail
 
 
 

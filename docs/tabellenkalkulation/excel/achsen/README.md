@@ -1,10 +1,11 @@
 ---
-title: 'Achsen formatieren'
 description: So kann die Darstellung der Achsen angepasst werden
 icon: mdi-format-title
 apps: [Microsoft Excel]
 sort: 6
 ---
+
+# 'Achsen formatieren'
 
 
 

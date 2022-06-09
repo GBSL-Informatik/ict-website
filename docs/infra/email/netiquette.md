@@ -1,9 +1,10 @@
 ---
-title: Netiquette
 description: Eigenes Verhalten im Internet ist sicherheitsrelevant – insbesondere beim Verfassen von E-Mails.
 icon: mdi-emoticon-kiss
 sort: 30
 ---
+
+# Netiquette
 
 
 

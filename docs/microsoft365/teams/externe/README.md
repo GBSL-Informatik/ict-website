@@ -1,9 +1,10 @@
 ---
-title: Externe Nutzer*innen hinzufügen
 chapter: Teams
 icon: mdi-microsoft-teams
 apps: [Microsoft Teams]
 ---
+
+# Externe Nutzer*innen hinzufügen
 
 
 

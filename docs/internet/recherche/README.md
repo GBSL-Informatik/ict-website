@@ -1,9 +1,10 @@
 ---
-title: "Internet-Recherche"
 description: Internetrecherche und Quellenbeurteilung
 icon: mdi-search-web
 sort: 1
 ---
+
+# "Internet-Recherche"
 
 
 

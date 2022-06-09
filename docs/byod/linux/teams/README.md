@@ -1,10 +1,11 @@
 ---
-title: Teams einrichten
 icon: mdi-microsoft-teams
 systems: [Linux]
 apps: [Microsoft Teams]
 sort: 11
 ---
+
+# Teams einrichten
 
 
 

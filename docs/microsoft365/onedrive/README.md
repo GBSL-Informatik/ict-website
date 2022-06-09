@@ -1,9 +1,10 @@
 ---
-title: 'OneDrive'
 icon: 'mdi-microsoft-onedrive'
 apps: [Microsoft OneDrive]
 sort: 10
 ---
+
+# 'OneDrive'
 
 
 

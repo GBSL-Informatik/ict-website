@@ -1,9 +1,10 @@
 ---
-title: Gruppenräume erstellen
 chapter: Teams
 icon: mdi-microsoft-teams
 apps: [Microsoft Teams]
 ---
+
+# Gruppenräume erstellen
 
 
 

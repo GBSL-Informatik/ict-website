@@ -1,5 +1,4 @@
 ---
-title: Kopf- und Fusszeile
 description: "Wie füge ich eine Kopf- oder eine Fusszeile ein?"
 icon: mdi-page-layout-header-footer
 tags:
@@ -9,6 +8,8 @@ tags:
 apps: [Microsoft Word]
 sort: 9
 ---
+
+# Kopf- und Fusszeile
 
 
 

@@ -1,5 +1,4 @@
 ---
-title: Absatz- vs. Zeilenwechsel
 icon: mdi-format-pilcrow
 tags:
     - Absatzwechsel
@@ -7,6 +6,8 @@ tags:
 apps: [Microsoft Word, LibreOffice Writer]
 sort: 1
 ---
+
+# Absatz- vs. Zeilenwechsel
 
 
 

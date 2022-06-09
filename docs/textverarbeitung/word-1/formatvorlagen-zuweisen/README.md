@@ -1,9 +1,10 @@
 ---
-title: Formatvorlagen zuweisen
 icon: mdi-format-paragraph
 apps: [Microsoft Word]
 sort: 1
 ---
+
+# Formatvorlagen zuweisen
 
 
 

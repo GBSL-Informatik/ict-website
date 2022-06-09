@@ -1,9 +1,10 @@
 ---
-title: Literaturverwaltung
 icon: mdi-bookshelf
 apps: [Microsoft Word]
 sort: 4
 ---
+
+# Literaturverwaltung
 
 
 

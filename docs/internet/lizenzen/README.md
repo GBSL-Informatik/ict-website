@@ -1,9 +1,10 @@
 ---
-title: "Urheberrecht und Lizenzen"
 description: Was darf ich wie verwenden?
 icon: mdi-scale-balance
 sort: 3
 ---
+
+# "Urheberrecht und Lizenzen"
 
 
 

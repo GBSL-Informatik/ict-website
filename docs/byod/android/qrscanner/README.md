@@ -1,9 +1,10 @@
 ---
-title: QR-Scanner einrichten
 icon: mdi-qrcode
 systems: [Android]
 sort: 30
 ---
+
+# QR-Scanner einrichten
 
 
 

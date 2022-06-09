@@ -1,9 +1,10 @@
 ---
-title: Backupstrategien
 description: Habe ich ein Backup meiner wichtigsten Daten?
 icon: mdi-cloud-upload
 sort: 130
 ---
+
+# Backupstrategien
 
 
 

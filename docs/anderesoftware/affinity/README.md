@@ -1,9 +1,10 @@
 ---
-title: Affinity
 icon: mdi-fountain-pen
 apps: [Affinity Designer, Affinity Photo, Affinity Publisher]
 sort: 50
 ---
+
+# Affinity
 
 
 

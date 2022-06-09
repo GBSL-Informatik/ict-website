@@ -1,9 +1,10 @@
 ---
-title: DVDs
 icon: mdi-play-circle
 apps: [MakeMKV]
 sort: 2
 ---
+
+# DVDs
 
 
 

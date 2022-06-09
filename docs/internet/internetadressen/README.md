@@ -1,9 +1,10 @@
 ---
-title: "Internetadressen"
 description: Wie ist eine Internetadresse aufgebaut?
 icon: mdi-link
 sort: 4
 ---
+
+# "Internetadressen"
 
 
 

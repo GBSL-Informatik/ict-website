@@ -1,10 +1,11 @@
 ---
-title: 'Aufbau eines Diagramms'
 description: Wichtige Elemente und ihre Namen
 icon: mdi-chart-bar
 apps: [Microsoft Excel, LibreOffice Calc]
 sort: 4
 ---
+
+# 'Aufbau eines Diagramms'
 
 
 

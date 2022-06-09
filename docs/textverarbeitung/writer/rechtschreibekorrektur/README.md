@@ -1,9 +1,10 @@
 ---
-title: 'Rechtschreibekorrektur'
 icon: mdi-spellcheck
 apps: [LibreOffice Writer]
 sort: 11
 ---
+
+# 'Rechtschreibekorrektur'
 
 
 

@@ -1,9 +1,10 @@
 ---
-title: WLAN einrichten
 icon: mdi-wifi
 systems: [iOS / iPadOS]
 sort: 10
 ---
+
+# WLAN einrichten
 
 
 

@@ -1,9 +1,10 @@
 ---
-title: E-Mail einrichten
 icon: mdi-email
 systems: [Android]
 sort: 20
 ---
+
+# E-Mail einrichten
 
 
 

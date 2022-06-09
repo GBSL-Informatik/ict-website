@@ -1,10 +1,11 @@
 ---
-title: OneDrive einrichten
 icon: mdi-microsoft-onedrive
 systems: [Android]
 apps: [Microsoft OneDrive]
 sort: 60
 ---
+
+# OneDrive einrichten
 
 
 

@@ -1,10 +1,11 @@
 ---
-title: 'Starten, pausieren und fortsetzen'
 description: "Kleine Sammlung von Tipps während der Präsentation"
 icon: "mdi-remote"
 apps: [Microsoft PowerPoint, LibreOffice Impress]
 sort: 4
 ---
+
+# 'Starten, pausieren und fortsetzen'
 
 
 

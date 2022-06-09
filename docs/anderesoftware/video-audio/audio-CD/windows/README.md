@@ -1,8 +1,9 @@
 ---
-title: Audio-CDs Windows
 icon: mdi-music-circle
 apps: [Windows Media Player]
 ---
+
+# Audio-CDs Windows
 
 
 

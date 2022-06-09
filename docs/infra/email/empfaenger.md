@@ -1,9 +1,10 @@
 ---
-title: Empfänger
 description: Wie adressiere ich korrekt eine E-Mail
 icon: mdi-email-send
 sort: 20
 ---
+
+# Empfänger
 
 
 

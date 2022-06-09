@@ -1,9 +1,10 @@
 ---
-title: Ton- und Videoaufnahmen teilen
 chapter: Teams
 icon: mdi-microsoft-teams
 apps: [Microsoft Teams]
 ---
+
+# Ton- und Videoaufnahmen teilen
 
 
 

@@ -1,5 +1,4 @@
 ---
-title: 'Felder einfügen'
 description: "Wie füge ich eine Kopf- oder eine Fusszeile ein? Welche Elemente stehen zur Verfügung?"
 icon: mdi-page-layout-header-footer
 tags:
@@ -10,6 +9,8 @@ tags:
 apps: [LibreOffice Writer]
 sort: 4
 ---
+
+# 'Felder einfügen'
 
 
 

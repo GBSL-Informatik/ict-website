@@ -1,10 +1,11 @@
 ---
-title: OneDrive einrichten
 icon: mdi-microsoft-onedrive
 systems: [iOS / iPadOS]
 apps: [Microsoft OneDrive]
 sort: 70
 ---
+
+# OneDrive einrichten
 
 
 

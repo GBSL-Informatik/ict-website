@@ -1,8 +1,9 @@
 ---
-title: Lehrpersonen
 icon: mdi-briefcase-variant
 sort: 40
 ---
+
+# Lehrpersonen
 
 
 

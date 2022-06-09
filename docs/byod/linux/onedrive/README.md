@@ -1,9 +1,10 @@
 ---
-title: OneDrive einrichten
 icon: mdi-cloud
 systems: [Linux]
 sort: 20
 ---
+
+# OneDrive einrichten
 
 
 

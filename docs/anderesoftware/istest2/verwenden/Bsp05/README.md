@@ -1,8 +1,9 @@
 ---
-title: Frageart Mathematischer Ausdruck
 icon: mdi-check-outline
 sort: 10
 ---
+
+# Frageart Mathematischer Ausdruck
 
 <PageTitle />
 

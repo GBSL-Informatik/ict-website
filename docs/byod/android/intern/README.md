@@ -1,9 +1,10 @@
 ---
-title: Klassenbuch einrichten
 icon: mdi-account-multiple
 systems: [Android]
 sort: 40
 ---
+
+# Klassenbuch einrichten
 
 
 

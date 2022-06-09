@@ -1,5 +1,4 @@
 ---
-title: 'Bilder einfügen und positionieren'
 description: "Wie füge ich ein Bild ein? Wie kann ich den Textfluss um das Bild ändern?"
 icon: mdi-image-plus
 tags:
@@ -8,6 +7,8 @@ tags:
 apps: [LibreOffice Writer]
 sort: 5
 ---
+
+# 'Bilder einfügen und positionieren'
 
 
 

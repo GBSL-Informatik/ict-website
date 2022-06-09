@@ -1,9 +1,10 @@
 ---
-title: Formatvorlagen ändern
 icon: mdi-pencil-outline
 apps: [Microsoft Word]
 sort: 3
 ---
+
+# Formatvorlagen ändern
 
 
 

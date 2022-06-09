@@ -1,9 +1,10 @@
 ---
-title: Formatvorlagen
 description: Was sind Formatvorlagen? Wie funktionieren sie?
 apps: [Microsoft Word, LibreOffice Writer]
 sort: 2
 ---
+
+# Formatvorlagen
 
 
 

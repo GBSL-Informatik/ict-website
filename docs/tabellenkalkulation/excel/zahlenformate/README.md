@@ -1,10 +1,11 @@
 ---
-title: 'Zahlenformate'
 description: So kann die Darstellung eines Zahlenwerts in einer Zelle beeinflusst werden.
 icon: mdi-numeric
 apps: [Microsoft Excel]
 sort: 2
 ---
+
+# 'Zahlenformate'
 
 
 

@@ -1,10 +1,11 @@
 ---
-title: 'Beschriftungen einfügen'
 description: "Wie kann ich Bilder, Grafiken und Tabellen sauber und einheitlich beschriften?"
 icon: mdi-label
 apps: [LibreOffice Writer]
 sort: 7
 ---
+
+# 'Beschriftungen einfügen'
 
 
 

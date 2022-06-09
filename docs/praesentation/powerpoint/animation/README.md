@@ -1,10 +1,11 @@
 ---
-title: Animationen
 description: "da bewegt sich etwas"
 icon: "mdi-animation-play"
 apps: [Microsoft PowerPoint]
 sort: 3
 ---
+
+# Animationen
 
 
 

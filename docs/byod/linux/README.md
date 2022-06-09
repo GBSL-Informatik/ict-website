@@ -1,8 +1,9 @@
 ---
-title: Linux
 icon: mdi-linux
 systems: [Linux]
 ---
+
+# Linux
 
 
 

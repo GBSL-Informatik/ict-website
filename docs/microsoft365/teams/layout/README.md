@@ -1,9 +1,10 @@
 ---
-title: Layout ändern
 chapter: Teams
 icon: mdi-collage
 apps: [Microsoft Teams]
 ---
+
+# Layout ändern
 
 
 

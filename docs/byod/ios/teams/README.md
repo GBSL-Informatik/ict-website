@@ -1,10 +1,11 @@
 ---
-title: Teams einrichten
 icon: mdi-microsoft-teams
 systems: [iOS / iPadOS]
 apps: [Microsoft Teams]
 sort: 50
 ---
+
+# Teams einrichten
 
 
 

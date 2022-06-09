@@ -1,8 +1,9 @@
 ---
-title: Frageart Lückentext
 icon: mdi-check-outline
 sort: 10
 ---
+
+# Frageart Lückentext
 
 
 

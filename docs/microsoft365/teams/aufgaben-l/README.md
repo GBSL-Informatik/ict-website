@@ -1,9 +1,10 @@
 ---
-title: Aufträge erstellen (Lehrer*innen)
 chapter: Teams
 icon: mdi-briefcase-variant
 apps: [Microsoft Teams]
 ---
+
+# Aufträge erstellen (Lehrer*innen)
 
 
 

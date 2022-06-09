@@ -1,10 +1,11 @@
 ---
-title: 'Diagramm erstellen'
 description: So kann ein Diagramm erstellt werden
 icon: mdi-chart-areaspline
 apps: [Microsoft Excel]
 sort: 3
 ---
+
+# 'Diagramm erstellen'
 
 
 

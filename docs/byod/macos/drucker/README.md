@@ -1,9 +1,10 @@
 ---
-title: Drucker einrichten
 icon: mdi-printer
 systems: [macOS]
 sort: 60
 ---
+
+# Drucker einrichten
 
 
 

@@ -1,8 +1,9 @@
 ---
-title: Frageart Numerische Antwort
 icon: mdi-check-outline
 sort: 10
 ---
+
+# Frageart Numerische Antwort
 
 
 

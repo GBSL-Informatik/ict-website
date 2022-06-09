@@ -1,9 +1,10 @@
 ---
-title: Video aus Mediathek herunteladen
 icon: mdi-vhs
 apps: [MediathekView]
 sort: 4
 ---
+
+# Video aus Mediathek herunteladen
 
 
 

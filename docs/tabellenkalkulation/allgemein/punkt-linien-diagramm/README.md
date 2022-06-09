@@ -1,10 +1,11 @@
 ---
-title: 'Punkt- oder Liniendiagramm'
 description: Unterschiede zwischen Punkt- und Liniendiagrammen oder wieso Liniendiagramme «böse» sind!
 icon: mdi-chart-timeline-variant
 apps: [Microsoft Excel, LibreOffice Calc]
 sort: 6
 ---
+
+# 'Punkt- oder Liniendiagramm'
 
 
 

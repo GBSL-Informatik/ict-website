@@ -1,9 +1,10 @@
 ---
-title: WLAN einrichten
 icon: mdi-wifi
 systems: [Linux]
 sort: 10
 ---
+
+# WLAN einrichten
 
 
 

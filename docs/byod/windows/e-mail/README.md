@@ -1,10 +1,11 @@
 ---
-title: E-Mail einrichten
 icon: mdi-email
 systems: [Windows]
 apps: [Microsoft Outlook]
 sort: 40
 ---
+
+# E-Mail einrichten
 
 
 

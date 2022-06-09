@@ -1,10 +1,11 @@
 ---
-title: 'Formeln'
 description: Wie mit Formeln und den Grundrechenoperationen Berechnungen durchgeführt werden können.
 icon: mdi-function-variant
 apps: [LibreOffice Calc]
 sort: 8
 ---
+
+# 'Formeln'
 
 
 

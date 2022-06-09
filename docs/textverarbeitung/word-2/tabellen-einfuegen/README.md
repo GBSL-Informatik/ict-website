@@ -1,5 +1,4 @@
 ---
-title: 'Tabellen einfügen'
 description: "Wie kann ich eine Tabellen einfügen? Welche Einstellungen eigenen sich?"
 icon: mdi-table-plus
 tags:
@@ -7,6 +6,8 @@ tags:
 apps: [Microsoft Word]
 sort: 6
 ---
+
+# 'Tabellen einfügen'
 
 
 

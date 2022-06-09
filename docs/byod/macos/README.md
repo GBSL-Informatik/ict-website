@@ -1,8 +1,9 @@
 ---
-title: macOS
 icon: mdi-apple
 systems: [macOS]
 ---
+
+# macOS
 
 
 

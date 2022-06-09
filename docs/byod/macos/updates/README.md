@@ -1,8 +1,9 @@
 ---
-title: macOS-Updates
 icon: mdi-apple
 systems: [macOS]
 ---
+
+# macOS-Updates
 
 
 

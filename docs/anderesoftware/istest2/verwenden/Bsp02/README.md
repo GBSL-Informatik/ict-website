@@ -1,8 +1,9 @@
 ---
-title: Frageart Einfacher Text
 icon: mdi-check-outline
 sort: 10
 ---
+
+# Frageart Einfacher Text
 
 
 

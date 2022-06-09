@@ -1,10 +1,11 @@
 ---
-title: Microsoft 365 einrichten
 icon: mdi-microsoft-office
 systems: [iOS / iPadOS]
 apps: [Microsoft 365]
 sort: 60
 ---
+
+# Microsoft 365 einrichten
 
 
 

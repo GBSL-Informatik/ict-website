@@ -1,9 +1,10 @@
 ---
-title: Stream
 icon: mdi-play-outline
 apps: [Microsoft Stream]
 sort: 4
 ---
+
+# Stream
 
 
 

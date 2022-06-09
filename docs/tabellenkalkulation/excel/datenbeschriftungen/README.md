@@ -1,10 +1,11 @@
 ---
-title: 'Datenbeschriftungen'
 description: So können Datenbeschriftungen angezeigt werden
 icon: mdi-format-title
 apps: [Microsoft Excel]
 sort: 7
 ---
+
+# 'Datenbeschriftungen'
 
 
 

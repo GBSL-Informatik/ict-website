@@ -1,5 +1,4 @@
 ---
-title: Bilder
 icon: mdi-image-plus
 tags:
     - Bilder
@@ -7,6 +6,8 @@ tags:
 apps: [Microsoft Word]
 sort: 5
 ---
+
+# Bilder
 
 
 

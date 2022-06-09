@@ -1,9 +1,10 @@
 ---
-title: Inhalte teilen in OneDrive
 icon: 'mdi-share-all'
 systems: [Windows]
 apps: [Microsoft OneDrive]
 ---
+
+# Inhalte teilen in OneDrive
 
 
 

@@ -1,8 +1,9 @@
 ---
-title: Frageart Lückentext (Auswahl aus vertauschten Lösungen)
 icon: mdi-check-outline
 sort: 10
 ---
+
+# Frageart Lückentext (Auswahl aus vertauschten Lösungen)
 
 
 

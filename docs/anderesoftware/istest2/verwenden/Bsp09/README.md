@@ -1,8 +1,9 @@
 ---
-title: Frageart Zuordnung (m:n)
 icon: mdi-check-outline
 sort: 10
 ---
+
+# Frageart Zuordnung (m:n)
 
 
 

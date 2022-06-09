@@ -1,8 +1,9 @@
 ---
-title: Automatische Übersetzung
 icon: mdi-application-brackets
 sort: 21
 ---
+
+# Automatische Übersetzung
 
 Edge und Chrome bieten eine automatische Übersetzung fremdsprachiger Seiten an. Hier wird beschrieben, wie man diesen Service ein- oder ausschaltet.
 
