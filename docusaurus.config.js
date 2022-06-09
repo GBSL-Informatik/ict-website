@@ -23,7 +23,7 @@ const getDocConfig = (name) => {
     path: `docs/${name}`,
     routeBasePath: name,
     showLastUpdateTime: true,
-    sidebarCollapsible: false,
+    sidebarCollapsible: true,
     sidebarPath: require.resolve('./sidebars.js')
   }
 }
@@ -70,8 +70,7 @@ const config = {
         },
         theme: {
           customCss: [
-            require.resolve('./src/css/custom.scss'),
-            // require.resolve('./node_modules/@mdi/font/css/materialdesignicons.min.css')
+            require.resolve('./src/css/custom.scss')
           ]
         },
       }),
@@ -85,7 +84,7 @@ const config = {
         title: 'ICT Gymnasium Biel Seeland',
         logo: {
           alt: 'ICT GBSL',
-          src: 'img/logo.jpeg',
+          src: 'img/logo.svg',
         },
         items: [],
       },

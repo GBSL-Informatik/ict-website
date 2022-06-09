@@ -45,7 +45,14 @@ Bei den Lizenzen nach «Creative Commons» gibt es vier mögliche Bedingung zu b
 
 ### Erklärung im Video (englisch)
 
-@[vimeo](25657835)
+<iframe
+    width="100%"
+    height="315px"
+    src="https://player.vimeo.com/video/25657835"
+    title="vimeo-player"
+    frameBorder="0"
+    allow="autoplay; fullscreen; picture-in-picture"
+    allowFullScreen></iframe>
 
 ### Erklärung als Infografik
 
@@ -53,20 +60,10 @@ Bei den Lizenzen nach «Creative Commons» gibt es vier mögliche Bedingung zu b
 
 ## Quellen für Bilder
 
-unsplash.com
-: Fotosuche, freie Lizenz
-
-flickr.com
-: Online-Foto-Community
-: Achtung: Lizenzfilter setzen!
-
-pixabay.com
-: Bildersuche mit freier Lizenz
-: Achtung: gesponsorte Links
-
-images.google.ch
-: Filter setzen unter
-: Tools :mdi-chevron-right: Nutzungrechte
-
-search.creativecommons.org/search/image
-: Bildersuche, Creative Commons
+|                                                                                            |                                                                 |
+| -----------------------------------------------------------------------------------------: | :-------------------------------------------------------------- |
+|                                                       [unsplash.com](https://unsplash.com) | Fotosuche, freie Lizenz                                         |
+|                                                           [flickr.com](https://flickr.com) | Online-Foto-Community <br/>Achtung: Lizenzfilter setzen!        |
+|                                                         [pixabay.com](https://pixabay.com) | Bildersuche mit freier Lizenz<br/>Achtung: gesponsorte Links    |
+|                                               [images.google.ch](https://images.google.ch) | Filter setzen unter<br/>Tools :mdi-chevron-right: Nutzungrechte |
+| [search.creativecommons.org/search/image](https://search.creativecommons.org/search/image) | Bildersuche, Creative Commons                                   |
