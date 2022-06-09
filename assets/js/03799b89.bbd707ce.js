@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkict=self.webpackChunkict||[]).push([[5874],{9434:function(e){e.exports=JSON.parse('{"label":"vuepress","permalink":"/dokumentation/tags/vuepress","allTagsPath":"/dokumentation/tags","count":1,"items":[{"id":"md-extensions","title":"Markdown-Extensions","description":"is-gui","permalink":"/dokumentation/md-extensions"}]}')}}]);
