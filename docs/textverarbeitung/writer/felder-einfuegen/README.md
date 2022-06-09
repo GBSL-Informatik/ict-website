@@ -1,6 +1,6 @@
 ---
 title: 'Felder einfügen'
-subtitle: "Wie füge ich eine Kopf- oder eine Fusszeile ein? Welche Elemente stehen zur Verfügung?"
+description: "Wie füge ich eine Kopf- oder eine Fusszeile ein? Welche Elemente stehen zur Verfügung?"
 icon: mdi-page-layout-header-footer
 tags:
     - Felder

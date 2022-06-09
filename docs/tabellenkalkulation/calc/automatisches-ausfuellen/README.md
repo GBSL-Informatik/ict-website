@@ -1,6 +1,6 @@
 ---
 title: 'Automatisches Ausfüllen'
-subtitle: Wie Zellbereiche automatisch mit Werten und Formeln ausgefüllt werden können.
+description: Wie Zellbereiche automatisch mit Werten und Formeln ausgefüllt werden können.
 icon: mdi-card-plus-outline
 apps: [LibreOffice Calc]
 sort: 11

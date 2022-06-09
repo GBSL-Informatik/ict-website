@@ -1,6 +1,6 @@
 ---
 title: 'Diagrammtitel'
-subtitle: So kann ein Diagrammtitel hinzugefügt und bearbeitet werden
+description: So kann ein Diagrammtitel hinzugefügt und bearbeitet werden
 icon: mdi-format-title
 apps: [LibreOffice Calc]
 sort: 4

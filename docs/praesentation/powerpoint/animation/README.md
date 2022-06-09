@@ -1,6 +1,6 @@
 ---
 title: Animationen
-subtitle: "da bewegt sich etwas"
+description: "da bewegt sich etwas"
 icon: "mdi-animation-play"
 apps: [Microsoft PowerPoint]
 sort: 3

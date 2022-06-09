@@ -1,6 +1,6 @@
 ---
 title: Kompromittierte Accounts
-subtitle: Immer wieder wird bei Online-Portalen eingebrochen. Dabei werden oft Millionen von Kontendaten gestohlen. Bin ich auch betroffen?
+description: Immer wieder wird bei Online-Portalen eingebrochen. Dabei werden oft Millionen von Kontendaten gestohlen. Bin ich auch betroffen?
 icon: mdi-target-account
 sort: 50
 ---

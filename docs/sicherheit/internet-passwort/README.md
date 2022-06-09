@@ -1,6 +1,6 @@
 ---
 title: Passwörter im Internet
-subtitle: Im Internet braucht man viele Passwörter. Worauf muss man achten?
+description: Im Internet braucht man viele Passwörter. Worauf muss man achten?
 icon: mdi-form-textbox-password
 sort: 40
 ---

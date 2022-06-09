@@ -2,7 +2,7 @@
 title: Geräte einrichten
 chapter: Geräte einrichten
 icon: mdi-cog
-subtitle: Hier findest du alle Informationen, um dein Smartphone und deinen Laptop für den Einsatz an der Schule einzurichten.
+description: Hier findest du alle Informationen, um dein Smartphone und deinen Laptop für den Einsatz an der Schule einzurichten.
 ---
 
 

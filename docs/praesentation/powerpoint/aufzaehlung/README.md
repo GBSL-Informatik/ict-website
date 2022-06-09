@@ -1,6 +1,6 @@
 ---
 title: Aufzählung
-subtitle: die berühmenten «Bullet Points»
+description: die berühmenten «Bullet Points»
 icon: "mdi-format-list-bulleted"
 apps: [Microsoft PowerPoint]
 sort: 2

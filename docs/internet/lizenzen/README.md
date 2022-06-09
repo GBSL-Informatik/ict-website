@@ -1,6 +1,6 @@
 ---
 title: "Urheberrecht und Lizenzen"
-subtitle: Was darf ich wie verwenden?
+description: Was darf ich wie verwenden?
 icon: mdi-scale-balance
 sort: 3
 ---

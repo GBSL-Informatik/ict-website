@@ -1,6 +1,6 @@
 ---
 title: 'Bilder einfügen und positionieren'
-subtitle: "Wie füge ich ein Bild ein? Wie kann ich den Textfluss um das Bild ändern?"
+description: "Wie füge ich ein Bild ein? Wie kann ich den Textfluss um das Bild ändern?"
 icon: mdi-image-plus
 tags:
     - Bilder

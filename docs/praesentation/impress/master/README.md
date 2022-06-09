@@ -1,6 +1,6 @@
 ---
 title: "Masterfolie"
-subtitle: "Wie kann ich ein eigenes Design für meine Präsentation erstellen?"
+description: "Wie kann ich ein eigenes Design für meine Präsentation erstellen?"
 apps: [LibreOffice Impress]
 sort: 5
 ---

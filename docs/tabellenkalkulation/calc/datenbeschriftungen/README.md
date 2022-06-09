@@ -1,6 +1,6 @@
 ---
 title: 'Datenbeschriftungen'
-subtitle: So können Datenbeschriftungen angezeigt werden
+description: So können Datenbeschriftungen angezeigt werden
 icon: mdi-format-title
 apps: [LibreOffice Calc]
 sort: 7

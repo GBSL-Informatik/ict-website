@@ -1,6 +1,6 @@
 ---
 title: "Components"
-subtitle: "vue-components von theme/global-components/"
+description: "vue-components von theme/global-components/"
 icon: "mdi-puzzle"
 ---
 
@@ -12,7 +12,7 @@ Beispiel dieser Seite (bis auf die Listen `systems` und `Apps` – welche zur Ke
 ``` yaml
 ---
 title: "Components"
-subtitle: "vue-components von theme/global-components/"
+description: "vue-components von theme/global-components/"
 icon: "mdi-puzzle"
 systems: ["macOS", "Windows"]
 apps: ["Microsoft OneDrive", "Linux TwoDrive"]

@@ -1,6 +1,6 @@
 ---
 title: "Internet-Recherche"
-subtitle: Internetrecherche und Quellenbeurteilung
+description: Internetrecherche und Quellenbeurteilung
 icon: mdi-search-web
 sort: 1
 ---

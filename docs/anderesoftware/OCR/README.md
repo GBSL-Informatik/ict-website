@@ -3,7 +3,7 @@ title: "Texterkennung"
 chapter: "Andere Software"
 apps: [PDF24]
 icon: mdi-format-font
-subtitle: Gescannte Dokumente als Text erkennen (OCR)
+description: Gescannte Dokumente als Text erkennen (OCR)
 sort: 35
 ---
 

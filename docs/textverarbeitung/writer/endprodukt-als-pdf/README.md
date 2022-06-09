@@ -1,6 +1,6 @@
 ---
 title: 'Endprodukt als PDF'
-subtitle: Endprodukt plattformunabhängig als PDF-Datei abliefern
+description: Endprodukt plattformunabhängig als PDF-Datei abliefern
 icon: mdi-file-pdf
 apps: [LibreOffice Writer]
 sort: 13

@@ -1,6 +1,6 @@
 ---
 title: 'Drucken'
-subtitle: 'Handzettel und Notizseiten drucken'
+description: 'Handzettel und Notizseiten drucken'
 icon: "mdi-printer"
 apps: [Microsoft PowerPoint]
 sort: 8

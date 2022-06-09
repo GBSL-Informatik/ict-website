@@ -1,6 +1,6 @@
 ---
 title: Signatur
-subtitle: Meine E-Mails mit einer Signatur anreichern
+description: Meine E-Mails mit einer Signatur anreichern
 icon: mdi-email-check
 sort: 10
 ---

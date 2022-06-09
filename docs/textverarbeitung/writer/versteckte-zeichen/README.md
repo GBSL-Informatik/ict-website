@@ -1,6 +1,6 @@
 ---
 title: 'Versteckte Zeichen'
-subtitle: "Wie können versteckte Steuer- und Formatierungszeichen eingefügt und angezeigt werden? Was bewirken sie?"
+description: "Wie können versteckte Steuer- und Formatierungszeichen eingefügt und angezeigt werden? Was bewirken sie?"
 icon: mdi-eye-off
 tags:
 - Versteckte Zeichen

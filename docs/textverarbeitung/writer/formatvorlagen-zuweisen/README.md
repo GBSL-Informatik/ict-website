@@ -1,6 +1,6 @@
 ---
 title: 'Formatvorlagen zuweisen'
-subtitle: "Wie strukturiere ich ein Dokument?"
+description: "Wie strukturiere ich ein Dokument?"
 icon: mdi-format-paragraph
 apps: [LibreOffice Writer]
 sort: 1

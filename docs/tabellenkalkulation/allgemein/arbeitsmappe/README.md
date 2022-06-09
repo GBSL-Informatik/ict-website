@@ -1,6 +1,6 @@
 ---
 title: 'Arbeitsmappe'
-subtitle: Aufbau einer Arbeitsmappe
+description: Aufbau einer Arbeitsmappe
 icon: mdi-table
 apps: [Microsoft Excel, LibreOffice Calc]
 sort: 1

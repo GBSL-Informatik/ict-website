@@ -1,6 +1,6 @@
 ---
 title: "Präsentieren"
-subtitle: Was gilt es zu beachten, was zu vermeiden?
+description: Was gilt es zu beachten, was zu vermeiden?
 icon: mdi-thumbs-up-down
 apps: [Microsoft PowerPoint, LibreOffice Impress]
 ---

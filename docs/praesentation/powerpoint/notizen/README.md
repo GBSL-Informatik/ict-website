@@ -1,6 +1,6 @@
 ---
 title: 'Notizen'
-subtitle: "Anmerkungen und Notizen speichern"
+description: "Anmerkungen und Notizen speichern"
 icon: "mdi-note-multiple-outline"
 apps: [Microsoft PowerPoint]
 sort: 7

@@ -1,6 +1,6 @@
 ---
 title: 'Diagrammtypen'
-subtitle: "Wichtige Diagrammtypen und deren Einsatz"
+description: "Wichtige Diagrammtypen und deren Einsatz"
 icon: mdi-chart-pie
 apps: [Microsoft Excel, LibreOffice Calc]
 sort: 5

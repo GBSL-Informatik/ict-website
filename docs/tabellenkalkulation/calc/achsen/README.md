@@ -1,6 +1,6 @@
 ---
 title: 'Achsen formatieren'
-subtitle: So kann die Darstellung der Achsen angepasst werden
+description: So kann die Darstellung der Achsen angepasst werden
 icon: mdi-format-title
 apps: [LibreOffice Calc]
 sort: 6

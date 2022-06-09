@@ -1,7 +1,7 @@
 ---
 title: Drawboard PDF
 chapter: Textverarbeitung
-subtitle: Freihändiges Schreiben und Skizzieren in PDFs
+description: Freihändiges Schreiben und Skizzieren in PDFs
 icon: mdi-hexagon-outline
 systems: [Windows]
 apps: [Drawboard PDF]

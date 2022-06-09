@@ -1,11 +1,9 @@
 ---
-title: Übersicht
-chapter: Textverarbeitung
-subtitle: Was ist ein Textverarbeitungsprogramm und welche Produkte stehen  uns zur Verfügung?
+description: Was ist ein Textverarbeitungsprogramm und welche Produkte stehen  uns zur Verfügung?
 icon: mdi-text-box-outline
 ---
 
-
+# Textverarbeitung
 
 ![*writing* von Jonathan Kim via [flickr](https://www.flickr.com/photos/jkim1/452830868)](./images/writing.jpg)
 

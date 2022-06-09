@@ -1,6 +1,6 @@
 ---
 title: Datenspeicherorte
-subtitle: Wir verwenden PCs, Notebooks, Tablets, Smartphones und die Cloud, aber wo sind welche Daten gepseichert?
+description: Wir verwenden PCs, Notebooks, Tablets, Smartphones und die Cloud, aber wo sind welche Daten gepseichert?
 icon: mdi-content-save
 sort: 70
 ---

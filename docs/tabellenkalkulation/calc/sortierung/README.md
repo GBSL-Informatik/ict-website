@@ -1,6 +1,6 @@
 ---
 title: 'Sortierung'
-subtitle: So kann eine Tabelle nach verschiedenen Spalten sortiert werden.
+description: So kann eine Tabelle nach verschiedenen Spalten sortiert werden.
 icon: mdi-sort
 apps: [LibreOffice Calc]
 sort: 1

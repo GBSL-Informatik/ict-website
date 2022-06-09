@@ -1,6 +1,6 @@
 ---
 title: "Geräte"
-subtitle: Alles zu Geräten, die zur (digitalen) Schulinfrastruktur gehören
+description: Alles zu Geräten, die zur (digitalen) Schulinfrastruktur gehören
 chapter: "Schulinfrastruktur"
 icon: mdi-home-circle
 ---

@@ -1,6 +1,6 @@
 ---
 title: 'Datum und Zeit'
-subtitle: Wie Datum und Uhrzeit als Zahlen repräsentiert werden
+description: Wie Datum und Uhrzeit als Zahlen repräsentiert werden
 icon: mdi-clock
 apps: [Microsoft Excel, LibreOffice Calc]
 sort: 3

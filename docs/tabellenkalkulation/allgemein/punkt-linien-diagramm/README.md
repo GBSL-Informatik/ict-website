@@ -1,6 +1,6 @@
 ---
 title: 'Punkt- oder Liniendiagramm'
-subtitle: Unterschiede zwischen Punkt- und Liniendiagrammen oder wieso Liniendiagramme «böse» sind!
+description: Unterschiede zwischen Punkt- und Liniendiagrammen oder wieso Liniendiagramme «böse» sind!
 icon: mdi-chart-timeline-variant
 apps: [Microsoft Excel, LibreOffice Calc]
 sort: 6

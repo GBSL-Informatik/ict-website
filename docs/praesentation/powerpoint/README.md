@@ -1,6 +1,6 @@
 ---
 title: "Powerpoint"
-subtitle: "die Präsentationssoftware von Microsoft"
+description: "die Präsentationssoftware von Microsoft"
 icon: "mdi-microsoft-powerpoint"
 ---
 

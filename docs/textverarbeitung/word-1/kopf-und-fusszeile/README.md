@@ -1,6 +1,6 @@
 ---
 title: Kopf- und Fusszeile
-subtitle: "Wie füge ich eine Kopf- oder eine Fusszeile ein?"
+description: "Wie füge ich eine Kopf- oder eine Fusszeile ein?"
 icon: mdi-page-layout-header-footer
 tags:
     - Kopfzeile

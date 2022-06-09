@@ -1,6 +1,6 @@
 ---
 title: "Allgemeines"
-subtitle: "zum Umgang mit Präsentationssoftware"
+description: "zum Umgang mit Präsentationssoftware"
 icon: "mdi-presentation"
 ---
 

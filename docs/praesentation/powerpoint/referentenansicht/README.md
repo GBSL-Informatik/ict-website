@@ -1,6 +1,6 @@
 ---
 title: 'Referentenansicht'
-subtitle: "Welche Möglichkeiten bietet mir die Referentenansicht?"
+description: "Welche Möglichkeiten bietet mir die Referentenansicht?"
 apps: [Microsoft PowerPoint]
 sort: 6
 ---

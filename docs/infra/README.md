@@ -1,6 +1,6 @@
 ---
 title: "Schulinfrastruktur"
-subtitle: Alles, was zur (digitalen) Schulinfrastruktur gehört
+description: Alles, was zur (digitalen) Schulinfrastruktur gehört
 chapter: "Schulinfrastruktur"
 icon: mdi-home-circle
 ---

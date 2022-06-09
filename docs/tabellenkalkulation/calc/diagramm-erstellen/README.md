@@ -1,6 +1,6 @@
 ---
 title: 'Diagramm erstellen'
-subtitle: So kann ein Diagramm erstellt werden
+description: So kann ein Diagramm erstellt werden
 icon: mdi-chart-areaspline
 apps: [LibreOffice Calc]
 sort: 3

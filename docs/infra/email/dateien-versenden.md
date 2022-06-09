@@ -1,6 +1,6 @@
 ---
 title: 'Dateien versenden'
-subtitle: Welche Dateitypen eignen sich für den elektronischen Versand?
+description: Welche Dateitypen eignen sich für den elektronischen Versand?
 icon: mdi-attachment
 sort: 40
 ---

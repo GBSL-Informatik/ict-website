@@ -1,6 +1,6 @@
 ---
 title: 'Funktionen'
-subtitle: Wie mit Funktionen und Bereichen Berechnungen durchgeführt werden können.
+description: Wie mit Funktionen und Bereichen Berechnungen durchgeführt werden können.
 icon: mdi-function-variant
 apps: [LibreOffice Calc]
 sort: 9

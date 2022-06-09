@@ -1,6 +1,6 @@
 ---
 title: "Präsentation erstellen"
-subtitle: "erste Überlegungen"
+description: "erste Überlegungen"
 icon: "mdi-presentation"
 apps: [Microsoft PowerPoint, LibreOffice Impress]
 sort: 1

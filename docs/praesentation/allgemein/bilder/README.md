@@ -1,6 +1,6 @@
 ---
 title: "Bilder"
-subtitle: "Überlegungen zum Einfügen von Bildern"
+description: "Überlegungen zum Einfügen von Bildern"
 icon: "mdi-image"
 apps: [Microsoft PowerPoint, LibreOffice Impress]
 sort: 2

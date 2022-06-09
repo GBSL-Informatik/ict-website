@@ -1,6 +1,6 @@
 ---
 title: 'Zahlenformate'
-subtitle: So kann die Darstellung eines Zahlenwerts in einer Zelle beeinflusst werden.
+description: So kann die Darstellung eines Zahlenwerts in einer Zelle beeinflusst werden.
 icon: mdi-numeric
 apps: [LibreOffice Calc]
 sort: 2

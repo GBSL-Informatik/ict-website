@@ -1,6 +1,6 @@
 ---
 title: Favoriten verwalten
-subtitle: Links zu wichtigen Webseiten abspeichern
+description: Links zu wichtigen Webseiten abspeichern
 icon: mdi-star
 sort: 5
 ---

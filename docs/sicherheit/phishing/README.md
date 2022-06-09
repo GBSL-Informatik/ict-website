@@ -1,6 +1,6 @@
 ---
 title: 'Phishing'
-subtitle: Angreifer versuchen sensitive Information wie Logindaten zu erlangen, indem sie sich als bekannter, vertrauenswürdiger Partner ausgeben.
+description: Angreifer versuchen sensitive Information wie Logindaten zu erlangen, indem sie sich als bekannter, vertrauenswürdiger Partner ausgeben.
 icon: mdi-fish
 sort: 20
 ---

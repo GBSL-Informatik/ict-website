@@ -1,6 +1,6 @@
 ---
 title: 'Zellen benennen'
-subtitle: Zellen mit wichtigen Werten können benannt werden.
+description: Zellen mit wichtigen Werten können benannt werden.
 icon: mdi-form-textbox
 apps: [LibreOffice Calc]
 sort: 12

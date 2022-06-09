@@ -1,6 +1,6 @@
 ---
 title: Empfänger
-subtitle: Wie adressiere ich korrekt eine E-Mail
+description: Wie adressiere ich korrekt eine E-Mail
 icon: mdi-email-send
 sort: 20
 ---

@@ -1,6 +1,6 @@
 ---
 title: 'Anführungszeichen'
-subtitle: "Verwenden von benutzerdefinierten Anführungszeichen in Word."
+description: "Verwenden von benutzerdefinierten Anführungszeichen in Word."
 icon: mdi-format-quote-close
 apps: [Microsoft Word]
 sort: 14

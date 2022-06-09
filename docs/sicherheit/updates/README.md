@@ -1,6 +1,6 @@
 ---
 title: Updates installieren
-subtitle: Betriebssystem- und Software-Updates sind entscheidend für die Sicherheit
+description: Betriebssystem- und Software-Updates sind entscheidend für die Sicherheit
 icon: mdi-shield-check
 sort: 120
 ---

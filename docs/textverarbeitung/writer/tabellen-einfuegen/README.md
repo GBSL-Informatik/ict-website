@@ -1,6 +1,6 @@
 ---
 title: 'Tabellen einfügen'
-subtitle: "Wie kann ich eine Tabellen einfügen? Welche Einstellungen eigenen sich?"
+description: "Wie kann ich eine Tabellen einfügen? Welche Einstellungen eigenen sich?"
 icon: mdi-table-plus
 tags:
     - Tabellen

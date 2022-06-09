@@ -1,6 +1,6 @@
 ---
 title: "Impress"
-subtitle: "die freie Präsentationssoftware"
+description: "die freie Präsentationssoftware"
 icon: mdi-presentation
 ---
 

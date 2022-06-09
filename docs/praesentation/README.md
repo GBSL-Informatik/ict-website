@@ -1,11 +1,9 @@
 ---
-title: "Übersicht"
-subtitle: Vortrag halten mit elektronischen Geräten
-chapter: "Präsentation"
+description: Vortrag halten mit elektronischen Geräten
 icon: mdi-presentation
 ---
 
-
+# Präsentation
 
 Unter einer **Präsentation** verstehen wir einen Vortrag, welcher durch Projektion von Text, Bildern und multimedialen Elementen unterstützt wird.
 

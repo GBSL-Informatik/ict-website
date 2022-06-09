@@ -1,6 +1,6 @@
 ---
 title: 'Text säubern'
-subtitle: ""
+description: ""
 icon: mdi-spray-bottle
 tags:
     - Copy & Paste

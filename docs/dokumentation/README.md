@@ -1,6 +1,6 @@
 ---
 title: Hinweise für Autoren
-subtitle: Einige Regeln, an die wir uns halten sollten, damit ein einheitlicher Auftritt entstehen kann
+description: Einige Regeln, an die wir uns halten sollten, damit ein einheitlicher Auftritt entstehen kann
 icon: mdi-account-details
 ---
 

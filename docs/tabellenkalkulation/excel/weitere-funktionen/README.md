@@ -1,6 +1,6 @@
 ---
 title: 'Weitere Funktionen'
-subtitle: Welche weiteren Funktionen stehen zur Verfügung?
+description: Welche weiteren Funktionen stehen zur Verfügung?
 icon: mdi-function-variant
 apps: [Microsoft Excel]
 sort: 10

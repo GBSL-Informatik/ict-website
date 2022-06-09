@@ -1,6 +1,6 @@
 ---
 title: "Quellenangaben"
-subtitle: Wie schreibe ich eine korrekte Quellenangabe
+description: Wie schreibe ich eine korrekte Quellenangabe
 icon: mdi-typewriter
 sort: 2
 ---

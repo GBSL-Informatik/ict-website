@@ -1,6 +1,6 @@
 ---
 title: Backupstrategien
-subtitle: Habe ich ein Backup meiner wichtigsten Daten?
+description: Habe ich ein Backup meiner wichtigsten Daten?
 icon: mdi-cloud-upload
 sort: 130
 ---

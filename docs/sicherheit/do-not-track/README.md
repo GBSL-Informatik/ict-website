@@ -1,6 +1,6 @@
 ---
 title: Do not Track
-subtitle: Webseiten interessieren sich für unsere Gewohnheiten – Hintergründe dazu und wie wir uns wehren können.
+description: Webseiten interessieren sich für unsere Gewohnheiten – Hintergründe dazu und wie wir uns wehren können.
 icon: mdi-cookie
 sort: 60
 ---

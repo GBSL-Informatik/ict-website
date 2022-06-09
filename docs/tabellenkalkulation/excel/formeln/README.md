@@ -1,6 +1,6 @@
 ---
 title: 'Formeln'
-subtitle: Wie mit Formeln und den Grundrechenoperationen Berechnungen durchgeführt werden können.
+description: Wie mit Formeln und den Grundrechenoperationen Berechnungen durchgeführt werden können.
 icon: mdi-function-variant
 apps: [Microsoft Excel]
 sort: 8

@@ -1,6 +1,6 @@
 ---
 title: Folienlayout
-subtitle: Welche Elemente braucht es auf meiner Folie
+description: Welche Elemente braucht es auf meiner Folie
 apps: [Microsoft PowerPoint]
 sort: 1
 ---

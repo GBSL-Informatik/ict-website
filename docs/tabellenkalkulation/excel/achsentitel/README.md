@@ -1,6 +1,6 @@
 ---
 title: 'Achsentitel'
-subtitle: So kann ein Achsentitel hinzugefügt und bearbeitet werden
+description: So kann ein Achsentitel hinzugefügt und bearbeitet werden
 icon: mdi-format-title
 apps: [Microsoft Excel]
 sort: 5

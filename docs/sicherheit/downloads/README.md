@@ -1,6 +1,6 @@
 ---
 title: Software-Download
-subtitle: Wo beziehe ich die meine Software sicher?
+description: Wo beziehe ich die meine Software sicher?
 icon: mdi-download
 sort: 80
 ---

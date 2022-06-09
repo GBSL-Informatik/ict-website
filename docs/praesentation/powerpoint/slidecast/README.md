@@ -1,6 +1,6 @@
 ---
 title: Slidecast
-subtitle: Einen Vortrag aufzeichen und als Video speichern
+description: Einen Vortrag aufzeichen und als Video speichern
 apps: [Microsoft PowerPoint]
 sort: 9
 ---

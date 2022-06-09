@@ -8,26 +8,26 @@
 
 /* You can override the default Infima variables here. */
 :root {
-	--ifm-color-primary: #00615f;
-	--ifm-color-primary-dark: #005756;
-	--ifm-color-primary-darker: #005251;
-	--ifm-color-primary-darkest: #004443;
-	--ifm-color-primary-light: #006b69;
-	--ifm-color-primary-lighter: #00706d;
-	--ifm-color-primary-lightest: #007e7c;
+	--ifm-color-primary: #058fcd;
+  --ifm-color-primary-dark: #0581b9;
+  --ifm-color-primary-darker: #047aae;
+  --ifm-color-primary-darkest: #0474a6;
+  --ifm-color-primary-light: #069de1;
+  --ifm-color-primary-lighter: #06a4ec;
+  --ifm-color-primary-lightest: #18b3f9;
 	--ifm-code-font-size: 95%;
 	--docusaurus-highlighted-code-line-bg: rgba(0, 0, 0, 0.1);
 }
 
 /* For readability concerns, you should choose a lighter palette in dark mode. */
 [data-theme='dark'] {
-	--ifm-color-primary: #afe5f3;
-	--ifm-color-primary-dark: #8bd9ee;
-	--ifm-color-primary-darker: #78d3eb;
-	--ifm-color-primary-darkest: #42c2e3;
-	--ifm-color-primary-light: #d3f1f8;
-	--ifm-color-primary-lighter: #e6f7fb;
-	--ifm-color-primary-lightest: #ffffff;
+	--ifm-color-primary: #058fcd;
+  --ifm-color-primary-dark: #0581b9;
+  --ifm-color-primary-darker: #047aae;
+  --ifm-color-primary-darkest: #0474a6;
+  --ifm-color-primary-light: #069de1;
+  --ifm-color-primary-lighter: #06a4ec;
+  --ifm-color-primary-lightest: #18b3f9;
 	--docusaurus-highlighted-code-line-bg: rgba(0, 0, 0, 0.3);
 }
 
@@ -57,20 +57,21 @@ table {
 }
 
 
-// @media (max-width: 996px) {
-    .navbar__inner {
-        .navbar__items {
-            div[class^='searchBox'] {
-                position: static;
-            }
-        }
-    }
-// }
+.navbar__inner {
+	.navbar__items {
+		div[class^='searchBox'] {
+			position: static;
+		}
+	}
+}
 
+.aa-DetachedOverlay,
 .dsla-search-wrapper {
     order: 0;
     --aa-search-input-height: 34px;
-    --aa-primary-color-rgb: 35, 42, 64;
+    --aa-primary-color-rgb: 4, 116, 166;
+	--aa-text-color-rgb: 4, 116, 166;
+	--aa-muted-color-rgb: 4, 116, 166;
     .dsla-search-field {
         .aa-DetachedSearchButton {
             border-radius: 20px;
@@ -85,8 +86,10 @@ table {
 }
 
 html[data-theme='dark'] {
-    .dsla-search-wrapper {
-        --aa-primary-color-rgb: 103, 125, 195;
-        --aa-muted-color-rgb: 65, 78, 120;
-    }
+	.aa-DetachedOverlay,
+	.dsla-search-wrapper {
+		--aa-primary-color-rgb: 4, 116, 166;
+		--aa-text-color-rgb: 4, 116, 166;
+		--aa-muted-color-rgb: 4, 116, 166;
+	}
 }

@@ -1,6 +1,6 @@
 ---
 title: Antivirensoftware
-subtitle: Virenschutz unter Windows ist zentral – überlegtes und vorsichtiges Surfen trotzdem unerlässlich.
+description: Virenschutz unter Windows ist zentral – überlegtes und vorsichtiges Surfen trotzdem unerlässlich.
 icon: mdi-shield-bug
 sort: 110
 ---
