@@ -30,6 +30,7 @@ function HomepageHeader() {
     <header
       className={clsx("hero index-page", styles.heroBanner)}
     >
+      <img src="/img/logo.svg" className={styles.logo} />
       <div className="container index-page-title">
         <h1 className="hero__title">{siteConfig.title}</h1>
         <p className="hero__subtitle">{siteConfig.tagline}</p>

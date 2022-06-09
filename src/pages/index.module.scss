@@ -10,6 +10,12 @@
   text-align: center;
   position: relative;
   overflow: hidden;
+  display: flex;
+  flex-direction: column;
+  .logo {
+    width: 7em;
+    margin-bottom: 2em;
+  }
 }
 
 @media screen and (max-width: 966px) {
