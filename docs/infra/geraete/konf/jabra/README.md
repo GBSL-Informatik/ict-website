@@ -1,8 +1,8 @@
 ---
-title: Jabra Speak Konferenzmikrofon
 icon: mdi-microphone-variant
 ---
 
+#  Jabra Speak Konferenzmikrofon
 
 
 Das Jabra Speak 810 MS Konferenzmikrofon ist ein Raummikrofon, das störende Umgebungsgeräusche filtert. Es ermöglicht es, das gesamt Konferenz- oder Klassenzimmer in einem Meeting (z.B. per Teams) zu hören. 

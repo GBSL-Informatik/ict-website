@@ -1,8 +1,8 @@
 ---
-title: Beamer
 icon: mdi-projector
 ---
 
+#  Beamer
 
 
 Sobald das Zimmernotebook oder ein eigenes Gerät (BYOD) am Beamer angeschlossen ist, gibt es unterschiedliche Präsentationsmodi. 

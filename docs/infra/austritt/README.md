@@ -1,8 +1,8 @@
 ---
-title: Austritt - digitales Kofferpacken
 icon: mdi-bag-suitcase
 ---
 
+#  Austritt - digitales Kofferpacken
 
 
 Nach dem Schulaustritt werden alle Daten, die im Schulaccount gespeichert sind, gelöscht und sind danach nicht wiederherstellbar.

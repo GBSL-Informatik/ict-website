@@ -1,8 +1,8 @@
 ---
-title: Konto
 icon: mdi-account
 ---
 
+#  Konto
 
 
 Alle unsere Dienste verwenden ein zentrales Benutzerkonto. Das bedeutet für dich, dass du die nur **ein einziges Passwort** merken musst.

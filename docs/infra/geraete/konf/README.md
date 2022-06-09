@@ -1,8 +1,8 @@
 ---
-title: "Konferenzgeräte"
 icon: mdi-human-greeting-proximity
 ---
 
+#  "Konferenzgeräte"
 
 
 [:mdi-owl: MeetingOWL](/infra/geraete/konf/owl/)

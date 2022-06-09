@@ -1,8 +1,8 @@
 ---
-title: E-Mail
 icon: mdi-email
 ---
 
+#  E-Mail
 
 
 <Features />

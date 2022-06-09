@@ -1,8 +1,8 @@
 ---
-title: "Elmo MO-1"
 icon: mdi-camera-metering-center
 ---
 
+#  "Elmo MO-1"
 
 
 ![](./images/elmomo1-01.png)

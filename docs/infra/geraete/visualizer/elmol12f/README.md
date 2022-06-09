@@ -1,8 +1,8 @@
 ---
-title: "Elmo L-12F"
 icon: mdi-camera-metering-center
 ---
 
+#  "Elmo L-12F"
 
 
 ![](./images/elmol12f-01.png)

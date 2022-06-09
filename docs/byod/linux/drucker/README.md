@@ -1,11 +1,10 @@
 ---
-title: Drucker installieren
 icon: mdi-printer
 systems: [Linux]
 sort: 20
 ---
 
-
+# Drucker installieren
 
 Um die Drucker einrichten zu können, muss zuerst zwingend [unser Kinet-Repository hinzugefügt werden.](/byod/linux/repo)
 

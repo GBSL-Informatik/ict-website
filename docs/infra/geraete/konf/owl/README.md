@@ -1,8 +1,8 @@
 ---
-title: MeetingOWL
 icon: mdi-owl
 ---
 
+#  MeetingOWL
 
 
 Die MeetingOWL ist ein Konferenzgerät mit 360°-Kamera. Sie ermöglicht es, das gesamt Konferenz- oder Klassenzimmer in einem Meeting (z.B. per Teams) zu zeigen und fokussiert die Kamera automatisch auf die Person, die gerade spricht.

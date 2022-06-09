@@ -1,8 +1,8 @@
 ---
-title: Stehpult
 icon: mdi-human-male-board
 ---
 
+#  Stehpult
 
 
 Seit Sommer 2020 sind in einigen Zimmern höhenverstellbare Stehpulte installiert.

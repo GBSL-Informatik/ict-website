@@ -1,8 +1,8 @@
 ---
-title: Logitech Connect ConferenceCam
 icon: mdi-webcam
 ---
 
+#  Logitech Connect ConferenceCam
 
 
 Die Logitech Connect ConferenceCam ist ein Konferenzgerät mit 90°-Kamera. Sie ermöglicht es, einen Bereich im Konferenz- oder Klassenzimmer in einem Meeting (z.B. per Teams) zu zeigen und ist gleichzeitig ein Konferenzmikrofon/-lautsprecher. Die Kamera besitzt einen Akku, der automatisch geladen wird, sobald sie per USB mit einem Computer verbunden ist.
