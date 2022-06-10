@@ -26,7 +26,7 @@ Die Literaturverwaltung findet sich im Menü __Referenzen__ im Menübereich _Zit
 
 ## 1. Zitierstil wählen
 
-Der Zitierstil wird Menübereich _Zitate und Literaturverzeichnis_ bei _Formatvorlage_ ausgewählt. Im Kapitel [Zitierstile](/textverarbeitung/word-3/zitierstile/) wird erklärt, wie die Zitierstile unserer Schule installiert werden können. Wenn diese installiert sind, kann einer der folgenden Stile gewählt werden: 
+Der Zitierstil wird Menübereich _Zitate und Literaturverzeichnis_ bei _Formatvorlage_ ausgewählt. Im Kapitel [Zitierstile](../zitierstile/) wird erklärt, wie die Zitierstile unserer Schule installiert werden können. Wenn diese installiert sind, kann einer der folgenden Stile gewählt werden: 
 
 - **GK Harvard** für die Autor-Jahr-Methode,
 - **GK Vancouver** für die Referenzmethode.
@@ -63,7 +63,7 @@ Wenn du unsicher bist, kannst du hinten am Feld auf __Bearbeiten__ klicken und d
 
 ### Weitere Felder
 
-Je nach Quellentyp müssen weitere Felder erfasst werden. Unter [Quellen erfassen](/textverarbeitung/word-3/quellen-erfassen/) wird für typische Quellentypen erklärt, welche Daten in welchen Feldern erfasst werden müssen.
+Je nach Quellentyp müssen weitere Felder erfasst werden. Unter [Quellen erfassen](../quellen-erfassen/) wird für typische Quellentypen erklärt, welche Daten in welchen Feldern erfasst werden müssen.
 
 ## 3. Quellenangaben einfügen
 

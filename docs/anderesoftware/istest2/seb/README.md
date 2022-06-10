@@ -55,7 +55,7 @@ auf _Ja_ stellen, indem man jeweils den Haken bei _Default Konfiguration_ setzt.
 
  ## 4. SEB für eine Prüfung in isTest2 aktivieren
 
-Bitte die Anleitungen zu isTest2 befolgen um zu verstehen, wie eine Prüfung erstellt werden kann: [Anleitung zu isTest2](/anderesoftware/istest2/verwenden).
+Bitte die Anleitungen zu isTest2 befolgen um zu verstehen, wie eine Prüfung erstellt werden kann: [Anleitung zu isTest2](../verwenden).
 
 SEB kann nur beim Vorbereiten einer Prüfung aktiviert werden. Wenn die Prüfung bereits vorbereitet ist, kann diese Option nicht mehr angewählt werden und es muss gegebenenfalls eine neue Prüfung erstellt werden. 
 
@@ -105,7 +105,7 @@ SEB kann nur beim Vorbereiten einer Prüfung aktiviert werden. Wenn die Prüfung
 
   * Danach kann die Prüfung, wie auch eine Prüfung ohne SEB, über _Prüfungen > Beginnen_ gestartet werden
 
-  * Das restliche Vorgehen (Abschliessen der Prüfung, Korrekturen, Bewertung, etc.) ist in der [Anleitung zur Verwendung von isTest2](/anderesoftware/istest2/verwenden#6) nachzulesen
+  * Das restliche Vorgehen (Abschliessen der Prüfung, Korrekturen, Bewertung, etc.) ist in der [Anleitung zur Verwendung von isTest2](../verwenden#6) nachzulesen
 <a name="2"></a>
 
 ### Verweise auf externe Seite erlauben

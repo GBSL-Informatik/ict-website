@@ -47,5 +47,5 @@ Seitenzahl
 :::warning Felder
 Die Seitenzahl und – je nach Einfügeart – auch das Datum, sind sogenannte **Felder**. Dies sind Inhalte, die von Word automatisch generiert werden. So ersetzt Word das Feld «Seitenzahl» auf jeder Seite mit der korrekten Zahl.
 
-Mehr dazu: [Felder einfügen](/textverarbeitung/word-2/felder-einfuegen/)
+Mehr dazu: [Felder einfügen](../../word-2/felder-einfuegen/)
 :::

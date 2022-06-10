@@ -31,4 +31,4 @@ Am Visualizer kann gezielt zwischen Notebook und Visualizer hin- und hergeschalt
 
 ## Arbeiten mit der Elmo Interactive Toolbox
 
-Die Software ermöglicht das Zeichnen am Computer auf das angezeigt Bild: [Anleitung](/infra/geraete/visualizer/elmointeractive)
+Die Software ermöglicht das Zeichnen am Computer auf das angezeigt Bild: [Anleitung](../elmointeractive/)

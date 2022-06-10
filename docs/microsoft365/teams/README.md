@@ -8,21 +8,21 @@ sort: 20
 
 
 
-[:mdi-collage: Layout ändern](/microsoft365/teams/layout)
+[:mdi-collage: Layout ändern](layout/)
 
-[:mdi-account-multiple: Schüler*innen: Aufgaben abgeben](/microsoft365/teams/aufgaben-s)
+[:mdi-account-multiple: Schüler*innen: Aufgaben abgeben](aufgaben-s/)
 
-[:mdi-briefcase-variant: Lehrpersonen: Aufträge erstellen](/microsoft365/teams/aufgaben-l)
+[:mdi-briefcase-variant: Lehrpersonen: Aufträge erstellen](aufgaben-l/)
 
-[:mdi-microsoft-teams: Gruppenräume erstellen](/microsoft365/teams/gruppenraeume)
+[:mdi-microsoft-teams: Gruppenräume erstellen](gruppenraeume/)
 
-[:mdi-microsoft-teams: Externe Nutzer*innen hinzufügen](/microsoft365/teams/externe)
+[:mdi-microsoft-teams: Externe Nutzer*innen hinzufügen](externe/)
 
-[:mdi-file-document: Dateien hochladen](/microsoft365/teams/dateien-hochladen)
+[:mdi-file-document: Dateien hochladen](dateien-hochladen/)
 
-[:mdi-microsoft-teams: Ton- und Videoaufnahmen teilen](/microsoft365/teams/ton-video-teilen)
+[:mdi-microsoft-teams: Ton- und Videoaufnahmen teilen](ton-video-teilen/)
 
-[:mdi-microphone: Einstellungen für Tonausgabe und Mikrofon](/microsoft365/teams/ton-einstellen)
+[:mdi-microphone: Einstellungen für Tonausgabe und Mikrofon](ton-einstellen/)
 
 
 

@@ -13,15 +13,15 @@ icon: mdi-account-details
 Immer auf `md`-Datei verlinken, ausser Links auf `README.md`: dort auf Ordner verlinken:
 
 ``` md
-[Link auf BYOD-iOS-Readme](/byod/ios/)
-[Link auf BYOD-iOs-teams](/dokumentation/components)
+[Link auf BYOD-iOS-Readme](../byod/ios/)
+[Link auf BYOD-iOs-teams](./components)
 
 ```
 
 <BrowserBox>
 
-[Link auf BYOD-iOS-Readme](/byod/ios/)
-[Link auf BYOD-iOs-teams](/dokumentation/components)
+[Link auf BYOD-iOS-Readme](../byod/ios/)
+[Link auf BYOD-iOs-teams](./components)
 
 </BrowserBox>
 

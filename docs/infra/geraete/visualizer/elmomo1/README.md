@@ -23,4 +23,4 @@ Jeweils ein Exemplar dieser mobilen Visualizer befindet sich zur Ausleihe in Zi2
 
 ## Arbeiten mit der Elmo Interactive Toolbox
 
-Die Software ermöglicht das Zeichnen am Computer auf das angezeigt Bild: [Anleitung](/infra/geraete/visualizer/elmointeractive/)
+Die Software ermöglicht das Zeichnen am Computer auf das angezeigt Bild: [Anleitung](../elmointeractive/)

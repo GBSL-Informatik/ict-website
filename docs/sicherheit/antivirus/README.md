@@ -15,7 +15,7 @@ Installierte und stets aktuell gehaltene Antivirensoftware hilft, das ist unbest
 Sicherheit kann man sich nicht einfach erkaufen. Die Sicherheit eines Systems hängt vor allem davon ab, welche Software man einsetzt, ob diese Software aktuell gehalten wird und wie vernünftig man sich im Internet bewegt.
 :::
 
-Beachte dazu auch den Beitrag zum Thema [Updates](/sicherheit/updates/).
+Beachte dazu auch den Beitrag zum Thema [Updates](../updates/).
 
 ## Virenschutz am Smartphone oder Tablet
 Auf mobilen Geräten können wir bisher keine Antiviren-App wirklich empfehlen. Sicherheit lässt sich nicht an eine App delegieren, entscheidend ist auch hier das eigene Verhalten:

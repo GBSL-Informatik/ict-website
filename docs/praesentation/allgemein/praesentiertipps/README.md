@@ -15,7 +15,7 @@ Zu einer guten Präsentationsvorführung gehört auch ein **kompetenter Umgang m
 Eine Präsentation kannst du mit dem Tastaturkürzel [[F5]] starten. Das geht schnell und du musst nicht mit der Maus zielen oder mehrmals klicken. Am Besten gehst du wie folgt vor:
 
 1. Computer und Beamer starten
-2. Korrekter Bildschirm-Modus auswählen (siehe Tipp [Zwei Bildschirme](/praesentation/allgemein/zwei-bildschirme))
+2. Korrekter Bildschirm-Modus auswählen (siehe Tipp [Zwei Bildschirme](../zwei-bildschirme))
 3. Den Beamer mit der Fernbedienung schwarz stellen (mit [[Blank]]-Taste, siehe unten)
 4. Dann die Präsentations-Datei suchen und öffnen
 5. Die Präsentation starten
@@ -31,9 +31,9 @@ Noch einfacher klappt das mit der **Tastatur**: Drücke [[W]] für weiss oder [[
 Bei den meisten Beamern kannst du direkt mit der **Beamerfernbedienung** den Beamer auf schwarz stellen, oder alternativ ein Standbild aktivieren. Dies hat den zusätzlichen Vorteil, dass du etwas ändern oder vorbereiten kannst, ohne dass die Leute die Arbeit am Beamer nachverfolgen können.
 
 
-|                                               |                                                                                                                                                                                                                                            |
-| --------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
-| ![Fernbedienung Hitachi](./images/remote.png) | Mit [[Freeze]] kann ein **Standbild** aktiviert werden. D.h. der Beamer bleibt stehen und zeigt das aktuelle Bild als Standbild an. Durch nochmaliges Drücken der [[Freeze]]-Taste wird das Standbild wieder deaktiviert.                  |
-| ^^                                            | Mit [[Blank]] wird das Beamer-Bild schwarz gestellt. Du kannst nun etwas vorbereiten, z.B. eine Webseite öffnen. Wenn du so weit bis, kannst du durch erneutes Drücken der [[Blank]]-Taste auf der Fernbedienung das Bild wieder anzeigen. |
+
+|---- |-----|
+| ![Fernbedienung Hitachi](./images/remote.png) |  Mit [[Freeze]] kann ein **Standbild** aktiviert werden. D.h. der Beamer bleibt stehen und zeigt das aktuelle Bild als Standbild an. Durch nochmaliges Drücken der [[Freeze]]-Taste wird das Standbild wieder deaktiviert.
+| ^^   | Mit [[Blank]] wird das Beamer-Bild schwarz gestellt. Du kannst nun etwas vorbereiten, z.B. eine Webseite öffnen. Wenn du so weit bis, kannst du durch erneutes Drücken der [[Blank]]-Taste auf der Fernbedienung das Bild wieder anzeigen.    |
 [Fernbedienung Hitachi]
 

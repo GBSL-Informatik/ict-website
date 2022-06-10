@@ -25,7 +25,7 @@ Verschlüsselte Verbindugnen werden immer häufiger eingesetzt. Sogar die Google
 - Die Verbindung kann nicht abgehört werden.
 - Verschlüsselung ist **zwingend notwendig** für alle Webseiten, bei denen man sich **einloggen** muss.
 - Das Schloss garantiert, dass man mit demjenigen Server spricht, der in der Adresse aufgeführt ist.
-- **Achtung**: die Verschlüsselung schützt nicht vor geschickt manipulierten Adressen wie z.B. `https://intern.gymkirchenfe1d.ch/` (siehe [Thema Phishing](/sicherheit/phishing/)).
+- **Achtung**: die Verschlüsselung schützt nicht vor geschickt manipulierten Adressen wie z.B. `https://intern.gymkirchenfe1d.ch/` (siehe [Thema Phishing](../phishing/)).
 
 
 ## Verschlüsselte Verbindungen mit zusätzlichen Angaben

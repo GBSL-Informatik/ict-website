@@ -8,25 +8,25 @@ icon: mdi-home-circle
 
 
 
-[:mdi-account: Konto und Passwort](/infra/konto)
+[:mdi-account: Konto und Passwort](konto/)
 
-[:mdi-email: E-Mail](/infra/email)
+[:mdi-email: E-Mail](email/)
 
-[:mdi-bag-suitcase: Austritt - digitales Kofferpacken](/infra/austritt)
+[:mdi-bag-suitcase: Austritt - digitales Kofferpacken](austritt/)
 
 ### Mediothek
 
-[:mdi-book-open-page-variant: e-Thek](/infra/mediothek/ethek)
+[:mdi-book-open-page-variant: e-Thek](mediothek/ethek/)
 
 
 ### Geräte
 
-[:mdi-printer: Drucken](/infra/geraete/drucker)
+[:mdi-printer: Drucken](geraete/drucker/)
 
-[:mdi-human-male-board: Stehpult](/infra/geraete/stehpult)
+[:mdi-human-male-board: Stehpult](geraete/stehpult/)
 
-[:mdi-camera-metering-center: Visualizer](/infra/geraete/visualizer)
+[:mdi-camera-metering-center: Visualizer](geraete/visualizer/)
 
-[:mdi-projector: Beamer](/infra/geraete/beamer)
+[:mdi-projector: Beamer](geraete/beamer/)
 
-[:mdi-human-greeting-proximity: Konferenzgeräte](/infra/geraete/konf)
+[:mdi-human-greeting-proximity: Konferenzgeräte](geraete/konf/)

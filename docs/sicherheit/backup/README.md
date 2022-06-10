@@ -14,7 +14,7 @@ b. Wichtig: **Backups separat lagern** (nicht am Computer angeschlossen und nich
 :::
 
 ## Backup der Daten auf mobilen Geräten
-Es gilt zu unterscheiden, welche Apps die Daten **lokal** (auf dem Smartphone) resp. **im Internet** (z.B. in einer Cloud resp. bei einem App-Anbieter) speichern (siehe [Datenspeicherorte](/sicherheit/datenspeicherorte/)).
+Es gilt zu unterscheiden, welche Apps die Daten **lokal** (auf dem Smartphone) resp. **im Internet** (z.B. in einer Cloud resp. bei einem App-Anbieter) speichern (siehe [Datenspeicherorte](./../datenspeicherorte/)).
 
 Daten, die in der Cloud gespeichert werden, sind in der Regel relativ gut vor Datenverlust geschützt. Wichtig ist daher, dass man insbesondere diejenigen Daten sichert, die nur lokal auf dem Smartphone gespeichert sind. Solche Daten können mit der Software des Smartphone-Herstellers auf dem PC gespeichert (*iTunes* für iPhones, *Kies* für Samsung-Geräte, ...) oder mit zusätzlichen Apps in die Cloud synchronisier werden.
 

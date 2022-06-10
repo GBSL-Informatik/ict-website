@@ -13,5 +13,5 @@ sort: 7
 
 ![Notizenansicht](./images/notizen.lo.png)
 
-Die Notizen kannst du dann entweder ausdrucken (siehe [Drucken](/praesentation/impress/drucken) oder während der Präsentation anzeigen lassen (siehe  [Referentenansicht](/praesentation/impress/referentenansicht)).
+Die Notizen kannst du dann entweder ausdrucken (siehe [Drucken](../drucken) oder während der Präsentation anzeigen lassen (siehe  [Referentenansicht](../referentenansicht)).
 

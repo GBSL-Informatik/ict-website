@@ -25,4 +25,4 @@ Die oben beschriebene Symbolleiste lässt auch Anpassungen für die Textausricht
 
 ---
 
-Siehe auch: [Beschriftungen einfügen](/textverarbeitung/writer/beschriftungen-einfuegen)
+Siehe auch: [Beschriftungen einfügen](../beschriftungen-einfuegen)
