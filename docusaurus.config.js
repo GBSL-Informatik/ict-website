@@ -109,6 +109,16 @@ const config = {
   themes: [
     'docusaurus-theme-frontmatter'
   ],
+  scripts: [
+    // Object format.
+    {
+      src: 'https://umami.gbsl.website/tell-me.js',
+      ['data-website-id']: 'b712f437-c0b3-41f0-ba9b-c1e5ec681751',
+      ['data-domains']: 'ict.gbsl.website',
+      async: true,
+      defer: true
+    },
+  ],
   plugins: [
     'docusaurus-plugin-sass',
     getDocPluginConfig('anderesoftware'),
