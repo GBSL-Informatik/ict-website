@@ -15,6 +15,9 @@
             transition-duration: 1s;
         }
     }
+}
+
+:global(.markdown) > .title {
     &:first-child {
         .icon {
             display: block;
