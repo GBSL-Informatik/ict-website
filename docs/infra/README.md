@@ -4,7 +4,7 @@ chapter: "Schulinfrastruktur"
 icon: mdi-home-circle
 ---
 
-# "Schulinfrastruktur"
+# Schulinfrastruktur
 
 
 

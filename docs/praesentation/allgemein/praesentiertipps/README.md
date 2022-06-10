@@ -5,7 +5,7 @@ apps: [Microsoft PowerPoint, LibreOffice Impress]
 sort: 4
 ---
 
-# 'Starten, pausieren und fortsetzen'
+# Starten, pausieren und fortsetzen
 
 
 

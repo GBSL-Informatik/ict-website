@@ -5,7 +5,7 @@ apps: [LibreOffice Calc]
 sort: 12
 ---
 
-# 'Zellen benennen'
+# Zellen benennen
 
 
 

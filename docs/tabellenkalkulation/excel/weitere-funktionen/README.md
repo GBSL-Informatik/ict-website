@@ -5,7 +5,7 @@ apps: [Microsoft Excel]
 sort: 10
 ---
 
-# 'Weitere Funktionen'
+# Weitere Funktionen
 
 
 

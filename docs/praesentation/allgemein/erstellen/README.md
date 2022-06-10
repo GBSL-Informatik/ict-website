@@ -5,7 +5,7 @@ apps: [Microsoft PowerPoint, LibreOffice Impress]
 sort: 1
 ---
 
-# "Präsentation erstellen"
+# Präsentation erstellen
 
 
 

@@ -6,7 +6,7 @@ description: Gescannte Dokumente als Text erkennen (OCR)
 sort: 35
 ---
 
-# "Texterkennung"
+# Texterkennung
 
 
 

@@ -5,7 +5,7 @@ apps: [LibreOffice Calc]
 sort: 7
 ---
 
-# 'Datenbeschriftungen'
+# Datenbeschriftungen
 
 
 

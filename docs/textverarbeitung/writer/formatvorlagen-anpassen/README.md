@@ -5,7 +5,7 @@ apps: [LibreOffice Writer]
 sort: 3
 ---
 
-# 'Formatvorlagen anpassen'
+# Formatvorlagen anpassen
 
 
 

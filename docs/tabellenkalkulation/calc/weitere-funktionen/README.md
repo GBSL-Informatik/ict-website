@@ -5,7 +5,7 @@ apps: [LibreOffice Calc]
 sort: 10
 ---
 
-# 'Weitere Funktionen'
+# Weitere Funktionen
 
 
 

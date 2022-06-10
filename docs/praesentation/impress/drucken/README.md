@@ -5,7 +5,7 @@ apps: [LibreOffice Impress]
 sort: 8
 ---
 
-# 'Drucken'
+# Drucken
 
 
 

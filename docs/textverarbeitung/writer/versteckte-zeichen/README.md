@@ -12,7 +12,7 @@ apps: [LibreOffice Writer]
 sort: 8
 ---
 
-# 'Versteckte Zeichen'
+# Versteckte Zeichen
 
 
 

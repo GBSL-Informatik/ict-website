@@ -5,7 +5,7 @@ apps: [Microsoft Excel, LibreOffice Calc]
 sort: 4
 ---
 
-# 'Aufbau eines Diagramms'
+# Aufbau eines Diagramms
 
 
 

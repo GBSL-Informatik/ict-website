@@ -4,7 +4,7 @@ icon: mdi-thumbs-up-down
 apps: [Microsoft PowerPoint, LibreOffice Impress]
 ---
 
-# "Präsentieren"
+# Präsentieren
 
 
 ## Schlechtes Beispiel

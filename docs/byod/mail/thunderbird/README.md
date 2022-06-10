@@ -4,7 +4,7 @@ apps: [Thunderbird]
 sort: 40
 ---
 
-# 'Thunderbird'
+# Thunderbird
 
 
 

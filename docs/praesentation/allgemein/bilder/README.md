@@ -5,7 +5,7 @@ apps: [Microsoft PowerPoint, LibreOffice Impress]
 sort: 2
 ---
 
-# "Bilder"
+# Bilder
 
 
 

@@ -4,7 +4,7 @@ icon: mdi-scale-balance
 sort: 3
 ---
 
-# "Urheberrecht und Lizenzen"
+# Urheberrecht und Lizenzen
 
 
 

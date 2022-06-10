@@ -4,7 +4,7 @@ apps: [Microsoft PowerPoint]
 sort: 6
 ---
 
-# 'Referentenansicht'
+# Referentenansicht
 
 
 

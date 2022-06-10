@@ -5,7 +5,7 @@ apps: [Microsoft Excel, LibreOffice Calc]
 sort: 2
 ---
 
-# 'Datentypen'
+# Datentypen
 
 
 

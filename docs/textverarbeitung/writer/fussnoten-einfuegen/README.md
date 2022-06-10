@@ -7,7 +7,7 @@ apps: [LibreOffice Writer]
 sort: 10
 ---
 
-# 'Fussnoten einfügen'
+# Fussnoten einfügen
 
 
 

@@ -5,7 +5,7 @@ apps: [LibreOffice Writer]
 sort: 7
 ---
 
-# 'Beschriftungen einfügen'
+# Beschriftungen einfügen
 
 
 

@@ -3,7 +3,7 @@ description: "vue-components von theme/global-components/"
 icon: "mdi-puzzle"
 ---
 
-# "Components"
+# Components
 
 
 
@@ -18,7 +18,7 @@ systems: ["macOS", "Windows"]
 apps: ["Microsoft OneDrive", "Linux TwoDrive"]
 ---
 
-# "Components"
+# Components
 ```
 
 ``` md

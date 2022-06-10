@@ -5,7 +5,7 @@ apps: [Microsoft Word, Microsoft Excel]
 sort: 15
 ---
 
-# 'Serienbrief erstellen'
+# Serienbrief erstellen
 
 
 

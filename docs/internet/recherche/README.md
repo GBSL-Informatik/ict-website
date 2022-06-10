@@ -4,7 +4,7 @@ icon: mdi-search-web
 sort: 1
 ---
 
-# "Internet-Recherche"
+# Internet-Recherche
 
 
 

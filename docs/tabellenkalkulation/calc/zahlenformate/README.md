@@ -5,7 +5,7 @@ apps: [LibreOffice Calc]
 sort: 2
 ---
 
-# 'Zahlenformate'
+# Zahlenformate
 
 
 

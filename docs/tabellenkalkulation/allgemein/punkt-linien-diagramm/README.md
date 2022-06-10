@@ -5,7 +5,7 @@ apps: [Microsoft Excel, LibreOffice Calc]
 sort: 6
 ---
 
-# 'Punkt- oder Liniendiagramm'
+# Punkt- oder Liniendiagramm
 
 
 

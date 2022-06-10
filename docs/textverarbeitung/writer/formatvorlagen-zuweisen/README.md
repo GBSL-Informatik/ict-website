@@ -5,7 +5,7 @@ apps: [LibreOffice Writer]
 sort: 1
 ---
 
-# 'Formatvorlagen zuweisen'
+# Formatvorlagen zuweisen
 
 
 

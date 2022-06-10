@@ -5,7 +5,7 @@ apps: [Microsoft Word]
 sort: 13
 ---
 
-# 'Endprodukt als PDF'
+# Endprodukt als PDF
 
 
 

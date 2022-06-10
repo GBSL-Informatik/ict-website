@@ -5,7 +5,7 @@ apps: [Microsoft Excel]
 sort: 12
 ---
 
-# 'Zellen benennen'
+# Zellen benennen
 
 
 

@@ -5,7 +5,7 @@ icon: mdi-file-pdf-box
 sort: 30
 ---
 
-# "PDF-Programme"
+# PDF-Programme
 
 
 

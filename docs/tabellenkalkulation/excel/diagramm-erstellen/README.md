@@ -5,7 +5,7 @@ apps: [Microsoft Excel]
 sort: 3
 ---
 
-# 'Diagramm erstellen'
+# Diagramm erstellen
 
 
 

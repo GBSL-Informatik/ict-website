@@ -5,7 +5,7 @@ apps: [LibreOffice Calc]
 sort: 8
 ---
 
-# 'Formeln'
+# Formeln
 
 
 

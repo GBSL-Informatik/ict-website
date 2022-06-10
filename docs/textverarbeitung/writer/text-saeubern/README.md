@@ -9,7 +9,7 @@ apps: [LibreOffice Writer]
 sort: 9
 ---
 
-# 'Text säubern'
+# Text säubern
 
 
 

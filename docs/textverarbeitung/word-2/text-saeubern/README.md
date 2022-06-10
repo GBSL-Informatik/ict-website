@@ -9,7 +9,7 @@ apps: [Microsoft Word]
 sort: 9
 ---
 
-# 'Text säubern'
+# Text säubern
 
 
 

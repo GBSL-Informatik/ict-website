@@ -8,7 +8,7 @@ apps: [LibreOffice Writer]
 sort: 5
 ---
 
-# 'Bilder einfügen und positionieren'
+# Bilder einfügen und positionieren
 
 
 

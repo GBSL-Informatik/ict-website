@@ -5,7 +5,7 @@ apps: [LibreOffice Calc]
 sort: 11
 ---
 
-# 'Automatisches Ausfüllen'
+# Automatisches Ausfüllen
 
 
 

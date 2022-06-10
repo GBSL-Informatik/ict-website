@@ -5,7 +5,7 @@ apps: [LibreOffice Writer]
 sort: 2
 ---
 
-# 'Inhaltsverzeichnis einfügen'
+# Inhaltsverzeichnis einfügen
 
 
 

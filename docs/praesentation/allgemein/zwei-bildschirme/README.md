@@ -5,7 +5,7 @@ apps: [Microsoft PowerPoint, LibreOffice Impress]
 sort: 3
 ---
 
-# 'Zwei Bildschirme'
+# Zwei Bildschirme
 
 
 

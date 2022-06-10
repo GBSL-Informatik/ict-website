@@ -5,7 +5,7 @@ apps: [LibreOffice Writer]
 sort: 13
 ---
 
-# 'Endprodukt als PDF'
+# Endprodukt als PDF
 
 
 

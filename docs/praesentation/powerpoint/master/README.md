@@ -4,7 +4,7 @@ apps: [Microsoft PowerPoint]
 sort: 5
 ---
 
-# "Masterfolie"
+# Masterfolie
 
 
 

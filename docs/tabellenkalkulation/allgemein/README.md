@@ -3,7 +3,7 @@ chapter: "Tabellenkalkulation"
 icon: mdi-table-large
 ---
 
-# "Allgemeines zur Tabellenkalkulation"
+# Allgemeines zur Tabellenkalkulation
 
 
 

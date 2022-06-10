@@ -4,7 +4,7 @@ apps: [LibreOffice Writer]
 sort: 11
 ---
 
-# 'Rechtschreibekorrektur'
+# Rechtschreibekorrektur
 
 
 

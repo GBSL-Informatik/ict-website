@@ -4,7 +4,7 @@ apps: [LibreOffice Impress]
 sort: 6
 ---
 
-# 'Referentenansicht'
+# Referentenansicht
 
 
 

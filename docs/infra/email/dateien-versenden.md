@@ -4,7 +4,7 @@ icon: mdi-attachment
 sort: 40
 ---
 
-# 'Dateien versenden'
+# Dateien versenden
 
 
 

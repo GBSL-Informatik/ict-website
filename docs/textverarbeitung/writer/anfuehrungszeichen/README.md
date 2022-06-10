@@ -5,7 +5,7 @@ apps: [LibreOffice Writer]
 sort: 14
 ---
 
-# 'Anführungszeichen'
+# Anführungszeichen
 
 
 

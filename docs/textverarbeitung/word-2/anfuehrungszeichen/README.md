@@ -5,7 +5,7 @@ apps: [Microsoft Word]
 sort: 14
 ---
 
-# 'Anführungszeichen'
+# Anführungszeichen
 
 <PageTitle />
 

@@ -5,7 +5,7 @@ apps: [LibreOffice Calc]
 sort: 3
 ---
 
-# 'Diagramm erstellen'
+# Diagramm erstellen
 
 
 

@@ -5,7 +5,7 @@ apps: [Microsoft Excel]
 sort: 11
 ---
 
-# 'Automatisches Ausfüllen'
+# Automatisches Ausfüllen
 
 
 

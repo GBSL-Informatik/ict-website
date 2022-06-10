@@ -3,7 +3,7 @@ icon: mdi-table-large
 description: Spreadsheets von Microsoft
 ---
 
-# "Microsoft Excel"
+# Microsoft Excel
 
 
 
