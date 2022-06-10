@@ -24,7 +24,8 @@ const getDocConfig = (name) => {
     routeBasePath: name,
     showLastUpdateTime: true,
     sidebarCollapsible: true,
-    sidebarPath: require.resolve('./sidebars.js')
+    sidebarPath: require.resolve('./sidebars.js'),
+    editUrl: 'https://github.com/gbsl-informatik/ict-website/edit/main/',
   }
 }
 
