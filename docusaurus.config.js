@@ -66,7 +66,14 @@ const config = {
       'classic',
       /** @type {import('@docusaurus/preset-classic').Options} */
       ({
-        docs: false,
+        docs: {
+          ...MD_PLUGINS,
+          routeBasePath: '/',
+          showLastUpdateTime: true,
+          sidebarCollapsible: true,
+          sidebarPath: require.resolve('./sidebars.js'),
+          editUrl: 'https://github.com/gbsl-informatik/ict-website/edit/main/',
+        },
         blog: false,
         pages: {
           ...MD_PLUGINS
@@ -122,16 +129,6 @@ const config = {
   ],
   plugins: [
     'docusaurus-plugin-sass',
-    getDocPluginConfig('anderesoftware'),
-    getDocPluginConfig('byod'),
-    getDocPluginConfig('dokumentation'),
-    getDocPluginConfig('infra'),
-    getDocPluginConfig('internet'),
-    getDocPluginConfig('microsoft365'),
-    getDocPluginConfig('praesentation'),
-    getDocPluginConfig('sicherheit'),
-    getDocPluginConfig('tabellenkalkulation'),
-    getDocPluginConfig('textverarbeitung'),
     [
       require.resolve("@cmfcmf/docusaurus-search-local"),
       {

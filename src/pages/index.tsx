@@ -12,7 +12,55 @@ interface CardProps {
   route: string;
 }
 
-const Card = ({ name, icon, route }: CardProps) => {
+const IndexPages = [
+  {
+    name: "Geräte einrichten",
+    icon: "mdi-cog",
+    route: "/byod",
+  },
+  {
+    name: "Microsoft 365",
+    icon: "mdi-microsoft-windows",
+    route: "/microsoft365",
+  },
+  {
+    name: "Andere Software & Medien",
+    icon: "mdi-cellphone-link",
+    route: "/anderesoftware",
+  },
+  {
+    name: "Schulinfrastruktur",
+    icon: "mdi-home-circle",
+    route: "/infra",
+  },
+  {
+    name: "Sicherheit und Datenschutz",
+    icon: "mdi-security",
+    route: "/sicherheit",
+  },
+  {
+    name: "Internet verwenden",
+    icon: "mdi-earth",
+    route: "/internet",
+  },
+  {
+    name: "Textverarbeitung",
+    icon: "mdi-text-box-outline",
+    route: "/textverarbeitung",
+  },
+  {
+    name: "Präsentation",
+    icon: "mdi-presentation",
+    route: "/praesentation",
+  },
+  {
+    name: "Tabellenkalkulation",
+    icon: "mdi-table-large",
+    route: "/tabellenkalkulation",
+  },
+];
+
+const Feature = ({ name, icon, route }: CardProps) => {
   return (
     <div className={styles.feature}>
       <Link to={route}>
@@ -52,47 +100,9 @@ export default function Home() {
         <HomepageHeader />
         <main>
           <div className={styles.features}>
-            <Card name="Geräte einrichten" icon="mdi-cog" route="/byod" />
-            <Card
-              name="Microsoft 365"
-              icon="mdi-microsoft-windows"
-              route="/microsoft365"
-            />
-            <Card
-              name="Andere Software & Medien"
-              icon="mdi-cellphone-link"
-              route="/anderesoftware"
-            />
-            <Card
-              name="Schulinfrastruktur"
-              icon="mdi-home-circle"
-              route="/infra"
-            />
-            <Card
-              name="Sicherheit und Datenschutz"
-              icon="mdi-security"
-              route="/sicherheit"
-            />
-            <Card
-              name="Internet verwenden"
-              icon="mdi-earth"
-              route="/internet"
-            />
-            <Card
-              name="Textverarbeitung"
-              icon="mdi-text-box-outline"
-              route="/textverarbeitung"
-            />
-            <Card
-              name="Präsentation"
-              icon="mdi-presentation"
-              route="/praesentation"
-            />
-            <Card
-              name="Tabellenkalkulation"
-              icon="mdi-table-large"
-              route="/tabellenkalkulation"
-            />
+            {IndexPages.map((feat, idx) => (
+              <Feature {...feat} key={idx} />
+            ))}
           </div>
         </main>
       </Layout>
