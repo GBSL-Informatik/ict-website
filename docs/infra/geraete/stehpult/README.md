@@ -1,5 +1,6 @@
 ---
-icon: mdi-human-male-board
+sidebar_custom_props:
+  icon: mdi-human-male-board
 ---
 
 #  Stehpult

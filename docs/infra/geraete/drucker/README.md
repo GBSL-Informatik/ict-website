@@ -1,5 +1,6 @@
 ---
-icon: mdi-printer
+sidebar_custom_props:
+  icon: mdi-printer
 ---
 
 #  Drucken

@@ -1,5 +1,6 @@
 ---
-icon: mdi-email
+sidebar_custom_props:
+  icon: mdi-email
 ---
 
 #  E-Mail

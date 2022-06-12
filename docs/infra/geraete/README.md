@@ -1,7 +1,8 @@
 ---
 description: Alles zu Geräten, die zur (digitalen) Schulinfrastruktur gehören
 chapter: "Schulinfrastruktur"
-icon: mdi-home-circle
+sidebar_custom_props:
+  icon: mdi-home-circle
 ---
 
 # Geräte

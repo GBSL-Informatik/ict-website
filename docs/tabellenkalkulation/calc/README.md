@@ -1,6 +1,7 @@
 ---
 description: freie Tabellenkalkulationssoftware von LibreOffice
-icon: mdi-table-large
+sidebar_custom_props:
+  icon: mdi-table-large
 ---
 
 # Libre Office Calc

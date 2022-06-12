@@ -1,7 +1,8 @@
 ---
 description: Internetrecherche und Quellangaben
 chapter: "Internet verwenden"
-icon: mdi-earth
+sidebar_custom_props:
+  icon: mdi-earth
 ---
 
 # Internet verwenden

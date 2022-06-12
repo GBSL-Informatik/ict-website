@@ -1,5 +1,6 @@
 ---
-icon: mdi-webcam
+sidebar_custom_props:
+  icon: mdi-webcam
 ---
 
 #  Logitech Connect ConferenceCam

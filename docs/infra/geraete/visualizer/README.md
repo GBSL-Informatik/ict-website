@@ -1,6 +1,7 @@
 ---
 chapter: "Visualizer"
-icon: mdi-camera-metering-center
+sidebar_custom_props:
+  icon: mdi-camera-metering-center
 ---
 
 # Visualizer

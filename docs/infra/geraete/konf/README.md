@@ -1,5 +1,6 @@
 ---
-icon: mdi-human-greeting-proximity
+sidebar_custom_props:
+  icon: mdi-human-greeting-proximity
 ---
 
 #  "Konferenzgeräte"

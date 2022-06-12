@@ -1,7 +1,8 @@
 ---
 description: Alles, was zur (digitalen) Schulinfrastruktur gehört
 chapter: "Schulinfrastruktur"
-icon: mdi-home-circle
+sidebar_custom_props:
+  icon: mdi-home-circle
 ---
 
 # Schulinfrastruktur

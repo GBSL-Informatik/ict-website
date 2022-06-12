@@ -1,6 +1,7 @@
 ---
 description: "zum Umgang mit Präsentationssoftware"
-icon: "mdi-presentation"
+sidebar_custom_props:
+  icon: "mdi-presentation"
 ---
 
 # Allgemeines

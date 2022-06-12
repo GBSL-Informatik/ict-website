@@ -1,6 +1,7 @@
 ---
 description: "die freie Präsentationssoftware"
-icon: mdi-presentation
+sidebar_custom_props:
+  icon: mdi-presentation
 ---
 
 # Impress

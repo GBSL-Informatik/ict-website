@@ -1,6 +1,7 @@
 ---
 description: Daten erfassen und formatieren, mit Formeln Berechnungen durchführen, einfache Diagramme erstellen.
-icon: mdi-table-large
+sidebar_custom_props:
+  icon: mdi-table-large
 ---
 
 # Tabellenkalkulation

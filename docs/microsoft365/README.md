@@ -1,7 +1,8 @@
 ---
 description: Microsoft 365-Produkte
 chapter: "Microsoft 365"
-icon: mdi-microsoft-windows
+sidebar_custom_props:
+  icon: mdi-microsoft-windows
 ---
 
 # Microsoft 365

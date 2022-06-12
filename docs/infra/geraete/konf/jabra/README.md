@@ -1,5 +1,6 @@
 ---
-icon: mdi-microphone-variant
+sidebar_custom_props:
+  icon: mdi-microphone-variant
 ---
 
 #  Jabra Speak Konferenzmikrofon

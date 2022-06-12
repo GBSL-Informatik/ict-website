@@ -1,7 +1,8 @@
 ---
 chapter: Sicherheit und Datenschutz
 description: Hilfreiche Tipps im Umgang mit persönlichen Daten im Internet
-icon: mdi-security
+sidebar_custom_props:
+  icon: mdi-security
 ---
 
 # Übersicht

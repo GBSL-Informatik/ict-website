@@ -1,5 +1,6 @@
 ---
-icon: mdi-toolbox
+sidebar_custom_props:
+  icon: mdi-toolbox
 ---
 
 #  "Elmo Interactive Toolbox"

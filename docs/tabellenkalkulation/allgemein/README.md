@@ -1,6 +1,7 @@
 ---
 chapter: "Tabellenkalkulation"
-icon: mdi-table-large
+sidebar_custom_props:
+  icon: mdi-table-large
 ---
 
 # Allgemeines zur Tabellenkalkulation

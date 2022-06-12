@@ -1,6 +1,7 @@
 ---
 description: "die Präsentationssoftware von Microsoft"
-icon: "mdi-microsoft-powerpoint"
+sidebar_custom_props:
+  icon: "mdi-microsoft-powerpoint"
 ---
 
 # Powerpoint

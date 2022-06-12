@@ -1,5 +1,6 @@
 ---
-icon: mdi-projector
+sidebar_custom_props:
+  icon: mdi-projector
 ---
 
 #  Beamer
