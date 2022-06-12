@@ -8,5 +8,5 @@ icon: mdi-security
 
 
 
-<Features />
+<FeatureCategories />
 

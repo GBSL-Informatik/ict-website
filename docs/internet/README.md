@@ -8,4 +8,4 @@ icon: mdi-earth
 
 
 
-<Features />
+<FeatureCategories />
