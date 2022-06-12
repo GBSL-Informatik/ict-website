@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunkict=self.webpackChunkict||[]).push([[1673],{89964:function(e){e.exports=JSON.parse('[{"label":"vuepress","permalink":"/dokumentation/tags/vuepress","count":1},{"label":"vuejs","permalink":"/dokumentation/tags/vuejs","count":1}]')}}]);

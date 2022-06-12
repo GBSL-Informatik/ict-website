@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunkict=self.webpackChunkict||[]).push([[9298],{67223:function(e){e.exports=JSON.parse('{"name":"docusaurus-plugin-content-docs","id":"anderesoftware"}')}}]);
