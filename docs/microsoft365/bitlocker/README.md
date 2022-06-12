@@ -1,7 +1,8 @@
 ---
-icon: mdi-shield-lock
 systems: [Windows]
 sort: 50
+sidebar_custom_props:
+  icon: mdi-shield-lock
 ---
 
 # Bitlocker

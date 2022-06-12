@@ -1,7 +1,8 @@
 ---
 apps: [Microsoft Word]
-icon: mdi-table-of-contents
 sort: 2
+sidebar_custom_props:
+  icon: mdi-table-of-contents
 ---
 
 # Inhaltsverzeichnis

@@ -1,8 +1,9 @@
 ---
-icon: mdi-microsoft-teams
 systems: [Android]
 apps: [Microsoft Teams]
 sort: 50
+sidebar_custom_props:
+  icon: mdi-microsoft-teams
 ---
 
 # Teams einrichten

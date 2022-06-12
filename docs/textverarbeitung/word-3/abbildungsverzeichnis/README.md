@@ -1,7 +1,8 @@
 ---
-icon: mdi-image-multiple
 apps: [Microsoft Word]
 sort: 3
+sidebar_custom_props:
+  icon: mdi-image-multiple
 ---
 
 # Abbildungsverzeichnis

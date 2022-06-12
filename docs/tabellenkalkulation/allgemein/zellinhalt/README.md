@@ -1,8 +1,9 @@
 ---
 description: Eine Zelle kann unterschiedliche Arten von Werten enthalten. In der Informatik spricht man dabei von <strong>Datentypen</strong>
-icon: mdi-percent
 apps: [Microsoft Excel, LibreOffice Calc]
 sort: 2
+sidebar_custom_props:
+  icon: mdi-percent
 ---
 
 # Datentypen

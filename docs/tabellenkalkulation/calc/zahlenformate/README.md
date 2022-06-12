@@ -1,8 +1,9 @@
 ---
 description: So kann die Darstellung eines Zahlenwerts in einer Zelle beeinflusst werden.
-icon: mdi-numeric
 apps: [LibreOffice Calc]
 sort: 2
+sidebar_custom_props:
+  icon: mdi-numeric
 ---
 
 # Zahlenformate

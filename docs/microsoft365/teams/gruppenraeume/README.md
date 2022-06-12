@@ -1,7 +1,8 @@
 ---
 chapter: Teams
-icon: mdi-microsoft-teams
 apps: [Microsoft Teams]
+sidebar_custom_props:
+  icon: mdi-microsoft-teams
 ---
 
 # Gruppenräume erstellen

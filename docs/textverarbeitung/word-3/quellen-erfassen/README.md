@@ -1,7 +1,8 @@
 ---
-icon: mdi-bookshelf
 apps: [Microsoft Word]
 sort: 6
+sidebar_custom_props:
+  icon: mdi-bookshelf
 ---
 
 # Quellen erfassen

@@ -1,7 +1,8 @@
 ---
 chapter: Teams
-icon: mdi-file-document
 apps: [Microsoft Teams]
+sidebar_custom_props:
+  icon: mdi-file-document
 ---
 
 # Dateien hochladen

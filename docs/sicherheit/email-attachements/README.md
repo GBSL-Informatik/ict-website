@@ -1,7 +1,8 @@
 ---
 description: E-Mail-Anhänge sind oft gefährlich und enthalten Viren, Trojaner oder andere schädliche Programme.
-icon: mdi-email
 sort: 30
+sidebar_custom_props:
+  icon: mdi-email
 ---
 
 # E-Mail-Anhänge

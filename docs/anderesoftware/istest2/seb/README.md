@@ -1,7 +1,8 @@
 ---
-icon: mdi-check-outline
 apps: [isTest2, Safe Exam Browser]
 sort: 40
+sidebar_custom_props:
+  icon: mdi-check-outline
 ---
 
 # Safe Exam Browser mit isTest2

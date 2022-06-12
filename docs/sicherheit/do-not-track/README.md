@@ -1,7 +1,8 @@
 ---
 description: Webseiten interessieren sich für unsere Gewohnheiten – Hintergründe dazu und wie wir uns wehren können.
-icon: mdi-cookie
 sort: 60
+sidebar_custom_props:
+  icon: mdi-cookie
 ---
 
 # Do not Track

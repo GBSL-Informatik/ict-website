@@ -1,6 +1,7 @@
 ---
-icon: mdi-check-outline
 sort: 10
+sidebar_custom_props:
+  icon: mdi-check-outline
 ---
 
 # Frageart Lückentext

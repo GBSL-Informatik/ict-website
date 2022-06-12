@@ -1,7 +1,8 @@
 ---
 description: Im Internet braucht man viele Passwörter. Worauf muss man achten?
-icon: mdi-form-textbox-password
 sort: 40
+sidebar_custom_props:
+  icon: mdi-form-textbox-password
 ---
 
 # Passwörter im Internet

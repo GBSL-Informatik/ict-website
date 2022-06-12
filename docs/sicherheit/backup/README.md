@@ -1,7 +1,8 @@
 ---
 description: Habe ich ein Backup meiner wichtigsten Daten?
-icon: mdi-cloud-upload
 sort: 130
+sidebar_custom_props:
+  icon: mdi-cloud-upload
 ---
 
 # Backupstrategien

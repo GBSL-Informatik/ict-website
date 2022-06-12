@@ -1,8 +1,9 @@
 ---
 description: "erste Überlegungen"
-icon: "mdi-presentation"
 apps: [Microsoft PowerPoint, LibreOffice Impress]
 sort: 1
+sidebar_custom_props:
+  icon: "mdi-presentation"
 ---
 
 # Präsentation erstellen

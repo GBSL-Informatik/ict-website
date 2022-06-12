@@ -1,7 +1,8 @@
 ---
-icon: mdi-email
 systems: [macOS]
 sort: 30
+sidebar_custom_props:
+  icon: mdi-email
 ---
 
 # E-Mail einrichten

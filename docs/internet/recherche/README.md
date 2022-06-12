@@ -1,7 +1,8 @@
 ---
 description: Internetrecherche und Quellenbeurteilung
-icon: mdi-search-web
 sort: 1
+sidebar_custom_props:
+  icon: mdi-search-web
 ---
 
 # Internet-Recherche

@@ -1,8 +1,9 @@
 ---
 description: "Kleine Sammlung von Tipps während der Präsentation"
-icon: "mdi-remote"
 apps: [Microsoft PowerPoint, LibreOffice Impress]
 sort: 4
+sidebar_custom_props:
+  icon: "mdi-remote"
 ---
 
 # Starten, pausieren und fortsetzen

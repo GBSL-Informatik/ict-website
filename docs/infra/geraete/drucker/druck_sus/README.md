@@ -1,6 +1,7 @@
 ---
-icon: mdi-account-multiple
 sort: 30
+sidebar_custom_props:
+  icon: mdi-account-multiple
 ---
 
 # Schüler*innen

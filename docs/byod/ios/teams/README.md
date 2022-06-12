@@ -1,8 +1,9 @@
 ---
-icon: mdi-microsoft-teams
 systems: [iOS / iPadOS]
 apps: [Microsoft Teams]
 sort: 50
+sidebar_custom_props:
+  icon: mdi-microsoft-teams
 ---
 
 # Teams einrichten

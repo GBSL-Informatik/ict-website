@@ -1,6 +1,5 @@
 ---
 description: "Wie füge ich eine Kopf- oder eine Fusszeile ein? Welche Elemente stehen zur Verfügung?"
-icon: mdi-page-layout-header-footer
 tags:
     - Felder
     - Kopfzeile
@@ -8,6 +7,8 @@ tags:
     - Seitenzahlen
 apps: [Microsoft Word]
 sort: 4
+sidebar_custom_props:
+  icon: mdi-page-layout-header-footer
 ---
 
 # Felder einfügen

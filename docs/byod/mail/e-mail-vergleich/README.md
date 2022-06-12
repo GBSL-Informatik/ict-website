@@ -1,6 +1,7 @@
 ---
-icon: mdi-email
 sort: 10
+sidebar_custom_props:
+  icon: mdi-email
 ---
 
 # Entscheidungshilfe E-Mail

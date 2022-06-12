@@ -1,8 +1,9 @@
 ---
 subitle: "Aussehen eines gesamten Dokumentes anpassen"
-icon: mdi-pencil-outline
 apps: [LibreOffice Writer]
 sort: 3
+sidebar_custom_props:
+  icon: mdi-pencil-outline
 ---
 
 # Formatvorlagen anpassen

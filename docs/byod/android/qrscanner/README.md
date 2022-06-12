@@ -1,7 +1,8 @@
 ---
-icon: mdi-qrcode
 systems: [Android]
 sort: 30
+sidebar_custom_props:
+  icon: mdi-qrcode
 ---
 
 # QR-Scanner einrichten

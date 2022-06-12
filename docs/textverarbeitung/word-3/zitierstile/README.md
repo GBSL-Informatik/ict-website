@@ -1,7 +1,8 @@
 ---
-icon: mdi-bookshelf
 apps: [Microsoft Word]
 sort: 5
+sidebar_custom_props:
+  icon: mdi-bookshelf
 ---
 
 # Zitierstile

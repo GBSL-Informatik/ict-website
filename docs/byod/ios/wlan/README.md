@@ -1,7 +1,8 @@
 ---
-icon: mdi-wifi
 systems: [iOS / iPadOS]
 sort: 10
+sidebar_custom_props:
+  icon: mdi-wifi
 ---
 
 # WLAN einrichten

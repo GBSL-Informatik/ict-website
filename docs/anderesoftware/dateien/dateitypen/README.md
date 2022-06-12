@@ -1,6 +1,7 @@
 ---
-icon: mdi-file-multiple
 sort: 10
+sidebar_custom_props:
+  icon: mdi-file-multiple
 ---
 
 # Wichtige Dateitypen

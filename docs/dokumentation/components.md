@@ -1,6 +1,5 @@
 ---
 description: "vue-components von theme/global-components/"
-icon: "mdi-puzzle"
 ---
 
 # Components
@@ -11,6 +10,8 @@ icon: "mdi-puzzle"
 Beispiel dieser Seite (bis auf die Listen `systems` und `Apps` – welche zur Kennzeichnung von Anleitungen für spezifische Betriebssystem resp. Anwendungen dienen und als Tags dargestellt werden):
 
 ``` yaml
+sidebar_custom_props:
+  icon: "mdi-puzzle"
 ---
 description: "vue-components von theme/global-components/"
 icon: "mdi-puzzle"

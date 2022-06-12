@@ -1,7 +1,8 @@
 ---
 description: Links zu wichtigen Webseiten abspeichern
-icon: mdi-star
 sort: 5
+sidebar_custom_props:
+  icon: mdi-star
 ---
 
 # Favoriten verwalten

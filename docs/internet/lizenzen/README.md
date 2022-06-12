@@ -1,7 +1,8 @@
 ---
 description: Was darf ich wie verwenden?
-icon: mdi-scale-balance
 sort: 3
+sidebar_custom_props:
+  icon: mdi-scale-balance
 ---
 
 # Urheberrecht und Lizenzen

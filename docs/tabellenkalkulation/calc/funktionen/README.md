@@ -1,8 +1,9 @@
 ---
 description: Wie mit Funktionen und Bereichen Berechnungen durchgeführt werden können.
-icon: mdi-function-variant
 apps: [LibreOffice Calc]
 sort: 9
+sidebar_custom_props:
+  icon: mdi-function-variant
 ---
 
 # Funktionen

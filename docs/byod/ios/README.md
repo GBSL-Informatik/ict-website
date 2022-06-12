@@ -1,6 +1,7 @@
 ---
-icon: mdi-apple
 systems: [iOS / iPadOS]
+sidebar_custom_props:
+  icon: mdi-apple
 ---
 
 # iOS / iPadOS

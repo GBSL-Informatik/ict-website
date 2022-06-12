@@ -1,5 +1,3 @@
-const visit = require("unist-util-visit");
-
 // passed to unified.use()
 // you have to use a named function for access to `this` :(
 function attacher(options) {
@@ -24,7 +22,7 @@ function attacher(options) {
             type: 'mdi',
             mdi: inner,
             data: {
-                hName: 'a',
+                hName: 'span',
                 hProperties: { 
                     className: [`mdi-${inner}`, 'mdi'] 
                 }

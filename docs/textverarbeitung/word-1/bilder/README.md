@@ -1,10 +1,11 @@
 ---
-icon: mdi-image-plus
 tags:
     - Bilder
     - Textfluss
 apps: [Microsoft Word]
 sort: 5
+sidebar_custom_props:
+  icon: mdi-image-plus
 ---
 
 # Bilder

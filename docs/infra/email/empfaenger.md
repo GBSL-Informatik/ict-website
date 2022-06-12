@@ -1,7 +1,8 @@
 ---
 description: Wie adressiere ich korrekt eine E-Mail
-icon: mdi-email-send
 sort: 20
+sidebar_custom_props:
+  icon: mdi-email-send
 ---
 
 # Empfänger

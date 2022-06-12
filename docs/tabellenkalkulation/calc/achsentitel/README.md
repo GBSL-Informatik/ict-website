@@ -1,8 +1,9 @@
 ---
 description: So kann ein Achsentitel hinzugefügt und bearbeitet werden
-icon: mdi-format-title
 apps: [LibreOffice Calc]
 sort: 5
+sidebar_custom_props:
+  icon: mdi-format-title
 ---
 
 # Achsentitel

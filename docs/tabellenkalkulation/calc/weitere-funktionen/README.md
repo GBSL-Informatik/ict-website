@@ -1,8 +1,9 @@
 ---
 description: Welche weiteren Funktionen stehen zur Verfügung?
-icon: mdi-function-variant
 apps: [LibreOffice Calc]
 sort: 10
+sidebar_custom_props:
+  icon: mdi-function-variant
 ---
 
 # Weitere Funktionen

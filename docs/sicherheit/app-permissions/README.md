@@ -1,7 +1,8 @@
 ---
 description: Wie kann ich meinen Apps Berechtigungen entziehen?
-icon: mdi-shield-lock
 sort: 90
+sidebar_custom_props:
+  icon: mdi-shield-lock
 ---
 
 # App-Berechtigungen

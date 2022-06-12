@@ -1,8 +1,9 @@
 ---
 description: Wie mit Formeln und den Grundrechenoperationen Berechnungen durchgeführt werden können.
-icon: mdi-function-variant
 apps: [Microsoft Excel]
 sort: 8
+sidebar_custom_props:
+  icon: mdi-function-variant
 ---
 
 # Formeln

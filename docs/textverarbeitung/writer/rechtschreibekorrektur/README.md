@@ -1,7 +1,8 @@
 ---
-icon: mdi-spellcheck
 apps: [LibreOffice Writer]
 sort: 11
+sidebar_custom_props:
+  icon: mdi-spellcheck
 ---
 
 # Rechtschreibekorrektur

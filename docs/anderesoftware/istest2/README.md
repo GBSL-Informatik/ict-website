@@ -1,6 +1,7 @@
 ---
-icon: mdi-check-outline
 sort: 40
+sidebar_custom_props:
+  icon: mdi-check-outline
 ---
 
 # isTest2

@@ -1,8 +1,9 @@
 ---
 description: Aufbau einer Arbeitsmappe
-icon: mdi-table
 apps: [Microsoft Excel, LibreOffice Calc]
 sort: 1
+sidebar_custom_props:
+  icon: mdi-table
 ---
 
 # Arbeitsmappe

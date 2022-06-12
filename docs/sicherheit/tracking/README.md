@@ -1,7 +1,8 @@
 ---
 description: Wir werden auf Schritt und Tritt beobachtet. Überwall werden Daten über uns gesammelt. Bist du dir dessen bewusst?
-icon: mdi-map-marker
 sort: 50
+sidebar_custom_props:
+  icon: mdi-map-marker
 ---
 
 # Tracking

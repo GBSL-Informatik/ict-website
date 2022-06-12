@@ -1,7 +1,8 @@
 ---
 description: Wie ist eine Internetadresse aufgebaut?
-icon: mdi-link
 sort: 4
+sidebar_custom_props:
+  icon: mdi-link
 ---
 
 # Internetadressen

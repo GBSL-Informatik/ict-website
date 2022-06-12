@@ -1,6 +1,5 @@
 ---
 description: "Wie können versteckte Steuer- und Formatierungszeichen eingefügt und angezeigt werden? Was bewirken sie?"
-icon: mdi-eye-off
 tags:
 - Versteckte Zeichen
 - Leerschlag
@@ -10,6 +9,8 @@ tags:
 - Formatierungszeichen
 apps: [LibreOffice Writer]
 sort: 8
+sidebar_custom_props:
+  icon: mdi-eye-off
 ---
 
 # Versteckte Zeichen

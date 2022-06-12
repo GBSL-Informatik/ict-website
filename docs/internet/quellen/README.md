@@ -1,7 +1,8 @@
 ---
 description: Wie schreibe ich eine korrekte Quellenangabe
-icon: mdi-typewriter
 sort: 2
+sidebar_custom_props:
+  icon: mdi-typewriter
 ---
 
 # Quellenangaben

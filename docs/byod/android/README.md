@@ -1,6 +1,7 @@
 ---
-icon: mdi-android
 systems: [Android]
+sidebar_custom_props:
+  icon: mdi-android
 ---
 
 # Android

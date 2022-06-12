@@ -1,8 +1,9 @@
 ---
-icon: mdi-microsoft-teams
 systems: [Linux]
 apps: [Microsoft Teams]
 sort: 11
+sidebar_custom_props:
+  icon: mdi-microsoft-teams
 ---
 
 # Teams einrichten

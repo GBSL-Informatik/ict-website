@@ -1,7 +1,8 @@
 ---
-icon: mdi-book-open-page-variant
 systems: [Windows]
 apps: [Adobe Digital Editions]
+sidebar_custom_props:
+  icon: mdi-book-open-page-variant
 ---
 
 # e-Thek

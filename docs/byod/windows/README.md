@@ -1,6 +1,7 @@
 ---
-icon: mdi-microsoft-windows
 systems: [Windows]
+sidebar_custom_props:
+  icon: mdi-microsoft-windows
 ---
 
 # Windows
@@ -8,4 +9,5 @@ systems: [Windows]
 
 
 Hier findest du Anleitungen, um dein Windows-Laptop für den Gebrauch an unserer Schule einzurichten:
+
 <Features />

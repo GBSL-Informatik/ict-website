@@ -1,8 +1,9 @@
 ---
 description: Wie Zellbereiche automatisch mit Werten und Formeln ausgefüllt werden können.
-icon: mdi-card-plus-outline
 apps: [Microsoft Excel]
 sort: 11
+sidebar_custom_props:
+  icon: mdi-card-plus-outline
 ---
 
 # Automatisches Ausfüllen

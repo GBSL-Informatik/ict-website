@@ -1,7 +1,8 @@
 ---
-icon: mdi-check-outline
 apps: [isTest2]
 sort: 40
+sidebar_custom_props:
+  icon: mdi-check-outline
 ---
 
 # Anmelden bei isTest2

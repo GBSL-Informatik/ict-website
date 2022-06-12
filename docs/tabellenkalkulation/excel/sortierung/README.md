@@ -1,8 +1,9 @@
 ---
 description: So kann eine Tabelle nach verschiedenen Spalten sortiert werden.
-icon: mdi-sort
 apps: [Microsoft Excel]
 sort: 1
+sidebar_custom_props:
+  icon: mdi-sort
 ---
 
 # Sortierung

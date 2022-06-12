@@ -1,8 +1,9 @@
 ---
 description: "So kann ein Serienbrief erstellt werden."
-icon: mdi-text-box-multiple-outline
 apps: [Microsoft Word, Microsoft Excel]
 sort: 15
+sidebar_custom_props:
+  icon: mdi-text-box-multiple-outline
 ---
 
 # Serienbrief erstellen

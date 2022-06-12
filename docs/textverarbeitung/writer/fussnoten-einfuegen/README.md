@@ -1,10 +1,11 @@
 ---
-icon: mdi-foot-print
 tags:
     - Fussnoten
     - Endnoten
 apps: [LibreOffice Writer]
 sort: 10
+sidebar_custom_props:
+  icon: mdi-foot-print
 ---
 
 # Fussnoten einfügen

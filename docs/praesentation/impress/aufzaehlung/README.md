@@ -1,8 +1,9 @@
 ---
 description: die berühmenten «Bullet Points»
-icon: "mdi-format-list-bulleted"
 apps: [LibreOffice Impress]
 sort: 2
+sidebar_custom_props:
+  icon: "mdi-format-list-bulleted"
 ---
 
 # Aufzählung

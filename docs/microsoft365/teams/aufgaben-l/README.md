@@ -1,7 +1,8 @@
 ---
 chapter: Teams
-icon: mdi-briefcase-variant
 apps: [Microsoft Teams]
+sidebar_custom_props:
+  icon: mdi-briefcase-variant
 ---
 
 # Aufträge erstellen (Lehrer*innen)

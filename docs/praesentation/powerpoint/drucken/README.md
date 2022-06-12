@@ -1,8 +1,9 @@
 ---
 description: 'Handzettel und Notizseiten drucken'
-icon: "mdi-printer"
 apps: [Microsoft PowerPoint]
 sort: 8
+sidebar_custom_props:
+  icon: "mdi-printer"
 ---
 
 # Drucken

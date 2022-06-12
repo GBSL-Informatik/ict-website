@@ -1,7 +1,8 @@
 ---
 description: Meine E-Mails mit einer Signatur anreichern
-icon: mdi-email-check
 sort: 10
+sidebar_custom_props:
+  icon: mdi-email-check
 ---
 
 # Signatur

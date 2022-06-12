@@ -1,8 +1,9 @@
 ---
 description: So kann ein Diagrammtitel hinzugefügt und bearbeitet werden
-icon: mdi-format-title
 apps: [Microsoft Excel]
 sort: 4
+sidebar_custom_props:
+  icon: mdi-format-title
 ---
 
 # Diagrammtitel

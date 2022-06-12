@@ -1,6 +1,7 @@
 ---
-icon: mdi-music-circle
 apps: [iTunes]
+sidebar_custom_props:
+  icon: mdi-music-circle
 ---
 
 # Audio-CDs MacOS

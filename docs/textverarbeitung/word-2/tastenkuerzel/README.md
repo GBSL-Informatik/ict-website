@@ -1,7 +1,8 @@
 ---
-icon: mdi-keyboard
 apps: [Microsoft Word]
 sort: 12
+sidebar_custom_props:
+  icon: mdi-keyboard
 ---
 
 # Tastaturkürzel

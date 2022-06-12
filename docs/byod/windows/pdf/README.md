@@ -1,7 +1,8 @@
 ---
-icon: mdi-file-pdf-box
 systems: [Windows]
 sort: 70
+sidebar_custom_props:
+  icon: mdi-file-pdf-box
 ---
 
 # Acrobat Reader einrichten

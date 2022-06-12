@@ -1,7 +1,8 @@
 ---
-icon: mdi-vhs
 apps: [MediathekView]
 sort: 4
+sidebar_custom_props:
+  icon: mdi-vhs
 ---
 
 # Video aus Mediathek herunteladen

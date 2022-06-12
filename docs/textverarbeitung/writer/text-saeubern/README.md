@@ -1,12 +1,13 @@
 ---
 description: ""
-icon: mdi-spray-bottle
 tags:
     - Copy & Paste
     - Einfügen
     - Formatierung entfernen
 apps: [LibreOffice Writer]
 sort: 9
+sidebar_custom_props:
+  icon: mdi-spray-bottle
 ---
 
 # Text säubern

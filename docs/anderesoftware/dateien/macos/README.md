@@ -1,7 +1,8 @@
 ---
-icon: mdi-apple
 systems: [macOS]
 sort: 20
+sidebar_custom_props:
+  icon: mdi-apple
 ---
 
 # Dateien mit macOS

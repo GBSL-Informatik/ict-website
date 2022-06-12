@@ -1,9 +1,10 @@
 ---
 chapter: "Andere Software"
 apps: [PDF24]
-icon: mdi-format-font
 description: Gescannte Dokumente als Text erkennen (OCR)
 sort: 35
+sidebar_custom_props:
+  icon: mdi-format-font
 ---
 
 # Texterkennung

@@ -1,7 +1,8 @@
 ---
 description: Wo beziehe ich die meine Software sicher?
-icon: mdi-download
 sort: 80
+sidebar_custom_props:
+  icon: mdi-download
 ---
 
 # Software-Download

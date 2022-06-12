@@ -1,8 +1,9 @@
 ---
-icon: mdi-microsoft-onedrive
 systems: [iOS / iPadOS]
 apps: [Microsoft OneDrive]
 sort: 70
+sidebar_custom_props:
+  icon: mdi-microsoft-onedrive
 ---
 
 # OneDrive einrichten

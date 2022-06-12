@@ -1,8 +1,9 @@
 ---
 description: So kann ein Diagramm erstellt werden
-icon: mdi-chart-areaspline
 apps: [LibreOffice Calc]
 sort: 3
+sidebar_custom_props:
+  icon: mdi-chart-areaspline
 ---
 
 # Diagramm erstellen

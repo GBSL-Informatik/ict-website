@@ -1,8 +1,9 @@
 ---
 description: Zellen mit wichtigen Werten können benannt werden.
-icon: mdi-form-textbox
 apps: [LibreOffice Calc]
 sort: 12
+sidebar_custom_props:
+  icon: mdi-form-textbox
 ---
 
 # Zellen benennen

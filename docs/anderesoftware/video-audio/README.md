@@ -1,6 +1,7 @@
 ---
-icon: mdi-video
 sort: 20
+sidebar_custom_props:
+  icon: mdi-video
 ---
 
 # Video- & Audiodateien

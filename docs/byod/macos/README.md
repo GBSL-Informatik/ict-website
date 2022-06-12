@@ -1,6 +1,7 @@
 ---
-icon: mdi-apple
 systems: [macOS]
+sidebar_custom_props:
+  icon: mdi-apple
 ---
 
 # macOS

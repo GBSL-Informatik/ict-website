@@ -1,12 +1,13 @@
 ---
 description: "Wie füge ich eine Kopf- oder eine Fusszeile ein?"
-icon: mdi-page-layout-header-footer
 tags:
     - Kopfzeile
     - Fusszeile
     - Seitenzahlen
 apps: [Microsoft Word]
 sort: 9
+sidebar_custom_props:
+  icon: mdi-page-layout-header-footer
 ---
 
 # Kopf- und Fusszeile

@@ -1,7 +1,8 @@
 ---
-icon: 'mdi-share-all'
 systems: [Windows]
 apps: [Microsoft OneDrive]
+sidebar_custom_props:
+  icon: 'mdi-share-all'
 ---
 
 # Inhalte teilen in OneDrive

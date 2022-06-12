@@ -1,7 +1,8 @@
 ---
 chapter: Teams
-icon: mdi-collage
 apps: [Microsoft Teams]
+sidebar_custom_props:
+  icon: mdi-collage
 ---
 
 # Layout ändern

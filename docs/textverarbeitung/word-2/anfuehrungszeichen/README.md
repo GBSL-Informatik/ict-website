@@ -1,8 +1,9 @@
 ---
 description: "Verwenden von benutzerdefinierten Anführungszeichen in Word."
-icon: mdi-format-quote-close
 apps: [Microsoft Word]
 sort: 14
+sidebar_custom_props:
+  icon: mdi-format-quote-close
 ---
 
 # Anführungszeichen

@@ -1,5 +1,4 @@
 ---
-icon: mdi-format-pilcrow
 tags:
     - Leerzeichen
     - Bindestrich
@@ -8,6 +7,8 @@ tags:
     - Formatierungszeichen
 apps: [Microsoft Word]
 sort: 8
+sidebar_custom_props:
+  icon: mdi-format-pilcrow
 ---
 
 # Formatierungszeichen

@@ -1,7 +1,8 @@
 ---
-icon: mdi-linux
 systems: [Linux]
 sort: 20
+sidebar_custom_props:
+  icon: mdi-linux
 ---
 
 # Gymkirchenfeld-Repo installieren

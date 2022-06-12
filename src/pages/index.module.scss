@@ -33,35 +33,3 @@
     font-size: 1.2rem;
   }
 }
-
-.features {
-  display: grid;
-  grid-template-columns: 1fr 1fr 1fr;
-  gap: 3em 0;
-  grid-auto-flow: row;
-  text-align: center;
-  border-top: 1px solid var(--ifm-color-primary);
-  border-bottom: 1px solid var(--ifm-color-primary);
-  max-width: 1000px;
-  margin: 2em auto;
-}
-
-@media (max-width: 1060px) {
-  .features {
-    margin: 2em 2em;
-  }
-}
-
-
-@media (max-width: 719px) {
-  .features {
-    grid-template-columns: 1fr 1fr;
-  }
-}
-
-
-@media (max-width: 375px) {
-  .features {
-    grid-template-columns: 1fr;
-  }
-}

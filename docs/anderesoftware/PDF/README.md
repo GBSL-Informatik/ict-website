@@ -1,8 +1,9 @@
 ---
 chapter: "Andere Software"
 apps: [Drawboard PDF]
-icon: mdi-file-pdf-box
 sort: 30
+sidebar_custom_props:
+  icon: mdi-file-pdf-box
 ---
 
 # PDF-Programme

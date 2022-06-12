@@ -1,7 +1,8 @@
 ---
-icon: 'mdi-microsoft-onedrive'
 apps: [Microsoft OneDrive]
 sort: 10
+sidebar_custom_props:
+  icon: 'mdi-microsoft-onedrive'
 ---
 
 # OneDrive

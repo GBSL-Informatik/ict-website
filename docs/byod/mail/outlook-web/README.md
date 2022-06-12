@@ -1,7 +1,8 @@
 ---
-icon: mdi-microsoft-outlook
 apps: [outlook]
 sort: 30
+sidebar_custom_props:
+  icon: mdi-microsoft-outlook
 ---
 
 # Outlook im Browser

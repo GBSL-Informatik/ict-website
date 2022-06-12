@@ -1,8 +1,9 @@
 ---
-icon: mdi-microsoft-teams
 systems: [macOS]
 apps: [Microsoft Teams]
 sort: 20
+sidebar_custom_props:
+  icon: mdi-microsoft-teams
 ---
 
 # Teams einrichten

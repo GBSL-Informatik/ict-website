@@ -1,7 +1,8 @@
 ---
-icon: mdi-microsoft-teams
 apps: [Microsoft Teams]
 sort: 20
+sidebar_custom_props:
+  icon: mdi-microsoft-teams
 ---
 
 # Teams

@@ -1,8 +1,9 @@
 ---
-icon: mdi-microsoft-onedrive
 systems: [Android]
 apps: [Microsoft OneDrive]
 sort: 60
+sidebar_custom_props:
+  icon: mdi-microsoft-onedrive
 ---
 
 # OneDrive einrichten

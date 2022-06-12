@@ -1,7 +1,8 @@
 ---
-icon: mdi-play-outline
 apps: [Microsoft Stream]
 sort: 4
+sidebar_custom_props:
+  icon: mdi-play-outline
 ---
 
 # Stream

@@ -1,7 +1,8 @@
 ---
 chapter: Teams
-icon: mdi-account-multiple
 apps: [Microsoft Teams]
+sidebar_custom_props:
+  icon: mdi-account-multiple
 ---
 
 # Aufgaben abgeben (Schüler*innen)

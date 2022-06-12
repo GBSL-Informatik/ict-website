@@ -1,8 +1,9 @@
 ---
 description: Wichtige Elemente und ihre Namen
-icon: mdi-chart-bar
 apps: [Microsoft Excel, LibreOffice Calc]
 sort: 4
+sidebar_custom_props:
+  icon: mdi-chart-bar
 ---
 
 # Aufbau eines Diagramms

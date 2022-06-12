@@ -1,7 +1,8 @@
 ---
-icon: mdi-email
 apps: [Thunderbird]
 sort: 40
+sidebar_custom_props:
+  icon: mdi-email
 ---
 
 # Thunderbird

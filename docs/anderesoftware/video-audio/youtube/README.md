@@ -1,6 +1,7 @@
 ---
-icon: mdi-youtube
 sort: 3
+sidebar_custom_props:
+  icon: mdi-youtube
 ---
 
 # YouTube

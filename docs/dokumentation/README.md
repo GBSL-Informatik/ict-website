@@ -1,6 +1,5 @@
 ---
 description: Einige Regeln, an die wir uns halten sollten, damit ein einheitlicher Auftritt entstehen kann
-icon: mdi-account-details
 ---
 
 # Hinweise für Autoren
@@ -71,6 +70,8 @@ Wir schreiben Dateieindungen mit vorangestelltem Punkt in Kleinbuchstaben als Co
 > Adobe Photoshop-Dateien mit der Dateiendung `.psd`.
 
 
+sidebar_custom_props:
+  icon: mdi-account-details
 ---
 
 ## Sprache

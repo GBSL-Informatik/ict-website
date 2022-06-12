@@ -1,9 +1,10 @@
 ---
 chapter: Textverarbeitung
 description: Bearbeiten von PDFs
-icon: mdi-sheep
 systems: [Windows]
 apps: [PDF24]
+sidebar_custom_props:
+  icon: mdi-sheep
 ---
 
 # PDF24

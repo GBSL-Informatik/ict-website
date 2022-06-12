@@ -1,7 +1,8 @@
 ---
-icon: mdi-printer
 systems: [Linux]
 sort: 20
+sidebar_custom_props:
+  icon: mdi-printer
 ---
 
 # Drucker installieren

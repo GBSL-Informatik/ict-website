@@ -1,7 +1,8 @@
 ---
 description: Welche Dateitypen eignen sich für den elektronischen Versand?
-icon: mdi-attachment
 sort: 40
+sidebar_custom_props:
+  icon: mdi-attachment
 ---
 
 # Dateien versenden

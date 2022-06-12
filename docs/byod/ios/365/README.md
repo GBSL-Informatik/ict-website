@@ -1,8 +1,9 @@
 ---
-icon: mdi-microsoft-office
 systems: [iOS / iPadOS]
 apps: [Microsoft 365]
 sort: 60
+sidebar_custom_props:
+  icon: mdi-microsoft-office
 ---
 
 # Microsoft 365 einrichten

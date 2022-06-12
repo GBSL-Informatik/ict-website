@@ -1,7 +1,8 @@
 ---
-icon: 'mdi-cloud-sync'
 systems: [Windows]
 apps: [Microsoft OneDrive]
+sidebar_custom_props:
+  icon: 'mdi-cloud-sync'
 ---
 
 # Synchronisation Windows

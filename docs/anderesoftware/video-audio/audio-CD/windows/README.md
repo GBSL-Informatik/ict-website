@@ -1,6 +1,7 @@
 ---
-icon: mdi-music-circle
 apps: [Windows Media Player]
+sidebar_custom_props:
+  icon: mdi-music-circle
 ---
 
 # Audio-CDs Windows

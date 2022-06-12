@@ -3,16 +3,11 @@ import clsx from "clsx";
 import Layout from "@theme/Layout";
 import useDocusaurusContext from "@docusaurus/useDocusaurusContext";
 import styles from "./index.module.scss";
-import Link from "@docusaurus/Link";
+import featuresStyles from "../components/Features/styles.module.scss";
 import Head from "@docusaurus/Head";
+import Feature, { FeatureProps } from "../components/Feature";
 
-interface CardProps {
-  name: string;
-  icon: string;
-  route: string;
-}
-
-const IndexPages = [
+const IndexPages: FeatureProps[] = [
   {
     name: "Geräte einrichten",
     icon: "mdi-cog",
@@ -60,19 +55,6 @@ const IndexPages = [
   },
 ];
 
-const Feature = ({ name, icon, route }: CardProps) => {
-  return (
-    <div className={styles.feature}>
-      <Link to={route}>
-        <a className={clsx("mdi", icon, styles.icon)}></a>
-      </Link>
-      <h2>
-        <Link to={route}>{name}</Link>
-      </h2>
-    </div>
-  );
-};
-
 function HomepageHeader() {
   const { siteConfig } = useDocusaurusContext();
   return (
@@ -99,7 +81,7 @@ export default function Home() {
       <Layout description="Anleitungen, Tipps & Tricks">
         <HomepageHeader />
         <main>
-          <div className={styles.features}>
+          <div className={featuresStyles.features}>
             {IndexPages.map((feat, idx) => (
               <Feature {...feat} key={idx} />
             ))}

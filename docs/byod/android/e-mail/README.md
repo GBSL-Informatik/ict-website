@@ -1,7 +1,8 @@
 ---
-icon: mdi-email
 systems: [Android]
 sort: 20
+sidebar_custom_props:
+  icon: mdi-email
 ---
 
 # E-Mail einrichten

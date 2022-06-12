@@ -1,6 +1,7 @@
 ---
-icon: mdi-microsoft-windows
 systems: [Windows]
+sidebar_custom_props:
+  icon: mdi-microsoft-windows
 ---
 
 # Windows-Updates

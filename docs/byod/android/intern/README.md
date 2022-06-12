@@ -1,7 +1,8 @@
 ---
-icon: mdi-account-multiple
 systems: [Android]
 sort: 40
+sidebar_custom_props:
+  icon: mdi-account-multiple
 ---
 
 # Klassenbuch einrichten

@@ -1,6 +1,7 @@
 ---
-icon: mdi-application-brackets
 sort: 21
+sidebar_custom_props:
+  icon: mdi-application-brackets
 ---
 
 # Automatische Übersetzung

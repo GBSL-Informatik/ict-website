@@ -1,8 +1,9 @@
 ---
-icon: mdi-microsoft-onedrive
 systems: [macOS]
 apps: [Microsoft OneDrive]
 sort: 50
+sidebar_custom_props:
+  icon: mdi-microsoft-onedrive
 ---
 
 # OneDrive einrichten

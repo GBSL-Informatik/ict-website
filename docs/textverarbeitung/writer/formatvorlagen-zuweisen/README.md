@@ -1,8 +1,9 @@
 ---
 description: "Wie strukturiere ich ein Dokument?"
-icon: mdi-format-paragraph
 apps: [LibreOffice Writer]
 sort: 1
+sidebar_custom_props:
+  icon: mdi-format-paragraph
 ---
 
 # Formatvorlagen zuweisen

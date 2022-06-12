@@ -1,7 +1,8 @@
 ---
 description: Wir verwenden PCs, Notebooks, Tablets, Smartphones und die Cloud, aber wo sind welche Daten gepseichert?
-icon: mdi-content-save
 sort: 70
+sidebar_custom_props:
+  icon: mdi-content-save
 ---
 
 # Datenspeicherorte

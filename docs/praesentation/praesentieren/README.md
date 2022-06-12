@@ -1,7 +1,8 @@
 ---
 description: Was gilt es zu beachten, was zu vermeiden?
-icon: mdi-thumbs-up-down
 apps: [Microsoft PowerPoint, LibreOffice Impress]
+sidebar_custom_props:
+  icon: mdi-thumbs-up-down
 ---
 
 # Präsentieren

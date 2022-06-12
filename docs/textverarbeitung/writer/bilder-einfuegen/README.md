@@ -1,11 +1,12 @@
 ---
 description: "Wie füge ich ein Bild ein? Wie kann ich den Textfluss um das Bild ändern?"
-icon: mdi-image-plus
 tags:
     - Bilder
     - Textfluss
 apps: [LibreOffice Writer]
 sort: 5
+sidebar_custom_props:
+  icon: mdi-image-plus
 ---
 
 # Bilder einfügen und positionieren

@@ -1,8 +1,9 @@
 ---
-icon: mdi-email
 systems: [Windows]
 apps: [Microsoft Outlook]
 sort: 40
+sidebar_custom_props:
+  icon: mdi-email
 ---
 
 # E-Mail einrichten

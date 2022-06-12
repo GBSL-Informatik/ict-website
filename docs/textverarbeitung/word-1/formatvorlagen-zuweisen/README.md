@@ -1,7 +1,8 @@
 ---
-icon: mdi-format-paragraph
 apps: [Microsoft Word]
 sort: 1
+sidebar_custom_props:
+  icon: mdi-format-paragraph
 ---
 
 # Formatvorlagen zuweisen

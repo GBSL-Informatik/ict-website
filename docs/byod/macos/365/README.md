@@ -1,8 +1,9 @@
 ---
-icon: mdi-microsoft-office
 systems: [macOS]
 apps: [Microsoft 365]
 sort: 40
+sidebar_custom_props:
+  icon: mdi-microsoft-office
 ---
 
 # Microsoft 365 einrichten
