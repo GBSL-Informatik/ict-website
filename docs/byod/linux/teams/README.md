@@ -1,7 +1,7 @@
 ---
 systems: [Linux]
 apps: [Microsoft Teams]
-sort: 11
+sidebar_position: 11
 sidebar_custom_props:
   icon: mdi-microsoft-teams
 ---

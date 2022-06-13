@@ -1,7 +1,7 @@
 ---
 description: Wichtige Elemente und ihre Namen
 apps: [Microsoft Excel, LibreOffice Calc]
-sort: 4
+sidebar_position: 4
 sidebar_custom_props:
   icon: mdi-chart-bar
 ---

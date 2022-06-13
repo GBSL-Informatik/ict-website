@@ -1,7 +1,7 @@
 ---
 description: "Welche Möglichkeiten bietet mir die Referentenansicht?"
 apps: [LibreOffice Impress]
-sort: 6
+sidebar_position: 6
 ---
 
 # Referentenansicht

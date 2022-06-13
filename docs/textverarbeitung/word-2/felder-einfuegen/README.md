@@ -6,7 +6,7 @@ tags:
     - Fusszeile
     - Seitenzahlen
 apps: [Microsoft Word]
-sort: 4
+sidebar_position: 4
 sidebar_custom_props:
   icon: mdi-page-layout-header-footer
 ---

@@ -1,7 +1,7 @@
 ---
 description: Wie Datum und Uhrzeit als Zahlen repräsentiert werden
 apps: [Microsoft Excel, LibreOffice Calc]
-sort: 3
+sidebar_position: 3
 sidebar_custom_props:
   icon: mdi-clock
 ---

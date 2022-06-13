@@ -1,6 +1,6 @@
 ---
 description: Wir verwenden PCs, Notebooks, Tablets, Smartphones und die Cloud, aber wo sind welche Daten gepseichert?
-sort: 70
+sidebar_position: 70
 sidebar_custom_props:
   icon: mdi-content-save
 ---

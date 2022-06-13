@@ -1,7 +1,7 @@
 ---
 description: So kann die Darstellung eines Zahlenwerts in einer Zelle beeinflusst werden.
 apps: [Microsoft Excel]
-sort: 2
+sidebar_position: 2
 sidebar_custom_props:
   icon: mdi-numeric
 ---

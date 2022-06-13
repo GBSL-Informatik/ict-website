@@ -1,7 +1,7 @@
 ---
 description: "Wie kann ich Videos einfügen und sicherstellten, dass diese korrekt abspielen?"
 apps: [Microsoft PowerPoint]
-sort: 4
+sidebar_position: 4
 sidebar_custom_props:
   icon: "mdi-movie-open"
 ---

@@ -1,7 +1,7 @@
 ---
 description: "da bewegt sich etwas"
 apps: [LibreOffice Impress]
-sort: 3
+sidebar_position: 3
 sidebar_custom_props:
   icon: "mdi-animation-play"
 ---

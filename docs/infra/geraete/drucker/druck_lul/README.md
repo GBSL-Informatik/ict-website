@@ -1,5 +1,5 @@
 ---
-sort: 40
+sidebar_position: 40
 sidebar_custom_props:
   icon: mdi-briefcase-variant
 ---
@@ -67,7 +67,7 @@ Wenn man sich am Drucker angemeldet hat, sieht man das folgende Menü:
 
 Der USB-Anschluss befindet sich auf der rechten Seite des Geräts.
 
-:::warning <i class="mdi mdi-alert"></i> Wichtig
+:::warning <i className="mdi mdi-alert"></i> Wichtig
 Es können nur PDF-Dokumente ab dem USB-Speicherstick gedruckt werden. Andere Dokumenttypen müssen direkt ab PC/Notebook gedruckt werden.
 :::
 
@@ -119,7 +119,7 @@ Es besteht die Möglichkeit, am Kopiergerät (auf der rechten Seite) einen USB-S
 
 Man hat die Möglichkeit, direkt ab USB-Stick zu drucken. 
 
-:::warning <i class="mdi mdi-alert"></i> Wichtig
+:::warning <i className="mdi mdi-alert"></i> Wichtig
 Es wird ausschliesslich das Drucken von PDF-Dokumenten unterstützt! Das Drucken von Worddateien und anderen Dateitypen ist nicht möglich! Die Dateien werden zwar angezeigt und können ausgewählt werden, allerdings erscheint beim Drucken eine Fehlermeldung.
 :::
 

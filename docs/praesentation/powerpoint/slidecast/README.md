@@ -1,7 +1,7 @@
 ---
 description: Einen Vortrag aufzeichen und als Video speichern
 apps: [Microsoft PowerPoint]
-sort: 9
+sidebar_position: 9
 ---
 
 # Slidecast

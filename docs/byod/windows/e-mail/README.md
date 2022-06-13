@@ -1,7 +1,7 @@
 ---
 systems: [Windows]
 apps: [Microsoft Outlook]
-sort: 40
+sidebar_position: 40
 sidebar_custom_props:
   icon: mdi-email
 ---

@@ -1,7 +1,7 @@
 ---
 description: "Überlegungen zum Einfügen von Bildern"
 apps: [Microsoft PowerPoint, LibreOffice Impress]
-sort: 2
+sidebar_position: 2
 sidebar_custom_props:
   icon: "mdi-image"
 ---

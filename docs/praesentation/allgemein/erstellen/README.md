@@ -1,7 +1,7 @@
 ---
 description: "erste Überlegungen"
 apps: [Microsoft PowerPoint, LibreOffice Impress]
-sort: 1
+sidebar_position: 1
 sidebar_custom_props:
   icon: "mdi-presentation"
 ---

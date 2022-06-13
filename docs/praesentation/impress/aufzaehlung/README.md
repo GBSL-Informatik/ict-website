@@ -1,7 +1,7 @@
 ---
 description: die berühmenten «Bullet Points»
 apps: [LibreOffice Impress]
-sort: 2
+sidebar_position: 2
 sidebar_custom_props:
   icon: "mdi-format-list-bulleted"
 ---

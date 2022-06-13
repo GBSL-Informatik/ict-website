@@ -1,7 +1,7 @@
 ---
 systems: [Windows]
 apps: [Microsoft 365]
-sort: 30
+sidebar_position: 30
 sidebar_custom_props:
   icon: mdi-microsoft-office
 ---

@@ -1,12 +1,10 @@
 ---
-sort: 10
+sidebar_position: 10
 sidebar_custom_props:
   icon: mdi-check-outline
 ---
 
 # Frageart Regex
-
-<PageTitle />
 
 Der Fragetyp ist ähnlich wie _Einfacher Text_, allerdings wird die Antwort mit Regex (Regular Expressions = Reguläre Ausdrücke) ausgewertet, anstatt dass man mehrere explizite Alternativen zur richtigen Antwort angibt. Dadurch kann ein Muster definiert werden, dem eine Antwort folgen soll.
 

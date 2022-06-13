@@ -1,6 +1,6 @@
 ---
 description: Angreifer versuchen sensitive Information wie Logindaten zu erlangen, indem sie sich als bekannter, vertrauenswürdiger Partner ausgeben.
-sort: 20
+sidebar_position: 20
 sidebar_custom_props:
   icon: mdi-fish
 ---

@@ -4,7 +4,7 @@ tags:
     - Bilder
     - Textfluss
 apps: [LibreOffice Writer]
-sort: 5
+sidebar_position: 5
 sidebar_custom_props:
   icon: mdi-image-plus
 ---

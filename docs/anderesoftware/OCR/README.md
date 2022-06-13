@@ -2,7 +2,7 @@
 chapter: "Andere Software"
 apps: [PDF24]
 description: Gescannte Dokumente als Text erkennen (OCR)
-sort: 35
+sidebar_position: 35
 sidebar_custom_props:
   icon: mdi-format-font
 ---
@@ -18,7 +18,7 @@ Grundsätzlich stehen zwei Varianten für die Texterkennung zur Verfügung:
   * Die Texterkennung direkt beim Scan
   * Die nachträgliche Texterkennung mit Hilfe eines Programms. Hierbei wird der Text zuerst als PDF gescannt und anschliessend kann der Text erkannt und weiterverarbeitet werden.
 
-:::warning <i class="mdi mdi-alert"></i> Wichtig
+:::warning <i className="mdi mdi-alert"></i> Wichtig
 Die Ergebnisse der Texterkennung sind, gerade bei Texten mit älterem Schriftsatz, besser, wenn **PDF24** verwendet wird, als wenn die OCR-Funktion der Kopiergeräte genutzt wird 
 :::
 

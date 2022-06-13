@@ -1,7 +1,7 @@
 ---
 description: "Wie kann ich Bilder, Grafiken und Tabellen sauber und einheitlich beschriften?"
 apps: [LibreOffice Writer]
-sort: 7
+sidebar_position: 7
 sidebar_custom_props:
   icon: mdi-label
 ---

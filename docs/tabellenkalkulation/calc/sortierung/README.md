@@ -1,7 +1,7 @@
 ---
 description: So kann eine Tabelle nach verschiedenen Spalten sortiert werden.
 apps: [LibreOffice Calc]
-sort: 1
+sidebar_position: 1
 sidebar_custom_props:
   icon: mdi-sort
 ---

@@ -1,6 +1,6 @@
 ---
 description: Immer mehr Webseiten verwenden Zertifikate und dadurch verschlüsselte Verbindungen. Was bedeutet dies für uns?
-sort: 100
+sidebar_position: 100
 sidebar_custom_props:
   icon: mdi-certificate
 ---

@@ -1,7 +1,7 @@
 ---
 description: So kann ein Diagramm erstellt werden
 apps: [Microsoft Excel]
-sort: 3
+sidebar_position: 3
 sidebar_custom_props:
   icon: mdi-chart-areaspline
 ---

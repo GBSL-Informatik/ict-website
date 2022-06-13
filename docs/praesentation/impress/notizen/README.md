@@ -1,7 +1,7 @@
 ---
 description: "Anmerkungen und Notizen speichern"
 apps: [LibreOffice Impress]
-sort: 7
+sidebar_position: 7
 sidebar_custom_props:
   icon: "mdi-note-multiple-outline"
 ---

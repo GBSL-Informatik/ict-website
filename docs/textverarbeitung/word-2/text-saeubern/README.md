@@ -5,7 +5,7 @@ tags:
     - Einfügen
     - Formatierung entfernen
 apps: [Microsoft Word]
-sort: 9
+sidebar_position: 9
 sidebar_custom_props:
   icon: mdi-spray-bottle
 ---

@@ -1,7 +1,7 @@
 ---
 description: Wie Zellbereiche automatisch mit Werten und Formeln ausgefüllt werden können.
 apps: [LibreOffice Calc]
-sort: 11
+sidebar_position: 11
 sidebar_custom_props:
   icon: mdi-card-plus-outline
 ---

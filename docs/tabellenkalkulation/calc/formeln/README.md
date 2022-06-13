@@ -1,7 +1,7 @@
 ---
 description: Wie mit Formeln und den Grundrechenoperationen Berechnungen durchgeführt werden können.
 apps: [LibreOffice Calc]
-sort: 8
+sidebar_position: 8
 sidebar_custom_props:
   icon: mdi-function-variant
 ---

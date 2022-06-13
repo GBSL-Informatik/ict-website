@@ -3,7 +3,7 @@ description: "Wie kann ich eine Tabellen einfügen? Welche Einstellungen eigenen
 tags:
 - Tabellen
 apps: [Microsoft Word]
-sort: 6
+sidebar_position: 6
 sidebar_custom_props:
   icon: mdi-table-plus
 ---

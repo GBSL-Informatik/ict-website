@@ -1,6 +1,6 @@
 ---
 description: Webseiten interessieren sich für unsere Gewohnheiten – Hintergründe dazu und wie wir uns wehren können.
-sort: 60
+sidebar_position: 60
 sidebar_custom_props:
   icon: mdi-cookie
 ---

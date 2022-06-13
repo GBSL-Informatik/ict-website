@@ -1,7 +1,7 @@
 ---
 description: So können Datenbeschriftungen angezeigt werden
 apps: [LibreOffice Calc]
-sort: 7
+sidebar_position: 7
 sidebar_custom_props:
   icon: mdi-format-title
 ---

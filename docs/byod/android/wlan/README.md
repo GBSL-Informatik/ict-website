@@ -1,12 +1,11 @@
 ---
-title: WLAN einrichten
 systems: [Android]
-sort: 10
+sidebar_position: 10
 sidebar_custom_props:
   icon: mdi-wifi
 ---
 
-<PageTitle/>
+# WLAN einrichten
 
 ## Automatische Installation
 

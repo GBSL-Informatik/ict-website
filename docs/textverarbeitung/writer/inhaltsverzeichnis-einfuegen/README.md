@@ -1,7 +1,7 @@
 ---
 description: "ein automatisches Inhaltsverzeichnis generieren"
 apps: [LibreOffice Writer]
-sort: 2
+sidebar_position: 2
 sidebar_custom_props:
   icon: mdi-table-of-contents
 ---

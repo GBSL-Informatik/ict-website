@@ -1,7 +1,7 @@
 ---
 description: So kann ein Diagrammtitel hinzugefügt und bearbeitet werden
 apps: [LibreOffice Calc]
-sort: 4
+sidebar_position: 4
 sidebar_custom_props:
   icon: mdi-format-title
 ---

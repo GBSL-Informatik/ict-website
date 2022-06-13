@@ -3,7 +3,7 @@ tags:
     - Absatzwechsel
     - Zeilenwechsel
 apps: [Microsoft Word, LibreOffice Writer]
-sort: 1
+sidebar_position: 1
 sidebar_custom_props:
   icon: mdi-format-pilcrow
 ---

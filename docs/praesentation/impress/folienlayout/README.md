@@ -1,7 +1,7 @@
 ---
 description: Welche Elemente braucht es auf meiner Folie
 apps: [LibreOffice Impress]
-sort: 1
+sidebar_position: 1
 ---
 
 # Folienlayout

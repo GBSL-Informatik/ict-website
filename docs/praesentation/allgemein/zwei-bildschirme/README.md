@@ -1,7 +1,7 @@
 ---
 description: "Wie funktioniert das mit Beamer und Bildschirm?"
 apps: [Microsoft PowerPoint, LibreOffice Impress]
-sort: 3
+sidebar_position: 3
 sidebar_custom_props:
   icon: "mdi-projector"
 ---

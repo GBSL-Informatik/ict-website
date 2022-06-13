@@ -1,6 +1,6 @@
 ---
 description: Eigenes Verhalten im Internet ist sicherheitsrelevant – insbesondere beim Verfassen von E-Mails.
-sort: 30
+sidebar_position: 30
 sidebar_custom_props:
   icon: mdi-emoticon-kiss
 ---

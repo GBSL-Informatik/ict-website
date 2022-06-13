@@ -1,7 +1,7 @@
 ---
 systems: [iOS / iPadOS]
 apps: [Microsoft OneDrive]
-sort: 70
+sidebar_position: 70
 sidebar_custom_props:
   icon: mdi-microsoft-onedrive
 ---

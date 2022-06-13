@@ -1,7 +1,7 @@
 ---
 description: "Wichtige Diagrammtypen und deren Einsatz"
 apps: [Microsoft Excel, LibreOffice Calc]
-sort: 5
+sidebar_position: 5
 sidebar_custom_props:
   icon: mdi-chart-pie
 ---

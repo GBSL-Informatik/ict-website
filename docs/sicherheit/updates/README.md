@@ -1,6 +1,6 @@
 ---
 description: Betriebssystem- und Software-Updates sind entscheidend für die Sicherheit
-sort: 120
+sidebar_position: 120
 sidebar_custom_props:
   icon: mdi-shield-check
 ---

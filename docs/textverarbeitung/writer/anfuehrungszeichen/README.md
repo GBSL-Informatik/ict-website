@@ -1,7 +1,7 @@
 ---
 description: "Einstellen der bevorzugten Anführungszeichen in LibreOffice Writer"
 apps: [LibreOffice Writer]
-sort: 14
+sidebar_position: 14
 sidebar_custom_props:
   icon: mdi-format-quote-close
 ---

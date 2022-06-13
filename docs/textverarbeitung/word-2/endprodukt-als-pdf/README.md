@@ -1,7 +1,7 @@
 ---
 description: Endprodukt plattformunabhängig als PDF-Datei abliefern
 apps: [Microsoft Word]
-sort: 13
+sidebar_position: 13
 sidebar_custom_props:
   icon: mdi-file-pdf
 ---

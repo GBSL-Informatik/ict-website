@@ -1,6 +1,6 @@
 ---
 apps: [Affinity Designer, Affinity Photo, Affinity Publisher]
-sort: 50
+sidebar_position: 50
 sidebar_custom_props:
   icon: mdi-fountain-pen
 ---

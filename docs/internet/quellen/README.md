@@ -1,6 +1,6 @@
 ---
 description: Wie schreibe ich eine korrekte Quellenangabe
-sort: 2
+sidebar_position: 2
 sidebar_custom_props:
   icon: mdi-typewriter
 ---

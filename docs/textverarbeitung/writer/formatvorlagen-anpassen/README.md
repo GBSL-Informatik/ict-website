@@ -1,7 +1,7 @@
 ---
 subitle: "Aussehen eines gesamten Dokumentes anpassen"
 apps: [LibreOffice Writer]
-sort: 3
+sidebar_position: 3
 sidebar_custom_props:
   icon: mdi-pencil-outline
 ---

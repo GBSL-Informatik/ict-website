@@ -1,7 +1,7 @@
 ---
 description: So kann die Darstellung der Achsen angepasst werden
 apps: [LibreOffice Calc]
-sort: 6
+sidebar_position: 6
 sidebar_custom_props:
   icon: mdi-format-title
 ---

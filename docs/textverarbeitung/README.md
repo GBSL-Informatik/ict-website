@@ -1,5 +1,6 @@
 ---
 description: Was ist ein Textverarbeitungsprogramm und welche Produkte stehen  uns zur Verfügung?
+sidebar_position: 0
 sidebar_custom_props:
   icon: mdi-text-box-outline
 ---

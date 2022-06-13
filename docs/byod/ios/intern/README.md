@@ -1,6 +1,6 @@
 ---
 systems: [iOS / iPadOS]
-sort: 40
+sidebar_position: 40
 sidebar_custom_props:
   icon: mdi-account-multiple
 ---

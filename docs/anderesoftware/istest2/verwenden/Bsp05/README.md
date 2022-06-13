@@ -1,12 +1,10 @@
 ---
-sort: 10
+sidebar_position: 10
 sidebar_custom_props:
   icon: mdi-check-outline
 ---
 
 # Frageart Mathematischer Ausdruck
-
-<PageTitle />
 
 Bei diesem Fragetyp können mathematische Ausdrücke in einem Freitextfeld eingegeben werden. Die Formeln für die Fragestellungen können mit LaTex eingegeben werden. LaTeX ist eine Syntax, um mathematische Ausdrücke darzustellen.
 

@@ -1,6 +1,6 @@
 ---
 description: Bin ich mir bewusst, dass mein Blick ins Internet eingeschränkt wird – basierend auf meiner bisherigen Aktivität?
-sort: 10
+sidebar_position: 10
 sidebar_custom_props:
   icon: mdi-chart-bubble
 ---

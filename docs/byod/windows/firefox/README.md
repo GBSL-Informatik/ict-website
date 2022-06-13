@@ -1,7 +1,7 @@
 ---
 systems: [Windows]
 apps: [Firefox]
-sort: 80
+sidebar_position: 80
 sidebar_custom_props:
   icon: mdi-firefox
 ---

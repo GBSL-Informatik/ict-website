@@ -1,6 +1,6 @@
 ---
 apps: [Microsoft Word]
-sort: 2
+sidebar_position: 2
 sidebar_custom_props:
   icon: mdi-format-paragraph
 ---

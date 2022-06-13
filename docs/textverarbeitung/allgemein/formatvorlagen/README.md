@@ -1,7 +1,7 @@
 ---
 description: Was sind Formatvorlagen? Wie funktionieren sie?
 apps: [Microsoft Word, LibreOffice Writer]
-sort: 2
+sidebar_position: 2
 ---
 
 # Formatvorlagen

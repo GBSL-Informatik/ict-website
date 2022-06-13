@@ -1,7 +1,7 @@
 ---
 description: So kann ein Achsentitel hinzugefügt und bearbeitet werden
 apps: [Microsoft Excel]
-sort: 5
+sidebar_position: 5
 sidebar_custom_props:
   icon: mdi-format-title
 ---

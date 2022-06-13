@@ -1,6 +1,6 @@
 ---
 description: Wo beziehe ich die meine Software sicher?
-sort: 80
+sidebar_position: 80
 sidebar_custom_props:
   icon: mdi-download
 ---

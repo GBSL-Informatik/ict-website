@@ -1,5 +1,6 @@
 ---
 description: Vortrag halten mit elektronischen Geräten
+sidebar_position: 0
 sidebar_custom_props:
   icon: mdi-presentation
 ---

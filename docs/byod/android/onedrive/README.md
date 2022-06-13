@@ -1,7 +1,7 @@
 ---
 systems: [Android]
 apps: [Microsoft OneDrive]
-sort: 60
+sidebar_position: 60
 sidebar_custom_props:
   icon: mdi-microsoft-onedrive
 ---

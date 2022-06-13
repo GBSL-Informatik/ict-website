@@ -1,6 +1,6 @@
 ---
 description: Virenschutz unter Windows ist zentral – überlegtes und vorsichtiges Surfen trotzdem unerlässlich.
-sort: 110
+sidebar_position: 110
 sidebar_custom_props:
   icon: mdi-shield-bug
 ---

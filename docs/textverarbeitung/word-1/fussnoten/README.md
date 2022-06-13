@@ -2,7 +2,7 @@
 tags:
     - Fussnoten
 apps: [Microsoft Word]
-sort: 10
+sidebar_position: 10
 sidebar_custom_props:
   icon: mdi-chevron-up
 ---

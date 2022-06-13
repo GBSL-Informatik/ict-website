@@ -1,6 +1,6 @@
 ---
 apps: [Microsoft Word]
-sort: 7
+sidebar_position: 7
 sidebar_custom_props:
   icon: mdi-tag-text
 ---

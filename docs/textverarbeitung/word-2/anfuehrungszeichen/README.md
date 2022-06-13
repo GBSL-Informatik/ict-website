@@ -1,14 +1,12 @@
 ---
 description: "Verwenden von benutzerdefinierten Anführungszeichen in Word."
 apps: [Microsoft Word]
-sort: 14
+sidebar_position: 14
 sidebar_custom_props:
   icon: mdi-format-quote-close
 ---
 
 # Anführungszeichen
-
-<PageTitle />
 
 ## Autokorrektur-Optionen öffnen
 
