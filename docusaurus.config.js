@@ -5,12 +5,14 @@ const lightCodeTheme = require('prism-react-renderer/themes/github');
 const darkCodeTheme = require('prism-react-renderer/themes/dracula');
 const remarkMdi = require('./src/plugins/remark-mdi');
 const remarkKbd = require('./src/plugins/remark-kbd');
+const remarkImg2Fig = require('./src/plugins/remark-img2fig');
 
 
 const isDev = process.env.NODE_ENV === 'development';
 
 const MD_PLUGINS = {
   beforeDefaultRemarkPlugins: [
+    remarkImg2Fig,
     remarkKbd
   ],
   remarkPlugins: [
