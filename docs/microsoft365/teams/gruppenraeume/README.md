@@ -12,7 +12,7 @@ sidebar_custom_props:
 
 
 
-In Teams Besprechungen können nun Gruppenräume erstellt werden. Meeting Organisator\*innen haben damit die Möglichkeit, Meeting Teilnehmer\*innen in kleinere Gruppen aufzuteilen, z.B. um Diskussionen in Arbeitsgruppen durchzuführen. Organisator\*innen können zwischen den Gruppenräumen hin- und herspringen, Ankündigungen in allen Räumen gleichzeitig machen und alle jederzeit zum Hauptmeeting zurückholen.
+In Teams Besprechungen können nun Gruppenräume erstellt werden. Meeting Organisator:innen haben damit die Möglichkeit, Meeting Teilnehmer:innen in kleinere Gruppen aufzuteilen, z.B. um Diskussionen in Arbeitsgruppen durchzuführen. Organisator:innen können zwischen den Gruppenräumen hin- und herspringen, Ankündigungen in allen Räumen gleichzeitig machen und alle jederzeit zum Hauptmeeting zurückholen.
 
 
 ## Erstellung von Gruppenräumen

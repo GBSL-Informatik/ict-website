@@ -30,7 +30,7 @@ Hier wird für typische Quellen erklärt, wie diese in der Literaturverwaltung v
 | Jahr       | 2015                                                                     |
 
 
-### Mehrere Autor*innen
+### Mehrere Autor:innen
 
 ![](./russel-2012.png)
 

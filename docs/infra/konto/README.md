@@ -15,7 +15,7 @@ Für das Login verwendest du überall deine **Schul-E-Mail-Adresse**. Deine E-Ma
 |               |                     E-Mail-Adresse |
 | :------------ | ---------------------------------: |
 | Schüler:innen |        vorname.nachname@mygymer.ch |
-| Lehrer*innen  | vorname.nachname@gymkirchenfeld.ch |
+| Lehrer:innen  | vorname.nachname@gymkirchenfeld.ch |
 
 
 ## Benutzername
@@ -25,7 +25,7 @@ Den Benutzernamen brauchst du eigentlich nicht, du kannst ihn allerdings zum Ein
 |                            |       Benutzername |
 | :------------------------- | -----------------: |
 | Schüler:innen (vor Mai 20) | _vorname.nachname_ |
-| Lehrer*innen (vor Mai 20)  |     _xyz_ (Kürzel) |
+| Lehrer:innen (vor Mai 20)  |     _xyz_ (Kürzel) |
 | alle ab Mai 20             |           _u12345_ |
 
 ## Passwort vergessen

@@ -33,7 +33,7 @@ Für die **Multifunktionsgeräte** (Eingangshalle, Kopierraum, Mediothek, etc.) 
 
 [für Schüler:innen](/infra/geraete/drucker/druck_sus/#scan-mit-texterkennung-per-mail-oder-in-home-verzeichnis)
 
-[für Lehrer*innen](/infra/geraete/drucker/druck_lul/#scan-mit-texterkennung-per-mail-oder-in-home-verzeichnis)
+[für Lehrer:innen](/infra/geraete/drucker/druck_lul/#scan-mit-texterkennung-per-mail-oder-in-home-verzeichnis)
 
 Für die **Fachschaftsdrucker** in den Lehrerarbeitszimmern kann wie folgt vorgegangen werden:
 

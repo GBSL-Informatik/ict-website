@@ -20,7 +20,7 @@ sidebar_custom_props:
 
 [:mdi-microsoft-teams: Gruppenräume erstellen](gruppenraeume/)
 
-[:mdi-microsoft-teams: Externe Nutzer*innen hinzufügen](externe/)
+[:mdi-microsoft-teams: Externe Nutzer:innen hinzufügen](externe/)
 
 [:mdi-file-document: Dateien hochladen](dateien-hochladen/)
 

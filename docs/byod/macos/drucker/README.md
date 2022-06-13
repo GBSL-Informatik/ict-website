@@ -210,7 +210,7 @@ Für das Login verwendest du normalerweise deine **Schul-E-Mail-Adresse**. Deine
 |               |                     E-Mail-Adresse |
 | :------------ | ---------------------------------: |
 | Schüler:innen |        vorname.nachname@mygymer.ch |
-| Lehrer*innen  | vorname.nachname@gymkirchenfeld.ch |
+| Lehrer:innen  | vorname.nachname@gymkirchenfeld.ch |
 
 
 
@@ -224,7 +224,7 @@ _vorname.nachname_
 _u12345_ (nur Schüler:innen, die nach Mai 2020 in die Schule eingetreten sind!)
 
 **Für Lehrpersonen:**
-_xyz_ Lehrer*innenkürzel
+_xyz_ Lehrer:innenkürzel
 _u12345_ (nur Lehrpersonen, die nach Mai 2020 in die Schule eingetreten sind!)
 
 :::

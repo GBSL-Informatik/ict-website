@@ -8,11 +8,11 @@ sidebar_custom_props:
   path: /docs/microsoft365/teams/externe/README.md
 ---
 
-# Externe Nutzer*innen hinzufügen
+# Externe Nutzer:innen hinzufügen
 
 
 
-Exteren Benutzer*innen sind Personen, die nicht Mitglied des Gymnasium Kirchenfeld sind. Z.B. Personen mit E-Mailadressen von anderen Institutionen wie _@stud.phbern.ch_, _@students.unibe.ch_, _@be.ch_, _@eduvaud.ch_ oder Personen mit privaten E-Mailadressen von anderen Anbietern wie z.B. _@yahoo.com_, _@gmx.ch_, etc. Auch mit diesen externen Personen kann in Teams ein Video- oder Audioanruf geführt werden. 
+Exteren Benutzer:innen sind Personen, die nicht Mitglied des Gymnasium Kirchenfeld sind. Z.B. Personen mit E-Mailadressen von anderen Institutionen wie _@stud.phbern.ch_, _@students.unibe.ch_, _@be.ch_, _@eduvaud.ch_ oder Personen mit privaten E-Mailadressen von anderen Anbietern wie z.B. _@yahoo.com_, _@gmx.ch_, etc. Auch mit diesen externen Personen kann in Teams ein Video- oder Audioanruf geführt werden. 
 
 **Voraussetzung:** 
 Entweder installiert man die Teams-App https://www.microsoft.com/de-ch/microsoft-teams/download-app (empfohlen) 
@@ -21,7 +21,7 @@ Teams wird im Browser genutzt - hierfür muss der Microsoft Edge Browser install
 
 ## Chatfunktion 
 
-Die Chatfunktion kann mit externen Nutzer*innen nur dann verwendet werden, wenn deren eigene Institution ebenfalls Teams nutzt oder es sich um eine Mailadresse handelt, die mit Skype/Microsoft verknüpft ist.
+Die Chatfunktion kann mit externen Nutzer:innen nur dann verwendet werden, wenn deren eigene Institution ebenfalls Teams nutzt oder es sich um eine Mailadresse handelt, die mit Skype/Microsoft verknüpft ist.
 Hierfür im linken Menü in Teams den Button Chat ![](./images/teams-extern05.png) drücken und in der Suchleiste die E-Mailadresse eingeben. 
 
 Die Option _[E-Mailadresse] extern durchsuchen_ wählen.

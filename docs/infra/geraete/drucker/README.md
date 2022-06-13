@@ -15,5 +15,5 @@ Anleitungen zum Drucken, Kopieren und Scannen für Schüler:innen und Lehrperson
 
 [:mdi-account-multiple: Schüler:innen](druck_sus/)
 
-[:mdi-briefcase-variant: Lehrer*innen](druck_lul/)
+[:mdi-briefcase-variant: Lehrer:innen](druck_lul/)
 -->

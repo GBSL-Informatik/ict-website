@@ -24,7 +24,7 @@ Deshalb ist es wichtig, die Daten innerhalb von 30 Tagen nach Austrittsdatum zu 
 
 Dies sind vor allem:
 
-  :mdi-check-circle: Bitlockerschlüssel (nur für Windowsnutzer*innen)
+  :mdi-check-circle: Bitlockerschlüssel (nur für Windowsnutzer:innen)
   :mdi-check-circle: Dateien in Teams
   :mdi-check-circle: Dateien in OneDrive
   :mdi-check-circle: OneNote-Notizbücher: Kursnotizbücher und das persönliche Schulnotizbuch
@@ -33,13 +33,13 @@ Dies sind vor allem:
 
 ## Bitlocker
 
-:::warning <i className="mdi mdi-alert"></i> Wichtiger Hinweis für Windows-Nutzer*innen
+:::warning <i className="mdi mdi-alert"></i> Wichtiger Hinweis für Windows-Nutzer:innen
 Bitlocker ist eine Windows-Sicherheitsoption, die die Festplatte eines Geräts verschlüsselt. Je nach Windows-Version ist es möglich, dass Bitlocker **automatisch** aktiviert wurde. Die Verschlüsselung bleibt auch **nach der Löschung des Kontos am Gymnasium Kirchenfeld aktiv**.
 Wenn das Gerät später wegen irgendwelcher Probleme nicht mehr korrekt startet oder die Festplatte entfernt werden muss, weil das Gerät defekt ist, kann man **ohne Schlüssel nicht mehr auf die Daten auf der Festplatte zugreifen**. 
 
 Deshalb ist es zwingend notwendig, den **Bitlocker-Schlüssel vor dem Austritt zu sichern**. Nach der Löschung des Gymkirchenfeld-Accounts kann man den Schlüssel nur noch so lange speichern, wie der Zugriff auf das Gerät noch funktioniert. Der Informatikdienst speichert den Schlüssel nicht ab und hat nach Löschung des Kontos keine Möglichkeit, auf den Schlüssel zuzugreifen.
 
-Deshalb sollten alle Windows-Nutzer*innen vor dem Austritt:
+Deshalb sollten alle Windows-Nutzer:innen vor dem Austritt:
 **1. Kontrollieren, ob Bitlocker auf ihrem Gerät aktiviert ist**
 **2. Falls dies der Fall ist, den Bitlockerschlüssel sichern oder Bitlocker deaktivieren**
 

@@ -8,7 +8,7 @@ sidebar_custom_props:
   path: /docs/microsoft365/teams/aufgaben-l/README.md
 ---
 
-# Aufträge erstellen (Lehrer*innen)
+# Aufträge erstellen (Lehrer:innen)
 
 
 

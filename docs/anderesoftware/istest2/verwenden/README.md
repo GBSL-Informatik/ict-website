@@ -16,7 +16,7 @@ sidebar_custom_props:
 Auf Youtube steht eine Schulung zu isTest2 zur Verfügung: https://youtu.be/rABE2pgjbIQ.
 
 :::warning Achtung: 
-Wenn isTest2 ohne **Safe Exam Browser (SEB)** verwendet wird, können Schüler\*innen jederzeit andere Dokumente öffnen und so zum Beispiel digitale Unterrichtsunterlagen verwenden. Auch können die Schüler\*innen im Internet nach Lösungen suchen resp. Übersetzungsprogramme verwenden! isTest2 alleine ist also nur für Open-book-Prüfungen geeignet (Prüfungen, an denen alle Unterlagen und auch im Internet verfügbare Informationen verwendet werden dürfen). Soll die Prüfung ohne die Hilfe von Unterlagen absolviert werden, so sollte [isTest2 in Kombination mit dem Safe Exam Browser verwendet werden](../seb).
+Wenn isTest2 ohne **Safe Exam Browser (SEB)** verwendet wird, können Schüler:innen jederzeit andere Dokumente öffnen und so zum Beispiel digitale Unterrichtsunterlagen verwenden. Auch können die Schüler:innen im Internet nach Lösungen suchen resp. Übersetzungsprogramme verwenden! isTest2 alleine ist also nur für Open-book-Prüfungen geeignet (Prüfungen, an denen alle Unterlagen und auch im Internet verfügbare Informationen verwendet werden dürfen). Soll die Prüfung ohne die Hilfe von Unterlagen absolviert werden, so sollte [isTest2 in Kombination mit dem Safe Exam Browser verwendet werden](../seb).
 :::
 
 
@@ -28,7 +28,7 @@ Das Expertiselevel wird im Fenster von isTest2 rechts oben angezeigt.
 
 ![](./images/isTest_001.png)
 
-Das Expertiselevel lässt sich individuell einstellen, um die Menge der Funktionen zu reduzieren oder zu erweitern. Dies soll es Einsteiger*innen ermöglichen, sich an die umfangreichen Funktionalitäten von isTest2 heranzutasten. Zu Beginn ist man als Anfänger registriert. Die Optionen sind:
+Das Expertiselevel lässt sich individuell einstellen, um die Menge der Funktionen zu reduzieren oder zu erweitern. Dies soll es Einsteiger:innen ermöglichen, sich an die umfangreichen Funktionalitäten von isTest2 heranzutasten. Zu Beginn ist man als Anfänger registriert. Die Optionen sind:
 
   * Anfänger
   * Standard
@@ -88,10 +88,10 @@ Wenn alle Schüler:innen einer Klasse in einen Kurs eingeladen werden sollen, ka
 
 ### 3. einzelne Schüler:innen in bestehenden Kurs übernehmen
 
-Wenn während des Semesters Schüler\*innen in eine Klasse neu ein- oder austreten oder wenn man einen Kurs mit Schüler\*innen aus unterschiedlichen Klassen erstellen möchte, muss man diese einzeln in einen Kurs aufnehmen.
+Wenn während des Semesters Schüler:innen in eine Klasse neu ein- oder austreten oder wenn man einen Kurs mit Schüler:innen aus unterschiedlichen Klassen erstellen möchte, muss man diese einzeln in einen Kurs aufnehmen.
 
 :::warning Achtung: 
-Wenn während eines laufenden Semesters Schüler\*innen in eine Klasse neu eintreten, werden diese nicht automatisch in isTest2 hinzugefügt! Die Schülerin muss von einem Admin in isTest2 hinzugefügt werden, damit sie in der Liste erscheint. Fehlende Schüler\*innen können an support@gymkirchenfeld.ch gemeldet werden. Bitte den Vor- und Nachnamen des Schülers und die Klasse angeben.
+Wenn während eines laufenden Semesters Schüler:innen in eine Klasse neu eintreten, werden diese nicht automatisch in isTest2 hinzugefügt! Die Schülerin muss von einem Admin in isTest2 hinzugefügt werden, damit sie in der Liste erscheint. Fehlende Schüler:innen können an support@gymkirchenfeld.ch gemeldet werden. Bitte den Vor- und Nachnamen des Schülers und die Klasse angeben.
 :::
 
   * Kurs erzeugen (wie unter [1. Kurs erzeugen](#Kurserz) beschrieben).
@@ -160,7 +160,7 @@ Mit dem Vornamen _Test_ nach Namen filtern.
   
   * Nun erscheint eine Übersicht mit allen hinzugefügten Schüler:innen
 
-Um sich mit einem TestSchüler:innen-Account anzumelden, kann man die entsprechenden Anmeldedaten zu den Test-Schüler\*innen auf [intern > Dokumente > Anleitungen > isTest2: TestSchüler:innen-Liste](https://api.gymkirchenfeld.ch/document/show?id=201438) finden. 
+Um sich mit einem TestSchüler:innen-Account anzumelden, kann man die entsprechenden Anmeldedaten zu den Test-Schüler:innen auf [intern > Dokumente > Anleitungen > isTest2: TestSchüler:innen-Liste](https://api.gymkirchenfeld.ch/document/show?id=201438) finden. 
 ## Tests erstellen
 
 Ein **Test** ist eine Zusammenstellung von Fragen. Ein Test kann später als Prüfung in mehreren Klassen/Kursen durchgeführt werden. Eine **Prüfung** ist ein Test, der mit einer _bestimmten_ Klasse oder einem bestimmten Kurs durchgeführt wird. Tests werden als Vorlagen, um später Prüfungen durchzuführen, in einem Archiv gespeichert. Dank den Archiven können Tests nach Themen oder Fächern sortiert abgelegt werden.
@@ -480,7 +480,7 @@ Alle Schüler:innen, die sich noch nicht eingeloggt hatten am Prüfungstermin, k
 
 ### 8. Prüfung ausdrucken (nur Fragen und Lösungen)
 
-Falls gewünscht, kann die Prüfung vor der Freigabe an die Schüler\*innen gedruckt werden. Es werden hierbei nur die Fragen & Lösungen ausgedruckt, nicht die Ergebnisse der Schüler\*innen. Um die Prüfungsergebnisse auszudrucken, siehe [Kapitel 12](#Ergebnisse)
+Falls gewünscht, kann die Prüfung vor der Freigabe an die Schüler:innen gedruckt werden. Es werden hierbei nur die Fragen & Lösungen ausgedruckt, nicht die Ergebnisse der Schüler:innen. Um die Prüfungsergebnisse auszudrucken, siehe [Kapitel 12](#Ergebnisse)
 
   * Auf _Prüfung > Veröffentlichung_ klicken
 
