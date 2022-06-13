@@ -25,10 +25,14 @@ getFilesRecursively(ROOT);
 
 files.forEach((file, idx) => {
     const fm = matter.read(file);
+    // if (idx !== 0) {
+    //     return;
+    // }
     fm.data.sidebar_custom_props = {
         ...(fm.data.sidebar_custom_props || {}),
-        source: 'gym-kirchenfeld'
+        path: `/${file}`
     }
+    console.log(file)
     fs.writeFileSync(
         file,
         matter.stringify(fm.content, fm.data),
