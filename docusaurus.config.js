@@ -7,6 +7,8 @@ const remarkMdi = require('./src/plugins/remark-mdi');
 const remarkKbd = require('./src/plugins/remark-kbd');
 
 
+const isDev = process.env.NODE_ENV === 'development';
+
 const MD_PLUGINS = {
   beforeDefaultRemarkPlugins: [
     remarkKbd
@@ -15,26 +17,6 @@ const MD_PLUGINS = {
     remarkMdi,
   ]
 };
-
-const getDocConfig = (name) => {
-  return {
-    ...MD_PLUGINS,
-    id: name,
-    path: `docs/${name}`,
-    routeBasePath: name,
-    showLastUpdateTime: true,
-    sidebarCollapsible: true,
-    sidebarPath: require.resolve('./sidebars.js'),
-    editUrl: 'https://github.com/gbsl-informatik/ict-website/edit/main/',
-  }
-}
-
-const getDocPluginConfig = (name) => {
-  return [
-    '@docusaurus/plugin-content-docs',
-    getDocConfig(name)    
-  ]
-}
 
 /** @type {import('@docusaurus/types').Config} */
 const config = {
@@ -166,7 +148,7 @@ const config = {
     [
       '@docusaurus/plugin-pwa',
       {
-        debug: true,
+        debug: isDev,
         offlineModeActivationStrategies: [
           'appInstalled',
           'standalone',
