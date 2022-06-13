@@ -4,6 +4,7 @@ sidebar_position: 5
 sidebar_custom_props:
   icon: mdi-star
   source: gym-kirchenfeld
+  path: /docs/internet/favoriten/README.md
 ---
 
 # Favoriten verwalten

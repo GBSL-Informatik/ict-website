@@ -6,6 +6,7 @@ sidebar_position: 10
 sidebar_custom_props:
   icon: mdi-chart-bubble
   source: gym-kirchenfeld
+  path: /docs/sicherheit/filterblase/README.md
 ---
 
 # Filterblase

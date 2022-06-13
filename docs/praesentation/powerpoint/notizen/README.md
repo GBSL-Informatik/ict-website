@@ -6,6 +6,7 @@ sidebar_position: 7
 sidebar_custom_props:
   icon: mdi-note-multiple-outline
   source: gym-kirchenfeld
+  path: /docs/praesentation/powerpoint/notizen/README.md
 ---
 
 # Notizen

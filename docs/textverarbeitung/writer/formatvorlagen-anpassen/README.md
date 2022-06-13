@@ -6,6 +6,7 @@ sidebar_position: 3
 sidebar_custom_props:
   icon: mdi-pencil-outline
   source: gym-kirchenfeld
+  path: /docs/textverarbeitung/writer/formatvorlagen-anpassen/README.md
 ---
 
 # Formatvorlagen anpassen

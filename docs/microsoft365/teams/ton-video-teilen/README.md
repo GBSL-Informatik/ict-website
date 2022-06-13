@@ -5,6 +5,7 @@ apps:
 sidebar_custom_props:
   icon: mdi-microsoft-teams
   source: gym-kirchenfeld
+  path: /docs/microsoft365/teams/ton-video-teilen/README.md
 ---
 
 # Ton- und Videoaufnahmen teilen

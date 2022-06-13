@@ -5,6 +5,7 @@ sidebar_position: 40
 sidebar_custom_props:
   icon: mdi-email
   source: gym-kirchenfeld
+  path: /docs/byod/mail/thunderbird/README.md
 ---
 
 # Thunderbird

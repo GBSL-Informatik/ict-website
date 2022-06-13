@@ -9,6 +9,7 @@ sidebar_position: 2
 sidebar_custom_props:
   icon: mdi-percent
   source: gym-kirchenfeld
+  path: /docs/tabellenkalkulation/allgemein/zellinhalt/README.md
 ---
 
 # Datentypen

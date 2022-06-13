@@ -5,6 +5,7 @@ sidebar_position: 0
 sidebar_custom_props:
   icon: mdi-cellphone-link
   source: gym-kirchenfeld
+  path: /docs/anderesoftware/README.md
 ---
 
 # Andere Software & Medien

@@ -6,6 +6,7 @@ sidebar_position: 4
 sidebar_custom_props:
   icon: mdi-movie-open
   source: gym-kirchenfeld
+  path: /docs/praesentation/powerpoint/videos/README.md
 ---
 
 # Videos

@@ -5,6 +5,7 @@ sidebar_position: 20
 sidebar_custom_props:
   icon: mdi-apple
   source: gym-kirchenfeld
+  path: /docs/anderesoftware/dateien/macos/README.md
 ---
 
 # Dateien mit macOS

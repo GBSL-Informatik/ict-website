@@ -5,6 +5,7 @@ sidebar_position: 70
 sidebar_custom_props:
   icon: mdi-file-pdf-box
   source: gym-kirchenfeld
+  path: /docs/byod/windows/pdf/README.md
 ---
 
 # Acrobat Reader einrichten

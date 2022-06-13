@@ -4,6 +4,7 @@ sidebar_position: 20
 sidebar_custom_props:
   icon: mdi-email-send
   source: gym-kirchenfeld
+  path: /docs/infra/email/empfaenger.md
 ---
 
 # Empfänger

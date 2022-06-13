@@ -4,6 +4,7 @@ sidebar_position: 40
 sidebar_custom_props:
   icon: mdi-attachment
   source: gym-kirchenfeld
+  path: /docs/infra/email/dateien-versenden.md
 ---
 
 # Dateien versenden

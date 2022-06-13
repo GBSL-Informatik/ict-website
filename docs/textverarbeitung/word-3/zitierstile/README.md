@@ -5,6 +5,7 @@ sidebar_position: 5
 sidebar_custom_props:
   icon: mdi-bookshelf
   source: gym-kirchenfeld
+  path: /docs/textverarbeitung/word-3/zitierstile/README.md
 ---
 
 # Zitierstile

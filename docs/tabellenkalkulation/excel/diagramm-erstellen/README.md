@@ -6,6 +6,7 @@ sidebar_position: 3
 sidebar_custom_props:
   icon: mdi-chart-areaspline
   source: gym-kirchenfeld
+  path: /docs/tabellenkalkulation/excel/diagramm-erstellen/README.md
 ---
 
 # Diagramm erstellen

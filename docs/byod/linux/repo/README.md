@@ -5,6 +5,7 @@ sidebar_position: 20
 sidebar_custom_props:
   icon: mdi-linux
   source: gym-kirchenfeld
+  path: /docs/byod/linux/repo/README.md
 ---
 
 # Gymkirchenfeld-Repo installieren

@@ -5,6 +5,7 @@ sidebar_position: 3
 sidebar_custom_props:
   icon: mdi-image-multiple
   source: gym-kirchenfeld
+  path: /docs/textverarbeitung/word-3/abbildungsverzeichnis/README.md
 ---
 
 # Abbildungsverzeichnis

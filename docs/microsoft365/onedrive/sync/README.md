@@ -6,6 +6,7 @@ apps:
 sidebar_custom_props:
   icon: mdi-cloud-sync
   source: gym-kirchenfeld
+  path: /docs/microsoft365/onedrive/sync/README.md
 ---
 
 # Synchronisation Windows

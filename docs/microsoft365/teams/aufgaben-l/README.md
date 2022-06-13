@@ -5,6 +5,7 @@ apps:
 sidebar_custom_props:
   icon: mdi-briefcase-variant
   source: gym-kirchenfeld
+  path: /docs/microsoft365/teams/aufgaben-l/README.md
 ---
 
 # Aufträge erstellen (Lehrer*innen)

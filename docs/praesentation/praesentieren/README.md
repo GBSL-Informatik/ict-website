@@ -6,6 +6,7 @@ apps:
 sidebar_custom_props:
   icon: mdi-thumbs-up-down
   source: gym-kirchenfeld
+  path: /docs/praesentation/praesentieren/README.md
 ---
 
 # Präsentieren

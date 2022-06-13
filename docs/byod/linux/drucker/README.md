@@ -5,6 +5,7 @@ sidebar_position: 20
 sidebar_custom_props:
   icon: mdi-printer
   source: gym-kirchenfeld
+  path: /docs/byod/linux/drucker/README.md
 ---
 
 # Drucker installieren

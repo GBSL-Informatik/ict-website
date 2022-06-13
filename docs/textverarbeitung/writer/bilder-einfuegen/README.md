@@ -9,6 +9,7 @@ sidebar_position: 5
 sidebar_custom_props:
   icon: mdi-image-plus
   source: gym-kirchenfeld
+  path: /docs/textverarbeitung/writer/bilder-einfuegen/README.md
 ---
 
 # Bilder einfügen und positionieren

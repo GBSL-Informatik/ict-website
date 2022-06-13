@@ -7,6 +7,7 @@ sidebar_position: 4
 sidebar_custom_props:
   icon: mdi-chart-bar
   source: gym-kirchenfeld
+  path: /docs/tabellenkalkulation/allgemein/aufbau-diagramm/README.md
 ---
 
 # Aufbau eines Diagramms

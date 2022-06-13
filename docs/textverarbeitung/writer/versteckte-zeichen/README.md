@@ -15,6 +15,7 @@ sidebar_position: 8
 sidebar_custom_props:
   icon: mdi-eye-off
   source: gym-kirchenfeld
+  path: /docs/textverarbeitung/writer/versteckte-zeichen/README.md
 ---
 
 # Versteckte Zeichen

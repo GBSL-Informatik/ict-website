@@ -6,6 +6,7 @@ sidebar_position: 2
 sidebar_custom_props:
   icon: mdi-numeric
   source: gym-kirchenfeld
+  path: /docs/tabellenkalkulation/calc/zahlenformate/README.md
 ---
 
 # Zahlenformate

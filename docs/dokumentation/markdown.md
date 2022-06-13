@@ -3,6 +3,7 @@ chapter: Kitchen Sink
 sidebar_custom_props:
   icon: mdi-school
   source: gym-kirchenfeld
+  path: /docs/dokumentation/markdown.md
 ---
 
 #  "Markdown"

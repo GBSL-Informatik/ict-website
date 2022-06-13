@@ -6,6 +6,7 @@ sidebar_position: 13
 sidebar_custom_props:
   icon: mdi-file-pdf
   source: gym-kirchenfeld
+  path: /docs/textverarbeitung/word-2/endprodukt-als-pdf/README.md
 ---
 
 # Endprodukt als PDF

@@ -5,6 +5,7 @@ sidebar_position: 40
 sidebar_custom_props:
   icon: mdi-account-multiple
   source: gym-kirchenfeld
+  path: /docs/byod/android/intern/README.md
 ---
 
 # Klassenbuch einrichten

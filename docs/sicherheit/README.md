@@ -5,6 +5,7 @@ sidebar_position: 0
 sidebar_custom_props:
   icon: mdi-security
   source: gym-kirchenfeld
+  path: /docs/sicherheit/README.md
 ---
 
 # Übersicht

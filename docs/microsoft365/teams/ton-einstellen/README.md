@@ -5,6 +5,7 @@ apps:
 sidebar_custom_props:
   icon: mdi-microphone
   source: gym-kirchenfeld
+  path: /docs/microsoft365/teams/ton-einstellen/README.md
 ---
 
 # Einstellungen für Tonausgabe und Mikrofon

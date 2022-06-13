@@ -7,6 +7,7 @@ sidebar_position: 40
 sidebar_custom_props:
   icon: mdi-email
   source: gym-kirchenfeld
+  path: /docs/byod/windows/e-mail/README.md
 ---
 
 # E-Mail einrichten

@@ -4,6 +4,7 @@ tags:
   - vuejs
 sidebar_custom_props:
   source: gym-kirchenfeld
+  path: /docs/dokumentation/md-extensions.md
 ---
 
 #  "Markdown-Extensions"

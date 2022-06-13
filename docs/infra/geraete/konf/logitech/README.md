@@ -2,6 +2,7 @@
 sidebar_custom_props:
   icon: mdi-webcam
   source: gym-kirchenfeld
+  path: /docs/infra/geraete/konf/logitech/README.md
 ---
 
 #  Logitech Connect ConferenceCam

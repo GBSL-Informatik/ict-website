@@ -7,6 +7,7 @@ sidebar_position: 11
 sidebar_custom_props:
   icon: mdi-microsoft-teams
   source: gym-kirchenfeld
+  path: /docs/byod/linux/teams/README.md
 ---
 
 # Teams einrichten

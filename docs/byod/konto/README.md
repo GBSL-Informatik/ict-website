@@ -2,6 +2,7 @@
 sidebar_custom_props:
   icon: mdi-account
   source: gym-kirchenfeld
+  path: /docs/byod/konto/README.md
 sidebar_position: 10
 ---
 

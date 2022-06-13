@@ -5,6 +5,7 @@ apps:
 sidebar_position: 9
 sidebar_custom_props:
   source: gym-kirchenfeld
+  path: /docs/praesentation/powerpoint/slidecast/README.md
 ---
 
 # Slidecast

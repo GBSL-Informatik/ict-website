@@ -4,6 +4,7 @@ sidebar_position: 3
 sidebar_custom_props:
   icon: mdi-scale-balance
   source: gym-kirchenfeld
+  path: /docs/internet/lizenzen/README.md
 ---
 
 # Urheberrecht und Lizenzen

@@ -6,6 +6,7 @@ sidebar_position: 7
 sidebar_custom_props:
   icon: mdi-format-title
   source: gym-kirchenfeld
+  path: /docs/tabellenkalkulation/calc/datenbeschriftungen/README.md
 ---
 
 # Datenbeschriftungen

@@ -5,6 +5,7 @@ sidebar_position: 4
 sidebar_custom_props:
   icon: mdi-play-outline
   source: gym-kirchenfeld
+  path: /docs/anderesoftware/video-audio/stream/README.md
 ---
 
 # Stream

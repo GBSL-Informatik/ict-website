@@ -4,6 +4,7 @@ sidebar_position: 80
 sidebar_custom_props:
   icon: mdi-download
   source: gym-kirchenfeld
+  path: /docs/sicherheit/downloads/README.md
 ---
 
 # Software-Download

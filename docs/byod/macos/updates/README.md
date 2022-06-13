@@ -4,6 +4,7 @@ systems:
 sidebar_custom_props:
   icon: mdi-apple
   source: gym-kirchenfeld
+  path: /docs/byod/macos/updates/README.md
 ---
 
 # macOS-Updates

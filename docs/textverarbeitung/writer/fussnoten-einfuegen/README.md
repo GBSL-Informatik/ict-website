@@ -8,6 +8,7 @@ sidebar_position: 10
 sidebar_custom_props:
   icon: mdi-foot-print
   source: gym-kirchenfeld
+  path: /docs/textverarbeitung/writer/fussnoten-einfuegen/README.md
 ---
 
 # Fussnoten einfügen

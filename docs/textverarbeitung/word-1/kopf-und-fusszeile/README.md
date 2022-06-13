@@ -10,6 +10,7 @@ sidebar_position: 9
 sidebar_custom_props:
   icon: mdi-page-layout-header-footer
   source: gym-kirchenfeld
+  path: /docs/textverarbeitung/word-1/kopf-und-fusszeile/README.md
 ---
 
 # Kopf- und Fusszeile

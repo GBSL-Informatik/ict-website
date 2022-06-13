@@ -5,6 +5,7 @@ sidebar_position: 11
 sidebar_custom_props:
   icon: mdi-spellcheck
   source: gym-kirchenfeld
+  path: /docs/textverarbeitung/writer/rechtschreibekorrektur/README.md
 ---
 
 # Rechtschreibekorrektur

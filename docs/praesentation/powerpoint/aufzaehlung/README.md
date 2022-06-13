@@ -6,6 +6,7 @@ sidebar_position: 2
 sidebar_custom_props:
   icon: mdi-format-list-bulleted
   source: gym-kirchenfeld
+  path: /docs/praesentation/powerpoint/aufzaehlung/README.md
 ---
 
 # Aufzählung

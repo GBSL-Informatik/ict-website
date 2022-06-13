@@ -6,6 +6,7 @@ sidebar_position: 30
 sidebar_custom_props:
   icon: mdi-emoticon-kiss
   source: gym-kirchenfeld
+  path: /docs/infra/email/netiquette.md
 ---
 
 # Netiquette

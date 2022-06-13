@@ -5,6 +5,7 @@ sidebar_position: 12
 sidebar_custom_props:
   icon: mdi-keyboard
   source: gym-kirchenfeld
+  path: /docs/textverarbeitung/writer/tastenkuerzel/README.md
 ---
 
 # Tastaturkürzel

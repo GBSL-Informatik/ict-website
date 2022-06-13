@@ -4,6 +4,7 @@ sidebar_position: 10
 sidebar_custom_props:
   icon: mdi-email-check
   source: gym-kirchenfeld
+  path: /docs/infra/email/signatur.md
 ---
 
 # Signatur

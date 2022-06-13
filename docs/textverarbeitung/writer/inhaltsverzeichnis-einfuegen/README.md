@@ -6,6 +6,7 @@ sidebar_position: 2
 sidebar_custom_props:
   icon: mdi-table-of-contents
   source: gym-kirchenfeld
+  path: /docs/textverarbeitung/writer/inhaltsverzeichnis-einfuegen/README.md
 ---
 
 # Inhaltsverzeichnis einfügen

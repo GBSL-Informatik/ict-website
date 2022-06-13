@@ -8,6 +8,7 @@ sidebar_position: 6
 sidebar_custom_props:
   icon: mdi-table-plus
   source: gym-kirchenfeld
+  path: /docs/textverarbeitung/word-2/tabellen-einfuegen/README.md
 ---
 
 # Tabellen einfügen

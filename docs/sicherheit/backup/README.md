@@ -4,6 +4,7 @@ sidebar_position: 130
 sidebar_custom_props:
   icon: mdi-cloud-upload
   source: gym-kirchenfeld
+  path: /docs/sicherheit/backup/README.md
 ---
 
 # Backupstrategien

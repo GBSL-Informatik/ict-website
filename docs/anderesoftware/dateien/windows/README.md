@@ -5,6 +5,7 @@ sidebar_position: 30
 sidebar_custom_props:
   icon: mdi-microsoft-windows
   source: gym-kirchenfeld
+  path: /docs/anderesoftware/dateien/windows/README.md
 ---
 
 # Dateien mit Windows

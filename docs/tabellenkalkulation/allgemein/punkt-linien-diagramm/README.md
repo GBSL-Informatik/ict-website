@@ -9,6 +9,7 @@ sidebar_position: 6
 sidebar_custom_props:
   icon: mdi-chart-timeline-variant
   source: gym-kirchenfeld
+  path: /docs/tabellenkalkulation/allgemein/punkt-linien-diagramm/README.md
 ---
 
 # Punkt- oder Liniendiagramm

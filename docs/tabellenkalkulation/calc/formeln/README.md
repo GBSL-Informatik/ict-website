@@ -8,6 +8,7 @@ sidebar_position: 8
 sidebar_custom_props:
   icon: mdi-function-variant
   source: gym-kirchenfeld
+  path: /docs/tabellenkalkulation/calc/formeln/README.md
 ---
 
 # Formeln

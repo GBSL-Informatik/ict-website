@@ -6,6 +6,7 @@ sidebar_position: 3
 sidebar_custom_props:
   icon: mdi-animation-play
   source: gym-kirchenfeld
+  path: /docs/praesentation/powerpoint/animation/README.md
 ---
 
 # Animationen

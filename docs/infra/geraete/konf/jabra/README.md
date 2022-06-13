@@ -2,6 +2,7 @@
 sidebar_custom_props:
   icon: mdi-microphone-variant
   source: gym-kirchenfeld
+  path: /docs/infra/geraete/konf/jabra/README.md
 ---
 
 #  Jabra Speak Konferenzmikrofon

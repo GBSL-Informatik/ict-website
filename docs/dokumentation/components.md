@@ -3,6 +3,7 @@ description: vue-components von theme/global-components/
 sidebar_custom_props:
   icon: mdi-school
   source: gym-kirchenfeld
+  path: /docs/dokumentation/components.md
 ---
 
 # Components

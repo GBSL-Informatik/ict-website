@@ -5,6 +5,7 @@ sidebar_position: 0
 sidebar_custom_props:
   icon: mdi-microsoft-windows
   source: gym-kirchenfeld
+  path: /docs/microsoft365/README.md
 ---
 
 # Microsoft 365

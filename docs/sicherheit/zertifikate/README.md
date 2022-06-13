@@ -6,6 +6,7 @@ sidebar_position: 100
 sidebar_custom_props:
   icon: mdi-certificate
   source: gym-kirchenfeld
+  path: /docs/sicherheit/zertifikate/README.md
 ---
 
 # Webseitenzertifikate

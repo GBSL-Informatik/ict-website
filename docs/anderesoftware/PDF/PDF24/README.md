@@ -8,6 +8,7 @@ apps:
 sidebar_custom_props:
   icon: mdi-sheep
   source: gym-kirchenfeld
+  path: /docs/anderesoftware/PDF/PDF24/README.md
 ---
 
 # PDF24

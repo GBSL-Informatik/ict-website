@@ -6,6 +6,7 @@ sidebar_position: 6
 sidebar_custom_props:
   icon: mdi-format-title
   source: gym-kirchenfeld
+  path: /docs/tabellenkalkulation/excel/achsen/README.md
 ---
 
 # Achsen formatieren

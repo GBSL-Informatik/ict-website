@@ -4,6 +4,7 @@ systems:
 sidebar_custom_props:
   icon: mdi-microsoft-windows
   source: gym-kirchenfeld
+  path: /docs/byod/windows/updates/README.md
 ---
 
 # Windows-Updates

@@ -9,6 +9,7 @@ sidebar_position: 1
 sidebar_custom_props:
   icon: mdi-format-pilcrow
   source: gym-kirchenfeld
+  path: /docs/textverarbeitung/allgemein/absatz-vs-zeilenwechsel/README.md
 ---
 
 # Absatz- vs. Zeilenwechsel

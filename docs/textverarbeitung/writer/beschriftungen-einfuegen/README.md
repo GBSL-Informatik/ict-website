@@ -6,6 +6,7 @@ sidebar_position: 7
 sidebar_custom_props:
   icon: mdi-label
   source: gym-kirchenfeld
+  path: /docs/textverarbeitung/writer/beschriftungen-einfuegen/README.md
 ---
 
 # Beschriftungen einfügen

@@ -5,6 +5,7 @@ sidebar_position: 4
 sidebar_custom_props:
   icon: mdi-bookshelf
   source: gym-kirchenfeld
+  path: /docs/textverarbeitung/word-3/literaturverwaltung/README.md
 ---
 
 # Literaturverwaltung

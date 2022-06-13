@@ -6,6 +6,7 @@ sidebar_position: 70
 sidebar_custom_props:
   icon: mdi-content-save
   source: gym-kirchenfeld
+  path: /docs/sicherheit/datenspeicherorte/README.md
 ---
 
 # Datenspeicherorte

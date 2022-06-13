@@ -6,6 +6,7 @@ sidebar_position: 50
 sidebar_custom_props:
   icon: mdi-map-marker
   source: gym-kirchenfeld
+  path: /docs/sicherheit/tracking/README.md
 ---
 
 # Tracking

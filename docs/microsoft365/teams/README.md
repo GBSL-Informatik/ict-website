@@ -5,6 +5,7 @@ sidebar_position: 20
 sidebar_custom_props:
   icon: mdi-microsoft-teams
   source: gym-kirchenfeld
+  path: /docs/microsoft365/teams/README.md
 ---
 
 # Teams

@@ -7,6 +7,7 @@ sidebar_position: 2
 sidebar_custom_props:
   icon: mdi-format-text
   source: gym-kirchenfeld
+  path: /docs/textverarbeitung/allgemein/formatvorlagen/README.md
 ---
 
 # Formatvorlagen

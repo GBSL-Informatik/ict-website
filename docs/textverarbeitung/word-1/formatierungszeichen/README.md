@@ -11,6 +11,7 @@ sidebar_position: 8
 sidebar_custom_props:
   icon: mdi-format-pilcrow
   source: gym-kirchenfeld
+  path: /docs/textverarbeitung/word-1/formatierungszeichen/README.md
 ---
 
 # Formatierungszeichen

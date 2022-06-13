@@ -6,6 +6,7 @@ sidebar_position: 110
 sidebar_custom_props:
   icon: mdi-shield-bug
   source: gym-kirchenfeld
+  path: /docs/sicherheit/antivirus/README.md
 ---
 
 # Antivirensoftware

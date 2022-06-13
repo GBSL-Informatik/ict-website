@@ -5,6 +5,7 @@ sidebar_position: 20
 sidebar_custom_props:
   icon: mdi-cloud
   source: gym-kirchenfeld
+  path: /docs/byod/linux/onedrive/README.md
 ---
 
 # OneDrive einrichten

@@ -5,6 +5,7 @@ description: >-
 sidebar_custom_props:
   icon: mdi-school
   source: gym-kirchenfeld
+  path: /docs/dokumentation/README.md
 ---
 
 # Hinweise für Autoren

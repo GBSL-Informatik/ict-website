@@ -7,6 +7,7 @@ sidebar_position: 80
 sidebar_custom_props:
   icon: mdi-firefox
   source: gym-kirchenfeld
+  path: /docs/byod/windows/firefox/README.md
 ---
 
 # Firefox einrichten

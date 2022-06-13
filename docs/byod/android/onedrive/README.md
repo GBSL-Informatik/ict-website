@@ -7,6 +7,7 @@ sidebar_position: 60
 sidebar_custom_props:
   icon: mdi-microsoft-onedrive
   source: gym-kirchenfeld
+  path: /docs/byod/android/onedrive/README.md
 ---
 
 # OneDrive einrichten

@@ -3,6 +3,7 @@ sidebar_position: 10
 sidebar_custom_props:
   icon: mdi-email
   source: gym-kirchenfeld
+  path: /docs/byod/mail/e-mail-vergleich/README.md
 ---
 
 # Entscheidungshilfe E-Mail
