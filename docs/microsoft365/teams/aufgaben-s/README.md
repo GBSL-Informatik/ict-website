@@ -5,7 +5,7 @@ sidebar_custom_props:
   icon: mdi-account-multiple
 ---
 
-# Aufgaben abgeben (Schüler*innen)
+# Aufgaben abgeben (Schüler:innen)
 
 
 

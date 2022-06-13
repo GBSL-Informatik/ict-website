@@ -14,7 +14,7 @@ Für das Login verwendest du normalerweise deine **Schul-E-Mail-Adresse**. Deine
 
 |               |                     E-Mail-Adresse |
 | :------------ | ---------------------------------: |
-| Schüler*innen |        vorname.nachname@mygymer.ch |
+| Schüler:innen |        vorname.nachname@mygymer.ch |
 | Lehrer*innen  | vorname.nachname@gymkirchenfeld.ch |
 
 **Ausnahme:** Für die Anmeldung am WLAN verwendest du deinen **Benutzernamen**.
@@ -25,7 +25,7 @@ Den Benutzernamen benötigst du nur für die Anmeldung am WLAN. Benutzer, welche
 
 |                            |       Benutzername |
 | :------------------------- | -----------------: |
-| Schüler*innen (vor Mai 20) | _vorname.nachname_ |
+| Schüler:innen (vor Mai 20) | _vorname.nachname_ |
 | Lehrer*innen (vor Mai 20)  |     _xyz_ (Kürzel) |
 | alle ab Mai 20             |           _u12345_ |
 

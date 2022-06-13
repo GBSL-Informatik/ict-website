@@ -17,7 +17,7 @@ Safe Exam Browser bietet die Möglichkeit, dass sämtliche anderen Applikationen
 
 ## 1. SEB installieren
 
-Zunächst sollten die Lehrperson und alle Schüler*innen der Klasse den Safe Exam Browser auf dem eigenen Gerät installieren.
+Zunächst sollten die Lehrperson und alle Schüler:innen der Klasse den Safe Exam Browser auf dem eigenen Gerät installieren.
 
 Folgende Betriebssysteme werden unterstützt:
 
@@ -52,7 +52,7 @@ Ist das Expertiselevel entsprechend eingestellt, kann der Safe Exam Browser für
 
 auf _Ja_ stellen, indem man jeweils den Haken bei _Default Konfiguration_ setzt.
 
-**Default Sicherheitsstufe**: Die Sicherheitsstufe, die bei einer Prüfung standardmässig eingestellt ist auf **Stufe 1** belassen. _Bemerkung zu den anderen Sicherheitsstufen:_ Stufe 2 würde lediglich das Eingeben eines Passworts für das Starten der Prüfung nötig machen - da sich die Schüler*innen ohnehin mit ihrem Konto anmelden müssen, bietet diese Massnahme keine zusätzliche Sicherheit. Es sei denn man möchte, dass die Prüfung trotz vorheriger Freigabe durch die Lehrperson (unter _Prüfungen > beginnen_) von den Schüler\*innen erst nach Bekanntgabe des Passworts gestartet werden kann. Stufe 3 scheint momentan nicht zu funktionieren. Deswegen wird davon abgeraten, eine andere Sicherheitsstufe als 1 zu verwenden.  
+**Default Sicherheitsstufe**: Die Sicherheitsstufe, die bei einer Prüfung standardmässig eingestellt ist auf **Stufe 1** belassen. _Bemerkung zu den anderen Sicherheitsstufen:_ Stufe 2 würde lediglich das Eingeben eines Passworts für das Starten der Prüfung nötig machen - da sich die Schüler:innen ohnehin mit ihrem Konto anmelden müssen, bietet diese Massnahme keine zusätzliche Sicherheit. Es sei denn man möchte, dass die Prüfung trotz vorheriger Freigabe durch die Lehrperson (unter _Prüfungen > beginnen_) von den Schüler\*innen erst nach Bekanntgabe des Passworts gestartet werden kann. Stufe 3 scheint momentan nicht zu funktionieren. Deswegen wird davon abgeraten, eine andere Sicherheitsstufe als 1 zu verwenden.  
 
  ## 4. SEB für eine Prüfung in isTest2 aktivieren
 
@@ -74,7 +74,7 @@ SEB kann nur beim Vorbereiten einer Prüfung aktiviert werden. Wenn die Prüfung
   * Auf __weiter__ klicken
 
   * **Weitere Optionen**:
-    * **Schüler können Antworten korrigieren** (empfohlen): Schüler*innen können während dem Test ihre Antworten ändern
+    * **Schüler können Antworten korrigieren** (empfohlen): Schüler:innen können während dem Test ihre Antworten ändern
     * **Zufällige Reihenfolge der Fragen**: Schüler haben jeweils unterschiedliche Reihenfolgen der Fragen, sodass es schwieriger wird, gegenseitig abzuschreiben
     * **Zugriff auf eine einzige Sitzung beschränken** (empfohlen): Eine Prüfung kann nur einmal gestartet werden
     * **Im "Safe Exam Browser (SEB)" durchführen**: Erscheint nur, wenn der SEB wie oben beschrieben aktiviert ist
@@ -111,7 +111,7 @@ SEB kann nur beim Vorbereiten einer Prüfung aktiviert werden. Wenn die Prüfung
 
 ### Verweise auf externe Seite erlauben
 
-Mit dieser Option kann den Schüler\*innen der Zugriff auf bestimmte Internetseiten während der Prüfung gewährt werden, zum Beispiel die Duden-Seite. Damit die Schüler*innen auf den Link zugreifen können, muss ein [Verweis darauf in der Anleitung zur Prüfung (siehe hier)](#1) vorhanden sein, da die Schüler\*innen im SEB nicht selbständig einen Browser öffnen können. 
+Mit dieser Option kann den Schüler\*innen der Zugriff auf bestimmte Internetseiten während der Prüfung gewährt werden, zum Beispiel die Duden-Seite. Damit die Schüler:innen auf den Link zugreifen können, muss ein [Verweis darauf in der Anleitung zur Prüfung (siehe hier)](#1) vorhanden sein, da die Schüler\*innen im SEB nicht selbständig einen Browser öffnen können. 
 
 ![](./images/isTest_041.png)
 
@@ -141,5 +141,5 @@ Mit dieser Option kann den Schüler\*innen der Zugriff auf bestimmte Internetsei
 
 ![](./images/isTest_044.png)
 
-Die Schüler*innen können nun, wenn sie in der Anleitung auf den Link klicken, diesen öffnen und als Hilfsmittel für die Prüfung nutzen
+Die Schüler:innen können nun, wenn sie in der Anleitung auf den Link klicken, diesen öffnen und als Hilfsmittel für die Prüfung nutzen
 

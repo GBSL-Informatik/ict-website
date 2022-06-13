@@ -4,7 +4,7 @@ sidebar_custom_props:
   icon: mdi-account-multiple
 ---
 
-# Schüler*innen
+# Schüler:innen
 
 
 
@@ -15,7 +15,7 @@ An unserer Schule stehen zwei Multifunktionsgeräte zu Verfügung, mit welchen m
 
 ## Kosten und Druckkonto
 
-Das Drucken und Kopieren kostet für Schüler*innen gemäss folgender Tabelle:
+Das Drucken und Kopieren kostet für Schüler:innen gemäss folgender Tabelle:
 
 | Drucken / Kopieren | Kosten |
 | :----------------- | -----: |
@@ -36,11 +36,11 @@ Vor dem Drucken muss man immer den **DruckerAllgemein** auswählen. Der Druckauf
 
 ### Anmeldung
 
-Bevor man das Gerät benutzen kann, muss man sich mit dem Schüler*innenausweis anmelden:
+Bevor man das Gerät benutzen kann, muss man sich mit dem Schüler:innenausweis anmelden:
 
 ![Anmeldung am Gerät](./images/print-login.jpg)
 
-![Schüler*innenausweis](./images/student-card.png)
+![Schüler:innenausweis](./images/student-card.png)
 
 ### Hauptmenü
 

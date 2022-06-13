@@ -63,9 +63,9 @@ Hier kann man als Lehrperson eine Klasse bzw. einen Kurs zusammenstellen.
 ![](./images/isTest_005.png)
 
 
-### 2. Schüler*innen als Klasse einladen
+### 2. Schüler:innen als Klasse einladen
 
-Wenn alle Schüler*innen einer Klasse in einen Kurs eingeladen werden sollen, kann man diese in einem Arbeitsschritt einem Kurs zuweisen.
+Wenn alle Schüler:innen einer Klasse in einen Kurs eingeladen werden sollen, kann man diese in einem Arbeitsschritt einem Kurs zuweisen.
 
   * Hierfür im Menü links auf _Kurse > Verwaltung_ gehen
 
@@ -81,9 +81,9 @@ Wenn alle Schüler*innen einer Klasse in einen Kurs eingeladen werden sollen, ka
 
 **Achtung**: **Nicht** Enter drücken, sondern mit Klick auf das Filtersymbol ![](./images/icon_filtern.png) klicken!
 
-  * Die gewünschte Klasse nun auswählen und auf __Speichern__ klicken. Die Schüler*innen dieser Klasse sind nun dem Kurs zugewiesen und somit können ab jetzt Prüfungen durchgeführt werden
+  * Die gewünschte Klasse nun auswählen und auf __Speichern__ klicken. Die Schüler:innen dieser Klasse sind nun dem Kurs zugewiesen und somit können ab jetzt Prüfungen durchgeführt werden
 
-### 3. einzelne Schüler*innen in bestehenden Kurs übernehmen
+### 3. einzelne Schüler:innen in bestehenden Kurs übernehmen
 
 Wenn während des Semesters Schüler\*innen in eine Klasse neu ein- oder austreten oder wenn man einen Kurs mit Schüler\*innen aus unterschiedlichen Klassen erstellen möchte, muss man diese einzeln in einen Kurs aufnehmen.
 
@@ -99,7 +99,7 @@ Wenn während eines laufenden Semesters Schüler\*innen in eine Klasse neu eintr
   
   * __Bestehende Schüler hinzufügen__ anklicken
 
-  * Nun sind alle Schüler*innen in einer Liste sichtbar
+  * Nun sind alle Schüler:innen in einer Liste sichtbar
 
   * Um zu filtern, den Vor- oder Nachnamen in das entsprechende Textfeld eingeben
 
@@ -109,11 +109,11 @@ Wenn während eines laufenden Semesters Schüler\*innen in eine Klasse neu eintr
 
 ![](./images/isTest_009.png)
 
-  * Falls noch mehr Schüler*innen hinzugefügt werden sollen, kann man noch andere Namen filtern und das Häkchen setzen
+  * Falls noch mehr Schüler:innen hinzugefügt werden sollen, kann man noch andere Namen filtern und das Häkchen setzen
 
-  * Wenn alle Schüler*innen ausgewählt wurden, auf __Hinzufügen__ klicken
+  * Wenn alle Schüler:innen ausgewählt wurden, auf __Hinzufügen__ klicken
 
-### 4. Einzelne Schüler*innen aus bestehendem Kurs entfernen
+### 4. Einzelne Schüler:innen aus bestehendem Kurs entfernen
 
   * Auf _Kurse > Verwaltung_ gehen
 
@@ -155,9 +155,9 @@ Mit dem Vornamen _Test_ nach Namen filtern.
   
   * Auf __Hinzufügen__ klicken
   
-  * Nun erscheint eine Übersicht mit allen hinzugefügten Schüler*innen
+  * Nun erscheint eine Übersicht mit allen hinzugefügten Schüler:innen
 
-Um sich mit einem Testschüler*innen-Account anzumelden, kann man die entsprechenden Anmeldedaten zu den Test-Schüler\*innen auf [intern > Dokumente > Anleitungen > isTest2: Testschüler*innen-Liste](https://api.gymkirchenfeld.ch/document/show?id=201438) finden. 
+Um sich mit einem TestSchüler:innen-Account anzumelden, kann man die entsprechenden Anmeldedaten zu den Test-Schüler\*innen auf [intern > Dokumente > Anleitungen > isTest2: TestSchüler:innen-Liste](https://api.gymkirchenfeld.ch/document/show?id=201438) finden. 
 ## Tests erstellen
 
 Ein **Test** ist eine Zusammenstellung von Fragen. Ein Test kann später als Prüfung in mehreren Klassen/Kursen durchgeführt werden. Eine **Prüfung** ist ein Test, der mit einer _bestimmten_ Klasse oder einem bestimmten Kurs durchgeführt wird. Tests werden als Vorlagen, um später Prüfungen durchzuführen, in einem Archiv gespeichert. Dank den Archiven können Tests nach Themen oder Fächern sortiert abgelegt werden.
@@ -242,7 +242,7 @@ Auf diese Weise können alle Sammlungen erzeugt werden.
 
   * Gewicht:
     * Richtige Antwort: Die Punktzahl, die ein\*e Schüler\*in erhält, wenn die Frage komplett richtig beantwortet wurde
-    * Keine Antwort: Die Punktzahl, die Schüler*innen erhalten, wenn die Frage nicht beantwortet wird
+    * Keine Antwort: Die Punktzahl, die Schüler:innen erhalten, wenn die Frage nicht beantwortet wird
     * Falsche Antwort: Die Punktzahl, die die Schülerin erhält, wenn die Frage komplett falsch beantwortet wurde. Diese Zahl kann auch negativ sein. Eine negative Zahl macht hier nur Sinn, wenn es in einer multiple-Choice-Frage mehrere Antwortmöglichkeiten gibt.
     * Minimum: Wie tief darf das Resultat aus einer Frage insgesamt ausfallen (meist 0, könnte aber auch negativ sein)?
   
@@ -384,7 +384,7 @@ Das Vorbereiten der Prüfung kann zu Hause gemacht werden.
   * Auf __weiter__ klicken
 
   * **Weitere Optionen**:
-    * **Schüler können Antworten korrigieren** (empfohlen): Schüler*innen können während dem Test ihre Antworten ändern
+    * **Schüler können Antworten korrigieren** (empfohlen): Schüler:innen können während dem Test ihre Antworten ändern
     * **Zufällige Reihenfolge der Fragen**: Schüler haben jeweils unterschiedliche Reihenfolgen der Fragen, sodass es schwieriger wird, gegenseitig abzuschreiben
     * **Zugriff auf eine einzige Sitzung beschränken** (empfohlen): Eine Prüfung kann nur einmal gestartet werden
     * **Im "Safe Exam Browser (SEB)" durchführen**: Erscheint nur, wenn der SEB aktiviert ist, siehe auch den [Artikel zu Safe Exam Browser](../seb)
@@ -473,7 +473,7 @@ Um eine Prüfung nach Beendigung wieder freizuschalten, beispielsweise für Nach
 
   * Das Pfeil-Symbol ![](./images/icon_nachpruef.png) anklicken 
 
-Alle Schüler*innen, die sich noch nicht eingeloggt hatten am Prüfungstermin, können die Prüfung nun lösen. Das Resultat wird mit den bestehenden Resultaten verrechnet.
+Alle Schüler:innen, die sich noch nicht eingeloggt hatten am Prüfungstermin, können die Prüfung nun lösen. Das Resultat wird mit den bestehenden Resultaten verrechnet.
 
 ### 8. Prüfung ausdrucken (nur Fragen und Lösungen)
 
@@ -487,15 +487,15 @@ Falls gewünscht, kann die Prüfung vor der Freigabe an die Schüler\*innen gedr
 
   * Im Druckmenü entweder einen Drucker wählen, um die Prüfung auf Papier auszudrucken, oder _Als PDF speichern_ wählen, um die Prüfung als PDF abzuspeichern.
 
-### 9. Prüfung für die Schüler*innen freigeben
+### 9. Prüfung für die Schüler:innen freigeben
 
-Wenn alle Korrekturen erledigt sind, kann die Prüfung für die Schüler*innen freigegeben werden.
+Wenn alle Korrekturen erledigt sind, kann die Prüfung für die Schüler:innen freigegeben werden.
 
 * Auf _Prüfung > Veröffentlichung_ klicken
 
 * Auf das Freigabe-Symbol ![](./images/icon_veroeffentlichen.png) klicken
 
-* Anchliessend kann gewählt werden, was für die Schüler*innen sichtbar sein soll:
+* Anchliessend kann gewählt werden, was für die Schüler:innen sichtbar sein soll:
   
 ![](./images/isTest_028.png)
 
@@ -524,7 +524,7 @@ Für Besprechungen mit der Schulklasse kann man in isTest2 die Fragen und die Mu
 
 <a name="Ergebnisse"></a>
 
-### 12. Prüfungsergebnisse der Schüler*innen abspeichern und ausdrucken
+### 12. Prüfungsergebnisse der Schüler:innen abspeichern und ausdrucken
 
 Hier kann man alle Prüfungsergebnisse mit den Schülerantworten im Detail ausdrucken. Dies ist nützlich, um Prüfungsergebnisse als PDF oder auf Papier zu archivieren.
 
@@ -543,7 +543,7 @@ Hier kann man alle Prüfungsergebnisse mit den Schülerantworten im Detail ausdr
 
 ### 12. Prüfung nur als Übung schreiben lassen (ohne Benotung)
 
-Zu Übungszwecken können Prüfungen als Übung veröffentlicht werden. So können die Schüler*innen ihren Wissensstand selber testen.
+Zu Übungszwecken können Prüfungen als Übung veröffentlicht werden. So können die Schüler:innen ihren Wissensstand selber testen.
 
   * Auf _Übungen > Veröffentlichen_ klicken
 

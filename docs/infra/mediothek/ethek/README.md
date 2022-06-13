@@ -47,7 +47,7 @@ Im Browser auf https://www.adobe.com/ch_de/solutions/ebook/digital-editions/down
 
 |               |                         Benutzername |
 | :------------ | -----------------------------------: |
-| Schüler*innen |        _vorname.nachname@mygymer.ch_ |
+| Schüler:innen |        _vorname.nachname@mygymer.ch_ |
 | Lehrer*innen  | _vorname.nachname@gymkirchenfeld.ch_ |
 
 Passwort: Das eigene Schulpasswort

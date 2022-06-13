@@ -8,6 +8,6 @@ sidebar_custom_props:
 
 
 
-Die folgenden Basiskenntnisse sollten die Schüler*innen Ende GYM3 beherrschen (Modul «Textverarbeitung 2» im 🚧ICT-Konzept🚧 der Schule):
+Die folgenden Basiskenntnisse sollten die Schüler:innen Ende GYM3 beherrschen (Modul «Textverarbeitung 2» im 🚧ICT-Konzept🚧 der Schule):
 
 <Features/>

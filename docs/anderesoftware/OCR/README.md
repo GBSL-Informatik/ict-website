@@ -28,7 +28,7 @@ Die Ergebnisse der Texterkennung sind, gerade bei Texten mit älterem Schriftsat
 
 Für die **Multifunktionsgeräte** (Eingangshalle, Kopierraum, Mediothek, etc.) _DruckerAllgemein_ und _DruckerKopierraum_ sind die entsprechenden Anleitungen hier zu finden:
 
-[für Schüler*innen](/infra/geraete/drucker/druck_sus/#scan-mit-texterkennung-per-mail-oder-in-home-verzeichnis)
+[für Schüler:innen](/infra/geraete/drucker/druck_sus/#scan-mit-texterkennung-per-mail-oder-in-home-verzeichnis)
 
 [für Lehrer*innen](/infra/geraete/drucker/druck_lul/#scan-mit-texterkennung-per-mail-oder-in-home-verzeichnis)
 

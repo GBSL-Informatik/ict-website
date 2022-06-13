@@ -11,7 +11,7 @@ sidebar_custom_props:
 
 [:mdi-collage: Layout ändern](layout/)
 
-[:mdi-account-multiple: Schüler*innen: Aufgaben abgeben](aufgaben-s/)
+[:mdi-account-multiple: Schüler:innen: Aufgaben abgeben](aufgaben-s/)
 
 [:mdi-briefcase-variant: Lehrpersonen: Aufträge erstellen](aufgaben-l/)
 

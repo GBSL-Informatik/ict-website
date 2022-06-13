@@ -27,7 +27,7 @@ sidebar_custom_props:
     * Punkte: Hier kann ein Beurteilungsraster angegeben werden und Maximalpunkte können festgelegt werden
     * Zuweisen zu: 
       * Links angeben, welche Klasse(n) den Auftrag lösen sollen (mehrere möglich)
-      * Rechts angeben, wer aus der Klasse / den Klassen die Aufgabe lösen soll. Standard ist _alle Schüler_, also alle Schüler der Klasse(n). Es können aber auch einzelne Schüler*innen angegeben werden.
+      * Rechts angeben, wer aus der Klasse / den Klassen die Aufgabe lösen soll. Standard ist _alle Schüler_, also alle Schüler der Klasse(n). Es können aber auch einzelne Schüler:innen angegeben werden.
     * Fälligkeitsdatum / Fällig um: Tag und Uhrzeit angeben, bis wann die Aufgabe abgegeben werden soll.
 
   ![](./images/aufgabel-l-03.png)
@@ -38,9 +38,9 @@ sidebar_custom_props:
 
     * _Zuweisung für die Zukunft planen_: Häkchen setzen, falls die Aufgabe erst zu einem späteren Zeitpunkt für die Klasse sichtbar werden soll. Der Zeitpunkt kann unter _Bereitstellungsdatum_ und _Bereitstellungszeit_ eingegeben werden. Ist das Häkchen nicht gesetzt, wird die Aufgabe sofort sichtbar.
 
-    * _Fälligkeitsdatum_: Bestimmen, bis wann die Schüler*innen die Aufgabe bearbeiten sollen.
+    * _Fälligkeitsdatum_: Bestimmen, bis wann die Schüler:innen die Aufgabe bearbeiten sollen.
 
-    * _Abschlussdatum_: Häckchen setzen um zu bestimmen, bis wann die Schüler*innen die Aufgabe (ggf. verspätet) einreichen dürfen. Das kann ein Datum **nach** dem Fälligkeitsdatum sein. Ist kein Häkchen gesetzt, können die Schüler*innen die Aufgabe verspätet einreichen. 
+    * _Abschlussdatum_: Häckchen setzen um zu bestimmen, bis wann die Schüler:innen die Aufgabe (ggf. verspätet) einreichen dürfen. Das kann ein Datum **nach** dem Fälligkeitsdatum sein. Ist kein Häkchen gesetzt, können die Schüler:innen die Aufgabe verspätet einreichen. 
 
     * Auf __Fertig__ klicken.
 

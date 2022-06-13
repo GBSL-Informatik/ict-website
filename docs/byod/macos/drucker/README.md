@@ -206,7 +206,7 @@ Für das Login verwendest du normalerweise deine **Schul-E-Mail-Adresse**. Deine
 
 |               |                     E-Mail-Adresse |
 | :------------ | ---------------------------------: |
-| Schüler*innen |        vorname.nachname@mygymer.ch |
+| Schüler:innen |        vorname.nachname@mygymer.ch |
 | Lehrer*innen  | vorname.nachname@gymkirchenfeld.ch |
 
 
@@ -216,9 +216,9 @@ Für das Login verwendest du normalerweise deine **Schul-E-Mail-Adresse**. Deine
 Im Schlüsselbund die Anmeldedaten für den Drucker wieder löschen. 
 Als Benutzernamen nicht die Mailadresse verwenden, sondern folgende Benutzernamen nacheinander ausprobieren:
 
-**Für Schüler*innen:**
+**Für Schüler:innen:**
 _vorname.nachname_
-_u12345_ (nur Schüler*innen, die nach Mai 2020 in die Schule eingetreten sind!)
+_u12345_ (nur Schüler:innen, die nach Mai 2020 in die Schule eingetreten sind!)
 
 **Für Lehrpersonen:**
 _xyz_ Lehrer*innenkürzel

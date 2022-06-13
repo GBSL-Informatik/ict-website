@@ -9,7 +9,7 @@ sidebar_custom_props:
 
 
 
-## Für Schüler*innen
+## Für Schüler:innen
 
 - Auf https://istest2.ch/ gehen
 

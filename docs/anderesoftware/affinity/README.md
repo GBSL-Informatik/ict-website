@@ -13,7 +13,7 @@ sidebar_custom_props:
 | :------------------------------------------------------------------------------------------------------ | :-------------------------------------------------------------------------------------------------- | :--------------------------------------------------------------------------------------------------------------- |
 | **Affinity Designer**: Werkzeug für Vektor- und Rasterdesign, wie z.B. Logos, Konzeptgrafiken, Mock-Ups | **Affinity Photo**: App für die Bearbeitung von Fotos, Erstellen von Bildmontagen und Rasterbildern | **Affinity Publisher**: Programm für die Erstellung von Layouts, z.B. für Broschüren oder digitale Publikationen |
 
-An der Schule stehen sämtliche Affinity-Produkte auf den Schulgeräten zur Verfügung. Zudem können Schüler*innen und Lehrpersonen die Programme auch mit einer Jahreslizenz auf dem eigenen Gerät installieren. 
+An der Schule stehen sämtliche Affinity-Produkte auf den Schulgeräten zur Verfügung. Zudem können Schüler:innen und Lehrpersonen die Programme auch mit einer Jahreslizenz auf dem eigenen Gerät installieren. 
 
 ## Installation auf dem eigenen Gerät
 
