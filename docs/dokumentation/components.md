@@ -34,12 +34,6 @@ Dieser Component extrahiert die Überschriften und icons aller untergeordneten A
 
 ## Todo
 
-<Todo />
-
-``` md
-<Todo />
-```
-
 
 
 ## SearchBox

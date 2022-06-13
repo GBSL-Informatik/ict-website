@@ -2,6 +2,7 @@
 systems: [macOS]
 sidebar_custom_props:
   icon: mdi-apple
+sidebar_position: 50
 ---
 
 # macOS

@@ -1,6 +1,7 @@
 ---
 sidebar_custom_props:
   icon: mdi-account
+sidebar_position: 10
 ---
 
 #  Konto

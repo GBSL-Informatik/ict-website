@@ -1,0 +1,22 @@
+.searchContainer {
+    max-width: 490px;
+    width: 80%;
+    display: flex;
+    align-items: center;
+    margin: 0 auto;
+    height: 45px;
+    padding: 0 0 0 1rem;
+    font-size: 1.2rem;
+    border: 1px solid #d0cfce;
+    outline: none;
+    code {
+      background-color: transparent;
+      border: unset;
+    }
+    .searchIcon {
+      height: 80%;
+      padding-right: 1em;
+      margin-right: 1em;
+      border-right: 1px solid #d0cfce;
+    }
+  }

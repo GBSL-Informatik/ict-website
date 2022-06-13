@@ -2,6 +2,7 @@
 systems: [Android]
 sidebar_custom_props:
   icon: mdi-android
+sidebar_position: 20
 ---
 
 # Android

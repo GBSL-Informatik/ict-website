@@ -2,6 +2,7 @@
 systems: [iOS / iPadOS]
 sidebar_custom_props:
   icon: mdi-apple
+sidebar_position: 30
 ---
 
 # iOS / iPadOS
