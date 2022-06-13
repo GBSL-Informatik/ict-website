@@ -1,8 +1,10 @@
 ---
-apps: [Microsoft Word]
+apps:
+  - Microsoft Word
 sidebar_position: 2
 sidebar_custom_props:
   icon: mdi-format-paragraph
+  source: gym-kirchenfeld
 ---
 
 # Formatvorlagensatz wählen

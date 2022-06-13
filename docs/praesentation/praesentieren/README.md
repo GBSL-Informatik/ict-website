@@ -1,8 +1,11 @@
 ---
-description: Was gilt es zu beachten, was zu vermeiden?
-apps: [Microsoft PowerPoint, LibreOffice Impress]
+description: 'Was gilt es zu beachten, was zu vermeiden?'
+apps:
+  - Microsoft PowerPoint
+  - LibreOffice Impress
 sidebar_custom_props:
   icon: mdi-thumbs-up-down
+  source: gym-kirchenfeld
 ---
 
 # Präsentieren

@@ -1,8 +1,10 @@
 ---
-apps: [Thunderbird]
+apps:
+  - Thunderbird
 sidebar_position: 40
 sidebar_custom_props:
   icon: mdi-email
+  source: gym-kirchenfeld
 ---
 
 # Thunderbird

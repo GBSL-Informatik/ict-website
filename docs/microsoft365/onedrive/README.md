@@ -1,8 +1,10 @@
 ---
-apps: [Microsoft OneDrive]
+apps:
+  - Microsoft OneDrive
 sidebar_position: 10
 sidebar_custom_props:
-  icon: 'mdi-microsoft-onedrive'
+  icon: mdi-microsoft-onedrive
+  source: gym-kirchenfeld
 ---
 
 # OneDrive

@@ -1,8 +1,11 @@
 ---
-description: Bin ich mir bewusst, dass mein Blick ins Internet eingeschränkt wird – basierend auf meiner bisherigen Aktivität?
+description: >-
+  Bin ich mir bewusst, dass mein Blick ins Internet eingeschränkt wird –
+  basierend auf meiner bisherigen Aktivität?
 sidebar_position: 10
 sidebar_custom_props:
   icon: mdi-chart-bubble
+  source: gym-kirchenfeld
 ---
 
 # Filterblase

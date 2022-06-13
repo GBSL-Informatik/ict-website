@@ -1,5 +1,9 @@
 ---
-tags: ["vuepress", "vuejs"]
+tags:
+  - vuepress
+  - vuejs
+sidebar_custom_props:
+  source: gym-kirchenfeld
 ---
 
 #  "Markdown-Extensions"

@@ -1,9 +1,11 @@
 ---
 description: So kann die Darstellung eines Zahlenwerts in einer Zelle beeinflusst werden.
-apps: [Microsoft Excel]
+apps:
+  - Microsoft Excel
 sidebar_position: 2
 sidebar_custom_props:
   icon: mdi-numeric
+  source: gym-kirchenfeld
 ---
 
 # Zahlenformate

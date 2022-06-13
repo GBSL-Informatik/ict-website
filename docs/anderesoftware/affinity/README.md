@@ -1,8 +1,12 @@
 ---
-apps: [Affinity Designer, Affinity Photo, Affinity Publisher]
+apps:
+  - Affinity Designer
+  - Affinity Photo
+  - Affinity Publisher
 sidebar_position: 50
 sidebar_custom_props:
   icon: mdi-fountain-pen
+  source: gym-kirchenfeld
 ---
 
 # Affinity

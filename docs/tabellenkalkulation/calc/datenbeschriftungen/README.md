@@ -1,9 +1,11 @@
 ---
 description: So können Datenbeschriftungen angezeigt werden
-apps: [LibreOffice Calc]
+apps:
+  - LibreOffice Calc
 sidebar_position: 7
 sidebar_custom_props:
   icon: mdi-format-title
+  source: gym-kirchenfeld
 ---
 
 # Datenbeschriftungen

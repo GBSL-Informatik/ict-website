@@ -1,9 +1,11 @@
 ---
 description: So kann ein Diagramm erstellt werden
-apps: [LibreOffice Calc]
+apps:
+  - LibreOffice Calc
 sidebar_position: 3
 sidebar_custom_props:
   icon: mdi-chart-areaspline
+  source: gym-kirchenfeld
 ---
 
 # Diagramm erstellen

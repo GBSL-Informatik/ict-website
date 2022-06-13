@@ -1,8 +1,11 @@
 ---
-description: Immer wieder wird bei Online-Portalen eingebrochen. Dabei werden oft Millionen von Kontendaten gestohlen. Bin ich auch betroffen?
+description: >-
+  Immer wieder wird bei Online-Portalen eingebrochen. Dabei werden oft Millionen
+  von Kontendaten gestohlen. Bin ich auch betroffen?
 sidebar_position: 50
 sidebar_custom_props:
   icon: mdi-target-account
+  source: gym-kirchenfeld
 ---
 
 # Kompromittierte Accounts

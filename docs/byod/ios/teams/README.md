@@ -1,9 +1,12 @@
 ---
-systems: [iOS / iPadOS]
-apps: [Microsoft Teams]
+systems:
+  - iOS / iPadOS
+apps:
+  - Microsoft Teams
 sidebar_position: 50
 sidebar_custom_props:
   icon: mdi-microsoft-teams
+  source: gym-kirchenfeld
 ---
 
 # Teams einrichten

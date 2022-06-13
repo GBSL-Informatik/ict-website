@@ -1,9 +1,12 @@
 ---
-systems: [Windows]
-apps: [Microsoft Outlook]
+systems:
+  - Windows
+apps:
+  - Microsoft Outlook
 sidebar_position: 40
 sidebar_custom_props:
   icon: mdi-email
+  source: gym-kirchenfeld
 ---
 
 # E-Mail einrichten

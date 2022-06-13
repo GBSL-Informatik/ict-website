@@ -1,8 +1,10 @@
 ---
 chapter: Teams
-apps: [Microsoft Teams]
+apps:
+  - Microsoft Teams
 sidebar_custom_props:
   icon: mdi-microsoft-teams
+  source: gym-kirchenfeld
 ---
 
 # Gruppenräume erstellen

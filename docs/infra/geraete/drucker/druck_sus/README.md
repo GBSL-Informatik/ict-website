@@ -2,6 +2,7 @@
 sidebar_position: 30
 sidebar_custom_props:
   icon: mdi-account-multiple
+  source: gym-kirchenfeld
 ---
 
 # Schüler:innen

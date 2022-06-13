@@ -1,8 +1,10 @@
 ---
-apps: [Microsoft Word]
+apps:
+  - Microsoft Word
 sidebar_position: 3
 sidebar_custom_props:
   icon: mdi-pencil-outline
+  source: gym-kirchenfeld
 ---
 
 # Formatvorlagen ändern

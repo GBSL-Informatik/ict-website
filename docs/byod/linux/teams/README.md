@@ -1,9 +1,12 @@
 ---
-systems: [Linux]
-apps: [Microsoft Teams]
+systems:
+  - Linux
+apps:
+  - Microsoft Teams
 sidebar_position: 11
 sidebar_custom_props:
   icon: mdi-microsoft-teams
+  source: gym-kirchenfeld
 ---
 
 # Teams einrichten

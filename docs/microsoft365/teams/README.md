@@ -1,8 +1,10 @@
 ---
-apps: [Microsoft Teams]
+apps:
+  - Microsoft Teams
 sidebar_position: 20
 sidebar_custom_props:
   icon: mdi-microsoft-teams
+  source: gym-kirchenfeld
 ---
 
 # Teams

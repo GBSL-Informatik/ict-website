@@ -3,6 +3,7 @@ description: Meine E-Mails mit einer Signatur anreichern
 sidebar_position: 10
 sidebar_custom_props:
   icon: mdi-email-check
+  source: gym-kirchenfeld
 ---
 
 # Signatur

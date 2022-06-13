@@ -1,8 +1,10 @@
 ---
-apps: [Microsoft Word]
+apps:
+  - Microsoft Word
 sidebar_position: 2
 sidebar_custom_props:
   icon: mdi-table-of-contents
+  source: gym-kirchenfeld
 ---
 
 # Inhaltsverzeichnis

@@ -1,9 +1,12 @@
 ---
-description: "Kleine Sammlung von Tipps während der Präsentation"
-apps: [Microsoft PowerPoint, LibreOffice Impress]
+description: Kleine Sammlung von Tipps während der Präsentation
+apps:
+  - Microsoft PowerPoint
+  - LibreOffice Impress
 sidebar_position: 4
 sidebar_custom_props:
-  icon: "mdi-remote"
+  icon: mdi-remote
+  source: gym-kirchenfeld
 ---
 
 # Starten, pausieren und fortsetzen

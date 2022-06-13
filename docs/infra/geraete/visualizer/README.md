@@ -1,7 +1,8 @@
 ---
-chapter: "Visualizer"
+chapter: Visualizer
 sidebar_custom_props:
   icon: mdi-camera-metering-center
+  source: gym-kirchenfeld
 ---
 
 # Visualizer

@@ -1,8 +1,11 @@
 ---
-description: Wir verwenden PCs, Notebooks, Tablets, Smartphones und die Cloud, aber wo sind welche Daten gepseichert?
+description: >-
+  Wir verwenden PCs, Notebooks, Tablets, Smartphones und die Cloud, aber wo sind
+  welche Daten gepseichert?
 sidebar_position: 70
 sidebar_custom_props:
   icon: mdi-content-save
+  source: gym-kirchenfeld
 ---
 
 # Datenspeicherorte

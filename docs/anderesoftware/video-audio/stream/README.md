@@ -1,8 +1,10 @@
 ---
-apps: [Microsoft Stream]
+apps:
+  - Microsoft Stream
 sidebar_position: 4
 sidebar_custom_props:
   icon: mdi-play-outline
+  source: gym-kirchenfeld
 ---
 
 # Stream

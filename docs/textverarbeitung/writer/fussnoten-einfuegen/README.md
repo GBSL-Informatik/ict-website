@@ -1,11 +1,13 @@
 ---
 tags:
-    - Fussnoten
-    - Endnoten
-apps: [LibreOffice Writer]
+  - Fussnoten
+  - Endnoten
+apps:
+  - LibreOffice Writer
 sidebar_position: 10
 sidebar_custom_props:
   icon: mdi-foot-print
+  source: gym-kirchenfeld
 ---
 
 # Fussnoten einfügen

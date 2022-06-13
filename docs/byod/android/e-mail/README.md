@@ -1,8 +1,10 @@
 ---
-systems: [Android]
+systems:
+  - Android
 sidebar_position: 20
 sidebar_custom_props:
   icon: mdi-email
+  source: gym-kirchenfeld
 ---
 
 # E-Mail einrichten

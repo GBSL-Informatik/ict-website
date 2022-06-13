@@ -3,6 +3,7 @@ description: Links zu wichtigen Webseiten abspeichern
 sidebar_position: 5
 sidebar_custom_props:
   icon: mdi-star
+  source: gym-kirchenfeld
 ---
 
 # Favoriten verwalten

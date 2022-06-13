@@ -1,9 +1,11 @@
 ---
-description: "Einstellen der bevorzugten Anführungszeichen in LibreOffice Writer"
-apps: [LibreOffice Writer]
+description: Einstellen der bevorzugten Anführungszeichen in LibreOffice Writer
+apps:
+  - LibreOffice Writer
 sidebar_position: 14
 sidebar_custom_props:
   icon: mdi-format-quote-close
+  source: gym-kirchenfeld
 ---
 
 # Anführungszeichen

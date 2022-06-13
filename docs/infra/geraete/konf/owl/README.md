@@ -1,6 +1,7 @@
 ---
 sidebar_custom_props:
   icon: mdi-owl
+  source: gym-kirchenfeld
 ---
 
 #  MeetingOWL

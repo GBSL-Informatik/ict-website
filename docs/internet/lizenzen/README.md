@@ -3,6 +3,7 @@ description: Was darf ich wie verwenden?
 sidebar_position: 3
 sidebar_custom_props:
   icon: mdi-scale-balance
+  source: gym-kirchenfeld
 ---
 
 # Urheberrecht und Lizenzen

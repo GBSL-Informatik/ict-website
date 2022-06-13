@@ -1,7 +1,10 @@
 ---
-description: "Wie kann ich ein eigenes Design für meine Präsentation erstellen?"
-apps: [Microsoft PowerPoint]
+description: Wie kann ich ein eigenes Design für meine Präsentation erstellen?
+apps:
+  - Microsoft PowerPoint
 sidebar_position: 5
+sidebar_custom_props:
+  source: gym-kirchenfeld
 ---
 
 # Masterfolie

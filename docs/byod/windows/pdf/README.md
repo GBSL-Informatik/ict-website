@@ -1,8 +1,10 @@
 ---
-systems: [Windows]
+systems:
+  - Windows
 sidebar_position: 70
 sidebar_custom_props:
   icon: mdi-file-pdf-box
+  source: gym-kirchenfeld
 ---
 
 # Acrobat Reader einrichten

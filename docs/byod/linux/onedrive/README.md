@@ -1,8 +1,10 @@
 ---
-systems: [Linux]
+systems:
+  - Linux
 sidebar_position: 20
 sidebar_custom_props:
   icon: mdi-cloud
+  source: gym-kirchenfeld
 ---
 
 # OneDrive einrichten

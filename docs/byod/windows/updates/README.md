@@ -1,7 +1,9 @@
 ---
-systems: [Windows]
+systems:
+  - Windows
 sidebar_custom_props:
   icon: mdi-microsoft-windows
+  source: gym-kirchenfeld
 ---
 
 # Windows-Updates

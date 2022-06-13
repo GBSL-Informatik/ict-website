@@ -1,7 +1,10 @@
 ---
 description: Einen Vortrag aufzeichen und als Video speichern
-apps: [Microsoft PowerPoint]
+apps:
+  - Microsoft PowerPoint
 sidebar_position: 9
+sidebar_custom_props:
+  source: gym-kirchenfeld
 ---
 
 # Slidecast

@@ -1,9 +1,11 @@
 ---
 description: Endprodukt plattformunabhängig als PDF-Datei abliefern
-apps: [Microsoft Word]
+apps:
+  - Microsoft Word
 sidebar_position: 13
 sidebar_custom_props:
   icon: mdi-file-pdf
+  source: gym-kirchenfeld
 ---
 
 # Endprodukt als PDF

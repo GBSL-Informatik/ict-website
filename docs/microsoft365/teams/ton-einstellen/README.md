@@ -1,8 +1,10 @@
 ---
 chapter: Teams
-apps: [Microsoft Teams]
+apps:
+  - Microsoft Teams
 sidebar_custom_props:
   icon: mdi-microphone
+  source: gym-kirchenfeld
 ---
 
 # Einstellungen für Tonausgabe und Mikrofon

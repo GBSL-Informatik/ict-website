@@ -1,8 +1,10 @@
 ---
-apps: [Microsoft Word]
+apps:
+  - Microsoft Word
 sidebar_position: 4
 sidebar_custom_props:
   icon: mdi-bookshelf
+  source: gym-kirchenfeld
 ---
 
 # Literaturverwaltung

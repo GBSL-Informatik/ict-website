@@ -1,9 +1,12 @@
 ---
-description: "Wie funktioniert das mit Beamer und Bildschirm?"
-apps: [Microsoft PowerPoint, LibreOffice Impress]
+description: Wie funktioniert das mit Beamer und Bildschirm?
+apps:
+  - Microsoft PowerPoint
+  - LibreOffice Impress
 sidebar_position: 3
 sidebar_custom_props:
-  icon: "mdi-projector"
+  icon: mdi-projector
+  source: gym-kirchenfeld
 ---
 
 # Zwei Bildschirme

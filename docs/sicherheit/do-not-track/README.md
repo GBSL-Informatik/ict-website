@@ -1,8 +1,11 @@
 ---
-description: Webseiten interessieren sich für unsere Gewohnheiten – Hintergründe dazu und wie wir uns wehren können.
+description: >-
+  Webseiten interessieren sich für unsere Gewohnheiten – Hintergründe dazu und
+  wie wir uns wehren können.
 sidebar_position: 60
 sidebar_custom_props:
   icon: mdi-cookie
+  source: gym-kirchenfeld
 ---
 
 # Do not Track

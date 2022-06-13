@@ -1,8 +1,11 @@
 ---
-description: Wir werden auf Schritt und Tritt beobachtet. Überwall werden Daten über uns gesammelt. Bist du dir dessen bewusst?
+description: >-
+  Wir werden auf Schritt und Tritt beobachtet. Überwall werden Daten über uns
+  gesammelt. Bist du dir dessen bewusst?
 sidebar_position: 50
 sidebar_custom_props:
   icon: mdi-map-marker
+  source: gym-kirchenfeld
 ---
 
 # Tracking

@@ -1,9 +1,11 @@
 ---
-description: "Wie strukturiere ich ein Dokument?"
-apps: [LibreOffice Writer]
+description: Wie strukturiere ich ein Dokument?
+apps:
+  - LibreOffice Writer
 sidebar_position: 1
 sidebar_custom_props:
   icon: mdi-format-paragraph
+  source: gym-kirchenfeld
 ---
 
 # Formatvorlagen zuweisen

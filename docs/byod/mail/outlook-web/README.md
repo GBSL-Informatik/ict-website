@@ -1,8 +1,10 @@
 ---
-apps: [outlook]
+apps:
+  - outlook
 sidebar_position: 30
 sidebar_custom_props:
   icon: mdi-microsoft-outlook
+  source: gym-kirchenfeld
 ---
 
 # Outlook im Browser

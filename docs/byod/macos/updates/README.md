@@ -1,7 +1,9 @@
 ---
-systems: [macOS]
+systems:
+  - macOS
 sidebar_custom_props:
   icon: mdi-apple
+  source: gym-kirchenfeld
 ---
 
 # macOS-Updates

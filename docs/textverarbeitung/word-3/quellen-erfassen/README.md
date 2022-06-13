@@ -1,8 +1,10 @@
 ---
-apps: [Microsoft Word]
+apps:
+  - Microsoft Word
 sidebar_position: 6
 sidebar_custom_props:
   icon: mdi-bookshelf
+  source: gym-kirchenfeld
 ---
 
 # Quellen erfassen

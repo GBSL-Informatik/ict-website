@@ -1,14 +1,18 @@
 ---
-description: "Wie füge ich eine Kopf- oder eine Fusszeile ein? Welche Elemente stehen zur Verfügung?"
+description: >-
+  Wie füge ich eine Kopf- oder eine Fusszeile ein? Welche Elemente stehen zur
+  Verfügung?
 tags:
-    - Felder
-    - Kopfzeile
-    - Fusszeile
-    - Seitenzahlen
-apps: [LibreOffice Writer]
+  - Felder
+  - Kopfzeile
+  - Fusszeile
+  - Seitenzahlen
+apps:
+  - LibreOffice Writer
 sidebar_position: 4
 sidebar_custom_props:
   icon: mdi-page-layout-header-footer
+  source: gym-kirchenfeld
 ---
 
 # Felder einfügen

@@ -1,8 +1,10 @@
 ---
-apps: [Microsoft Word]
+apps:
+  - Microsoft Word
 sidebar_position: 12
 sidebar_custom_props:
   icon: mdi-keyboard
+  source: gym-kirchenfeld
 ---
 
 # Tastaturkürzel

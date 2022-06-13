@@ -2,6 +2,7 @@
 sidebar_position: 40
 sidebar_custom_props:
   icon: mdi-briefcase-variant
+  source: gym-kirchenfeld
 ---
 
 # Lehrpersonen

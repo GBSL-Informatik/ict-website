@@ -1,8 +1,10 @@
 ---
-systems: [Android]
+systems:
+  - Android
 sidebar_position: 30
 sidebar_custom_props:
   icon: mdi-qrcode
+  source: gym-kirchenfeld
 ---
 
 # QR-Scanner einrichten

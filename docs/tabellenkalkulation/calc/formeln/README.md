@@ -1,9 +1,13 @@
 ---
-description: Wie mit Formeln und den Grundrechenoperationen Berechnungen durchgeführt werden können.
-apps: [LibreOffice Calc]
+description: >-
+  Wie mit Formeln und den Grundrechenoperationen Berechnungen durchgeführt
+  werden können.
+apps:
+  - LibreOffice Calc
 sidebar_position: 8
 sidebar_custom_props:
   icon: mdi-function-variant
+  source: gym-kirchenfeld
 ---
 
 # Formeln

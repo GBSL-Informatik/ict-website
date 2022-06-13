@@ -1,8 +1,10 @@
 ---
-apps: [isTest2]
+apps:
+  - isTest2
 sidebar_position: 40
 sidebar_custom_props:
   icon: mdi-check-outline
+  source: gym-kirchenfeld
 ---
 
 # Anmelden bei isTest2

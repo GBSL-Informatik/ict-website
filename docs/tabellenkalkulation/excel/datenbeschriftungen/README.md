@@ -1,9 +1,11 @@
 ---
 description: So können Datenbeschriftungen angezeigt werden
-apps: [Microsoft Excel]
+apps:
+  - Microsoft Excel
 sidebar_position: 7
 sidebar_custom_props:
   icon: mdi-format-title
+  source: gym-kirchenfeld
 ---
 
 # Datenbeschriftungen

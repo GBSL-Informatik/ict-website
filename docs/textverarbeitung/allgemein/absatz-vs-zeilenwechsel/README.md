@@ -1,11 +1,14 @@
 ---
 tags:
-    - Absatzwechsel
-    - Zeilenwechsel
-apps: [Microsoft Word, LibreOffice Writer]
+  - Absatzwechsel
+  - Zeilenwechsel
+apps:
+  - Microsoft Word
+  - LibreOffice Writer
 sidebar_position: 1
 sidebar_custom_props:
   icon: mdi-format-pilcrow
+  source: gym-kirchenfeld
 ---
 
 # Absatz- vs. Zeilenwechsel

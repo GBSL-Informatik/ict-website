@@ -1,9 +1,11 @@
 ---
-description: "Anmerkungen und Notizen speichern"
-apps: [Microsoft PowerPoint]
+description: Anmerkungen und Notizen speichern
+apps:
+  - Microsoft PowerPoint
 sidebar_position: 7
 sidebar_custom_props:
-  icon: "mdi-note-multiple-outline"
+  icon: mdi-note-multiple-outline
+  source: gym-kirchenfeld
 ---
 
 # Notizen

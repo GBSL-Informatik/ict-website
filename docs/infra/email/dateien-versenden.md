@@ -3,6 +3,7 @@ description: Welche Dateitypen eignen sich für den elektronischen Versand?
 sidebar_position: 40
 sidebar_custom_props:
   icon: mdi-attachment
+  source: gym-kirchenfeld
 ---
 
 # Dateien versenden

@@ -1,9 +1,11 @@
 ---
 description: Wie Zellbereiche automatisch mit Werten und Formeln ausgefüllt werden können.
-apps: [Microsoft Excel]
+apps:
+  - Microsoft Excel
 sidebar_position: 11
 sidebar_custom_props:
   icon: mdi-card-plus-outline
+  source: gym-kirchenfeld
 ---
 
 # Automatisches Ausfüllen

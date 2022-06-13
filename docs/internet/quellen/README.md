@@ -3,6 +3,7 @@ description: Wie schreibe ich eine korrekte Quellenangabe
 sidebar_position: 2
 sidebar_custom_props:
   icon: mdi-typewriter
+  source: gym-kirchenfeld
 ---
 
 # Quellenangaben

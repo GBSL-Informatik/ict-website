@@ -1,5 +1,8 @@
 ---
-chapter: "Kitchen Sink"
+chapter: Kitchen Sink
+sidebar_custom_props:
+  icon: mdi-school
+  source: gym-kirchenfeld
 ---
 
 #  "Markdown"

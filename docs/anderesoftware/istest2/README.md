@@ -2,6 +2,7 @@
 sidebar_position: 40
 sidebar_custom_props:
   icon: mdi-check-outline
+  source: gym-kirchenfeld
 ---
 
 # isTest2

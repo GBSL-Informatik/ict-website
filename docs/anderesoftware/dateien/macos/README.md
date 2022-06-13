@@ -1,8 +1,10 @@
 ---
-systems: [macOS]
+systems:
+  - macOS
 sidebar_position: 20
 sidebar_custom_props:
   icon: mdi-apple
+  source: gym-kirchenfeld
 ---
 
 # Dateien mit macOS

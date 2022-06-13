@@ -1,8 +1,9 @@
 ---
-description: "Wie kann ich Videos einfügen und sicherstellten, dass diese korrekt abspielen?"
+description: 'Wie kann ich Videos einfügen und sicherstellten, dass diese korrekt abspielen?'
 sidebar_position: 4
 sidebar_custom_props:
-  icon: "mdi-movie-open"
+  icon: mdi-movie-open
+  source: gym-kirchenfeld
 ---
 
 # Videos

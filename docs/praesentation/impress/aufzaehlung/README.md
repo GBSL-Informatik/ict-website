@@ -1,9 +1,11 @@
 ---
 description: die berühmenten «Bullet Points»
-apps: [LibreOffice Impress]
+apps:
+  - LibreOffice Impress
 sidebar_position: 2
 sidebar_custom_props:
-  icon: "mdi-format-list-bulleted"
+  icon: mdi-format-list-bulleted
+  source: gym-kirchenfeld
 ---
 
 # Aufzählung

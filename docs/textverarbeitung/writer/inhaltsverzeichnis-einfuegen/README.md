@@ -1,9 +1,11 @@
 ---
-description: "ein automatisches Inhaltsverzeichnis generieren"
-apps: [LibreOffice Writer]
+description: ein automatisches Inhaltsverzeichnis generieren
+apps:
+  - LibreOffice Writer
 sidebar_position: 2
 sidebar_custom_props:
   icon: mdi-table-of-contents
+  source: gym-kirchenfeld
 ---
 
 # Inhaltsverzeichnis einfügen

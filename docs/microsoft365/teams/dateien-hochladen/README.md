@@ -1,8 +1,10 @@
 ---
 chapter: Teams
-apps: [Microsoft Teams]
+apps:
+  - Microsoft Teams
 sidebar_custom_props:
   icon: mdi-file-document
+  source: gym-kirchenfeld
 ---
 
 # Dateien hochladen

@@ -1,9 +1,12 @@
 ---
-systems: [Android]
-apps: [Microsoft Teams]
+systems:
+  - Android
+apps:
+  - Microsoft Teams
 sidebar_position: 50
 sidebar_custom_props:
   icon: mdi-microsoft-teams
+  source: gym-kirchenfeld
 ---
 
 # Teams einrichten

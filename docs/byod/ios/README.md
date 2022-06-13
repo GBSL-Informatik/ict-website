@@ -1,7 +1,9 @@
 ---
-systems: [iOS / iPadOS]
+systems:
+  - iOS / iPadOS
 sidebar_custom_props:
   icon: mdi-apple
+  source: gym-kirchenfeld
 sidebar_position: 30
 ---
 

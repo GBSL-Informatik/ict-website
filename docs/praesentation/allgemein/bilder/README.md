@@ -1,9 +1,12 @@
 ---
-description: "Überlegungen zum Einfügen von Bildern"
-apps: [Microsoft PowerPoint, LibreOffice Impress]
+description: Überlegungen zum Einfügen von Bildern
+apps:
+  - Microsoft PowerPoint
+  - LibreOffice Impress
 sidebar_position: 2
 sidebar_custom_props:
-  icon: "mdi-image"
+  icon: mdi-image
+  source: gym-kirchenfeld
 ---
 
 # Bilder

@@ -1,7 +1,12 @@
 ---
 description: Was sind Formatvorlagen? Wie funktionieren sie?
-apps: [Microsoft Word, LibreOffice Writer]
+apps:
+  - Microsoft Word
+  - LibreOffice Writer
 sidebar_position: 2
+sidebar_custom_props:
+  icon: mdi-format-text
+  source: gym-kirchenfeld
 ---
 
 # Formatvorlagen

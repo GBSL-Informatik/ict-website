@@ -1,8 +1,11 @@
 ---
-description: Virenschutz unter Windows ist zentral – überlegtes und vorsichtiges Surfen trotzdem unerlässlich.
+description: >-
+  Virenschutz unter Windows ist zentral – überlegtes und vorsichtiges Surfen
+  trotzdem unerlässlich.
 sidebar_position: 110
 sidebar_custom_props:
   icon: mdi-shield-bug
+  source: gym-kirchenfeld
 ---
 
 # Antivirensoftware

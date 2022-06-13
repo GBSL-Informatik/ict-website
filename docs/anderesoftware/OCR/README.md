@@ -1,10 +1,12 @@
 ---
-chapter: "Andere Software"
-apps: [PDF24]
+chapter: Andere Software
+apps:
+  - PDF24
 description: Gescannte Dokumente als Text erkennen (OCR)
 sidebar_position: 35
 sidebar_custom_props:
   icon: mdi-format-font
+  source: gym-kirchenfeld
 ---
 
 # Texterkennung

@@ -1,9 +1,11 @@
 ---
-description: "da bewegt sich etwas"
-apps: [Microsoft PowerPoint]
+description: da bewegt sich etwas
+apps:
+  - Microsoft PowerPoint
 sidebar_position: 3
 sidebar_custom_props:
-  icon: "mdi-animation-play"
+  icon: mdi-animation-play
+  source: gym-kirchenfeld
 ---
 
 # Animationen

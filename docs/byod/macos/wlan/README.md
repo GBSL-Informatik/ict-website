@@ -1,8 +1,10 @@
 ---
-systems: [macOS]
+systems:
+  - macOS
 sidebar_position: 10
 sidebar_custom_props:
   icon: mdi-wifi
+  source: gym-kirchenfeld
 ---
 
 # WLAN einrichten

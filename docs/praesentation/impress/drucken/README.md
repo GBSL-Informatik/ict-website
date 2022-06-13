@@ -1,9 +1,11 @@
 ---
-description: 'Handzettel und Notizseiten drucken'
-apps: [LibreOffice Impress]
+description: Handzettel und Notizseiten drucken
+apps:
+  - LibreOffice Impress
 sidebar_position: 8
 sidebar_custom_props:
-  icon: "mdi-printer"
+  icon: mdi-printer
+  source: gym-kirchenfeld
 ---
 
 # Drucken

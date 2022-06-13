@@ -3,6 +3,7 @@ description: Wo beziehe ich die meine Software sicher?
 sidebar_position: 80
 sidebar_custom_props:
   icon: mdi-download
+  source: gym-kirchenfeld
 ---
 
 # Software-Download

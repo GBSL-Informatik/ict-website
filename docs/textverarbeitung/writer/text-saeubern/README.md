@@ -1,13 +1,15 @@
 ---
-description: ""
+description: ''
 tags:
-    - Copy & Paste
-    - Einfügen
-    - Formatierung entfernen
-apps: [LibreOffice Writer]
+  - Copy & Paste
+  - Einfügen
+  - Formatierung entfernen
+apps:
+  - LibreOffice Writer
 sidebar_position: 9
 sidebar_custom_props:
   icon: mdi-spray-bottle
+  source: gym-kirchenfeld
 ---
 
 # Text säubern

@@ -1,9 +1,11 @@
 ---
-subitle: "Aussehen eines gesamten Dokumentes anpassen"
-apps: [LibreOffice Writer]
+subitle: Aussehen eines gesamten Dokumentes anpassen
+apps:
+  - LibreOffice Writer
 sidebar_position: 3
 sidebar_custom_props:
   icon: mdi-pencil-outline
+  source: gym-kirchenfeld
 ---
 
 # Formatvorlagen anpassen

@@ -1,6 +1,7 @@
 ---
 sidebar_custom_props:
   icon: mdi-projector
+  source: gym-kirchenfeld
 ---
 
 #  Beamer

@@ -1,9 +1,11 @@
 ---
 description: So kann eine Tabelle nach verschiedenen Spalten sortiert werden.
-apps: [Microsoft Excel]
+apps:
+  - Microsoft Excel
 sidebar_position: 1
 sidebar_custom_props:
   icon: mdi-sort
+  source: gym-kirchenfeld
 ---
 
 # Sortierung

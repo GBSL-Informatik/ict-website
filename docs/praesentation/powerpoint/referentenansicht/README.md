@@ -1,7 +1,10 @@
 ---
-description: "Welche Möglichkeiten bietet mir die Referentenansicht?"
-apps: [Microsoft PowerPoint]
+description: Welche Möglichkeiten bietet mir die Referentenansicht?
+apps:
+  - Microsoft PowerPoint
 sidebar_position: 6
+sidebar_custom_props:
+  source: gym-kirchenfeld
 ---
 
 # Referentenansicht

@@ -1,8 +1,11 @@
 ---
-apps: [isTest2, Safe Exam Browser]
+apps:
+  - isTest2
+  - Safe Exam Browser
 sidebar_position: 40
 sidebar_custom_props:
   icon: mdi-check-outline
+  source: gym-kirchenfeld
 ---
 
 # Safe Exam Browser mit isTest2

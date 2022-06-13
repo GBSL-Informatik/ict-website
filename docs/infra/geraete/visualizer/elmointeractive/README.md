@@ -1,6 +1,7 @@
 ---
 sidebar_custom_props:
   icon: mdi-toolbox
+  source: gym-kirchenfeld
 ---
 
 #  "Elmo Interactive Toolbox"

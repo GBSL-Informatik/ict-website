@@ -3,6 +3,7 @@ description: Wie adressiere ich korrekt eine E-Mail
 sidebar_position: 20
 sidebar_custom_props:
   icon: mdi-email-send
+  source: gym-kirchenfeld
 ---
 
 # Empfänger

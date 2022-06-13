@@ -1,11 +1,13 @@
 ---
 tags:
-    - Bilder
-    - Textfluss
-apps: [Microsoft Word]
+  - Bilder
+  - Textfluss
+apps:
+  - Microsoft Word
 sidebar_position: 5
 sidebar_custom_props:
   icon: mdi-image-plus
+  source: gym-kirchenfeld
 ---
 
 # Bilder

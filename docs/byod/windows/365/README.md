@@ -1,9 +1,12 @@
 ---
-systems: [Windows]
-apps: [Microsoft 365]
+systems:
+  - Windows
+apps:
+  - Microsoft 365
 sidebar_position: 30
 sidebar_custom_props:
   icon: mdi-microsoft-office
+  source: gym-kirchenfeld
 ---
 
 # Microsoft 365 einrichten

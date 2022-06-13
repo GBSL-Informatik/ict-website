@@ -3,6 +3,7 @@ description: Wie ist eine Internetadresse aufgebaut?
 sidebar_position: 4
 sidebar_custom_props:
   icon: mdi-link
+  source: gym-kirchenfeld
 ---
 
 # Internetadressen

@@ -1,9 +1,10 @@
 ---
-description: Alles, was zur (digitalen) Schulinfrastruktur gehört
-chapter: "Schulinfrastruktur"
+description: 'Alles, was zur (digitalen) Schulinfrastruktur gehört'
+chapter: Schulinfrastruktur
 sidebar_position: 0
 sidebar_custom_props:
   icon: mdi-home-circle
+  source: gym-kirchenfeld
 ---
 
 # Schulinfrastruktur

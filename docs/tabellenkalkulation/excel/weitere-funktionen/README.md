@@ -1,9 +1,11 @@
 ---
 description: Welche weiteren Funktionen stehen zur Verfügung?
-apps: [Microsoft Excel]
+apps:
+  - Microsoft Excel
 sidebar_position: 10
 sidebar_custom_props:
   icon: mdi-function-variant
+  source: gym-kirchenfeld
 ---
 
 # Weitere Funktionen

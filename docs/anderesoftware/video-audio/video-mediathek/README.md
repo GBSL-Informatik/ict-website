@@ -1,8 +1,10 @@
 ---
-apps: [MediathekView]
+apps:
+  - MediathekView
 sidebar_position: 4
 sidebar_custom_props:
   icon: mdi-vhs
+  source: gym-kirchenfeld
 ---
 
 # Video aus Mediathek herunteladen

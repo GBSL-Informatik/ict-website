@@ -1,6 +1,7 @@
 ---
 sidebar_custom_props:
   icon: mdi-account
+  source: gym-kirchenfeld
 ---
 
 #  Konto und Passwort

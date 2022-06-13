@@ -1,6 +1,7 @@
 ---
 sidebar_custom_props:
   icon: mdi-bag-suitcase
+  source: gym-kirchenfeld
 ---
 
 #  Austritt - digitales Kofferpacken

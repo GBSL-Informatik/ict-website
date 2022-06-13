@@ -1,9 +1,12 @@
 ---
-description: "erste Überlegungen"
-apps: [Microsoft PowerPoint, LibreOffice Impress]
+description: erste Überlegungen
+apps:
+  - Microsoft PowerPoint
+  - LibreOffice Impress
 sidebar_position: 1
 sidebar_custom_props:
-  icon: "mdi-presentation"
+  icon: mdi-presentation
+  source: gym-kirchenfeld
 ---
 
 # Präsentation erstellen

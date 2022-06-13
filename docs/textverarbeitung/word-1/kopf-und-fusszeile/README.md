@@ -1,13 +1,15 @@
 ---
-description: "Wie füge ich eine Kopf- oder eine Fusszeile ein?"
+description: Wie füge ich eine Kopf- oder eine Fusszeile ein?
 tags:
-    - Kopfzeile
-    - Fusszeile
-    - Seitenzahlen
-apps: [Microsoft Word]
+  - Kopfzeile
+  - Fusszeile
+  - Seitenzahlen
+apps:
+  - Microsoft Word
 sidebar_position: 9
 sidebar_custom_props:
   icon: mdi-page-layout-header-footer
+  source: gym-kirchenfeld
 ---
 
 # Kopf- und Fusszeile

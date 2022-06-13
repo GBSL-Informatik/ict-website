@@ -1,10 +1,13 @@
 ---
 chapter: Textverarbeitung
 description: Freihändiges Schreiben und Skizzieren in PDFs
-systems: [Windows]
-apps: [Drawboard PDF]
+systems:
+  - Windows
+apps:
+  - Drawboard PDF
 sidebar_custom_props:
   icon: mdi-hexagon-outline
+  source: gym-kirchenfeld
 ---
 
 # Drawboard PDF

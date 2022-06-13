@@ -1,9 +1,11 @@
 ---
 description: So kann die Darstellung der Achsen angepasst werden
-apps: [Microsoft Excel]
+apps:
+  - Microsoft Excel
 sidebar_position: 6
 sidebar_custom_props:
   icon: mdi-format-title
+  source: gym-kirchenfeld
 ---
 
 # Achsen formatieren

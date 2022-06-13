@@ -1,8 +1,11 @@
 ---
-systems: [Windows]
-apps: [Adobe Digital Editions]
+systems:
+  - Windows
+apps:
+  - Adobe Digital Editions
 sidebar_custom_props:
   icon: mdi-book-open-page-variant
+  source: gym-kirchenfeld
 ---
 
 # e-Thek

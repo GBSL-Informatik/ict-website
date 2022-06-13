@@ -1,9 +1,11 @@
 ---
-description: "Verwenden von benutzerdefinierten Anführungszeichen in Word."
-apps: [Microsoft Word]
+description: Verwenden von benutzerdefinierten Anführungszeichen in Word.
+apps:
+  - Microsoft Word
 sidebar_position: 14
 sidebar_custom_props:
   icon: mdi-format-quote-close
+  source: gym-kirchenfeld
 ---
 
 # Anführungszeichen

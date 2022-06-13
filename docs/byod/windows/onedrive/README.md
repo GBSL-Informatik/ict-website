@@ -1,9 +1,12 @@
 ---
-systems: [Windows]
-apps: [Microsoft OneDrive]
+systems:
+  - Windows
+apps:
+  - Microsoft OneDrive
 sidebar_position: 50
 sidebar_custom_props:
   icon: mdi-microsoft-onedrive
+  source: gym-kirchenfeld
 ---
 
 # OneDrive einrichten

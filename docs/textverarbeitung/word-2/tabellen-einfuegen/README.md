@@ -1,11 +1,13 @@
 ---
-description: "Wie kann ich eine Tabellen einfügen? Welche Einstellungen eigenen sich?"
+description: Wie kann ich eine Tabellen einfügen? Welche Einstellungen eigenen sich?
 tags:
-- Tabellen
-apps: [Microsoft Word]
+  - Tabellen
+apps:
+  - Microsoft Word
 sidebar_position: 6
 sidebar_custom_props:
   icon: mdi-table-plus
+  source: gym-kirchenfeld
 ---
 
 # Tabellen einfügen

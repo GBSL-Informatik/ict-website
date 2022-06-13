@@ -1,9 +1,12 @@
 ---
 description: Wichtige Elemente und ihre Namen
-apps: [Microsoft Excel, LibreOffice Calc]
+apps:
+  - Microsoft Excel
+  - LibreOffice Calc
 sidebar_position: 4
 sidebar_custom_props:
   icon: mdi-chart-bar
+  source: gym-kirchenfeld
 ---
 
 # Aufbau eines Diagramms

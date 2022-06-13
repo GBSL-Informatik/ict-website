@@ -1,7 +1,9 @@
 ---
-systems: [Android]
+systems:
+  - Android
 sidebar_custom_props:
   icon: mdi-android
+  source: gym-kirchenfeld
 sidebar_position: 20
 ---
 

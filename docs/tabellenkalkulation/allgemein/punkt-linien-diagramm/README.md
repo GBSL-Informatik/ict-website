@@ -1,9 +1,14 @@
 ---
-description: Unterschiede zwischen Punkt- und Liniendiagrammen oder wieso Liniendiagramme «böse» sind!
-apps: [Microsoft Excel, LibreOffice Calc]
+description: >-
+  Unterschiede zwischen Punkt- und Liniendiagrammen oder wieso Liniendiagramme
+  «böse» sind!
+apps:
+  - Microsoft Excel
+  - LibreOffice Calc
 sidebar_position: 6
 sidebar_custom_props:
   icon: mdi-chart-timeline-variant
+  source: gym-kirchenfeld
 ---
 
 # Punkt- oder Liniendiagramm

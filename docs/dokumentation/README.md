@@ -1,5 +1,10 @@
 ---
-description: Einige Regeln, an die wir uns halten sollten, damit ein einheitlicher Auftritt entstehen kann
+description: >-
+  Einige Regeln, an die wir uns halten sollten, damit ein einheitlicher Auftritt
+  entstehen kann
+sidebar_custom_props:
+  icon: mdi-school
+  source: gym-kirchenfeld
 ---
 
 # Hinweise für Autoren

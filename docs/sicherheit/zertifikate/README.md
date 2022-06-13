@@ -1,8 +1,11 @@
 ---
-description: Immer mehr Webseiten verwenden Zertifikate und dadurch verschlüsselte Verbindungen. Was bedeutet dies für uns?
+description: >-
+  Immer mehr Webseiten verwenden Zertifikate und dadurch verschlüsselte
+  Verbindungen. Was bedeutet dies für uns?
 sidebar_position: 100
 sidebar_custom_props:
   icon: mdi-certificate
+  source: gym-kirchenfeld
 ---
 
 # Webseitenzertifikate

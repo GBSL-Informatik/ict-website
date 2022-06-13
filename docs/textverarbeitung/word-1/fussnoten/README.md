@@ -1,10 +1,12 @@
 ---
 tags:
-    - Fussnoten
-apps: [Microsoft Word]
+  - Fussnoten
+apps:
+  - Microsoft Word
 sidebar_position: 10
 sidebar_custom_props:
   icon: mdi-chevron-up
+  source: gym-kirchenfeld
 ---
 
 # Fussnoten

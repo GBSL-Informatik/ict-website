@@ -1,9 +1,12 @@
 ---
-systems: [Android]
-apps: [Microsoft OneDrive]
+systems:
+  - Android
+apps:
+  - Microsoft OneDrive
 sidebar_position: 60
 sidebar_custom_props:
   icon: mdi-microsoft-onedrive
+  source: gym-kirchenfeld
 ---
 
 # OneDrive einrichten

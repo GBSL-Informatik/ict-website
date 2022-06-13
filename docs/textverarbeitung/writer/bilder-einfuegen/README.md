@@ -1,12 +1,14 @@
 ---
-description: "Wie füge ich ein Bild ein? Wie kann ich den Textfluss um das Bild ändern?"
+description: Wie füge ich ein Bild ein? Wie kann ich den Textfluss um das Bild ändern?
 tags:
-    - Bilder
-    - Textfluss
-apps: [LibreOffice Writer]
+  - Bilder
+  - Textfluss
+apps:
+  - LibreOffice Writer
 sidebar_position: 5
 sidebar_custom_props:
   icon: mdi-image-plus
+  source: gym-kirchenfeld
 ---
 
 # Bilder einfügen und positionieren

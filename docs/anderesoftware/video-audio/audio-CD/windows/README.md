@@ -1,7 +1,9 @@
 ---
-apps: [Windows Media Player]
+apps:
+  - Windows Media Player
 sidebar_custom_props:
   icon: mdi-music-circle
+  source: gym-kirchenfeld
 ---
 
 # Audio-CDs Windows

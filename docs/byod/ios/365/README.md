@@ -1,9 +1,12 @@
 ---
-systems: [iOS / iPadOS]
-apps: [Microsoft 365]
+systems:
+  - iOS / iPadOS
+apps:
+  - Microsoft 365
 sidebar_position: 60
 sidebar_custom_props:
   icon: mdi-microsoft-office
+  source: gym-kirchenfeld
 ---
 
 # Microsoft 365 einrichten

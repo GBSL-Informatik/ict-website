@@ -1,7 +1,10 @@
 ---
-description: "Wie kann ich ein eigenes Design für meine Präsentation erstellen?"
-apps: [LibreOffice Impress]
+description: Wie kann ich ein eigenes Design für meine Präsentation erstellen?
+apps:
+  - LibreOffice Impress
 sidebar_position: 5
+sidebar_custom_props:
+  source: gym-kirchenfeld
 ---
 
 # Masterfolie

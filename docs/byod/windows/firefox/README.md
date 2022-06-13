@@ -1,9 +1,12 @@
 ---
-systems: [Windows]
-apps: [Firefox]
+systems:
+  - Windows
+apps:
+  - Firefox
 sidebar_position: 80
 sidebar_custom_props:
   icon: mdi-firefox
+  source: gym-kirchenfeld
 ---
 
 # Firefox einrichten

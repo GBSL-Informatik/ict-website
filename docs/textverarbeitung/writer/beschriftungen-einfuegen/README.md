@@ -1,9 +1,11 @@
 ---
-description: "Wie kann ich Bilder, Grafiken und Tabellen sauber und einheitlich beschriften?"
-apps: [LibreOffice Writer]
+description: 'Wie kann ich Bilder, Grafiken und Tabellen sauber und einheitlich beschriften?'
+apps:
+  - LibreOffice Writer
 sidebar_position: 7
 sidebar_custom_props:
   icon: mdi-label
+  source: gym-kirchenfeld
 ---
 
 # Beschriftungen einfügen

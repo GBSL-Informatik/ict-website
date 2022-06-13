@@ -1,9 +1,12 @@
 ---
-description: "Wichtige Diagrammtypen und deren Einsatz"
-apps: [Microsoft Excel, LibreOffice Calc]
+description: Wichtige Diagrammtypen und deren Einsatz
+apps:
+  - Microsoft Excel
+  - LibreOffice Calc
 sidebar_position: 5
 sidebar_custom_props:
   icon: mdi-chart-pie
+  source: gym-kirchenfeld
 ---
 
 # Diagrammtypen

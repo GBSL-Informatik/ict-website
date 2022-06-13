@@ -1,8 +1,11 @@
 ---
-systems: [Windows]
-apps: [Microsoft OneDrive]
+systems:
+  - Windows
+apps:
+  - Microsoft OneDrive
 sidebar_custom_props:
-  icon: 'mdi-cloud-sync'
+  icon: mdi-cloud-sync
+  source: gym-kirchenfeld
 ---
 
 # Synchronisation Windows

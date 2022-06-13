@@ -1,10 +1,13 @@
 ---
 chapter: Textverarbeitung
 description: Bearbeiten von PDFs
-systems: [Windows]
-apps: [PDF24]
+systems:
+  - Windows
+apps:
+  - PDF24
 sidebar_custom_props:
   icon: mdi-sheep
+  source: gym-kirchenfeld
 ---
 
 # PDF24

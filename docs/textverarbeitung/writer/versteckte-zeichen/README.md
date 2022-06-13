@@ -1,16 +1,20 @@
 ---
-description: "Wie können versteckte Steuer- und Formatierungszeichen eingefügt und angezeigt werden? Was bewirken sie?"
+description: >-
+  Wie können versteckte Steuer- und Formatierungszeichen eingefügt und angezeigt
+  werden? Was bewirken sie?
 tags:
-- Versteckte Zeichen
-- Leerschlag
-- Bindestrich
-- Trennstrich
-- Zeilenumbruch
-- Formatierungszeichen
-apps: [LibreOffice Writer]
+  - Versteckte Zeichen
+  - Leerschlag
+  - Bindestrich
+  - Trennstrich
+  - Zeilenumbruch
+  - Formatierungszeichen
+apps:
+  - LibreOffice Writer
 sidebar_position: 8
 sidebar_custom_props:
   icon: mdi-eye-off
+  source: gym-kirchenfeld
 ---
 
 # Versteckte Zeichen

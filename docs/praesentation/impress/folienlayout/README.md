@@ -1,7 +1,10 @@
 ---
 description: Welche Elemente braucht es auf meiner Folie
-apps: [LibreOffice Impress]
+apps:
+  - LibreOffice Impress
 sidebar_position: 1
+sidebar_custom_props:
+  source: gym-kirchenfeld
 ---
 
 # Folienlayout

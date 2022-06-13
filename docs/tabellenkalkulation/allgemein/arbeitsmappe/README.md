@@ -1,9 +1,12 @@
 ---
 description: Aufbau einer Arbeitsmappe
-apps: [Microsoft Excel, LibreOffice Calc]
+apps:
+  - Microsoft Excel
+  - LibreOffice Calc
 sidebar_position: 1
 sidebar_custom_props:
   icon: mdi-table
+  source: gym-kirchenfeld
 ---
 
 # Arbeitsmappe

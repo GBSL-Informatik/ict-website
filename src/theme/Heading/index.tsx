@@ -4,7 +4,6 @@ import type HeadingType from "@theme/Heading";
 import styles from "./style.module.scss";
 import clsx from "clsx";
 import useFrontMatter from "@theme/useFrontMatter";
-// import { useCurrentSidebarCategory } from "@docusaurus/theme-common";
 
 type Props = ComponentProps<typeof HeadingType>;
 

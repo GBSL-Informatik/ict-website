@@ -1,8 +1,10 @@
 ---
-apps: [Microsoft Word]
+apps:
+  - Microsoft Word
 sidebar_position: 11
 sidebar_custom_props:
   icon: mdi-spellcheck
+  source: gym-kirchenfeld
 ---
 
 # Rechtschreibekorrektur

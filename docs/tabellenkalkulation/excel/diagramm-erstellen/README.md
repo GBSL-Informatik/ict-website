@@ -1,9 +1,11 @@
 ---
 description: So kann ein Diagramm erstellt werden
-apps: [Microsoft Excel]
+apps:
+  - Microsoft Excel
 sidebar_position: 3
 sidebar_custom_props:
   icon: mdi-chart-areaspline
+  source: gym-kirchenfeld
 ---
 
 # Diagramm erstellen

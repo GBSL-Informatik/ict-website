@@ -1,13 +1,15 @@
 ---
-description: ""
+description: ''
 tags:
-    - Copy & Paste
-    - Einfügen
-    - Formatierung entfernen
-apps: [Microsoft Word]
+  - Copy & Paste
+  - Einfügen
+  - Formatierung entfernen
+apps:
+  - Microsoft Word
 sidebar_position: 9
 sidebar_custom_props:
   icon: mdi-spray-bottle
+  source: gym-kirchenfeld
 ---
 
 # Text säubern

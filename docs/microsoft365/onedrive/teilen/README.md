@@ -1,8 +1,11 @@
 ---
-systems: [Windows]
-apps: [Microsoft OneDrive]
+systems:
+  - Windows
+apps:
+  - Microsoft OneDrive
 sidebar_custom_props:
-  icon: 'mdi-share-all'
+  icon: mdi-share-all
+  source: gym-kirchenfeld
 ---
 
 # Inhalte teilen in OneDrive

@@ -1,5 +1,8 @@
 ---
-description: "vue-components von theme/global-components/"
+description: vue-components von theme/global-components/
+sidebar_custom_props:
+  icon: mdi-school
+  source: gym-kirchenfeld
 ---
 
 # Components

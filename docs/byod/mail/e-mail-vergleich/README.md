@@ -2,6 +2,7 @@
 sidebar_position: 10
 sidebar_custom_props:
   icon: mdi-email
+  source: gym-kirchenfeld
 ---
 
 # Entscheidungshilfe E-Mail
