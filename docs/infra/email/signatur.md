@@ -21,14 +21,14 @@ Auch für die Kommunikation an der Schule, wo E-Mail zu den wichtigen Kommunikat
 
 Die Signatur besteht aus einigen Zeilen Text, welche normalerweise durch zwei Minuszeichen eingeleitet wird.
 
-<BrowserBox>
+<BrowserWindow>
 
 -\-
 Ada Lovelace
 Schülerin Q23c
 Gymnasium Kirchenfeld
 
-</BrowserBox>
+</BrowserWindow>
 
 ## Anleitung
 

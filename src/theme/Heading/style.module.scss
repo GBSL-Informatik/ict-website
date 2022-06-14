@@ -3,21 +3,40 @@
     align-items: baseline;
     justify-content: start;
     gap: 12px;
+
     .icon {
         display: none;
         color: var(--ifm-color-primary);
         border: 1px solid var(--ifm-color-primary);
         border-radius: 50%;
         padding: 0 calc(var(--ifm-heading-line-height)*1em/4);
+
         &:hover {
             background-color: var(--ifm-color-primary);
             color: var(--ifm-color-primary-contrast-background);
             transition-duration: 1s;
         }
     }
+
+    h1,
+    h2,
+    h3 {
+        border-bottom: 1px solid var(--ifm-color-primary);
+        width: 100%;
+    }
+
+    h1 {
+        border-bottom-width: 1.5px;
+    }
+    h2 {
+        border-bottom-width: 1px;
+    }
+    h3 {
+        border-bottom-width: 0.5px;
+    }
 }
 
-:global(.markdown) > .title {
+:global(.markdown)>.title {
     &:first-child {
         .icon {
             display: block;

@@ -3,10 +3,13 @@
 
 const lightCodeTheme = require('prism-react-renderer/themes/github');
 const darkCodeTheme = require('prism-react-renderer/themes/dracula');
+const math = require('remark-math');
+const katex = require('rehype-katex');
 const remarkMdi = require('./src/plugins/remark-mdi');
 const remarkKbd = require('./src/plugins/remark-kbd');
 const remarkDeflist = require('./src/plugins/remark-deflist');
 const remarkImg2Fig = require('./src/plugins/remark-img2fig');
+const remarkMath = require('remark-math');
 
 
 const isDev = process.env.NODE_ENV === 'development';
@@ -19,6 +22,10 @@ const MD_PLUGINS = {
   remarkPlugins: [
     remarkDeflist,
     remarkMdi,
+    remarkMath
+  ],
+  rehypePlugins: [
+    katex
   ]
 };
 
@@ -110,7 +117,14 @@ const config = {
       }
     }),
   stylesheets: [
-    'https://fonts.googleapis.com/icon?family=Material+Icons'
+    'https://fonts.googleapis.com/icon?family=Material+Icons',
+    {
+      href: 'https://cdn.jsdelivr.net/npm/katex@0.13.24/dist/katex.min.css',
+      type: 'text/css',
+      integrity:
+        'sha384-odtC+0UGzzFL/6PNoE8rX/SPcQDXBJ+uRepguP4QkPCm2LBxH3FA3y+fKSiJ+AmM',
+      crossorigin: 'anonymous',
+    },
   ],
   themes: [
     'docusaurus-theme-frontmatter'

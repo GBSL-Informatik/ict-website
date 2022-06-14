@@ -7,38 +7,31 @@ sidebar_custom_props:
 ---
 
 # Components
+Beispiel dieser Seite:
 
-
-
-## Heading
-Beispiel dieser Seite (bis auf die Listen `systems` und `Apps` – welche zur Kennzeichnung von Anleitungen für spezifische Betriebssystem resp. Anwendungen dienen und als Tags dargestellt werden):
+## Frontmatter
 
 ``` yaml
-description: "vue-components von theme/global-components/"
-systems: ["macOS", "Windows"]
-apps: ["Microsoft OneDrive", "Linux TwoDrive"]
-sidebar_custom_props:
-  icon: "mdi-puzzle"
 ---
-
-# Components
+sidebar_custom_props:
+  icon: mdi-school
+  source: gym-kirchenfeld
+  path: /docs/dokumentation/components.md
+---
 ```
-
-``` md
-
-```
-
 
 ## Features
-Dieser Component extrahiert die Überschriften und icons aller untergeordneten Artikel und zeit diese wie auf der Startseite an.
+Diese Komponente extrahiert die Überschriften und icons aller untergeordneten Artikel und zeigt diese wie auf der Startseite an.
 
 ``` md
 <Features />
 ```
 
-## Todo
+Falls es sich um das `README.md` eines direkten Unterordners von `docs` handelt (bspw. `docs/sicherheit/README.md`) muss statt `<Features />` die Komponente `<FeatureCategories />` verwendet werden.
 
-
+```md
+<FeatureCategories />
+```
 
 ## SearchBox
 
@@ -58,21 +51,21 @@ Das Wort wird **fett** geschrieben
 
 ```
 
-## BrowserBox
+## BrowserWindow
 
-<BrowserBox>
+<BrowserWindow>
 
 Das Wort wird **fett** geschrieben
 
-</BrowserBox>
+</BrowserWindow>
 
 ``` md
 
-<BrowserBox>
+<BrowserWindow>
 
 Das Wort wird **fett** geschrieben
 
-</BrowserBox>
+</BrowserWindow>
 
 ```
 
@@ -80,14 +73,14 @@ Das Wort wird **fett** geschrieben
 
 <ExcelBox>
 
-Das Wort wird **fett** geschrieben
+= $A1 + 3
 
 </ExcelBox>
 
 ``` md
 <ExcelBox>
 
-Das Wort wird **fett** geschrieben
+= $A1 + 3
 
 </ExcelBox>
 ```

@@ -28,7 +28,7 @@ Dateien in einem Office-Format werden nur genau dann verschickt, wenn die empfan
 
 ### Beispiel 1
 
-<BrowserBox>
+<BrowserWindow>
 
 Lieber Felix
 
@@ -39,11 +39,11 @@ Anna
 
 <Icon icon="mdi-file-pdf" size="4rem" caption="vortrag.pdf" color="#FF3500"/>
 
-</BrowserBox>
+</BrowserWindow>
 
 ### Beispiel 2
 
-<BrowserBox>
+<BrowserWindow>
 
 Guten Tag Frau Inderbitzin
 
@@ -54,7 +54,7 @@ Beat Weber
 
 <Icon icon="mdi-file-word" size="4rem" caption="Maturarbeit.docx" color="#00a2ed"/>
 
-</BrowserBox>
+</BrowserWindow>
 
 ## Bilder
 

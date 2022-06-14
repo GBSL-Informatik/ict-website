@@ -5,7 +5,7 @@ sidebar_custom_props:
   path: /docs/infra/geraete/visualizer/elmomo1/README.md
 ---
 
-#  "Elmo MO-1"
+# Elmo MO-1
 
 
 ![](./images/elmomo1-01.png)

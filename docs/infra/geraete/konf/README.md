@@ -5,7 +5,7 @@ sidebar_custom_props:
   path: /docs/infra/geraete/konf/README.md
 ---
 
-#  "Konferenzgeräte"
+# Konferenzgeräte
 
 
 [:mdi-owl: MeetingOWL](owl/)

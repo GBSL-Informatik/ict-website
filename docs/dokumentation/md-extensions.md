@@ -7,7 +7,7 @@ sidebar_custom_props:
   path: /docs/dokumentation/md-extensions.md
 ---
 
-#  "Markdown-Extensions"
+# Markdown-Extensions
 ## is-gui
 
 im Tab _Einstellungen_

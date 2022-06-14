@@ -5,7 +5,7 @@ sidebar_custom_props:
   path: /docs/textverarbeitung/allgemein/README.md
 ---
 
-#  "Allgemein"
+# Allgemein
 
 
 <Features />

@@ -5,7 +5,7 @@ sidebar_custom_props:
   path: /docs/infra/geraete/visualizer/elmointeractive/README.md
 ---
 
-#  "Elmo Interactive Toolbox"
+# Elmo Interactive Toolbox
 
 
 Mit der Elmo Interactive Toolbox lässt sich das Bild vom Visualizer direkt am Notebook/PC anschauen und während der Präsentation bearbeiten. So kann man direkt ins Bild zeichnen oder schreiben. Es ist ebenfalls möglich, die Toolbox ohne Visualizer als Whiteboard am Notebook zu nutzen.

@@ -5,7 +5,7 @@ sidebar_custom_props:
   path: /docs/infra/geraete/visualizer/elmol12id/README.md
 ---
 
-#  "Elmo L-12iD"
+# Elmo L-12iD
 
 
 ![](./images/elmol12id-01.png)

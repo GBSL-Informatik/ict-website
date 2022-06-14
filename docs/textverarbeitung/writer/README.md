@@ -5,7 +5,7 @@ sidebar_custom_props:
   path: /docs/textverarbeitung/writer/README.md
 ---
 
-#  "LibreOffice Writer"
+# LibreOffice Writer
 
 
 <Features />

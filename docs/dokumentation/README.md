@@ -3,7 +3,7 @@ description: >-
   Einige Regeln, an die wir uns halten sollten, damit ein einheitlicher Auftritt
   entstehen kann
 sidebar_custom_props:
-  icon: mdi-school
+  icon: mdi-account-details
   source: gym-kirchenfeld
   path: /docs/dokumentation/README.md
 ---
@@ -19,20 +19,22 @@ Immer auf `md`-Datei verlinken, ausser Links auf `README.md`: dort auf Ordner ve
 
 ``` md
 [Link auf BYOD-iOS-Readme](../byod/ios/)
+
 [Link auf BYOD-iOs-teams](./components)
 
 ```
 
-<BrowserBox>
+<BrowserWindow>
 
 [Link auf BYOD-iOS-Readme](../byod/ios/)
+
 [Link auf BYOD-iOs-teams](./components)
 
-</BrowserBox>
+</BrowserWindow>
 
 :::tip
 
-Aus den `README.md` werden dann `index.html` und aus allen anderen `md`-Dateien einge gleich benannte `html`-Datei
+Aus den `README.md` werden dann `index.html` und aus allen anderen `md`-Dateien eine gleich benannte `html`-Datei
 
 :::
 
@@ -75,11 +77,7 @@ Wir schreiben Dateieindungen mit vorangestelltem Punkt in Kleinbuchstaben als Co
 
 > Adobe Photoshop-Dateien mit der Dateiendung `.psd`.
 
-
-sidebar_custom_props:
-  icon: mdi-account-details
 ---
-
 ## Sprache
 
 ### Begriffe
@@ -90,10 +88,20 @@ sidebar_custom_props:
 :::danger
 
 Schreiben wir **Dateiendung** oder **Dateierweiterung**?
-Wikipedia sagt: **Dateinamenserweiterung**
-Google sagt: Dateiendung: 800'000, Dateierweiterung: 125'000, Dateinamenserweiterung: 45'000
-Windows sagt: **Erweiterungen** (z.B. «Erweiterungen bei bekannten Dateitypen ausblenden»)
 
+Wikipedia
+: Dateinamenserweiterung
+Windows
+: Erweiterungen (z.B. «Erweiterungen bei bekannten Dateitypen ausblenden»)
+
+Google sagt
+: Dateiendung: 800'000 
+: Dateierweiterung: 125'000
+: Dateinamenserweiterung: 45'000
+
+
+
+Wir sprechen von **Dateiendungen**
 :::
 
 ### Benutzer ansprechen

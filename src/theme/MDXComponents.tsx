@@ -7,6 +7,7 @@ import ExcelBox from '../components/ExcelBox';
 import SearchBox from '../components/SearchBox';
 import Figure from '../components/Figure';
 import DefinitionList from '../components/DefinitionList';
+import BrowserWindow from '../components/BrowserWindow';
 
 export default {
   // Re-use the default mapping
@@ -16,5 +17,6 @@ export default {
   ExcelBox: ExcelBox,
   SearchBox: SearchBox,
   Figure: Figure,
-  dl: DefinitionList
+  dl: DefinitionList,
+  BrowserWindow: BrowserWindow
 };
