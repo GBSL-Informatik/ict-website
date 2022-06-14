@@ -5,6 +5,7 @@ import Features from '../components/Features';
 import FeatureCategories from '../components/FeatureCategories';
 import ExcelBox from '../components/ExcelBox';
 import SearchBox from '../components/SearchBox';
+import Figure from '../components/Figure';
 
 export default {
   // Re-use the default mapping
@@ -12,5 +13,6 @@ export default {
   Features: Features,
   FeatureCategories: FeatureCategories,
   ExcelBox: ExcelBox,
-  SearchBox: SearchBox
+  SearchBox: SearchBox,
+  Figure: Figure
 };

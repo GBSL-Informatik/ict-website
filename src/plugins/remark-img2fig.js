@@ -55,7 +55,7 @@ function attacher(options) {
             type: 'figure',
             children: children,
             data: {
-                hName: 'figure'
+                hName: 'Figure'
             }
         })
     }
