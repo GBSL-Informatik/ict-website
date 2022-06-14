@@ -64,10 +64,20 @@ Bei den Lizenzen nach «Creative Commons» gibt es vier mögliche Bedingung zu b
 
 ## Quellen für Bilder
 
-|                                                                                            |                                                                 |
-| -----------------------------------------------------------------------------------------: | :-------------------------------------------------------------- |
-|                                                       [unsplash.com](https://unsplash.com) | Fotosuche, freie Lizenz                                         |
-|                                                           [flickr.com](https://flickr.com) | Online-Foto-Community <br/>Achtung: Lizenzfilter setzen!        |
-|                                                         [pixabay.com](https://pixabay.com) | Bildersuche mit freier Lizenz<br/>Achtung: gesponsorte Links    |
-|                                               [images.google.ch](https://images.google.ch) | Filter setzen unter<br/>Tools :mdi-chevron-right: Nutzungrechte |
-| [search.creativecommons.org/search/image](https://search.creativecommons.org/search/image) | Bildersuche, Creative Commons                                   |
+https://unsplash.com
+: Fotosuche, freie Lizenz
+
+https://flickr.com
+: Online-Foto-Community
+: Achtung: Lizenzfilter setzen!
+
+https://pixabay.com
+: Bildersuche mit freier Lizenz
+: Achtung: gesponsorte Links
+
+https://images.google.ch
+: Filter setzen unter
+: Tools :mdi-chevron-right: Nutzungrechte
+
+https://search.creativecommons.org/search/image
+: Bildersuche, Creative Commons
