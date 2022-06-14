@@ -5,6 +5,7 @@ const lightCodeTheme = require('prism-react-renderer/themes/github');
 const darkCodeTheme = require('prism-react-renderer/themes/dracula');
 const remarkMdi = require('./src/plugins/remark-mdi');
 const remarkKbd = require('./src/plugins/remark-kbd');
+const remarkDeflist = require('./src/plugins/remark-deflist');
 const remarkImg2Fig = require('./src/plugins/remark-img2fig');
 
 
@@ -16,6 +17,7 @@ const MD_PLUGINS = {
     remarkKbd
   ],
   remarkPlugins: [
+    remarkDeflist,
     remarkMdi,
   ]
 };

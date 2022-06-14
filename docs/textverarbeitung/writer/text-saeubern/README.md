@@ -45,4 +45,4 @@ Silbentrennung
 : beim Kopieren (vor allem bei PDF-Quellen) können Trennstriche der Silbentrennung mitkopiert werden. Diese müssen von Hand entfernt werden.
 
 Spezielle Zeichen
-: Gerade in PDF-Dokumenten findet man oft Ligaturen (z.B. &#xFB01; statt fi oder &#xFB00; statt ff). Zudem werden Umlaute teilweise zusammengesetzt aus zwei Zeichen (z.B. a&#x0308; statt ä). Dies führt dazu, dass normale Umlaute, resp. Buchstaben-Zusammensetzungen, ohne Ligaturen anders aussehen als der kopierte Text.
+: Gerade in PDF-Dokumenten findet man oft Ligaturen (z.B. [[&#xFB01;]] statt [[fi]] oder [[&#xFB00;]] statt [[ff]]). Zudem werden Umlaute teilweise zusammengesetzt aus zwei Zeichen (z.B. [[a &#x0308;]] statt [[ä]]). Dies führt dazu, dass normale Umlaute, resp. Buchstaben-Zusammensetzungen, ohne Ligaturen anders aussehen als der kopierte Text.

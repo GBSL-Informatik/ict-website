@@ -116,7 +116,7 @@ Bildersuche
 : Suchen nach ähnlichen Bildern
 
 Google-Suche einmal anders
-: elgoog: elgoog.im/
+: elgoog: https://elgoog.im/
 : Hacker: www.google.com/?hl=xx-hacker
 
 

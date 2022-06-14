@@ -2,14 +2,16 @@ const visit = require("unist-util-visit");
 
 /**
  * ^!\[(.*)\]\((\S+?)([^\S\r\n]+.*?)?\)
- * ^    start of line
- *  !\[     md image starts with ![
- *     (.*)     group1: alt
- *         \]\(     match ](
- *             (\S+?)   group2: image url
- *                   ([^\S\r\n]+.*?)?   group3: image title (match as few as possible, 
- *                                              until first closing bracket! 
- *                                              better not use brackets in title :/)
+ * ^                                        start of line
+ *  !\[                                     md image starts with ![
+ *     (.*)                                 group1: alt
+ *         \]\(                             match ](
+ *             (\S+?)                       group2: image url
+ *                   (                      group3: image title (match as few as possible,
+ *                                                  until first closing bracket! 
+ *                                                  better not use brackets in title :/)
+ *                    [^\S\r\n]+            any white space characters except newlines
+ *                              .*?)?       end of group3
  *                                   \)     finish the md image
  * 
  */
