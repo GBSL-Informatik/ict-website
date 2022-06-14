@@ -2,7 +2,7 @@
 .features {
   display: grid;
   grid-template-columns: 1fr 1fr 1fr;
-  gap: 1em 0;
+  gap: 0.2em 0;
   grid-auto-flow: row;
   text-align: center;
   border-top: 1px solid var(--ifm-color-primary);

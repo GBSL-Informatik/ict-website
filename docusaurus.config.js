@@ -80,6 +80,12 @@ const config = {
   themeConfig:
     /** @type {import('@docusaurus/preset-classic').ThemeConfig} */
     ({
+      docs: {
+        sidebar: {
+          hideable: true,
+          autoCollapseCategories: false
+        }
+      },
       navbar: {
         title: 'ICT Gymnasium Biel Seeland',
         logo: {
