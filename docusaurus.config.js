@@ -3,14 +3,12 @@
 
 const lightCodeTheme = require('prism-react-renderer/themes/github');
 const darkCodeTheme = require('prism-react-renderer/themes/dracula');
-const math = require('remark-math');
 const katex = require('rehype-katex');
+const remarkMath = require('remark-math');
 const remarkMdi = require('./src/plugins/remark-mdi');
 const remarkKbd = require('./src/plugins/remark-kbd');
 const remarkDeflist = require('./src/plugins/remark-deflist');
 const remarkImg2Fig = require('./src/plugins/remark-img2fig');
-const remarkMath = require('remark-math');
-
 
 const isDev = process.env.NODE_ENV === 'development';
 

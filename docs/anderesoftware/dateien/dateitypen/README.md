@@ -10,11 +10,11 @@ sidebar_custom_props:
 
 
 
-| Erweiterung                                                      | Bezeichnung               | Bemerkung                                      |
-| :--------------------------------------------------------------- | :------------------------ | :--------------------------------------------- |
-| <Icon icon="mdi-file-pdf" size="2.6rem" color="#FF3500"/> .pdf   | Portable Document Format  | **Standardformat** für elektronische Dokumente |
-| <Icon icon="mdi-file-image" size="2.6rem" color="#3348b5"/> .png | Portable Network Graphics | **Standardformat** für Logos und Ähnliches     |
-| <Icon icon="mdi-file-image" size="2.6rem" color="#3348b5"/> .jpg | JPEG-Bilddatei            | **Standardformat** für Fotos                   |
+| Erweiterung                                                        | Bezeichnung               | Bemerkung                                      |
+| :----------------------------------------------------------------- | :------------------------ | :--------------------------------------------- |
+| <Icon icon="mdi-file-pdf-box" size="2.6rem" color="#FF3500"/> .pdf | Portable Document Format  | **Standardformat** für elektronische Dokumente |
+| <Icon icon="mdi-file-image" size="2.6rem" color="#3348b5"/> .png   | Portable Network Graphics | **Standardformat** für Logos und Ähnliches     |
+| <Icon icon="mdi-file-image" size="2.6rem" color="#3348b5"/> .jpg   | JPEG-Bilddatei            | **Standardformat** für Fotos                   |
 
 | <Icon icon="mdi-file-word" size="2.6rem" color="#00a2ed"/> .doc | Microsoft Office-Dokument         | altes Wordformat, kann Makros enthalten          |
 | <Icon icon="mdi-file-word" size="2.6rem" color="#00a2ed"/> .docx | Microsoft Office-Dokument         | neues Wordformat, kann keine Makros enthalten |

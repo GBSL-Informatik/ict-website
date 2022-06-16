@@ -59,6 +59,13 @@ Aus den `README.md` werden dann `index.html` und aus allen anderen `md`-Dateien 
 ## Anführungszeichen
 Wir verwenden «Guillemets»
 
+#### OSX
+
+OsX «
+: [[Option :mdi-apple-keyboard-option:]] + [[,]]
+»
+: [[Shift :mdi-apple-keyboard-shift:]] + [[Option :mdi-apple-keyboard-option:]] + [[,]]
+
 ### Bindestrich oder Trennstrich?
 Wir unterscheiden zwischen diesen beiden:
 
