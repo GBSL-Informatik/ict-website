@@ -6,6 +6,7 @@ const darkCodeTheme = require('prism-react-renderer/themes/dracula');
 const katex = require('rehype-katex');
 const remarkMath = require('remark-math');
 const remarkMdi = require('./src/plugins/remark-mdi');
+const remarkUnderline = require('./src/plugins/remark-underline');
 const remarkKbd = require('./src/plugins/remark-kbd');
 const remarkDeflist = require('./src/plugins/remark-deflist');
 const remarkImg2Fig = require('./src/plugins/remark-img2fig');
@@ -15,7 +16,8 @@ const isDev = process.env.NODE_ENV === 'development';
 const MD_PLUGINS = {
   beforeDefaultRemarkPlugins: [
     remarkImg2Fig,
-    remarkKbd
+    remarkKbd,
+    remarkUnderline
   ],
   remarkPlugins: [
     remarkDeflist,

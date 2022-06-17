@@ -27,7 +27,6 @@ Bei gewissen E-Mail-Programmen ist das BCC-Feld standardmässig ausgeblendet.
 
 ## Beispiele
 
-       |  Empfänger in    |||
 | E-Mail                               |     To      |        CC         |     BCC     |
 | ------------------------------------ | :---------: | :---------------: | :---------: |
 | E-Mail an eine Person                |   Person    |         –         |      –      |

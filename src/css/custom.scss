@@ -52,14 +52,17 @@ table {
 	th:empty {
 		display: none;
 	}
+
 	thead {
 		tr {
 			border-bottom-width: 1px;
 		}
+
 		&:first-child {
 			border-top: 2px solid var(--ifm-table-border-color);
 		}
 	}
+
 	tbody:last-child {
 		border-bottom: 2px solid var(--ifm-table-border-color);
 	}
@@ -102,6 +105,7 @@ table {
 }
 
 html[data-theme='dark'] {
+
 	.aa-DetachedOverlay,
 	.dsla-search-wrapper {
 		--aa-primary-color-rgb: 4, 116, 166;
@@ -112,4 +116,24 @@ html[data-theme='dark'] {
 
 .badge {
 	--ifm-link-hover-color: #102445;
+}
+
+
+strong.underline {
+	color: #3348b5;
+	font-weight: normal;
+	border: 1px solid var(--ifm-color-gray-600);
+	padding: 0.15em 0.4em 0.15em 0.3em;
+	border-radius: 2px;
+	-moz-border-radius: .2em;
+	-webkit-border-radius: .2em;
+	border-radius: .2em;
+	white-space: nowrap;
+}
+
+html[data-theme='dark'] {
+
+	strong.underline {
+		color: var(--ifm-color-primary);
+	}
 }

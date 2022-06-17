@@ -20,9 +20,9 @@ Wähle den Menüpunkt __Datei__ :mdi-chevron-right: __Öffnen__
 
 ## multimd-table
 
-|             |          Grouping           ||
+|             |          Grouping           | |
 | First Header | Second Header | Third Header |
-| ------------ | :-----------: | -----------: |
+| :----------- | :-----------: | -----------: |
 | Content      |  *Long Cell*  |              |
 | Content      |   **Cell**    |         Cell |
 
