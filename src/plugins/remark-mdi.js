@@ -2,6 +2,21 @@ const sharp = require('sharp');
 const fs = require('fs');
 const visit = require("unist-util-visit");
 
+
+const SVG_GBSL = Buffer.from(`<svg width="400" height="100">
+            <style>
+                .title { fill: white; font-size: 56px; font-family: 'Segoe UI' }
+            </style>
+            <text x="0" y="60%" text-anchor="left" class="title">ICT GBSL</text>
+        </svg>`);
+
+const SVG_HEAD = Buffer.from(`<svg width="1200" height="100">
+            <style>
+                .title { fill: white; font-size: 56px; font-family: 'Segoe UI' }
+            </style>
+            <text x="600" y="60%" text-anchor="middle" class="title">Anleitungen, Tipps &#38; Tricks</text>
+        </svg>`);
+
 async function createOGImage(previewDir, icon, overlayLogo, color = '#058fcd') {
     const previewImg = `${previewDir}/${icon}.jpg`;
     if (!fs.existsSync(previewImg)) {
@@ -10,10 +25,10 @@ async function createOGImage(previewDir, icon, overlayLogo, color = '#058fcd') {
                 return response.text()
             }).then((raw) => {
                 // resize
-                 const svg = raw.replace('width="24"', 'width="630"')
-                          .replace('height="24"', 'height="630"')
-                          .slice(raw.indexOf('<svg'))
-                          .replace('<svg', `<svg fill="${color}" style="background-color:white"`)
+                const svg = raw.replace('width="24"', 'width="630"')
+                    .replace('height="24"', 'height="630"')
+                    .slice(raw.indexOf('<svg'))
+                    .replace('<svg', `<svg fill="${color}"`)
                 if (!fs.existsSync(previewImg)) {
                     return sharp(Buffer.from(svg))
                         .resize({
@@ -22,7 +37,11 @@ async function createOGImage(previewDir, icon, overlayLogo, color = '#058fcd') {
                             fit: sharp.fit.contain,
                             background: { r: 0, g: 0, b: 0, alpha: 1 }
                         })
-                        .composite([{ input: overlayLogo, gravity: 'southwest' }])
+                        .composite([
+                            { input: overlayLogo, left: 40, top: 320 },
+                            { input: SVG_HEAD, left: 0, top: 0 },
+                            { input: SVG_GBSL, left: 20, top: 550 }
+                        ])
                         .jpeg({ quality: 75 })
                         .toFile(previewImg)
                         .catch((reason) => {
@@ -33,7 +52,7 @@ async function createOGImage(previewDir, icon, overlayLogo, color = '#058fcd') {
                 console.warn('Err', err);
             });
     }
-} 
+}
 
 // passed to unified.use()
 // you have to use a named function for access to `this` :(
