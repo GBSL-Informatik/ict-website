@@ -2,6 +2,39 @@ const sharp = require('sharp');
 const fs = require('fs');
 const visit = require("unist-util-visit");
 
+async function createOGImage(previewDir, icon, overlayLogo, color = '#058fcd') {
+    const previewImg = `${previewDir}/${icon}.jpg`;
+    if (!fs.existsSync(previewImg)) {
+        return fetch(`https://raw.githubusercontent.com/Templarian/MaterialDesign/master/svg/${icon}.svg`)
+            .then((response) => {
+                return response.text()
+            }).then((raw) => {
+                // resize
+                 const svg = raw.replace('width="24"', 'width="630"')
+                          .replace('height="24"', 'height="630"')
+                          .slice(raw.indexOf('<svg'))
+                          .replace('<svg', `<svg fill="${color}" style="background-color:white"`)
+                if (!fs.existsSync(previewImg)) {
+                    return sharp(Buffer.from(svg))
+                        .resize({
+                            width: 1200,
+                            height: 630,
+                            fit: sharp.fit.contain,
+                            background: { r: 0, g: 0, b: 0, alpha: 1 }
+                        })
+                        .composite([{ input: overlayLogo, gravity: 'southwest' }])
+                        .jpeg({ quality: 75 })
+                        .toFile(previewImg)
+                        .catch((reason) => {
+                            console.warn('Could not transform', icon, reason)
+                        })
+                }
+            }).catch((err) => {
+                console.warn('Err', err);
+            });
+    }
+} 
+
 // passed to unified.use()
 // you have to use a named function for access to `this` :(
 function attacher(options) {
@@ -58,35 +91,7 @@ function attacher(options) {
             function visitor(node) {
                 const icon = node.mdi;
                 delete node.mdi;
-                const preview = `${previewDir}/${icon}.jpg`;
-                if (!fs.existsSync(preview)) {
-                    fetch(`https://raw.githubusercontent.com/Templarian/MaterialDesign/master/svg/${icon}.svg`)
-                        .then((response) => {
-                            return response.text()
-                        }).then((raw) => {
-                             const svg = raw.replace('width="24"', 'width="630"')
-                                      .replace('height="24"', 'height="630"')
-                                      .slice(raw.indexOf('<svg'))
-                                      .replace('<svg', '<svg fill="#058fcd" style="background-color:white"')
-                            if (!fs.existsSync(preview)) {
-                                promises.push(sharp(Buffer.from(svg))
-                                    .resize({
-                                        width: 1200,
-                                        height: 630,
-                                        fit: sharp.fit.contain,
-                                        background: { r: 0, g: 0, b: 0, alpha: 1 }
-                                    })
-                                    .jpeg({ quality: 75 })
-                                    .toFile(preview)
-                                    .catch((reason) => {
-                                        console.warn('Could not transform', icon, reason)
-                                    })
-                                );
-                            }
-                        }).catch((err) => {
-                            console.warn('Err', err);
-                        });
-                }
+                promises.push(createOGImage(previewDir, icon, `${staticDir}/img/logo_badge.svg`))
             }
         );
         await Promise.all(promises);

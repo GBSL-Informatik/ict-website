@@ -4,7 +4,7 @@ apps:
   - LibreOffice Writer
 sidebar_position: 13
 sidebar_custom_props:
-  icon: mdi-file-pdf
+  icon: mdi-file-pdf-box
   source: gym-kirchenfeld
   path: /docs/textverarbeitung/writer/endprodukt-als-pdf/README.md
 ---

@@ -4,7 +4,7 @@ apps:
   - Microsoft Word
 sidebar_position: 13
 sidebar_custom_props:
-  icon: mdi-file-pdf
+  icon: mdi-file-pdf-box
   source: gym-kirchenfeld
   path: /docs/textverarbeitung/word-2/endprodukt-als-pdf/README.md
 ---

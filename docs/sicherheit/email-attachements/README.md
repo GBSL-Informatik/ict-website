@@ -24,7 +24,7 @@ Vermeiden Sie das unnötige Versenden von Office-Dokumenten. Meist ist nämlich 
 
 
 **Dateitypen, die problemlos verschickt werden dürfen**
-:mdi-file-pdf: PDF-Dateien
+:mdi-file-pdf-box: PDF-Dateien
 :mdi-file-image: Bildformate wie JPG, PNG
 
 **Dateitypen, die man vermeiden sollte**
