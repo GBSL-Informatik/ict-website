@@ -10,8 +10,6 @@ sidebar_custom_props:
 # Quellenangaben
 
 
-
-
 > Das Dumme an Zitaten aus dem Internet ist, dass man nie weiss, ob sie wahr sind.
 >
 > <cite>Leonardo da Vinci</cite>
