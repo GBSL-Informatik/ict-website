@@ -10,8 +10,6 @@ sidebar_custom_props:
 
 # Hinweise für Autoren
 
-
-
 ## Typografie
 
 ### relative Links
