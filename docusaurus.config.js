@@ -12,6 +12,7 @@ const remarkDeflist = require('./src/plugins/remark-deflist');
 const remarkImg2Fig = require('./src/plugins/remark-img2fig');
 
 const isDev = process.env.NODE_ENV === 'development';
+const isProduction = process.env.NODE_ENV === 'production';
 
 const MD_PLUGINS = {
   beforeDefaultRemarkPlugins: [
@@ -21,7 +22,7 @@ const MD_PLUGINS = {
   ],
   remarkPlugins: [
     remarkDeflist,
-    remarkMdi,
+    remarkMdi(isProduction),
     remarkMath
   ],
   rehypePlugins: [
