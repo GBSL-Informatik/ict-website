@@ -17,14 +17,17 @@ sidebar_custom_props:
 
 Angenommen, du bist nicht Mitglied bei Facebook. Trotzdem weiss Facebook jede Menge über dich:
 
-:::details Facebook kennt einen grossen Teil deines Freundes-/Kollegenkreises! Wie geht das?
+<details>
+<summary>Facebook kennt einen grossen Teil deines Freundes-/Kollegenkreises! Wie geht das?</summary>
 Es gibt sicher etliche Leute in deinem Umfeld, die bei Facebook Mitglied sind. Einige davon suchen bei Facebook nach dir. Facebook speichert solche Anfragen und weiss nun, dass ihr euch kennen müsst.
 Andere haben die Facebook-App installiert. Diese App greift auf das Adressbuch zu und kann annehmen, dass du eine Person kennst, wenn du in deren Adressbuch stehst. Da du wohl in vielen Adressbüchern auftauchst, kann sich Facebook deinen Bekanntenkreis ziemlich genau ausmalen.
-:::
+</details>
 
-:::details Facebook kennt deine Kontaktdaten (E-Mail-Adresse, Mobiltelefonnummer, Wohnadresse) und vielleicht sogar dein Geburtsdatum! Wie geht das?
+
+<details>
+<summary>Facebook kennt deine Kontaktdaten (E-Mail-Adresse, Mobiltelefonnummer, Wohnadresse) und vielleicht sogar dein Geburtsdatum! Wie geht das?</summary>
 Wenn Leute, die du gut kennst, die Facebook-App verwenden, dann teilen sie automatisch ihr Adressbuch mit Facebook. Alle Informationen, die über dich in diesen Adressbüchern vorhanden sind, wandern automatisch zu Facebook und werden dort gespeichert.
-:::
+</details>
 
 ## Beispiel Standortdienst (GPS-Daten)
 

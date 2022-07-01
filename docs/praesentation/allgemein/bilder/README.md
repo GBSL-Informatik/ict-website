@@ -25,13 +25,11 @@ Bilder sind immer rechteckig. Es gibt aber Bildformate, welche Transparenz unter
 Das linke Bild von Mickey Mouse stammt aus einer jpg-Datei, welche keine Transparenz unterstützt. Der Hintergrund des Bildes ist weiss.
 Das rechte Bild von Mickey Mouse stammt aus einer png-Datei, die Transparenz unterstützt. Das Bild macht Gebrauch davon, daher ist der Hintergrund des Bildes durchsichtig: Der Hintergrund der Foie ist sichtbar.
 
-<ImagesBox caption="Titelfolie «Comics» ohne und mit Transparenz">
-
-![](./images/comics/Slide1.jpg "ohne Transparenz")<!-- {.zoom} -->
-
-![](./images/comics/Slide2.jpg "mit Transparenz")<!-- {.zoom} -->
-
-</ImagesBox>
+:::cards
+![Ohne Transparenz --zoom](./images/comics/Slide1.jpg)
+***
+![mit Transparenz --zoom](./images/comics/Slide2.jpg)
+:::
 
 ## Hintergrund
 Bilder im Hintergrund sind sehr schwierig. Man muss eine Balance finden, so dass man sie erkennt, der Inhalt aber nicht gestört wird.
@@ -39,33 +37,28 @@ Bilder im Hintergrund sind sehr schwierig. Man muss eine Balance finden, so dass
 ### Folie: Comic-Strip
 Rechts wurde versucht, das Bild als Hintergrundbild zu verwenden. Wegen des Kontrastes musste das Hintergrundbild aufgehellt werden. Nun trägt das Bild aber nicht mehr viel zum Inhalt bei.
 
-<ImagesBox caption="Folie «Comic-Strip» normales Bild und Hintergrundbild">
 
-![](./images/comics/Slide3.jpg "normales Bild")<!-- {.zoom} -->
-
-![](./images/comics/Slide4.jpg "als Hintergrundbild")<!-- {.zoom} -->
-
-</ImagesBox>
+:::cards
+![Folie «Comic-Strip» normales Bild --zoom](./images/comics/Slide3.jpg)
+***
+![als Hintergrundbild --zoom](./images/comics/Slide4.jpg)
+:::
 
 ### Folie: Erste Comic-Autoren
 Nochmals ein Versuch mit dem Hintergrundbild. Dieses Mal ist es reine Verzierung und hat nichts direkt mit der Folie zu tun. (Natürlich mit dem Thema «Comics» schon, aber nicht mit den beiden Autoren.) Trotzdem wirkt die Folie links sauberer und klarer.
 
-<ImagesBox caption="Folie «Erste Comic-Autoren» ohne und mit Hintergrundbild">
-
-![](./images/comics/Slide5.jpg "ohne Hintergrund")<!-- {.zoom} -->
-
-![](./images/comics/Slide6.jpg "mit Hintergrund")<!-- {.zoom} -->
-
-</ImagesBox>
+:::cards
+![Folie «Erste Comic-Autoren» ohne Hintergrundbild --zoom](./images/comics/Slide5.jpg)
+***
+![mit Hintergrund --zoom](./images/comics/Slide6.jpg)
+:::
 
 ### Folien: Comic-Figuren
 Asterix & Obelix: Hier wurde mit den grossen Frankreich-Umrissen und einer Wellentextur ein eigenes, dezentes Hintergrundbild erzeugt, welches zum Inhalt passt.
 Batman: Hier wurde der farbige Hintergrund mit einem dezentem Batman-Logo und einem weniger dezenten «Bam!» versehen.
 
-<ImagesBox caption="Folie «Comics» ohne und mit Hintergrundbild">
-
-![](./images/comics/Slide7.jpg "ohne Hintergrund")<!-- {.zoom} -->
-
-![](./images/comics/Slide8.jpg "mit Hintergrundbild")<!-- {.zoom} -->
-
-</ImagesBox>
+:::cards
+![Folie «Comics» ohne Hintergrundbild --zoom](./images/comics/Slide7.jpg)
+***
+![mit Hintergrundbild --zoom](./images/comics/Slide8.jpg)
+:::

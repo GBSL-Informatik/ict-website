@@ -102,7 +102,8 @@ Installation Schritt für Schritt
 2. Klicke auf das Zahnrad-Symbol _Erweitert_ (Zahnradsymbol)
 
 
-:::details Falls das Zahnradsymbol nicht vorhanden ist:
+<details>
+<summary> Falls das Zahnradsymbol nicht vorhanden ist</summary>
 
 
   * Mache einen Rechtsklick oder einen Tapp mit zwei Fingern auf dem Trackpad und wähle den Menüpunkt __Symbolleiste anpassen…__:
@@ -113,11 +114,10 @@ Installation Schritt für Schritt
 
     ![](./drucker-allgemein-3.png)
 
+</details>
 
-:::
 
-
-3. Nimm folgende Einstellungen vor:
+1. Nimm folgende Einstellungen vor:
 
     - **Typ:** _Windows printer via spoolss_ auswählen.
     - **URL:** `smb://print1.ad.kinet.ch/DruckerKopierraum` hineinkopieren.
@@ -126,19 +126,19 @@ Installation Schritt für Schritt
 
     ![](./drucker-kopierraum-2.png)
 
-4. Tippe im Suchfeld _5560_ ein und wählen den Eintrag _Canon iR-ADV C5560/5560 III_ aus. Klicke auf __OK__:
+2. Tippe im Suchfeld _5560_ ein und wählen den Eintrag _Canon iR-ADV C5560/5560 III_ aus. Klicke auf __OK__:
 
     ![](./drucker-allgemein-5.png)
 
-5. Klicke im vorherigen Fenster auf _Hinzufügen_.
+3. Klicke im vorherigen Fenster auf _Hinzufügen_.
 
-6. Öffne die Systemeinstellungen, gehe zu _Drucker & Scanner_ und klicke auf DruckerKopierraum.
+4. Öffne die Systemeinstellungen, gehe zu _Drucker & Scanner_ und klicke auf DruckerKopierraum.
 
-7. Klicke auf _Optionen & Füllstände_ und wähle _Optionen_.
+5. Klicke auf _Optionen & Füllstände_ und wähle _Optionen_.
 
     ![](./drucker-kopierraum-4.png)
 
-8. Ändere folgende Einstellungen:
+6. Ändere folgende Einstellungen:
 
     - **Papierzufuhroptionen:** High Capacity Cassette Feeding Unit A1
     - **Ausgabeoptionen:** Broschüren Finisher Y1
@@ -214,7 +214,8 @@ Für das Login verwendest du normalerweise deine **Schul-E-Mail-Adresse**. Deine
 
 
 
-:::details Falls "Fehler bei Authentifizierung" erscheint, wenn man drucken möchte
+<details>
+<summary>Falls "Fehler bei Authentifizierung" erscheint, wenn man drucken möchte</summary>
 
 Im Schlüsselbund die Anmeldedaten für den Drucker wieder löschen. 
 Als Benutzernamen nicht die Mailadresse verwenden, sondern folgende Benutzernamen nacheinander ausprobieren:
@@ -227,7 +228,7 @@ _u12345_ (nur Schüler:innen, die nach Mai 2020 in die Schule eingetreten sind!)
 _xyz_ Lehrer:innenkürzel
 _u12345_ (nur Lehrpersonen, die nach Mai 2020 in die Schule eingetreten sind!)
 
-:::
+</details>
 
 
 

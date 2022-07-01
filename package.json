@@ -23,6 +23,7 @@
     "@mdi/font": "^6.7.96",
     "@mdx-js/react": "^1.6.22",
     "clsx": "^1.1.1",
+    "docusaurus-plugin-image-zoom": "^0.1.1",
     "docusaurus-plugin-sass": "^0.2.2",
     "docusaurus-theme-frontmatter": "^1.1.0",
     "hast-util-is-element": "1.1.0",

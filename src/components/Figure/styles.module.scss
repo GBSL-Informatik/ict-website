@@ -1,4 +1,19 @@
 .figure {
   text-align: center;
   margin: 0 auto;
+  width: fit-content;
+  figcaption {
+    font-style: italic;
+    display: flex;
+    justify-content: flex-end;
+    align-items: baseline;
+    flex-wrap: wrap;
+    gap: 0.2em;
+  }
+}
+
+:globale .card__image {
+  figure.figure {
+    width: 100%;
+  }
 }

@@ -35,7 +35,8 @@ Beim ersten Start einer Microsoft 365-App musst du dich an der Schul-Cloud anmel
 - auf die in der Cloud gespeicherten Dokumente zugreifen kann.
 - überprüfen kann, ob du eine gültige Lizenz besitzt.
 
-:::details Anmeldung Schritt für Schritt
+<details>
+<summary>Anmeldung Schritt für Schritt</summary>
 
 1. Öffne das Launchpad, um Microsoft Word zu starten. Das Launchpad kann mit der Taste [[F4]] oder mit folgendem Icon geöffnet werden:
 
@@ -65,6 +66,6 @@ Beim ersten Start einer Microsoft 365-App musst du dich an der Schul-Cloud anmel
 
     ![](./office-login-5.png)
 
-:::
+</details>
 
 [1]: https://portal.office.com/account#home

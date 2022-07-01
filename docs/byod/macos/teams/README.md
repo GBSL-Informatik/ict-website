@@ -27,7 +27,8 @@ Lade Microsoft Teams von dieser Webseite herunter und installiere es:
 
 [Microsoft Teams Download](https://www.microsoft.com/de-ch/microsoft-365/microsoft-teams/download-app)
 
-:::details Installation Schritt für Schritt
+<details>
+<summary>Installation Schritt für Schritt</summary>
 
 1. Installiere Microsoft Teams. Klicke hier auf __Fortfahren__:
 
@@ -49,7 +50,7 @@ Lade Microsoft Teams von dieser Webseite herunter und installiere es:
 
     ![](./teams-install-4.png)
 
-:::
+</details>
 
 ## Anmelden
 

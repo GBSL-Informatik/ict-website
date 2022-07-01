@@ -1,4 +1,27 @@
 const visit = require("unist-util-visit");
+const path = require('path');
+const fs = require('fs-extra');
+const { parseOptions, cleanedText } = require('./helpers');
+
+const SPACER_SPAN = {
+    type: 'span',
+    data: {
+        hName: 'span',
+        hProperties: {
+            style: { flexGrow: 1 }
+        }
+    }
+};
+
+
+/**
+ * Supported config annotations:
+ * @option --size
+ * @option --width
+ * @option --height
+ */
+
+
 
 /**
  * ^!\[(.*)\]\((\S+?)([^\S\r\n]+.*?)?\)
@@ -32,6 +55,12 @@ function attacher(options) {
 
         const tag = value.slice(startPosition, stopPosition)
         const alt = match[1];
+        const altText = cleanedText(alt) || '';
+        const cssOptions = parseOptions(alt, true);
+        const zoomable = cssOptions.zoom || false;
+        if (zoomable) {
+            delete cssOptions.zoom;
+        }
         const src = match[2];
         const title = (match[3] || '').trim();
         const children = [
@@ -42,14 +71,14 @@ function attacher(options) {
                 alt: alt,
             }
         ]
-        if (alt) {
+        if (altText) {
             children.push(
                 {
                     type: 'element',
                     data: {
                         hName: 'figcaption'
                     },
-                    children: this.tokenizeInline(alt, { line: 0, column: 0 })
+                    children: this.tokenizeInline(altText, { line: 0, column: 0 })
                 }
             )
         }
@@ -57,7 +86,11 @@ function attacher(options) {
             type: 'figure',
             children: children,
             data: {
-                hName: 'Figure'
+                hName: 'Figure',
+                hProperties: {
+                    zoom: zoomable,
+                    options: cssOptions
+                }
             }
         })
     }
@@ -78,12 +111,57 @@ function attacher(options) {
         0,
         'figure'
     );
-    return function transformer(tree) {
+    return function transformer(tree, file) {
+        const filePath = file.history[0];
+        const dir = path.dirname(filePath);
         // escape everything except flexHTML nodes
         visit(
             tree,
             'figure',
             function visitor(node, idx, parent) {
+                const imgNode = node.children[0];
+                const ext = path.extname(imgNode.url);
+                const bibFile = path.resolve(dir, imgNode.url.replace((new RegExp(`${ext}$`)), '.json'));
+                let bib;
+                if (fs.existsSync(bibFile)) {
+                    bib = require(bibFile);
+                    const bibElement =
+                    {
+                        type: 'element',
+                        data: {
+                            hName: 'SourceRef',
+                            hProperties: {
+                                bib: bib
+                            }
+                        }
+                    };
+                    if (node.children.length > 1) {
+                        node.children[1].children = [
+                            SPACER_SPAN,
+                            ...node.children[1].children,
+                            SPACER_SPAN,
+                            bibElement
+                        ]
+                    } else {
+                        node.children.push(
+                            {
+                                type: 'element',
+                                data: {
+                                    hName: 'figcaption'
+                                },
+                                children: [bibElement]
+                            }
+                        )
+                    }
+                } else if (node.children.length > 1) {
+                    node.children[1].children = [
+                        SPACER_SPAN,
+                        ...node.children[1].children,
+                        SPACER_SPAN
+                    ]
+                }
+
+
                 // unwrap figures inside paragraphs...
                 if (parent.type === 'paragraph') {
                     parent.type = 'figure';
