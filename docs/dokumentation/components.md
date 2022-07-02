@@ -41,7 +41,7 @@ Das Wort wird **fett** geschrieben
 
 </SearchBox>
 
-``` md
+```md
 
 <SearchBox>
 

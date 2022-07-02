@@ -68,7 +68,7 @@ function attacher(options) {
                 type: 'image',
                 title: title,
                 url: src,
-                alt: alt,
+                alt: altText,
             }
         ]
         if (altText) {
