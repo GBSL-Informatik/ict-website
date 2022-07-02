@@ -8,7 +8,7 @@ sidebar_custom_props:
 ---
 
 # Markdown-Extensions
-## is-gui
+## GUI Elemente
 
 im Tab _Einstellungen_
 Wähle den Menüpunkt __Datei__ :mdi-chevron-right: __Öffnen__
@@ -18,53 +18,154 @@ im Tab _Einstellungen_
 Wähle den Menüpunkt __Datei__ :mdi-chevron-right: __Öffnen__
 ```
 
-## multimd-table
 
-|             |          Grouping           | |
-| First Header | Second Header | Third Header |
-| :----------- | :-----------: | -----------: |
-| Content      |  *Long Cell*  |              |
-| Content      |   **Cell**    |         Cell |
-
-New section   |     More      |         Data |
-And more      | With an escaped '\\|'       ||
-[Prototype table]
-
-``` md
-|             |          Grouping           ||
-| First Header | Second Header | Third Header |
-| ------------ | :-----------: | -----------: |
-| Content      |  *Long Cell*  |              |
-| Content      |   **Cell**    |         Cell |
-
-New section   |     More      |         Data |
-And more      | With an escaped '\\|'       ||
-[Prototype table]
-```
-
-https://www.npmjs.com/package/markdown-it-multimd-table
-
-
-## implicit-figures
+## Bilder
 ![Stormtroopocat](./images/stormtroopocat.jpg)
 
 ``` md
 ![Stormtroopocat](./images/stormtroopocat.jpg)
 ```
 
-
-https://www.npmjs.com/package/markdown-it-implicit-figures
 
 ## Icons (MDI)
 
-<span style={{fontSize: '3rem'}}>:mdi-island: :mdi-soccer:</span>
+<span style={{fontSize: '3rem'}}>
+
+:mdi-island: :mdi-soccer:
+
+</span>
 
 ``` md
-<span style={{fontSize: '3rem'}}>:mdi-island: :mdi-soccer:</span>
+<span style={{fontSize: '3rem'}}>
+
+:mdi-island: :mdi-soccer:
+
+</span>
 ```
 
+## Flex Boxen
 
-https://www.npmjs.com/package/markdown-it-mdi
+:::flex
+![Dojocat](./images/dojocat.jpg)
+***
+![Stormtroopocat](./images/stormtroopocat.jpg)
+***
+![Minions](./images/minion.png)
+:::
+
+```md
+:::flex
+![Dojocat](./images/dojocat.jpg)
+***
+![Stormtroopocat](./images/stormtroopocat.jpg)
+***
+![Minions](./images/minion.png)
+:::
+```
+
+## Cards
+
+:::cards
+![Dojocat](./images/dojocat.jpg)
+***
+![Stormtroopocat](./images/stormtroopocat.jpg)
+***
+![Minions](./images/minion.png)
+:::
+
+```md
+:::cards
+![Minions](./images/dojocat.jpg)
+***
+![Stormtroopocat](./images/stormtroopocat.jpg)
+***
+![Minions](./images/minion.png)
+:::
+```
+
+## Details
+
+:::details Klicken für mehr Details
+Ein Minion als Überraschung
+![Minion --width=200px](images/minion.png)
+:::
+
+:::lösung
+Ein Minion als Überraschung
+![Minion --width=200px](images/minion.png)
+:::
+
+```md
+:::details Klicken für mehr Details
+Ein Minion als Überraschung
+![Minion --width=200px](images/minion.png)
+:::
+
+:::lösung
+Ein Minion als Überraschung
+![Minion --width=200px](images/minion.png)
+:::
+```
+
+## Admonitions
+
+:::aufgabe
+Probier es aus
+:::
+
+:::note
+Some **content** with _markdown_ `syntax`.
+:::
+
+:::tip
+Some **content** with _markdown_ `syntax`.
+:::
+
+:::info
+Some **content** with _markdown_ `syntax`.
+:::
+
+:::info Information
+Es kann auch ein angepasster Titel gewählt werden.
+:::
+
+:::caution
+Some **content** with _markdown_ `syntax`.
+:::
+
+:::danger
+Some **content** with _markdown_ `syntax`.
+:::
+
+```md
+:::aufgabe
+Probier es aus
+:::
+
+:::note
+Some **content** with _markdown_ `syntax`.
+:::
+
+:::tip
+Some **content** with _markdown_ `syntax`.
+:::
+
+:::info
+Some **content** with _markdown_ `syntax`.
+:::
+
+:::info Information
+Some **content** with _markdown_ `syntax`.
+:::
+
+:::caution
+Some **content** with _markdown_ `syntax`.
+:::
+
+:::danger
+Some **content** with _markdown_ `syntax`.
+:::
+```
 
 ## deflist
 
@@ -84,8 +185,6 @@ Definition 2
 : Erklärung 2
 ```
 
-https://github.com/markdown-it/markdown-it-deflist
-
 
 ## kbd
 [[Ctrl]] + [[x]]
@@ -94,16 +193,15 @@ https://github.com/markdown-it/markdown-it-deflist
 [[Ctrl]] + [[x]]
 ```
 
-https://www.npmjs.com/package/markdown-it-kbd
 
 
-## decorate
+## Anpassungen
 
-![Minion](./images/minion.png)<!-- {.small} -->
+![Minion --class=small](./images/minion.png)
+
+![Minion --width=120px](./images/dojocat.jpg)
 
 ``` md
-![Minion](./images/minion.png)<!-- {.small} -->
+![Minion --class=small](./images/minion.png)
+![Minion --width=120px](./images/dojocat.jpg)
 ```
-
-
-https://github.com/rstacruz/markdown-it-decorate

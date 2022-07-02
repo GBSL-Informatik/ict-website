@@ -3,23 +3,18 @@ import clsx from 'clsx';
 import styles from './styles.module.scss';
 import { defaultUnit } from '../helpers/units';
 
-
 interface Props {
   children?: React.ReactNode;
   options?: React.CSSProperties;
   zoom?: boolean;
 }
 
-const IMG_STYLE_PROPS = [
-  'maxWidth',
-  'maxHeight',
-  'height',
-  'width'
-]
+const IMG_STYLE_PROPS = ['maxWidth', 'maxHeight', 'height', 'width'];
 
 export default function Figure(props: Props): JSX.Element {
   const ref = React.useRef<HTMLElement>(null);
   const opts = props.options;
+  console.log(opts);
   if (opts) {
     if ('size' in opts) {
       opts.maxWidth = `min(90vw, ${defaultUnit(opts['size'])})`;
@@ -38,20 +33,24 @@ export default function Figure(props: Props): JSX.Element {
     }
   }
   React.useEffect(() => {
-      if (!ref.current) {
-          return;
-      }
-      const img = ref.current.firstChild as HTMLImageElement;
-      if (img && opts) {
-        IMG_STYLE_PROPS.forEach((key) => {
-          if (key in opts) {
-            img.style[key] = opts[key];
-          }
-        })
-      }
-    }, [ref])
+    if (!ref.current) {
+      return;
+    }
+    const img = ref.current.firstChild as HTMLImageElement;
+    if (img && opts) {
+      IMG_STYLE_PROPS.forEach((key) => {
+        if (key in opts) {
+          img.style[key] = opts[key];
+        }
+      });
+    }
+  }, [ref]);
   return (
-    <figure className={clsx(styles.figure, 'figure', props.zoom &&  'zoom')} style={opts} ref={ref}>
+    <figure
+      className={clsx(styles.figure, 'figure', props.zoom && 'zoom', ...((opts as any).class || '').split(';'))}
+      style={opts}
+      ref={ref}
+    >
       {props.children}
     </figure>
   );
