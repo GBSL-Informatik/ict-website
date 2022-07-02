@@ -6,6 +6,7 @@ sidebar_custom_props:
   icon: mdi-collage
   source: gym-kirchenfeld
   path: /docs/microsoft365/teams/layout/README.md
+sidebar_position: 1
 ---
 
 # Layout ändern

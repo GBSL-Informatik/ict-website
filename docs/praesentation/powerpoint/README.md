@@ -4,6 +4,7 @@ sidebar_custom_props:
   icon: mdi-microsoft-powerpoint
   source: gym-kirchenfeld
   path: /docs/praesentation/powerpoint/README.md
+sidebar_position: 3
 ---
 
 # Powerpoint

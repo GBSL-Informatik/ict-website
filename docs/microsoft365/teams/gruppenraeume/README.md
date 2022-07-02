@@ -6,6 +6,7 @@ sidebar_custom_props:
   icon: mdi-microsoft-teams
   source: gym-kirchenfeld
   path: /docs/microsoft365/teams/gruppenraeume/README.md
+sidebar_position: 4
 ---
 
 # Gruppenräume erstellen

@@ -11,7 +11,6 @@ sidebar_custom_props:
 # Teams
 
 
-
 [:mdi-collage: Layout ändern](layout/)
 
 [:mdi-account-multiple: Schüler:innen: Aufgaben abgeben](aufgaben-s/)

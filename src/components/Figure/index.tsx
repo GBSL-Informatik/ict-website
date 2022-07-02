@@ -50,7 +50,6 @@ export default function Figure(props: Props): JSX.Element {
         })
       }
     }, [ref])
-  console.log(props.zoom);
   return (
     <figure className={clsx(styles.figure, 'figure', props.zoom &&  'zoom')} style={opts} ref={ref}>
       {props.children}

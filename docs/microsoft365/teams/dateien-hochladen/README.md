@@ -6,6 +6,7 @@ sidebar_custom_props:
   icon: mdi-file-document
   source: gym-kirchenfeld
   path: /docs/microsoft365/teams/dateien-hochladen/README.md
+sidebar_position: 6
 ---
 
 # Dateien hochladen

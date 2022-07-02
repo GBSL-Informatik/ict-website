@@ -11,6 +11,7 @@ const remarkKbd = require('./src/plugins/remark-kbd');
 const remarkDeflist = require('./src/plugins/remark-deflist');
 const remarkImg2Fig = require('./src/plugins/remark-img2fig');
 const remarkFlex = require('./src/plugins/remark-flex');
+const remarkDetails = require('./src/plugins/remark-details');
 
 const isDev = process.env.NODE_ENV === 'development';
 const isProduction = process.env.NODE_ENV === 'production';
@@ -18,6 +19,7 @@ const isProduction = process.env.NODE_ENV === 'production';
 const MD_PLUGINS = {
   beforeDefaultRemarkPlugins: [
     remarkFlex,
+    remarkDetails,
     remarkImg2Fig,
     remarkKbd,
     remarkUnderline

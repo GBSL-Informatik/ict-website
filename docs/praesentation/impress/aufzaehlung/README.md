@@ -17,9 +17,9 @@ Die Folie soll den Vortrag unterstützen. Oft erreicht man das durch Stichwörte
 
 Anpassen kannst du die Aufzählungszeichen in der rechten Seitenleiste unter __Eigenschaften__ :mdi-chevron-right: __Absatz__ oder im __Format__ :mdi-chevron-right: __Aufzählungszeichen und Nummerierung__ erreichbaren Fenster.
 
-![Aufzählungszeichen anpassen](./images/bullet-points.lo.png)
+![Aufzählungszeichen anpassen --width=80% --zoom](./images/bullet-points.lo.png)
 
-![Fenster «Aufzählungszeichen und Nummerierung»](./images/bullet-points-fenster.lo.png)
+![Fenster «Aufzählungszeichen und Nummerierung» --width=80% --zoom](./images/bullet-points-fenster.lo.png)
 
 Auch verschachtelte Aufzählungslisten sind möglich. Um die Listenebene eines Aufzählungspunktes zu ändern, geht man an den Anfang der Zeile und drückt [[Tab]] (eine Ebene höher) oder [[Shift]] + [[Tab]] (eine Ebene tiefer). Mehr als zwei Ebenen sind aber selten sinnvoll.
 
