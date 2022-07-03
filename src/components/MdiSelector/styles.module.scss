@@ -1,0 +1,10 @@
+.icon {
+    cursor: pointer;
+    width: 8em;
+    height: 12em;
+    border: 1px dashed var(--ifm-font-color-base);
+    text-align: center;
+    &:hover {
+        background: var(--ifm-color-primary-contrast-background);
+    }
+}
