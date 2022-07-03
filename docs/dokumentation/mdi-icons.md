@@ -1,6 +1,6 @@
 ---
 sidebar_custom_props:
-  icon: mdi-school
+  icon: mdi-simple-icons
 ---
 
 import MdiSelector from '@site/src/components/MdiSelector'
