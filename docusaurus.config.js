@@ -3,12 +3,12 @@
 
 const lightCodeTheme = require('prism-react-renderer/themes/github');
 const darkCodeTheme = require('prism-react-renderer/themes/dracula');
+const remarkMdi = require('remark-mdi');
+const remarkDeflist = require('remark-deflist-simple');
+const remarkKbd = require('remark-kbd-simple');
 const katex = require('rehype-katex');
 const remarkMath = require('remark-math');
-const remarkMdi = require('./src/plugins/remark-mdi');
 const remarkUnderline = require('./src/plugins/remark-underline');
-const remarkKbd = require('./src/plugins/remark-kbd');
-const remarkDeflist = require('./src/plugins/remark-deflist');
 const remarkImg2Fig = require('./src/plugins/remark-img2fig');
 const remarkFlex = require('./src/plugins/remark-flex');
 const remarkDetails = require('./src/plugins/remark-details');
@@ -26,7 +26,7 @@ const MD_PLUGINS = {
   ],
   remarkPlugins: [
     remarkDeflist,
-    remarkMdi(isProduction),
+    remarkMdi(),
     remarkMath
   ],
   rehypePlugins: [

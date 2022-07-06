@@ -1694,7 +1694,7 @@
   resolved "https://registry.yarnpkg.com/@leichtgewicht/ip-codec/-/ip-codec-2.0.4.tgz#b2ac626d6cb9c8718ab459166d4bb405b8ffa78b"
   integrity sha512-Hcv+nVC0kZnQ3tD9GVu5xSMR4VVYOteQIr/hwFPVEvPdlXqgGEuRjiheChHgdM+JyqdgNcmzZOX/tnl0JOiI7A==
 
-"@mdi/font@6.9.96":
+"@mdi/font@^6.9.96":
   version "6.9.96"
   resolved "https://registry.yarnpkg.com/@mdi/font/-/font-6.9.96.tgz#c68da7e0895885dd09e60dc08c5ecc0d77f67efb"
   integrity sha512-z3QVZStyHVwkDsFR7A7F2PIvZJPWgdSFw4BEEy2Gc9HUN5NfK9mGbjgaYClRcbMWiYEV45srmiYtczmBtCqR8w==
@@ -6792,6 +6792,13 @@ remark-admonitions@^1.2.1:
     unified "^8.4.2"
     unist-util-visit "^2.0.1"
 
+remark-deflist-simple@^1.0.0:
+  version "1.0.0"
+  resolved "https://registry.yarnpkg.com/remark-deflist-simple/-/remark-deflist-simple-1.0.0.tgz#b9c61584507f5fe0dbf5dd5dac24eddb0608c344"
+  integrity sha512-1yZMovfjDgn4HgBSpiBeRn1wqbhJmTMAQPboEXWxS7M1pr9nLHspdKS0W3UtgF1B2tBTTbZ3baRG71qzW9oepw==
+  dependencies:
+    unist-util-visit "^2.0.3"
+
 remark-emoji@^2.2.0:
   version "2.2.0"
   resolved "https://registry.yarnpkg.com/remark-emoji/-/remark-emoji-2.2.0.tgz#1c702090a1525da5b80e15a8f963ef2c8236cac7"
@@ -6806,10 +6813,20 @@ remark-footnotes@2.0.0:
   resolved "https://registry.yarnpkg.com/remark-footnotes/-/remark-footnotes-2.0.0.tgz#9001c4c2ffebba55695d2dd80ffb8b82f7e6303f"
   integrity sha512-3Clt8ZMH75Ayjp9q4CorNeyjwIxHFcTkaektplKGl2A1jNGEUey8cKL0ZC5vJwfcD5GFGsNLImLG/NGzWIzoMQ==
 
+remark-kbd-simple@^1.0.1:
+  version "1.0.1"
+  resolved "https://registry.yarnpkg.com/remark-kbd-simple/-/remark-kbd-simple-1.0.1.tgz#92094e4e389bb7980a80cf1b1f8be93e8e66a638"
+  integrity sha512-eADyNCq7HWvZlw5VRG2r2wzeQoM58GA+9qL1D6gCSQmx0ZQH8wQ01NVZn2DzCLATPGXL8sF/qfEyuDk5sBYPxQ==
+
 remark-math@3:
   version "3.0.1"
   resolved "https://registry.yarnpkg.com/remark-math/-/remark-math-3.0.1.tgz#85a02a15b15cad34b89a27244d4887b3a95185bb"
   integrity sha512-epT77R/HK0x7NqrWHdSV75uNLwn8g9qTyMqCRCDujL0vj/6T6+yhdrR7mjELWtkse+Fw02kijAaBuVcHBor1+Q==
+
+remark-mdi@^1.0.1:
+  version "1.0.1"
+  resolved "https://registry.yarnpkg.com/remark-mdi/-/remark-mdi-1.0.1.tgz#8b3db96afb5d5fde74f8a3693979b45bc4cdacdc"
+  integrity sha512-YWNOV0v3bv+ZICFQI2u1lz8nWAVR5xA61UKHNSQpPiaEER3li96d08HfHDRYSVR/Lvsy0D3+JpmzWBl/aiIt6w==
 
 remark-mdx@1.6.22:
   version "1.6.22"
