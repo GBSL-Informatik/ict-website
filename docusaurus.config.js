@@ -8,7 +8,7 @@ const remarkDeflist = require('remark-deflist-simple');
 const remarkKbd = require('remark-kbd-simple');
 const katex = require('rehype-katex');
 const remarkMath = require('remark-math');
-const  remarkUnderline = require('remark-underline');
+const remarkUnderline = require('remark-underline');
 const remarkImg2Fig = require('./src/plugins/remark-img2fig');
 const remarkFlex = require('./src/plugins/remark-flex');
 const remarkDetails = require('remark-details-simple');
@@ -19,13 +19,13 @@ const isProduction = process.env.NODE_ENV === 'production';
 const MD_PLUGINS = {
   beforeDefaultRemarkPlugins: [
     remarkFlex,
-    [remarkDetails, {marker: ':::', tags: ['details', 'lösung'], classNameMap: {['lösung']: 'solution', details: undefined }}],
     remarkImg2Fig,
     remarkKbd,
     [remarkUnderline, { marker: '__', classNames: ['underline'], tagType: 'strong'}]
   ],
   remarkPlugins: [
     remarkDeflist,
+    [remarkDetails, {marker: ':::', tags: ['details', 'lösung'], classNameMap: {['lösung']: 'solution', details: undefined }}],
     remarkMdi,
     remarkMath
   ],

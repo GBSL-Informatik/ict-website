@@ -6799,7 +6799,7 @@ remark-deflist-simple@^1.0.0:
   dependencies:
     unist-util-visit "^2.0.3"
 
-remark-details-simple@1.0.1:
+remark-details-simple@^1.0.1:
   version "1.0.1"
   resolved "https://registry.yarnpkg.com/remark-details-simple/-/remark-details-simple-1.0.1.tgz#85cbcb7e3cc52af088d1e5ae3a8e62c723b3ee60"
   integrity sha512-s6QK67MMfDVT0FRDxmSQdxbUvkAvSynXmMpe8sLpEJOxby9O2tsyJlsc/t9KUANCTiS0cjP0UBIrVVYwvCZpbA==
