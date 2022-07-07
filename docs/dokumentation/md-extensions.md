@@ -93,6 +93,7 @@ Ein Minion als Überraschung
 :::lösung
 Ein Minion als Überraschung
 ![Minion --width=200px](images/minion.png)
+
 :::
 
 ```md
