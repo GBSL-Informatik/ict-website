@@ -29,7 +29,7 @@ export default function MdiSelector(): JSX.Element {
         (!perfectMatch && ico.tags.join(' ').toLowerCase().includes(trm))
       );
     });
-    console.log(icos.length);
+    // console.log(icos.length);
     setIcons(icos);
   }, [filter, perfectMatch]);
   return (

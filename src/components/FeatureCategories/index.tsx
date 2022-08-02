@@ -1,6 +1,6 @@
 import React from 'react';
 import styles from '../Features/styles.module.scss';
-import { useDocsSidebar } from '@docusaurus/theme-common';
+import { useDocsSidebar } from '@docusaurus/theme-common/internal';
 import Feature from '../Feature';
 
 export default function Features(): JSX.Element {

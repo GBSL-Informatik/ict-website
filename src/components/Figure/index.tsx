@@ -14,7 +14,7 @@ const IMG_STYLE_PROPS = ['maxWidth', 'maxHeight', 'height', 'width'];
 export default function Figure(props: Props): JSX.Element {
   const ref = React.useRef<HTMLElement>(null);
   const opts = props.options;
-  console.log(opts);
+  // console.log(opts);
   if (opts) {
     if ('size' in opts) {
       opts.maxWidth = `min(90vw, ${defaultUnit(opts['size'])})`;
