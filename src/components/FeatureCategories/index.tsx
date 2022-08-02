@@ -1,5 +1,6 @@
 import React from 'react';
 import styles from '../Features/styles.module.scss';
+// @ts-ignore:next-line 2307
 import { useDocsSidebar } from '@docusaurus/theme-common/internal';
 import Feature from '../Feature';
 
