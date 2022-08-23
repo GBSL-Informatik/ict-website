@@ -6,7 +6,6 @@ sidebar_custom_props:
   source: gym-kirchenfeld
   path: /docs/internet/README.md
 sidebar_position: 0
-draft: true
 ---
 
 # Internet verwenden
