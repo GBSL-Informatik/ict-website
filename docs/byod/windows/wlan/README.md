@@ -14,11 +14,10 @@ sidebar_custom_props:
 
 ## Automatische Konfiguration (empfohlen)
 
-Um unser WLAN auf deinem Windows-Gerät zu konfigurieren, verwendest du am besten das Konfigurationsprogramm, welches hier heruntergeladen werden kann:
+Um unser WLAN auf deinem Windows-Gerät zu konfigurieren, verwendest du am besten das Konfigurationsprogramm,  
+welches hier heruntergeladen werden kann:
 
-[:mdi-download: WLAN-Konfigurationsprogramm für Windows 10 (neues WLAN gymKIRCHENFELD)][1]
 
-[1]: https://enterprise-wifi.net/user/API.php?action=downloadInstaller&api_version=2&lang=de&device=w10&profile=332
 
 :::warning E-Mail-Adresse
 Beim neuen Netzwerk __gymKIRCHENFELD__ bitte die **Schul-E-Mail-Adresse** in das Feld __Benutzername__ eintragen!
@@ -26,7 +25,7 @@ Beim neuen Netzwerk __gymKIRCHENFELD__ bitte die **Schul-E-Mail-Adresse** in das
 
 1. Starte das heruntergeladene Programm. Klicke bei dieser Meldung __Weitere Informationen__:
 
-![](./wifi-1.png)
+![Das brauchen wir nicht 😍](./wifi-1.png)
 
 2. Klicke auf __Trotzdem ausführen__:
 
