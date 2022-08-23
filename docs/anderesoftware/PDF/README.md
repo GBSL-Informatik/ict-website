@@ -7,6 +7,7 @@ sidebar_custom_props:
   icon: mdi-file-pdf-box
   source: gym-kirchenfeld
   path: /docs/anderesoftware/PDF/README.md
+draft: true
 ---
 
 # PDF-Programme
