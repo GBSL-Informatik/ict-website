@@ -1,0 +1,27 @@
+.transformed {
+    color: black;
+    white-space: nowrap;
+}
+
+.copyBadge {
+    cursor: pointer;
+    position: relative;
+    transition-property: padding;
+    transition-duration: 1s;
+    font-family: monospace;
+    font-size: inherit;
+
+    .copyIcon {
+        display: none;
+        position: absolute;
+        right: 4px;
+    }
+
+    &:hover {
+        padding-right: 18px;
+
+        .copyIcon {
+            display: inline;
+        }
+    }
+}

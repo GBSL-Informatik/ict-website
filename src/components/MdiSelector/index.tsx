@@ -2,22 +2,16 @@ import React from 'react';
 import clsx from 'clsx';
 import styles from './styles.module.scss';
 import rawIcons from './mdi-icons.json';
+import CopyBadge from './CopyBadge';
 
 export default function MdiSelector(): JSX.Element {
-  const [copyState, setCopyState] = React.useState('');
+  const [showNr, setShowNr] = React.useState(300);
   const [icons, setIcons] = React.useState([]);
   const [filter, setFilter] = React.useState('');
   const [perfectMatch, setPerfectMatch] = React.useState(true);
 
   React.useEffect(() => {
-    if (['none', 'spin'].includes(copyState)) {
-      return;
-    }
-    const timeoutId = setTimeout(() => setCopyState('none'), 2000);
-    return () => clearTimeout(timeoutId);
-  }, [copyState]);
-
-  React.useEffect(() => {
+    setShowNr(300)
     if (filter.trim() === '') {
       setIcons(rawIcons);
       return;
@@ -47,38 +41,36 @@ export default function MdiSelector(): JSX.Element {
         <span className="badge badge--primary">{icons.length}</span>
       </div>
       <div style={{ display: 'flex', flexWrap: 'wrap', gap: '0.5em' }}>
-        {icons.slice(0, 301).map((ico, idx) => {
-          const copied = copyState === ico.name || copyState === `${ico.name}-error`;
+        {icons.slice(0, showNr).map((ico, idx) => {
           return (
             <div
               key={idx}
-              onClick={() => {
-                setCopyState('spin');
-                navigator.clipboard
-                  .writeText(`:mdi-${ico.name}:`)
-                  .then(() => {
-                    setCopyState(ico.name);
-                  })
-                  .catch(() => {
-                    setCopyState(`${ico.name}`);
-                  });
-              }}
               className={clsx(styles.icon)}
             >
-              {copied && copyState === ico.name && (
-                <div
-                  style={{ fontSize: '5rem', color: '#00a400' }}
-                  className={'mdi-checkbox-marked-circle mdi'}
-                ></div>
-              )}
-              {copied && copyState === `${ico.name}-error` && (
-                <div style={{ fontSize: '5rem', color: '#fa383e' }} className={'mdi-close-circle mdi'}></div>
-              )}
-              {!copied && <div style={{ fontSize: '5rem' }} className={`mdi-${ico.name} mdi`}></div>}
-              {ico.name}
+              <div style={{ fontSize: '3rem' }} className={`mdi-${ico.name} mdi`}></div>
+              <CopyBadge value={ico.name} />
+              <CopyBadge label="mdi-" value={`mdi-${ico.name}`} />
+              <CopyBadge label=":mdi-:" value={`:mdi-${ico.name}:`} />
             </div>
           );
         })}
+      </div>
+      <div>
+        <span
+          className={clsx('badge', 'badge--secondary')}
+        >
+          {showNr}
+        </span>
+        {' '}
+        <span 
+          className={clsx('badge', 'badge--primary')}
+          onClick={() => {
+            setShowNr(showNr + 100)
+          }}
+          style={{cursor: 'pointer'}}
+        >
+          Show 100 More
+        </span>
       </div>
     </div>
   );
