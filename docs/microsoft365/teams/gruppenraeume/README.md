@@ -7,6 +7,7 @@ sidebar_custom_props:
   source: gym-kirchenfeld
   path: /docs/microsoft365/teams/gruppenraeume/README.md
 sidebar_position: 4
+draft: true
 ---
 
 # Gruppenräume erstellen

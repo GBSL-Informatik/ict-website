@@ -8,6 +8,7 @@ sidebar_custom_props:
   source: gym-kirchenfeld
   path: /docs/byod/README.md
 sidebar_position: 0
+draft: true
 ---
 
 # Geräte einrichten

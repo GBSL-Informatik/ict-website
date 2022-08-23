@@ -6,6 +6,7 @@ sidebar_custom_props:
   icon: mdi-qrcode
   source: gym-kirchenfeld
   path: /docs/byod/ios/qrscanner/README.md
+draft: true
 ---
 
 # QR-Scanner einrichten

@@ -6,6 +6,7 @@ sidebar_custom_props:
   icon: mdi-format-paragraph
   source: gym-kirchenfeld
   path: /docs/textverarbeitung/word-1/formatvorlagensatz-waehlen/README.md
+draft: true
 ---
 
 # Formatvorlagensatz wählen

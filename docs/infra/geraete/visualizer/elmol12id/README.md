@@ -3,6 +3,7 @@ sidebar_custom_props:
   icon: mdi-camera-metering-center
   source: gym-kirchenfeld
   path: /docs/infra/geraete/visualizer/elmol12id/README.md
+draft: true
 ---
 
 # Elmo L-12iD

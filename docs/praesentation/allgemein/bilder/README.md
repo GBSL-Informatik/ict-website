@@ -8,6 +8,7 @@ sidebar_custom_props:
   icon: mdi-image
   source: gym-kirchenfeld
   path: /docs/praesentation/allgemein/bilder/README.md
+draft: true
 ---
 
 # Bilder

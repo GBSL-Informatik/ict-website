@@ -4,6 +4,7 @@ sidebar_custom_props:
   icon: mdi-account-multiple
   source: gym-kirchenfeld
   path: /docs/infra/geraete/drucker/druck_sus/README.md
+draft: true
 ---
 
 # Schüler:innen

@@ -4,6 +4,7 @@ sidebar_custom_props:
   icon: mdi-youtube
   source: gym-kirchenfeld
   path: /docs/anderesoftware/video-audio/youtube/README.md
+draft: true
 ---
 
 # YouTube

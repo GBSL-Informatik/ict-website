@@ -7,6 +7,7 @@ sidebar_custom_props:
   source: gym-kirchenfeld
   path: /docs/microsoft365/teams/externe/README.md
 sidebar_position: 5
+draft: true
 ---
 
 # Externe Nutzer:innen hinzufügen

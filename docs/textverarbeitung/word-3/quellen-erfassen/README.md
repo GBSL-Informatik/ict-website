@@ -6,6 +6,7 @@ sidebar_custom_props:
   icon: mdi-bookshelf
   source: gym-kirchenfeld
   path: /docs/textverarbeitung/word-3/quellen-erfassen/README.md
+draft: true
 ---
 
 # Quellen erfassen

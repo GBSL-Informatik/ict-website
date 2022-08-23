@@ -7,6 +7,7 @@ sidebar_custom_props:
   icon: mdi-format-list-bulleted
   source: gym-kirchenfeld
   path: /docs/praesentation/impress/aufzaehlung/README.md
+draft: true
 ---
 
 # Aufzählung

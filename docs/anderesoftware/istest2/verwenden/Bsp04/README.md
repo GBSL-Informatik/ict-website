@@ -4,6 +4,7 @@ sidebar_custom_props:
   icon: mdi-check-outline
   source: gym-kirchenfeld
   path: /docs/anderesoftware/istest2/verwenden/Bsp04/README.md
+draft: true
 ---
 
 # Frageart Lückentext (Auswahl aus vertauschten Lösungen)

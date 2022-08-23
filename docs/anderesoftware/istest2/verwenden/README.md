@@ -6,6 +6,7 @@ sidebar_custom_props:
   icon: mdi-check-outline
   source: gym-kirchenfeld
   path: /docs/anderesoftware/istest2/verwenden/README.md
+draft: true
 ---
 
 # Verwenden von isTest2

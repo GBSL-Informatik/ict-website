@@ -7,6 +7,7 @@ sidebar_custom_props:
   icon: mdi-target-account
   source: gym-kirchenfeld
   path: /docs/sicherheit/internet-hibp/README.md
+draft: true
 ---
 
 # Kompromittierte Accounts

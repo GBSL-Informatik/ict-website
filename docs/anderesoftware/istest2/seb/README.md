@@ -7,6 +7,7 @@ sidebar_custom_props:
   icon: mdi-check-outline
   source: gym-kirchenfeld
   path: /docs/anderesoftware/istest2/seb/README.md
+draft: true
 ---
 
 # Safe Exam Browser mit isTest2

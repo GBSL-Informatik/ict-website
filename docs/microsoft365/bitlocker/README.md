@@ -6,6 +6,7 @@ sidebar_custom_props:
   icon: mdi-shield-lock
   source: gym-kirchenfeld
   path: /docs/microsoft365/bitlocker/README.md
+draft: true
 ---
 
 # Bitlocker

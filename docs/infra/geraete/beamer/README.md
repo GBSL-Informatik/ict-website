@@ -3,6 +3,7 @@ sidebar_custom_props:
   icon: mdi-projector
   source: gym-kirchenfeld
   path: /docs/infra/geraete/beamer/README.md
+draft: true
 ---
 
 #  Beamer

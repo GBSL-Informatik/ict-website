@@ -7,6 +7,7 @@ sidebar_custom_props:
   icon: mdi-note-multiple-outline
   source: gym-kirchenfeld
   path: /docs/praesentation/impress/notizen/README.md
+draft: true
 ---
 
 # Notizen

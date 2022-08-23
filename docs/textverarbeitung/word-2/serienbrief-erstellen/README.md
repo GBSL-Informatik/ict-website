@@ -8,6 +8,7 @@ sidebar_custom_props:
   icon: mdi-text-box-multiple-outline
   source: gym-kirchenfeld
   path: /docs/textverarbeitung/word-2/serienbrief-erstellen/README.md
+draft: true
 ---
 
 # Serienbrief erstellen

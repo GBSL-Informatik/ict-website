@@ -6,6 +6,7 @@ sidebar_custom_props:
   icon: mdi-wifi
   source: gym-kirchenfeld
   path: /docs/byod/android/wlan/README.md
+draft: true
 ---
 
 # WLAN einrichten

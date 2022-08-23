@@ -8,6 +8,7 @@ sidebar_custom_props:
   source: gym-kirchenfeld
   path: /docs/praesentation/praesentieren/README.md
 sidebar_position: 1
+draft: true
 ---
 
 # Präsentieren

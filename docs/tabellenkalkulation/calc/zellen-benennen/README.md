@@ -7,6 +7,7 @@ sidebar_custom_props:
   icon: mdi-form-textbox
   source: gym-kirchenfeld
   path: /docs/tabellenkalkulation/calc/zellen-benennen/README.md
+draft: true
 ---
 
 # Zellen benennen

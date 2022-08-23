@@ -9,6 +9,7 @@ sidebar_custom_props:
   icon: mdi-hexagon-outline
   source: gym-kirchenfeld
   path: /docs/anderesoftware/PDF/drawboard/README.md
+draft: true
 ---
 
 # Drawboard PDF

@@ -11,6 +11,7 @@ sidebar_custom_props:
   icon: mdi-spray-bottle
   source: gym-kirchenfeld
   path: /docs/textverarbeitung/word-2/text-saeubern/README.md
+draft: true
 ---
 
 # Text säubern

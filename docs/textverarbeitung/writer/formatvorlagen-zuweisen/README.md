@@ -7,6 +7,7 @@ sidebar_custom_props:
   icon: mdi-format-paragraph
   source: gym-kirchenfeld
   path: /docs/textverarbeitung/writer/formatvorlagen-zuweisen/README.md
+draft: true
 ---
 
 # Formatvorlagen zuweisen

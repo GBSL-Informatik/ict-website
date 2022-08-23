@@ -7,6 +7,7 @@ sidebar_custom_props:
   icon: mdi-label
   source: gym-kirchenfeld
   path: /docs/textverarbeitung/writer/beschriftungen-einfuegen/README.md
+draft: true
 ---
 
 # Beschriftungen einfügen

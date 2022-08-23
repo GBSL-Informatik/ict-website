@@ -8,6 +8,7 @@ sidebar_custom_props:
   icon: mdi-format-font
   source: gym-kirchenfeld
   path: /docs/anderesoftware/OCR/README.md
+draft: true
 ---
 
 # Texterkennung

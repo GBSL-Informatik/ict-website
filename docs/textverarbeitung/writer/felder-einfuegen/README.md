@@ -14,6 +14,7 @@ sidebar_custom_props:
   icon: mdi-page-layout-header-footer
   source: gym-kirchenfeld
   path: /docs/textverarbeitung/writer/felder-einfuegen/README.md
+draft: true
 ---
 
 # Felder einfügen

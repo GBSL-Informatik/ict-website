@@ -7,6 +7,7 @@ sidebar_custom_props:
   source: gym-kirchenfeld
   path: /docs/microsoft365/teams/aufgaben-s/README.md
 sidebar_position: 2
+draft: true
 ---
 
 # Aufgaben abgeben (Schüler:innen)

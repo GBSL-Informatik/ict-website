@@ -4,6 +4,7 @@ sidebar_custom_props:
   icon: mdi-briefcase-variant
   source: gym-kirchenfeld
   path: /docs/infra/geraete/drucker/druck_lul/README.md
+draft: true
 ---
 
 # Lehrpersonen

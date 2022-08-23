@@ -6,6 +6,7 @@ sidebar_custom_props:
   icon: mdi-microsoft-outlook
   source: gym-kirchenfeld
   path: /docs/byod/mail/outlook-web/README.md
+draft: true
 ---
 
 # Outlook im Browser

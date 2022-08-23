@@ -6,6 +6,7 @@ sidebar_custom_props:
   icon: mdi-numeric-2-box-multiple-outline
   source: gym-kirchenfeld
   path: /docs/textverarbeitung/word-3/seitennummerierung/README.md
+draft: true
 ---
 
 # Seitennummerierung

@@ -7,6 +7,7 @@ sidebar_custom_props:
   icon: mdi-share-all
   source: gym-kirchenfeld
   path: /docs/microsoft365/onedrive/teilen/README.md
+draft: true
 ---
 
 # Inhalte teilen in OneDrive

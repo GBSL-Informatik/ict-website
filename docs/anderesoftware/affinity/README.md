@@ -8,6 +8,7 @@ sidebar_custom_props:
   icon: mdi-fountain-pen
   source: gym-kirchenfeld
   path: /docs/anderesoftware/affinity/README.md
+draft: true
 ---
 
 # Affinity

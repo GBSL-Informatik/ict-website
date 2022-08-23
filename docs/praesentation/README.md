@@ -5,6 +5,7 @@ sidebar_custom_props:
   icon: mdi-presentation
   source: gym-kirchenfeld
   path: /docs/praesentation/README.md
+draft: true
 ---
 
 # Präsentation

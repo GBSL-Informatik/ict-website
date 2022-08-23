@@ -7,6 +7,7 @@ sidebar_custom_props:
   icon: mdi-cookie
   source: gym-kirchenfeld
   path: /docs/sicherheit/do-not-track/README.md
+draft: true
 ---
 
 # Do not Track

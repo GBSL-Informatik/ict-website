@@ -3,6 +3,7 @@ sidebar_custom_props:
   icon: mdi-account
   source: gym-kirchenfeld
   path: /docs/infra/konto/README.md
+draft: true
 ---
 
 #  Konto und Passwort

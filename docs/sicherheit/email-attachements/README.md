@@ -7,6 +7,7 @@ sidebar_custom_props:
   icon: mdi-email
   source: gym-kirchenfeld
   path: /docs/sicherheit/email-attachements/README.md
+draft: true
 ---
 
 # E-Mail-Anhänge

@@ -7,6 +7,7 @@ sidebar_custom_props:
   source: gym-kirchenfeld
   path: /docs/microsoft365/teams/ton-einstellen/README.md
 sidebar_position: 8
+draft: true
 ---
 
 # Einstellungen für Tonausgabe und Mikrofon

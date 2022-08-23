@@ -6,6 +6,7 @@ sidebar_custom_props:
   icon: mdi-play-circle
   source: gym-kirchenfeld
   path: /docs/anderesoftware/video-audio/dvd/README.md
+draft: true
 ---
 
 # DVDs

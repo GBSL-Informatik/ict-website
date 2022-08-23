@@ -9,6 +9,7 @@ sidebar_custom_props:
   icon: mdi-table-plus
   source: gym-kirchenfeld
   path: /docs/textverarbeitung/writer/tabellen-einfuegen/README.md
+draft: true
 ---
 
 # Tabellen einfügen

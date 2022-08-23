@@ -7,6 +7,7 @@ sidebar_custom_props:
   icon: mdi-book-open-page-variant
   source: gym-kirchenfeld
   path: /docs/infra/mediothek/ethek/README.md
+draft: true
 ---
 
 # e-Thek

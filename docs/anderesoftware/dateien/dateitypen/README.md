@@ -4,6 +4,7 @@ sidebar_custom_props:
   icon: mdi-file-multiple
   source: gym-kirchenfeld
   path: /docs/anderesoftware/dateien/dateitypen/README.md
+draft: true
 ---
 
 # Wichtige Dateitypen

@@ -5,6 +5,7 @@ sidebar_custom_props:
   icon: mdi-typewriter
   source: gym-kirchenfeld
   path: /docs/internet/quellen/README.md
+draft: true
 ---
 
 # Quellenangaben

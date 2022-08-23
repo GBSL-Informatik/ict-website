@@ -6,6 +6,7 @@ sidebar_custom_props:
   icon: mdi-printer
   source: gym-kirchenfeld
   path: /docs/byod/windows/drucker/README.md
+draft: true
 ---
 
 # Drucker einrichten

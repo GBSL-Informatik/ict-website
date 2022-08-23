@@ -7,6 +7,7 @@ sidebar_custom_props:
   icon: mdi-printer
   source: gym-kirchenfeld
   path: /docs/praesentation/impress/drucken/README.md
+draft: true
 ---
 
 # Drucken

@@ -8,6 +8,7 @@ sidebar_custom_props:
   icon: mdi-microsoft-office
   source: gym-kirchenfeld
   path: /docs/byod/ios/365/README.md
+draft: true
 ---
 
 # Microsoft 365 einrichten

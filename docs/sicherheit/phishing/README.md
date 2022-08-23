@@ -7,6 +7,7 @@ sidebar_custom_props:
   icon: mdi-fish
   source: gym-kirchenfeld
   path: /docs/sicherheit/phishing/README.md
+draft: true
 ---
 
 # Phishing

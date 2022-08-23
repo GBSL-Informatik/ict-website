@@ -7,6 +7,7 @@ sidebar_custom_props:
   source: gym-kirchenfeld
   path: /docs/microsoft365/teams/dateien-hochladen/README.md
 sidebar_position: 6
+draft: true
 ---
 
 # Dateien hochladen

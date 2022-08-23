@@ -8,6 +8,7 @@ sidebar_custom_props:
   icon: mdi-remote
   source: gym-kirchenfeld
   path: /docs/praesentation/allgemein/praesentiertipps/README.md
+draft: true
 ---
 
 # Starten, pausieren und fortsetzen

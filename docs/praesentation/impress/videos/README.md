@@ -5,6 +5,7 @@ sidebar_custom_props:
   icon: mdi-movie-open
   source: gym-kirchenfeld
   path: /docs/praesentation/impress/videos/README.md
+draft: true
 ---
 
 # Videos

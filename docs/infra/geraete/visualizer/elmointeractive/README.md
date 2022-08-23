@@ -3,6 +3,7 @@ sidebar_custom_props:
   icon: mdi-toolbox
   source: gym-kirchenfeld
   path: /docs/infra/geraete/visualizer/elmointeractive/README.md
+draft: true
 ---
 
 # Elmo Interactive Toolbox

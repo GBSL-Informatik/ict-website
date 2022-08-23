@@ -4,6 +4,7 @@ sidebar_custom_props:
   icon: mdi-application-brackets
   source: gym-kirchenfeld
   path: /docs/anderesoftware/browser/auto_uebers/README.md
+draft: true
 ---
 
 # Automatische Übersetzung

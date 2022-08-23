@@ -7,6 +7,7 @@ sidebar_custom_props:
   source: gym-kirchenfeld
   path: /docs/microsoft365/teams/aufgaben-l/README.md
 sidebar_position: 3
+draft: true
 ---
 
 # Aufträge erstellen (Lehrer:innen)

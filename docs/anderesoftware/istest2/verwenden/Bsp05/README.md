@@ -4,6 +4,7 @@ sidebar_custom_props:
   icon: mdi-check-outline
   source: gym-kirchenfeld
   path: /docs/anderesoftware/istest2/verwenden/Bsp05/README.md
+draft: true
 ---
 
 # Frageart Mathematischer Ausdruck

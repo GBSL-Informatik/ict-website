@@ -6,6 +6,7 @@ sidebar_custom_props:
   icon: mdi-vhs
   source: gym-kirchenfeld
   path: /docs/anderesoftware/video-audio/video-mediathek/README.md
+draft: true
 ---
 
 # Video aus Mediathek herunteladen

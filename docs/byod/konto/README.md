@@ -4,6 +4,7 @@ sidebar_custom_props:
   source: gym-kirchenfeld
   path: /docs/byod/konto/README.md
 sidebar_position: 10
+draft: true
 ---
 
 #  Konto
