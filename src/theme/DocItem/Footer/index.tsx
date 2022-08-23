@@ -1,14 +1,15 @@
-import React, { ComponentProps } from "react";
-import DocItemFooter from "@theme-original/DocItemFooter";
-import type DocItemFooterType from "@theme/DocItemFooter";
+import React from 'react';
+import Footer from '@theme-original/DocItem/Footer';
+import type FooterType from '@theme/DocItem/Footer';
+import type {WrapperProps} from '@docusaurus/types';
 import useFrontMatter from "@theme/useFrontMatter";
 import styles from "./style.module.scss";
 import clsx from "clsx";
 
-type Props = ComponentProps<typeof DocItemFooterType>;
+type Props = WrapperProps<typeof FooterType>;
 const COMMIT_SHA_2022_06_09 = "4641afa364f1aa924c4c21daa7264784f722033f";
 
-export default function DocItemFooterWrapper(props: Props): JSX.Element {
+export default function FooterWrapper(props: Props): JSX.Element {
   const sidebar_custom_props = useFrontMatter()?.sidebar_custom_props ?? {};
   const url = `https://gitlab.gymkirchenfeld.ch/teach/ict.mygymer.ch/-/blob/${COMMIT_SHA_2022_06_09}${sidebar_custom_props.path}`;
   return (
@@ -31,7 +32,7 @@ export default function DocItemFooterWrapper(props: Props): JSX.Element {
           </i>
         </div>
       )}
-      <DocItemFooter {...props} />
+      <Footer {...props} />
     </div>
   );
 }
