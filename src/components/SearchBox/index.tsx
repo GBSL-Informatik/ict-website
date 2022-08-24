@@ -1,10 +1,10 @@
 import React from "react";
 import styles from "./styles.module.scss";
-import searchIconUrl from './search-icon.png';
+import clsx from "clsx";
 
 interface Props {
   children?: React.ReactNode;
-  caption: string;
+  caption?: string;
 }
 
 const SearchBox = (props: Props) => {
@@ -14,9 +14,11 @@ const SearchBox = (props: Props) => {
         <p style={{margin: 0}}>
           <slot>{props.children}</slot>
         </p>
-        <img className={styles.searchIcon} src={searchIconUrl} />
+        <i className={clsx(styles.searchIcon, 'mdi', 'mdi-magnify')}></i>
       </div>
-      <figcaption>{props.caption}</figcaption>
+      {props.caption && (
+        <figcaption>{props.caption}</figcaption>
+      )}
     </figure>
   );
 };
