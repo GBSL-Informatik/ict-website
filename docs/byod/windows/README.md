@@ -6,7 +6,6 @@ sidebar_custom_props:
   source: gym-kirchenfeld
   path: /docs/byod/windows/README.md
 sidebar_position: 40
-draft: true
 ---
 
 # Windows

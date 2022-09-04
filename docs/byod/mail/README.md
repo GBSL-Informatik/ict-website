@@ -5,7 +5,6 @@ sidebar_custom_props:
   path: /docs/byod/mail/README.md
 sidebar_label: E-Mail
 sidebar_position: 70
-draft: true
 ---
 
 #  E-Mail allgemeine Themen

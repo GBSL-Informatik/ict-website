@@ -4,7 +4,6 @@ sidebar_custom_props:
   icon: mdi-music-circle
   source: gym-kirchenfeld
   path: /docs/anderesoftware/video-audio/audio-CD/README.md
-draft: true
 ---
 
 # Audio-CDs

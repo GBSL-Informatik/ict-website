@@ -5,7 +5,6 @@ sidebar_custom_props:
   source: gym-kirchenfeld
   path: /docs/praesentation/impress/README.md
 sidebar_position: 4
-draft: true
 ---
 # Impress
 

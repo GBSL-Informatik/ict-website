@@ -6,7 +6,6 @@ sidebar_custom_props:
   source: gym-kirchenfeld
   path: /docs/byod/android/README.md
 sidebar_position: 20
-draft: true
 ---
 
 # Android
