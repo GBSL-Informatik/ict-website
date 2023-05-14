@@ -22,7 +22,7 @@ Grundsätzlich stehen zwei Varianten für die Texterkennung zur Verfügung:
   * Die Texterkennung direkt beim Scan
   * Die nachträgliche Texterkennung mit Hilfe eines Programms. Hierbei wird der Text zuerst als PDF gescannt und anschliessend kann der Text erkannt und weiterverarbeitet werden.
 
-:::warning <i className="mdi mdi-alert"></i> Wichtig
+:::warning Wichtig
 Die Ergebnisse der Texterkennung sind, gerade bei Texten mit älterem Schriftsatz, besser, wenn **PDF24** verwendet wird, als wenn die OCR-Funktion der Kopiergeräte genutzt wird 
 :::
 

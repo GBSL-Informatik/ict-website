@@ -84,3 +84,13 @@ Das Wort wird **fett** geschrieben
 
 </ExcelBox>
 ```
+
+## Icons
+
+Wenn ein alleinstehendes Icon in einer speziellen Grösse, Farbe oder mit Unterschrift gebraucht wird, kann dieses wie folgt eingefügt werden:
+
+```md
+<Icon size="3em" icon="mdi-palette" color="#2bdbde" caption="Ein freistehendes Icon" />
+```
+
+<Icon size="3em" icon="mdi-palette" color="#2bdbde" caption="Ein freistehendes Icon"/>

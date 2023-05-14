@@ -11,9 +11,9 @@ const SearchBox = (props: Props) => {
   return (
     <figure className={styles.searchFigure}>
       <div className={styles.searchContainer}>
-        <p style={{margin: 0}}>
+        <div style={{margin: 0}}>
           <slot>{props.children}</slot>
-        </p>
+        </div>
         <i className={clsx(styles.searchIcon, 'mdi', 'mdi-magnify')}></i>
       </div>
       {props.caption && (

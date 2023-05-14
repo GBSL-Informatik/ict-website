@@ -34,7 +34,7 @@ Dies sind vor allem:
 
 ## Bitlocker
 
-:::warning <i className="mdi mdi-alert"></i> Wichtiger Hinweis für Windows-Nutzer:innen
+:::warning Wichtiger Hinweis für Windows-Nutzer:innen
 Bitlocker ist eine Windows-Sicherheitsoption, die die Festplatte eines Geräts verschlüsselt. Je nach Windows-Version ist es möglich, dass Bitlocker **automatisch** aktiviert wurde. Die Verschlüsselung bleibt auch **nach der Löschung des Kontos am Gymnasium Kirchenfeld aktiv**.
 Wenn das Gerät später wegen irgendwelcher Probleme nicht mehr korrekt startet oder die Festplatte entfernt werden muss, weil das Gerät defekt ist, kann man **ohne Schlüssel nicht mehr auf die Daten auf der Festplatte zugreifen**. 
 

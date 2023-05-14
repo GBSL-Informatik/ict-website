@@ -10,11 +10,11 @@ sidebar_custom_props:
 # Markdown-Extensions
 ## GUI Elemente
 
-im Tab _Einstellungen_
+im Tab *Einstellungen*
 Wähle den Menüpunkt __Datei__ :mdi-chevron-right: __Öffnen__
 
 ``` md
-im Tab _Einstellungen_
+im Tab *Einstellungen*
 Wähle den Menüpunkt __Datei__ :mdi-chevron-right: __Öffnen__
 ```
 
@@ -26,24 +26,58 @@ Wähle den Menüpunkt __Datei__ :mdi-chevron-right: __Öffnen__
 ![Stormtroopocat](./images/stormtroopocat.jpg)
 ```
 
+### Grösse
+![Breite: 200px --width=200px](./images/stormtroopocat.jpg)
+
+``` md
+![Breite: 200px --width=200px](./images/stormtroopocat.jpg)
+```
+
+![Breite: 30%  --width=30%](images/stormtroopocat.jpg)
+
+``` md
+![Breite: 30% --width=30%](images/stormtroopocat.jpg)
+```
 
 ## Icons (MDI)
 
-<span style={{fontSize: '3rem'}}>
-
 :mdi-island: :mdi-soccer:
 
-</span>
-
-``` md
-<span style={{fontSize: '3rem'}}>
-
+```md
 :mdi-island: :mdi-soccer:
-
-</span>
 ```
 
-## Flex Boxen
+farbig
+
+:mdi-school--red: :mdi-school--green: :mdi-school--blue: :mdi-school--yellow: :mdi-school--orange: :mdi-school--cyan:
+
+```md
+:mdi-school--red: 
+:mdi-school--green:
+:mdi-school--blue:
+:mdi-school--yellow:
+:mdi-school--orange:
+:mdi-school--cyan:
+```
+
+unterschiedliche Grösse
+
+:mdi-school--m: :mdi-school--l: :mdi-school--xl:
+
+```md
+:mdi-school--m: :mdi-school--l: :mdi-school--xl:
+```
+
+oder kombiniert...
+
+:mdi-school--orange-m: :mdi-school--red-l: :mdi-school--green-xl:
+
+```md
+:mdi-school--orange-m: :mdi-school--red-l: :mdi-school--green-xl:
+```
+
+
+## Flex Boxen - Inhalt Nebeneinander
 
 :::flex
 ![Dojocat](./images/dojocat.jpg)
@@ -63,6 +97,36 @@ Wähle den Menüpunkt __Datei__ :mdi-chevron-right: __Öffnen__
 :::
 ```
 
+### mit Text
+:::flex
+Eine Dojocat ist ein Maskottchen der Code-Hosting-Website GitHub. Es handelt sich um eine Katze, die ein Karateanzug trägt und somit die Verbindung zu "Dojo" herstellt, einem Ort, an dem man traditionell japanische Kampfkünste studiert. Die Dojocat wurde erstmals 2012 von GitHub-Mitarbeiterin Cameron McEfee entworfen und seitdem in verschiedenen Versionen und mit unterschiedlichen Accessoires präsentiert. Sie ist ein beliebtes Symbol in der Entwicklergemeinschaft und wird oft in Zusammenhang mit Open-Source-Projekten und Programmierwettbewerben verwendet.
+***
+![Dojocat](./images/dojocat.jpg)
+:::
+
+```md
+:::flex
+Eine Dojocat ist ein...
+***
+![Dojocat](./images/dojocat.jpg)
+:::
+```
+
+### Ausrichtung der Elemente: `center`, `start`, `end`
+
+:::flex --alignItems=center
+Eine Dojocat ist ein Maskottchen der Code-Hosting-Website GitHub. Es handelt sich um eine Katze, die ein Karateanzug trägt und somit die Verbindung zu "Dojo" herstellt, einem Ort, an dem man traditionell japanische Kampfkünste studiert. Die Dojocat wurde erstmals 2012 von GitHub-Mitarbeiterin Cameron McEfee entworfen und seitdem in verschiedenen Versionen und mit unterschiedlichen Accessoires präsentiert. Sie ist ein beliebtes Symbol in der Entwicklergemeinschaft und wird oft in Zusammenhang mit Open-Source-Projekten und Programmierwettbewerben verwendet.
+***
+![Dojocat](./images/dojocat.jpg)
+:::
+
+```md
+:::flex --alignItems=center
+Eine Dojocat ist ein...
+***
+![Dojocat](./images/dojocat.jpg)
+:::
+```
 ## Cards
 
 :::cards

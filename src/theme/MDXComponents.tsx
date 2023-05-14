@@ -8,6 +8,7 @@ import SearchBox from '../components/SearchBox';
 import Figure from '../components/Figure';
 import DefinitionList from '../components/DefinitionList';
 import BrowserWindow from '../components/BrowserWindow';
+import Icon from '../components/Icon';
 
 export default {
   // Re-use the default mapping
@@ -18,5 +19,6 @@ export default {
   SearchBox: SearchBox,
   Figure: Figure,
   dl: DefinitionList,
-  BrowserWindow: BrowserWindow
+  BrowserWindow: BrowserWindow,
+  Icon: Icon
 };

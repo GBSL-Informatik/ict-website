@@ -26,10 +26,25 @@ function MyFeature(): JSX.Element {
   );
 }
 
+const getCurrent = (sidebarItems: PropSidebar, pathname: string) => {
+  for (const item of sidebarItems) {
+    if (item.type !== 'html' && item.href === pathname) {
+      return item;
+    }
+    if (item.type === 'category') {
+      const current = getCurrent(item.items, pathname);
+      if (current) {
+        return current;
+      }
+    }
+  }
+  return undefined;
+}
+
 export default function Features(): JSX.Element {
   const docsSidebar: ContextValue = useDocsSidebar();
   const { pathname } = useLocation();
-  const current = (docsSidebar?.items || []).find((it) => it.type !== 'html' && it.href === pathname);
+  const current = getCurrent(docsSidebar?.items, pathname);
   if (!current || current.type !== 'category') {
     return (
       <div className={styles.features}>
