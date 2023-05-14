@@ -40,6 +40,8 @@ const MD_PLUGINS = {
   ]
 };
 
+const GIT_COMMIT_SHA = process.env.DRONE_COMMIT_SHA || Math.random().toString(36).substring(7);
+
 /** @type {import('@docusaurus/types').Config} */
 const config = {
   title: 'ICT am Gymnasium Biel Seeland',
@@ -56,6 +58,9 @@ const config = {
   projectName: 'ict-website', // Usually your repo name.
   deploymentBranch: 'gh-pages',
   trailingSlash: true,
+  customFields: { 
+    GIT_COMMIT_SHA: GIT_COMMIT_SHA,
+  },
 
   // Even if you don't use internalization, you can use this field to set useful
   // metadata like html lang. For example, if your site is Chinese, you may want
@@ -116,7 +121,7 @@ const config = {
         items: [],
       },
       footer: {
-        copyright: `<a class="footer__link-item" href="https://creativecommons.org/licenses/by-nc-sa/4.0/deed.de" target="_blank"><img src="/img/by-nc-sa.eu.svg" alt="CC-BY-NC-SA"><br/> Alle Inhalte (falls nicht anders angegeben) lizenziert unter <br/>Creative Commons Namensnennung - Nicht-kommerziell - Weitergabe unter gleichen Bedingungen 4.0 International Lizenz.</a>`,
+        copyright: `<a class="footer__link-item" href="https://creativecommons.org/licenses/by-nc-sa/4.0/deed.de" target="_blank"><img src="/img/by-nc-sa.eu.svg" alt="CC-BY-NC-SA"><br/> Alle Inhalte (falls nicht anders angegeben) lizenziert unter <br/>Creative Commons Namensnennung - Nicht-kommerziell - Weitergabe unter gleichen Bedingungen 4.0 International Lizenz.</a><br /><a class="badge badge--primary" href="https://github.com/lebalz/ofi-blog/commit/${GIT_COMMIT_SHA}"><i class="mdi mdi-source-commit mdi-rotate-90"></i> ${GIT_COMMIT_SHA.substring(0, 7)}</a>`,
       },
       prism: {
         theme: lightCodeTheme,
