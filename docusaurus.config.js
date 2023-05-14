@@ -12,6 +12,7 @@ const remarkUnderline = require('remark-underline');
 const remarkImg2Fig = require('./src/plugins/remark-img2fig');
 const remarkFlex = require('./src/plugins/remark-flex');
 const remarkDetails = require('remark-details-simple');
+const EnsureFM = require('./bin/ensure-fm');
 
 const isDev = process.env.NODE_ENV === 'development';
 const isProduction = process.env.NODE_ENV === 'production';
@@ -253,6 +254,43 @@ const config = {
         ],
       },
     ],
+    function (context, options) {
+      return {
+        name: 'on-compile',
+        configureWebpack(config, isServer, utils) {
+          return {
+            plugins: [
+              {
+                apply: (compiler) => {
+                  const cache = {};
+                  compiler.hooks.watchRun.tap("Frontmatter-Plugin", () => {
+                    if (isDev) {
+                      if (compiler.modifiedFiles) {
+                        compiler.modifiedFiles.forEach((f) => {
+                          if ((f.endsWith('.md') || f.endsWith('.mdx')) && !cache[f] && !f.includes('/versioned_docs/')) {
+                            if (EnsureFM(f)) {
+                              console.log('Added Frontmatter to', f);
+                            }
+                            cache[f] = true;
+                          }
+                        });
+                      }
+                      if (compiler.removedFiles) {
+                        compiler.removedFiles.forEach((f) => {
+                          if (f.endsWith('.md') || f.endsWith('.mdx')) {
+                            delete cache[f]
+                          }
+                        })
+                      }
+                    }
+                  });
+                },
+              },
+            ]
+          }
+        }
+      }
+    },
     require.resolve('docusaurus-plugin-image-zoom')
   ]
 };
