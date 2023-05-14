@@ -5,10 +5,11 @@ sidebar_custom_props:
   icon: mdi-presentation
   source: gym-kirchenfeld
   path: /docs/praesentation/README.md
-draft: true
 ---
 
 # Präsentation
+
+<Features />
 
 Unter einer **Präsentation** verstehen wir einen Vortrag, welcher durch Projektion von Text, Bildern und multimedialen Elementen unterstützt wird.
 
@@ -24,7 +25,7 @@ Sowohl *LibreOffice* als auch *Microsoft Office* kommen mit einer sogenannten «
 *LibreOffice* steht für *Windows*, *macOS* und *Linux* als freier Download zur Verfügung. Neben *Impress* beinhaltet das Paket eine Textverarbeitung, eine Tabellenkalkulation, sowie Tools für Datenbanken, Vektor-Grafiken und Math-Formeln.
 Download: [libreoffice.org](https://de.libreoffice.org)
 
-### Microsoft PowerPoint
+### :mdi-microsoft-powerpoint--red-l: Microsoft PowerPoint
 *Powerpoint* ist Teil des *Microsoft Office*-Paketes und ist auf *Windows* und *macOS* verfügbar.
 Schülerinnen und Schüler unseres Gymnasiums haben die Möglichkeit *Powerpoint* im Rahmen von einem vergünstigten Office365-Abos zu beziehen.
 
