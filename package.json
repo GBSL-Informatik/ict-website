@@ -35,7 +35,7 @@
     "remark-details-simple": "^1.0.1",
     "remark-kbd-simple": "^1.0.1",
     "remark-math": "3",
-    "remark-mdi": "^1.0.2",
+    "remark-mdi": "^1.0.3",
     "remark-underline": "^1.0.5",
     "sass": "^1.52.2"
   },
