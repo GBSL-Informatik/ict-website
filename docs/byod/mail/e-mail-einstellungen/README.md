@@ -24,7 +24,7 @@ Server
 Port
 : 443
 
-Anmelden kannst du dich mit deiner @mygymer.ch- oder @gymkirchenfeld.ch-E-Mail-Adresse und deinem Gymer-Passwort.
+Anmelden kannst du dich mit deiner @edu.gbsl.ch- oder @gbsl.ch-E-Mail-Adresse und deinem gbsl-Passwort.
 
 ## Einstellungen für IMAP
 
@@ -53,4 +53,5 @@ Port
 Sicherheit
 : TLS oder STARTTLS
 
-Anmelden kannst du dich mit deiner @mygymer.ch- oder @gymkirchenfeld.ch-E-Mail-Adresse und deinem Gymer-Passwort
+Anmelden kannst du dich mit deiner @edu.gbsl.ch- oder @gbsl.ch-E-Mail-Adresse und deinem gbsl-Passwort.
+
