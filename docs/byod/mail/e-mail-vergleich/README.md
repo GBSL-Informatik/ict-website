@@ -18,7 +18,7 @@ Du verwendest kein E-Mail-Programm an und bearbeitest deine E-Mails im Browser.
 :mdi-plus-box: Geräteunabhängig
 :mdi-plus-box: einfachste Lösung
 
-:mdi-arrow-right: [Outlook im Browser](../outlook-web/)
+:mdi-arrow-right: [Outlook im Browser](../(https://www.microsoft365.com)/)
 
 ## Outlook App
 Du installierst die Outlook App aus dem Office Paket auf deinem privaten PC, Notebook, Tablet oder Smartphone.
