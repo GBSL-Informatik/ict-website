@@ -4,7 +4,7 @@ sidebar_custom_props:
   icon: mdi-email
   source: gym-kirchenfeld
   path: /docs/byod/mail/e-mail-einstellungen/README.md
-draft: true
+draft: false
 ---
 
 # E-Mail-Einstellungen
@@ -24,7 +24,7 @@ Server
 Port
 : 443
 
-Anmelden kannst du dich mit deiner @mygymer.ch- oder @gymkirchenfeld.ch-E-Mail-Adresse und deinem Gymer-Passwort.
+Anmelden kannst du dich mit deiner @edu.gbsl.ch- oder @gbsl.ch-E-Mail-Adresse und deinem gbsl-Passwort.
 
 ## Einstellungen für IMAP
 
@@ -53,4 +53,5 @@ Port
 Sicherheit
 : TLS oder STARTTLS
 
-Anmelden kannst du dich mit deiner @mygymer.ch- oder @gymkirchenfeld.ch-E-Mail-Adresse und deinem Gymer-Passwort
+Anmelden kannst du dich mit deiner @edu.gbsl.ch- oder @gbsl.ch-E-Mail-Adresse und deinem gbsl-Passwort.
+

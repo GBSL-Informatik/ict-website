@@ -4,7 +4,7 @@ sidebar_custom_props:
   icon: mdi-email
   source: gym-kirchenfeld
   path: /docs/byod/mail/e-mail-vergleich/README.md
-draft: true
+draft: false
 ---
 
 # Entscheidungshilfe E-Mail
@@ -18,7 +18,7 @@ Du verwendest kein E-Mail-Programm an und bearbeitest deine E-Mails im Browser.
 :mdi-plus-box: Geräteunabhängig
 :mdi-plus-box: einfachste Lösung
 
-:mdi-arrow-right: [Outlook im Browser](../outlook-web/)
+:mdi-arrow-right: [Outlook im Browser](../(https://www.microsoft365.com)/)
 
 ## Outlook App
 Du installierst die Outlook App aus dem Office Paket auf deinem privaten PC, Notebook, Tablet oder Smartphone.
