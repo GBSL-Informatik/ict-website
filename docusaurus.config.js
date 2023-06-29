@@ -122,7 +122,16 @@ const config = {
         items: [],
       },
       footer: {
-        copyright: `<a class="footer__link-item" href="https://creativecommons.org/licenses/by-nc-sa/4.0/deed.de" target="_blank"><img src="/img/by-nc-sa.eu.svg" alt="CC-BY-NC-SA"><br/> Alle Inhalte (falls nicht anders angegeben) lizenziert unter <br/>Creative Commons Namensnennung - Nicht-kommerziell - Weitergabe unter gleichen Bedingungen 4.0 International Lizenz.</a><br /><a class="badge badge--primary" href="https://github.com/lebalz/ofi-blog/commit/${GIT_COMMIT_SHA}"><i class="mdi mdi-source-commit mdi-rotate-90"></i> ${GIT_COMMIT_SHA.substring(0, 7)}</a>`,
+        copyright: `<a class="footer__link-item" href="https://creativecommons.org/licenses/by-nc-sa/4.0/deed.de" target="_blank"><img src="/img/by-nc-sa.eu.svg" alt="CC-BY-NC-SA"><br/> Alle Inhalte (falls nicht anders angegeben) lizenziert unter <br/>Creative Commons Namensnennung - Nicht-kommerziell - Weitergabe unter gleichen Bedingungen 4.0 International Lizenz.</a><br /><a class="badge badge--primary" href="https://github.com/GBSL-Informatik/ict-website/commit/${GIT_COMMIT_SHA}"><i class="mdi mdi-source-commit mdi-rotate-90"></i> ${GIT_COMMIT_SHA.substring(0, 7)}</a>`,
+      },
+      algolia: {
+        appId: process.env.ALGOLIA_APP_ID || "no-id",
+        apiKey: process.env.ALGOLIA_API_KEY || "no-key",
+        indexName: process.env.ALGOLIA_INDEX_NAME || "no-index",
+        // Optional: see doc section below
+        contextualSearch: true,
+        // Optional: path for search page that enabled by default (`false` to disable it)
+        searchPagePath: 'search',
       },
       prism: {
         theme: lightCodeTheme,
@@ -159,42 +168,14 @@ const config = {
     // Object format.
     {
       src: 'https://umami.gbsl.website/tell-me.js',
-      ['data-website-id']: 'b712f437-c0b3-41f0-ba9b-c1e5ec681751',
-      ['data-domains']: 'ict.gbsl.website',
+      ['data-website-id']: process.env.UMAMI_ID,
+      ['data-domains']: process.env.UMAMI_DOMAIN,
       async: true,
       defer: true
     },
   ],
   plugins: [
     'docusaurus-plugin-sass',
-    [
-      require.resolve("@cmfcmf/docusaurus-search-local"),
-      {
-        // Whether to also index the titles of the parent categories in the sidebar of a doc page.
-        // 0 disables this feature.
-        // 1 indexes the direct parent category in the sidebar of a doc page
-        // 2 indexes up to two nested parent categories of a doc page
-        // 3...
-        //
-        // Do _not_ use Infinity, the value must be a JSON-serializable integer.
-        indexDocSidebarParentCategories: 1,
-
-
-        // whether to index blog pages
-        indexBlog: false,
-
-        // whether to index static pages
-        // /404.html is never indexed
-        indexPages: false,
-        // language of your documentation, see next section
-        language: "de",
-        // setting this to "none" will prevent the default CSS to be included. The default CSS
-        // comes from autocomplete-theme-classic, which you can read more about here:
-        // https://www.algolia.com/doc/ui-libraries/autocomplete/api-reference/autocomplete-theme-classic/
-        style: undefined,
-
-      }
-    ],
     [
       '@docusaurus/plugin-pwa',
       {

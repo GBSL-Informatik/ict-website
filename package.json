@@ -16,7 +16,6 @@
     "edit-fm": "node edit_front_matter.js"
   },
   "dependencies": {
-    "@cmfcmf/docusaurus-search-local": "^0.10.0",
     "@docusaurus/core": "^2.4.1",
     "@docusaurus/plugin-pwa": "^2.4.1",
     "@docusaurus/preset-classic": "^2.4.1",
