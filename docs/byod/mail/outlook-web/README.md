@@ -15,10 +15,10 @@ draft: true
 
 :::warning Direkter Link
 
-https://outlook.office365.com/owa/
+https://outlook.office.com/mail/
 :::
 
-Auch zu finden über unser Cloud-Portal: https://cloud.gymkirchenfeld.ch
+Auch zu finden über unser Cloud-Portal: https://office.com/
 
 Über die Outlook Web-App kannst du von jedem Gerät einfach auf deine Schul-E-Mails zugreifen.
 
@@ -57,7 +57,7 @@ Gehe so vor, um auf eine Nachricht zu antworten:
 
 ![Eine E-Mail beantworten](./outlook-web-reply.svg)
 
-[1]: https://cloud.gymkirchenfeld.ch
+[1]: https://outlook.office.com/mail/
 
 
 ## Kalender und Kontakte
