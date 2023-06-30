@@ -1,9 +1,21 @@
 .feature {
   height: 100%;
   border-radius: var(--ifm-global-radius);
+  position: relative;
   .icon {
     line-height: 1.5;
     font-size: 4rem;
+  }
+  .pages {
+    position: absolute;
+    right: 0.5rem;
+    top: 0.5rem;
+  }
+  .pages {
+    .number {
+      margin-left: 0.2rem;
+
+    }
   }
 
   h2 {

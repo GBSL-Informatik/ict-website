@@ -16,7 +16,7 @@ function MyFeature(): JSX.Element {
       {sidebar.items.map((item, idx) => {
         if (item.type === 'link' || item.type === 'category') {
           return (
-            <Feature icon={item.customProps?.icon as string} name={item.label} route={item.href} key={idx} />
+            <Feature icon={item.customProps?.icon as string} name={item.label} route={item.href} pages={item.type === 'category' ? item.items.length : 1} key={idx} />
           );
         } else {
           return null;

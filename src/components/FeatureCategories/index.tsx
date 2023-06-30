@@ -31,7 +31,7 @@ export default function Features(): JSX.Element {
           item.customProps.icon
         ) {
           return (
-            <Feature icon={item.customProps.icon as string} name={item.label} route={item.href} key={idx} />
+            <Feature icon={item.customProps.icon as string} name={item.label} route={item.href} key={idx} pages={item.type === 'category' ? item.items.length : 1} />
           );
         } else {
           return null;
