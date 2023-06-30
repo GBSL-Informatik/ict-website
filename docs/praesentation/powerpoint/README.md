@@ -5,6 +5,7 @@ sidebar_custom_props:
   source: gym-kirchenfeld
   path: /docs/praesentation/powerpoint/README.md
 sidebar_position: 3
+draft: false
 ---
 
 # Powerpoint
