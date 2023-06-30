@@ -5,7 +5,7 @@ sidebar_custom_props:
   icon: mdi-shield-lock
   source: gym-kirchenfeld
   path: /docs/sicherheit/app-permissions/README.md
-draft: true
+draft: false
 ---
 
 # App-Berechtigungen

@@ -4,7 +4,7 @@ sidebar_custom_props:
   icon: mdi-camera-metering-center
   source: gym-kirchenfeld
   path: /docs/infra/geraete/visualizer/README.md
-draft: true
+draft: false
 ---
 
 # Visualizer

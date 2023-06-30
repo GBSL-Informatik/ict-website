@@ -3,7 +3,7 @@ sidebar_custom_props:
   icon: mdi-human-male-board
   source: gym-kirchenfeld
   path: /docs/infra/geraete/stehpult/README.md
-draft: true
+draft: false
 ---
 
 #  Stehpult

@@ -5,7 +5,7 @@ sidebar_custom_props:
   icon: mdi-form-textbox-password
   source: gym-kirchenfeld
   path: /docs/sicherheit/internet-passwort/README.md
-draft: true
+draft: false
 ---
 
 # Passwörter im Internet
