@@ -18,16 +18,8 @@ Dabei erstellt der Vortragende sogenannte **Folien** in einer Präsentationssoft
 ![Symbolbild «Präsentieren», Created by Freepik](./images/presentation.jpg)
 
 
-## Präsentationssoftware
-Sowohl *LibreOffice* als auch *Microsoft Office* kommen mit einer sogenannten «Präsentationssoftware». In den Grundprinzipien unterscheiden sich die Programme kaum. Beide lassen die Gestaltung von sogenannten **Folien** zu, die dann in einer Präsentation eine nach der anderen angezeigt werden. Die Folien können Text, **Grafiken, Bilder, Videos, Animation und Sound** beinhalten.
-
-### LibreOffice Impress
-*LibreOffice* steht für *Windows*, *macOS* und *Linux* als freier Download zur Verfügung. Neben *Impress* beinhaltet das Paket eine Textverarbeitung, eine Tabellenkalkulation, sowie Tools für Datenbanken, Vektor-Grafiken und Math-Formeln.
-Download: [libreoffice.org](https://de.libreoffice.org)
-
 ### :mdi-microsoft-powerpoint--red-l: Microsoft PowerPoint
 *Powerpoint* ist Teil des *Microsoft Office*-Paketes und ist auf *Windows* und *macOS* verfügbar.
-Schülerinnen und Schüler unseres Gymnasiums haben die Möglichkeit *Powerpoint* im Rahmen von einem vergünstigten Office365-Abos zu beziehen.
 
 Siehe: [Microsoft 365 (Windows)](../byod/windows/365/) oder [Microsoft 365 (macOS)](../byod/macos/365/)
 
