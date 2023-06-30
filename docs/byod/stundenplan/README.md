@@ -2,7 +2,7 @@
 systems:
   - Stundenplan
 sidebar_custom_props:
-  icon: mdi-
+  icon: mdi-calendar-month-outline
   source: gbsl
   path: /docs/byod/stundenplan/README.md
 sidebar_position: 20
