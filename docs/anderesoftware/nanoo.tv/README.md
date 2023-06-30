@@ -6,7 +6,7 @@ sidebar_custom_props:
   path: /docs/anderesoftware/nanoo.tv/README.md
 ---
 
-# Browser
+# Mediathek nanoo.tv
 
 
 
