@@ -1,6 +1,6 @@
 ---
 sidebar_custom_props:
-  icon: mdi-email
+  icon: mdi-
   source: gbsl
   path: /docs/byod/stundenplan/README.md
 sidebar_label: Stundenplan
@@ -11,5 +11,7 @@ draft: false
 #  Stundenplan einrichten auf dem Smartphone
 
 
+
+<Features />
 
 <Features />
