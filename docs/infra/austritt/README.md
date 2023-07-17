@@ -5,7 +5,7 @@ sidebar_custom_props:
 draft: false
 ---
 
-Austritt - digitales Kofferpacken
+# Austritt - digitales Kofferpacken
 
 **Ich verlasse die Schule – was geschieht mit meinen Daten und was kann ich tun?**
 
