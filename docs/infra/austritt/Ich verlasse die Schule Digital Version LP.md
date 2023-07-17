@@ -1,14 +1,4 @@
----
-sidebar_custom_props:
-  icon: mdi-bag-suitcase
-  source: gym-kirchenfeld
-  path: /docs/infra/austritt/README.md
-draft: false
----
-
-#  Austritt - digitales Kofferpacken
-
-**Ich verlasse die Schule – was geschieht mit meinen Daten und was kann ich tun?** (Version für LP)**
+﻿**Ich verlasse die Schule – was geschieht mit meinen Daten und was kann ich tun?** (Version für LP)**
 
 Wenn du die Schule verlässt, geschieht Folgendes:
 
