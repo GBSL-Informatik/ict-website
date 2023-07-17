@@ -7,17 +7,17 @@ draft: false
 
 Austritt - digitales Kofferpacken
 
-**Ich verlasse die Schule – was geschieht mit meinen Daten und was kann ich tun?** (Version für LP)**
+**Ich verlasse die Schule – was geschieht mit meinen Daten und was kann ich tun?**
 
 Wenn du die Schule verlässt, geschieht Folgendes:
 
 1. Deine Mailadresse @gbsl.ch wird gelöscht und du kannst darüber Mails weder senden noch empfangen.
-1. Du verlierst deinen Office 365 Abo und kannst die Office-Programme nicht mehr verwenden, ebenfalls die Programme von Adobe, z.B. Adobe Acrobat und kannst PDF-Dateien nicht mehr bearbeiten.
-1. Auf deine auf Onedrive gespeicherten Dokumente hast du keinen Zugriff mehr. Dateien auf deinem PC sind davon nicht betroffen.
-1. Auf mit dir geteilte oder für dich freigegebene Dateien wirst du keinen Zugriff mehr haben.
-1. Den Zugriff auf Dateien auf Teams verlierst du ebenfalls. Ist es ein selber erstelltes Team haben auch die Schüler:innen keinen Zugriff mehr, ist es ein automatisch erstelltes Team, erhalten deine Nachfolgerin oder dein Nachfolger den Zugriff auf deine Dateien auf Teams.
-1. Du kannst auch nicht mehr in einem Team die Chatfunktion nutzen, um beispielsweise in Kontakt mit deiner Fachschaft zu bleiben.
-1. Smartphone: Falls du office 365 Apps auf deinem Smartphone installiert hast, werden diese vermutlich nur noch über einen beschränkten Funktionsumfang verfügen.
+2. Du verlierst deinen Office 365 Abo und kannst die Office-Programme nicht mehr verwenden, ebenfalls die Programme von Adobe, z.B. Adobe Acrobat und kannst PDF-Dateien nicht mehr bearbeiten.
+3. Auf deine auf Onedrive gespeicherten Dokumente hast du keinen Zugriff mehr. Dateien auf deinem PC sind davon nicht betroffen.
+4. Auf mit dir geteilte oder für dich freigegebene Dateien wirst du keinen Zugriff mehr haben.
+5. Den Zugriff auf Dateien auf Teams verlierst du ebenfalls. Ist es ein selber erstelltes Team haben auch die Schüler:innen keinen Zugriff mehr, ist es ein automatisch erstelltes Team, erhalten deine Nachfolgerin oder dein Nachfolger den Zugriff auf deine Dateien auf Teams.
+6. Du kannst auch nicht mehr in einem Team die Chatfunktion nutzen, um beispielsweise in Kontakt mit deiner Fachschaft zu bleiben.
+7. Smartphone: Falls du office 365 Apps auf deinem Smartphone installiert hast, werden diese vermutlich nur noch über einen beschränkten Funktionsumfang verfügen.
 
 Folgende Möglichkeiten hast du:
 
