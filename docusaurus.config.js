@@ -122,7 +122,24 @@ const config = {
         items: [],
       },
       footer: {
-        copyright: `<a class="footer__link-item" href="https://creativecommons.org/licenses/by-nc-sa/4.0/deed.de" target="_blank"><img src="/img/by-nc-sa.eu.svg" alt="CC-BY-NC-SA"><br/> Alle Inhalte (falls nicht anders angegeben) lizenziert unter <br/>Creative Commons Namensnennung - Nicht-kommerziell - Weitergabe unter gleichen Bedingungen 4.0 International Lizenz.</a><br /><a class="badge badge--primary" href="https://github.com/GBSL-Informatik/ict-website/commit/${GIT_COMMIT_SHA}"><i class="mdi mdi-source-commit mdi-rotate-90"></i> ${GIT_COMMIT_SHA.substring(0, 7)}</a>`,
+        copyright: `<a 
+          class="footer__link-item" 
+          href="https://creativecommons.org/licenses/by-nc-sa/4.0/deed.de" 
+          target="_blank"
+        >
+          <img src="/img/by-nc-sa.eu.svg" alt="CC-BY-NC-SA">
+          <br/>
+          Alle Inhalte (falls nicht anders angegeben) lizenziert unter 
+          <br/>
+          Creative Commons Namensnennung - Nicht-kommerziell - Weitergabe unter gleichen Bedingungen 4.0 International Lizenz.
+        </a>
+        <br />
+        <a 
+          class="badge badge--primary" 
+          href="https://github.com/GBSL-Informatik/ict-website/commit/${GIT_COMMIT_SHA}"
+        >
+          <i class="mdi mdi-source-commit mdi-rotate-90"></i> ${GIT_COMMIT_SHA.substring(0, 7)}
+        </a>`,
       },
       algolia: {
         appId: process.env.ALGOLIA_APP_ID || "no-id",

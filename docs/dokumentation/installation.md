@@ -12,7 +12,6 @@ Für das Schreiben von Dokumentationen braucht es einen GitHub-Account: [https:/
 
 - [Node 18+](https://nodejs.org/en/download/current/)
 - [VS Code](https://code.visualstudio.com/)
-- [GitHub Desktop](https://desktop.github.com/) - das Repository [ict-website](https://github.com/GBSL-Informatik/ict-website) synchronisieren
 
 ## Projekt konfigurieren
 
