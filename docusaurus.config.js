@@ -103,10 +103,15 @@ const config = {
       }),
     ],
   ],
-
+  markdown: {
+    mermaid: true
+  },
   themeConfig:
     /** @type {import('@docusaurus/preset-classic').ThemeConfig} */
     ({
+      mermaid: {
+        theme: {light: 'default', dark: 'dark'},
+      },
       docs: {
         sidebar: {
           hideable: true,
@@ -179,7 +184,8 @@ const config = {
     },
   ],
   themes: [
-    'docusaurus-theme-frontmatter'
+    'docusaurus-theme-frontmatter',
+    '@docusaurus/theme-mermaid'
   ],
   scripts: [
     // Object format.

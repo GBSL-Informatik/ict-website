@@ -332,7 +332,9 @@ Anpassung der `docusaurus.config.js` Datei:
 }
 ```
 
-### Markdown Extensions
+## Markdown Extensions
+
+### Formeln / Math
 
 Docusaurus kommt bereits mit den Morkdown-Erweiterungen `Admonitions` und `Mermaid`. Einige Weitere sind unten aufgeführt:
 
@@ -640,6 +642,120 @@ kbd {
   box-shadow: inset 1px -2px 0 var(--ifm-color-emphasis-400);
 }
 
+```
+
+### Remark Underline
+
+Damit man auf eine einfache Art und Weise bspw. Pfadangaben oder Dateinamen kennzeichnen kann, können mit dem Remark Plugin [underline](https://www.npmjs.com/package/remark-underline) Benutzerdefinierte Klassen basierend auf dem verwendeten Modifier hinzugefügt werden (**Bold** kann entweder über die Syntax `**Bold**` oder als `__Bold__` formatiert werden). Für `__Bold__` wird nun eine Klasse `underline` hinzugefügt, so dass `__Bold__` als __Bold__ formatiert werden kann.
+
+```js title="docusaurus.config.js"
+// highlight-start
+const remarkUnderline = require('remark-underline');
+// highlight-end
+const config = {
+  /* ... */
+  presets: [
+      [
+        '@docusaurus/preset-classic',
+        {
+          docs: {
+            // highlight-start
+            beforeDefaultRemarkPlugins: [
+              [
+                remarkUnderline, { marker: '__', classNames: ['underline'], tagType: 'strong'}], 
+                /*...*/
+            ],
+            // highlight-end
+          },
+          blog: false,
+          pages: {
+            // highlight-start
+            beforeDefaultRemarkPlugins: [
+              [
+                remarkUnderline, { marker: '__', classNames: ['underline'], tagType: 'strong'}], 
+                /*...*/
+            ],
+            // highlight-end
+          },
+        },
+      ],
+    ],
+  };
+};
+```
+
+Schliesslich muss die Klasse `underline` im `custom.(s)css` noch definiert werden:
+
+```css title="/src/css/custom.(s)css"
+strong.underline {
+	color: #3348b5;
+	font-weight: normal;
+	border: 1px solid var(--ifm-color-gray-600);
+	padding: 0.15em 0.4em 0.15em 0.3em;
+	border-radius: 2px;
+	-moz-border-radius: .2em;
+	-webkit-border-radius: .2em;
+	border-radius: .2em;
+	white-space: nowrap;
+}
+
+/* Dark Mode */
+html[data-theme='dark'] {
+	strong.underline {
+		color: var(--ifm-color-primary);
+	}
+}
+```
+
+### Mermaid Diagramme
+
+Unterstützung von [Mermaid](https://mermaid.js.org/) Diagrammen.
+
+- [👉 Live Editor](https://mermaid.live/edit)
+- [👉 Mermaid Docs](https://mermaid.js.org/intro/)
+- [👉 Mermaid in Docusaurus Docs](https://docusaurus.io/docs/markdown-features/diagrams)
+
+````md
+```mermaid
+graph TD;
+    A-->B;
+    A-->C;
+    B-->D;
+    C-->D;
+```
+````
+ergibt:
+```mermaid
+graph TD;
+    A-->B;
+    A-->C;
+    B-->D;
+    C-->D;
+```
+
+
+#### Installation
+
+```bash
+yarn add @docusaurus/theme-mermaid
+```
+
+#### Konfiguration
+
+```js title="docusaurus.config.js"
+const config = {
+  /* ... */
+  markdown: {
+    mermaid: true
+  },
+  themeConfig: {
+    mermaid: {
+      theme: {light: 'default', dark: 'dark'},
+    },
+  },
+  /*...*/,
+  themes: ['@docusaurus/theme-mermaid'],
+};
 ```
 
 ## Github Actions
