@@ -758,6 +758,20 @@ const config = {
 };
 ```
 
-## Github Actions
+## Deploy Website
 
-Erstelle einen neues Dokument `.github/__workflows/documentation.yml`
+Docusaurus Webseiten lassen sich wahlweise auf dem Computer compilieren um anschliessend die statischen Dateien auf einen Webserver zu kopieren (bspw. auf GitHub pages):
+
+```bash
+yarn run clear # löscht mögliche vorherige Builds und caches
+yarn build # buildet die Seite - die statischen Dateien befinden sich im Ordner build
+```
+
+Die statische Seite kann mit `yarn serve` lokal ausprobiert- und allenfalls auf einen Fileserver kopiert werden.
+
+### Netlify
+Der Build- und Deploy-Prozess kann jedoch auch automatisiert werden. Es gibt mehrere Möglichkeiten, einige sind unter [👉 Docusaurus.io](https://docusaurus.io/docs/deployment) beschrieben. Eine sehr performante und einfach zu konfigurierende Möglichkeit ist [Netlify](https://www.netlify.com/). Dies ist ein Cloud-Service, der die statischen Dateien automatisch auf einem CDN verteilt und die Seite bei jedem Commit neu baut. Das kostenlose Basis-Angebot bietet zudem die notwendigen Features, so dass es sich für viele Projekte eignet.
+
+1. [👉 Netlify Account erstellen](https://app.netlify.com/signup) - allenfalls direkt den GitHub Account als Login-Möglichkeit verwenden
+2. [👉 GitHub Repository auswählen](https://app.netlify.com/start) und deployen.
+3. Auf [👉 Cloudflare.com](https://cloudlfare.com) einen neuen DNS Eintrag erstellen und diesen in Netlify konfigurieren. SSL Zertifikate werden automatisch ausgestellt.
