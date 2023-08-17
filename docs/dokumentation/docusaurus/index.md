@@ -387,12 +387,12 @@ const config = {
             // highlight-end
           },
           blog: false,
+          // highlight-start
           pages: {
-            // highlight-start
             remarkPlugins: [math],
             rehypePlugins: [katex],
-            // highlight-end
           },
+          // highlight-end
         },
       ],
     ],
