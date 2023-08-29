@@ -11,6 +11,6 @@ sidebar_custom_props:
 
 
 
-Die folgenden Basiskenntnisse sollten alle Schüler:innen Ende 1. Semester GYM 1 beherrschen (Modul «Textverarbeitung 1» im 🚧ICT-Konzept der Schule🚧):
+Die folgenden Basiskenntnisse sollten alle Schüler:innen Ende GYM 1 beherrschen:
 
 <Features/>
