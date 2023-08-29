@@ -7,7 +7,7 @@ sidebar_custom_props:
   icon: mdi-text-box-outline
   source: gym-kirchenfeld
   path: /docs/textverarbeitung/README.md
-draft: true
+draft: false
 ---
 
 # Textverarbeitung

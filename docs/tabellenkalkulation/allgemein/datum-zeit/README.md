@@ -8,7 +8,7 @@ sidebar_custom_props:
   icon: mdi-clock
   source: gym-kirchenfeld
   path: /docs/tabellenkalkulation/allgemein/datum-zeit/README.md
-draft: true
+draft: false
 ---
 
 # Datum und Zeit

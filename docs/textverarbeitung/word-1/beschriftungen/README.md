@@ -6,7 +6,7 @@ sidebar_custom_props:
   icon: mdi-tag-text
   source: gym-kirchenfeld
   path: /docs/textverarbeitung/word-1/beschriftungen/README.md
-draft: true
+draft: false
 ---
 
 # Beschriftungen
