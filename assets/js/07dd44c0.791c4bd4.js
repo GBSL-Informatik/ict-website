@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkict=self.webpackChunkict||[]).push([[5493],{9770:function(e){e.exports=JSON.parse('{"label":"text","permalink":"/tags/text","allTagsPath":"/tags","count":1,"items":[{"id":"textverarbeitung/word-1/README","title":"Word Basis","description":"Die folgenden Basiskenntnisse sollten alle Sch\xfcler","permalink":"/textverarbeitung/word-1/"}]}')}}]);
