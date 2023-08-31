@@ -1,6 +1,10 @@
 ---
 apps:
   - Microsoft Word
+tags:
+  - Gym1
+  - Semester1
+  - text
 sidebar_custom_props:
   icon: mdi-microsoft-word
   source: gym-kirchenfeld
