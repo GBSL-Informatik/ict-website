@@ -1,37 +1,59 @@
 ---
-systems:
-  - Digitales Prüfen
 sidebar_position: 20
+tags:
+  - Digitales Prüfen
 sidebar_custom_props:
   icon: mdi-test-tube
 ---
 
-# exam.net einrichten
+# exam.net 2
 
 ## Anleitung für Schüler:innen
 
-:::details Kontext: Digitale Prüfungen
-An unserer Schule werden vermehrt Prüfungen mit exam.net geschrieben, auch Abschlussprüfungen. Diese Anleitung zeigt dir, wie du deinen Computer für den Hochsicherheitsmodus einrichten kannst.
-:::
-
-Auf der Internetseite von exam.net die Sicherheitssoftware  herunterladen und installieren:
-https://faq-en.exam.net/article/52869/install-high-security-software. 
+Digitale Prüfungen
+An unserer Schule werden vermehrt Prüfungen mit exam.net geschrieben, auch Abschlussprüfungen. Diese Anleitung zeigt, wie ein Computer für den Hochsicherheitsmodus eingerichtet werden kann.
 
 
-Anschliessend mit einem beliebigen Browser exam.net öffnen und oben rechts den Prüfungsschlüssel «as9bKy» eingeben. Den hohen Sicherheitsmodus (SafeExamBrowser nicht Take a Test!) auswählen.
+### Vorbereitung
 
-### Windows
+Download
+: Download und Installation der Software von exam.net
+: 👉 https://faq-en.exam.net/article/52869/install-high-security-software. 
+
+<Tabs>
+  <TabItem value="win" label="Windows">
+
 ![--width=600px](images/examnet-win-install.png)
 
+  </TabItem>
+  <TabItem value="osx" label="Mac, iPad">
 
-### Mac, iPad
 ![--width=600px](images/examnet-apple-install.png)
 
+  </TabItem>
+</Tabs>
 
-### Wichtig:
-
-Wlan auf automatisch verbinden setzen.
+:::warning Wichtig!
+WLAN auf automatisch verbinden setzen.
 
 ![--width=600px](images/examnet-wlan-setzen.png)
 
+:::
+
+### Prüfung starten
+
+Anschliessend mit einem beliebigen Browser [👉 exam.net](https://exam.net) öffnen und oben rechts den Prüfungsschlüssel __as9bKy__ eingeben. 
+
+<BrowserWindow url="https://exam.net">
+
+![](images/examnet-schluessel.png)
+</BrowserWindow>
+
+
+Den hohen Sicherheitsmodus (**SafeExamBrowser**, nicht Take a Test!) auswählen.
+
+<BrowserWindow url="https://exam.net">
+
+![--width=350px](images/examnet-highsecuritymode.png)
+</BrowserWindow>
 
