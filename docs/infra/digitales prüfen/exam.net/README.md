@@ -13,12 +13,23 @@ draft: true
 
 ## Anleitung für Schüler:innen
 
-## Windows
 
-Laden Auf der Internetseite von exam.net den Sicherheitsbrowser (SEB) herunterladen und installieren:
-https://support.exam.net/#/sv/ high-security. 
+Laden Auf der Internetseite von exam.net die Sicherheitssoftware  herunterladen und installieren:
+https://faq-en.exam.net/article/52869/install-high-security-software. 
 
 
-Mit Einen beliebigen Browser exam.net öffnen und oben rechts folgenden Prüfungsschlüssel «as9bKy» eingeben. Den hohen Sicherheitsmodus (SafeExamBrowser nicht Take a Test!) auswählen.
+Anschliessend mit einem beliebigen Browser exam.net öffnen und oben rechts den Prüfungsschlüssel «as9bKy» eingeben. Den hohen Sicherheitsmodus (SafeExamBrowser nicht Take a Test!) auswählen.
+
+### Windows
+![--width=600px](images/win-install.png)
+
+
+### Mac, iPad
+![--width=600px](images/examnet-apple-install.png)
+
+
+
+Wichtig: Wlan auf automatisch verbinden setzen.
+![--width=600px](images/examnet-wlan-setzen.png)
 
 
