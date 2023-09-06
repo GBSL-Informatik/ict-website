@@ -21,7 +21,7 @@ https://faq-en.exam.net/article/52869/install-high-security-software.
 Anschliessend mit einem beliebigen Browser exam.net öffnen und oben rechts den Prüfungsschlüssel «as9bKy» eingeben. Den hohen Sicherheitsmodus (SafeExamBrowser nicht Take a Test!) auswählen.
 
 ### Windows
-![--width=600px](images/win-install.png)
+![--width=600px](images/examnet-win-install.png)
 
 
 ### Mac, iPad
