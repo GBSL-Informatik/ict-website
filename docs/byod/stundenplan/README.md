@@ -13,5 +13,3 @@ draft: false
 
 
 <Features />
-
-<Features />
