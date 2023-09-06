@@ -29,7 +29,9 @@ Anschliessend mit einem beliebigen Browser exam.net öffnen und oben rechts den 
 
 
 ### Wichtig:
+
 Wlan auf automatisch verbinden setzen.
+
 ![--width=600px](images/examnet-wlan-setzen.png)
 
 
