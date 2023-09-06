@@ -4,9 +4,6 @@ sidebar_custom_props:
   icon: mdi-language-markdown-outline
 ---
 
-import Tabs from '@theme/Tabs';
-import TabItem from '@theme/TabItem';
-
 # Docusaurus
 
 
