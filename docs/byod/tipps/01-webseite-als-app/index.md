@@ -28,6 +28,10 @@ Beispiel: Link zur Störungsmeldung ablegen: 👉 https://forms.office.com/r/akU
 
 ### Windows
 
+Symbol ändern.
+
+![--width=250px](images/win-app-symbol.png)
+
 Installationsort festlegen und installieren.
 
 ![--width=250px](images/win-app-zulassen.png)
