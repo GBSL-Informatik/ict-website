@@ -14,7 +14,7 @@ draft: true
 ## Anleitung für Schüler:innen
 
 
-Laden Auf der Internetseite von exam.net die Sicherheitssoftware  herunterladen und installieren:
+Auf der Internetseite von exam.net die Sicherheitssoftware  herunterladen und installieren:
 https://faq-en.exam.net/article/52869/install-high-security-software. 
 
 
