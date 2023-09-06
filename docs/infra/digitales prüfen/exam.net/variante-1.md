@@ -6,7 +6,7 @@ sidebar_custom_props:
   icon: mdi-test-tube
 ---
 
-# exam.net einrichten 1
+# exam.net 1
 
 ## Anleitung für Schüler:innen
 
