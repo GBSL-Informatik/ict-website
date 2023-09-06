@@ -22,11 +22,13 @@ Im Browser kannst du natürlich einen Favoriten setzen für die Störungsmeldung
 
 Beispiel: Link zur Störungsmeldung ablegen: 👉 https://forms.office.com/r/akUrVUFaRu
 
+Gilt für PC, Mac, iPad, iPhone, Android und Safari, Chrome und Edge: 3 Punkte rechts oben anklicken.
+
 <BrowserWindow browser="edge" url="https://forms.office.com/r/akUrVUFaRu" >
 
 ![--width=600px](images/edge-app-installieren.png)
 
-### Windows
+### Windows und Edge
 
 Symbol ändern.
 
