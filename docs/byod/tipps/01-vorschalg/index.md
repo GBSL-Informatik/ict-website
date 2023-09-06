@@ -22,7 +22,7 @@ Im Browser kannst du natürlich einen Favoriten setzen für die Störungsmeldung
 
 Beispiel: Link zur Störungsmeldung ablegen: 👉 https://forms.office.com/r/akUrVUFaRu
 
-<BrowserWindow url="https://forms.office.com/r/akUrVUFaRu" >
+<BrowserWindow browser="edge" url="https://forms.office.com/r/akUrVUFaRu" >
 
 ![--width=600px](images/edge-app-installieren.png)
 
