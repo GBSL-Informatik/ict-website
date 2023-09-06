@@ -27,9 +27,8 @@ Anschliessend mit einem beliebigen Browser exam.net öffnen und oben rechts den 
 ### Mac, iPad
 ![--width=600px](images/examnet-apple-install.png)
 
-
-
-Wichtig: Wlan auf automatisch verbinden setzen.
+###Wichtig:
+Wlan auf automatisch verbinden setzen.
 ![--width=600px](images/examnet-wlan-setzen.png)
 
 
