@@ -6,13 +6,11 @@ sidebar_custom_props:
   icon: mdi-test-tube
 ---
 
-# exam.net 2
+# exam.net
 
 ## Anleitung für Schüler:innen
 
-Digitale Prüfungen:
-
-An unserer Schule werden vermehrt Prüfungen mit exam.net geschrieben, auch Abschlussprüfungen. Diese Anleitung zeigt, wie ein Computer für den Hochsicherheitsmodus eingerichtet werden kann.
+An unserer Schule werden vermehrt Prüfungen digital mit exam.net geschrieben, auch Abschlussprüfungen. Diese Anleitung zeigt, wie ein Computer für den Hochsicherheitsmodus eingerichtet werden kann.
 
 
 ### Vorbereitung
