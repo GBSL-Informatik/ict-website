@@ -11,8 +11,6 @@ draft: true
 
 # exam.net einrichten
 
-## Microsoft Outlook (empfohlen)
-
-1. Installiere die Microsoft Outlook-App aus dem Google Play Store:
+## 
 
 
