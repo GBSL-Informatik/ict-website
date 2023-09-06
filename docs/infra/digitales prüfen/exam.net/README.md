@@ -11,6 +11,14 @@ draft: true
 
 # exam.net einrichten
 
-## 
+## Anleitung für Schüler:innen
+
+## Windows
+
+Laden Auf der Internetseite von exam.net den Sicherheitsbrowser (SEB) herunterladen und installieren:
+https://support.exam.net/#/sv/ high-security. 
+
+
+Mit Einen beliebigen Browser exam.net öffnen und oben rechts folgenden Prüfungsschlüssel «as9bKy» eingeben. Den hohen Sicherheitsmodus (SafeExamBrowser nicht Take a Test!) auswählen.
 
 
