@@ -13,6 +13,9 @@ draft: true
 
 ## Anleitung für Schüler:innen
 
+:::details Kontext: Digitale Prüfungen
+An unserer Schule werden vermehrt Prüfungen mit exam.net geschrieben, auch Abschlussprüfungen. Diese Anleitung zeigt dir, wie du deinen Computer für den Hochsicherheitsmodus einrichten kannst.
+:::
 
 Auf der Internetseite von exam.net die Sicherheitssoftware  herunterladen und installieren:
 https://faq-en.exam.net/article/52869/install-high-security-software. 
