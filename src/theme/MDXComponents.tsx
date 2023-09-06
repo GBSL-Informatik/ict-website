@@ -9,6 +9,8 @@ import Figure from '../components/Figure';
 import DefinitionList from '../components/DefinitionList';
 import BrowserWindow from '../components/BrowserWindow';
 import Icon from '../components/Icon';
+import Tabs from '@theme/Tabs';
+import TabItem from '@theme/TabItem';
 
 export default {
   // Re-use the default mapping
@@ -20,5 +22,7 @@ export default {
   Figure: Figure,
   dl: DefinitionList,
   BrowserWindow: BrowserWindow,
-  Icon: Icon
+  Icon: Icon,
+  Tabs: Tabs,
+  TabItem: TabItem,
 };
