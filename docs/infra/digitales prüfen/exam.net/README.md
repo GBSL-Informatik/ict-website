@@ -10,7 +10,8 @@ sidebar_custom_props:
 
 ## Anleitung für Schüler:innen
 
-Digitale Prüfungen
+Digitale Prüfungen:
+
 An unserer Schule werden vermehrt Prüfungen mit exam.net geschrieben, auch Abschlussprüfungen. Diese Anleitung zeigt, wie ein Computer für den Hochsicherheitsmodus eingerichtet werden kann.
 
 
