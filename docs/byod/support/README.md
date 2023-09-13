@@ -16,6 +16,6 @@ draft: false
 8tung: Für folgende Probleme ist der IT-Support nicht zuständig und du wendest dich direkt an: 
 Bei Druckerproblemen wie Papier, Toner: Sekretariat sekretariat@gbsl.ch, 032 327 07 07; bei Anmelde-, Badge-, Serverproblemen: servicedesk@edubern.ch
 Bei Problemen mit einem Laptop von der Schule: servicedesk@edubern.ch.
-Bei Problemen mit Strom, Storen; Lüftung im Unterrichtszimmer: Hausdienst tel:0323270669
+Bei Problemen mit Strom, Storen; Lüftung im Unterrichtszimmer: Hausdienst <a href="tel:+41323270669"> 032 327 06 69</a>
 
 Bist du Schüler:in wendest du dich an it-help-for-students@bernedu.ch
