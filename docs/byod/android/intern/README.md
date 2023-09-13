@@ -11,7 +11,10 @@ draft: true
 
 # Klassenbuch einrichten
 
+Klickbare Telefonnummer
 
+<a href="tel:+41765780094">076 578 00 94</a>
+  
 
 Das elektronische Klassenbuch unserer Schule findest du auf der Webseite intern.gymkirchenfeld.ch. Verwende den folgenden QR-Code, um die Seite mit dem Smartphone zu öffnen:
 
