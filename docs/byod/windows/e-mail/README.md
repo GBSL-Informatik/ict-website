@@ -3,7 +3,7 @@ systems:
   - Windows
 apps:
   - Microsoft Outlook
-sidebar_position: 40
+sidebar_position: 39
 sidebar_custom_props:
   icon: mdi-email
   source: gym-kirchenfeld
