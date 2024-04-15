@@ -6,7 +6,7 @@ sidebar_custom_props:
   icon: mdi-microsoft-outlook
   source: gym-kirchenfeld
   path: /docs/byod/mail/outlook-web/README.md
-draft: true
+draft: false
 ---
 
 # Outlook im Browser
@@ -18,23 +18,9 @@ draft: true
 https://outlook.office.com/mail/
 :::
 
-Auch zu finden über unser Cloud-Portal: https://office.com/
 
-Über die Outlook Web-App kannst du von jedem Gerät einfach auf deine Schul-E-Mails zugreifen.
 
-1. Melde dich an der [Schul-Cloud][1] an.
-2. Klicke auf den Link _E-Mail_:
-
-![](./cloud-link-outlook.png)
-
-3. Bei der ersten Anmeldung musst du die folgenden Einstellung wählen:
-
-- Sprache: normalerweise _Deutsch (Schweiz)_
-- Zeitzone: _(UTC+01:00) Amsterdam, Berlin, Bern, Rom, Stockholm, Wien_
-
-Klicke anschliessend auf _Speichern_.
-
-![Sprache und Zeitzone wählen](./outlook-web-1.png)
+Melde dich mit deiner Schulmailadresse und deinem Passwort an.
 
 ## E-Mail schreiben
 
