@@ -7,6 +7,8 @@ sidebar_custom_props:
   icon: mdi-file-document-outline
 draft: true
 ---
+
+---
  Hier kannst du technische Probleme melden, um die wir uns raschestmöglich kümmern, aber auch eine Frage, ein Anliegen oder eine Anregung vorbringen zu allem Digitalem, ob es Software oder Didaktik betrifft. 
 
 8tung: Für folgende Probleme ist der IT-Support nicht zuständig und du wendest dich direkt an: 
