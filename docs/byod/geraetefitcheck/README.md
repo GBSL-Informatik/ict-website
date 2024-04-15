@@ -19,6 +19,7 @@ Du befindest dich übrigens auf der ict-Seite der Schule, auf der du für alle m
 Hast du beim Einrichten Probleme kannst du dich beim Support für Schüler:innen melden. Den Support findest du während dem Geräte-fit-Checkup unten im Foyer. Später kannst du dich per Mail melden, QR-Codes findest du im Schulhaus.
 
 Richte bitte Folgendes ein:
+
 - | Nr. | Aufgabe                                   |
 - |-----|-------------------------------------------|
 - | 1.  | Wlan-Zugang einrichten auf dem Laptop    |
