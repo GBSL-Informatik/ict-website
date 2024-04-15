@@ -1,6 +1,6 @@
 ---
 sidebar_custom_props:
-  icon: mdi-apple
+  icon: mdi-hand-okay
   path: /docs/byod/geraetefitcheck/README.md
 sidebar_position: 30
 ---
