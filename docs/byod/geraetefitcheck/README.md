@@ -19,15 +19,24 @@ Du befindest dich übrigens auf der ict-Seite der Schule, auf der du für alle m
 Hast du beim Einrichten Probleme kannst du dich beim Support für Schüler:innen melden. Den Support findest du während dem Geräte-fit-Checkup unten im Foyer. Später kannst du dich per Mail melden, QR-Codes findest du im Schulhaus.
 
 Richte bitte Folgendes ein:
-- [x] Wlan-Zugang einrichten auf dem Laptop
-- [x] Wlan-Zugang einrichten auf dem Smartphone
-- [ ] Mail einrichten
-- [ ] Mehrfachauthentifikation einrichten
-- [ ] Office365 Anwendungen installieren
-- [ ] Teams installieren
-- [ ] Adobe-Programme installieren
-- [ ] Programm für elektronische Prüfungen
-- [ ] Stundenplan-App auf dem Smartphone
-- [ ] Office365 auf dem Smartphone und Teams
+| Nr. | Aufgabe                                   |
+|-----|-------------------------------------------|
+| 1.  | Wlan-Zugang einrichten auf dem Laptop    |
+| 2.  | Wlan-Zugang einrichten auf dem Smartphone|
+| 3.  | Mail einrichten                           |
+| 4.  | Mehrfachauthentifikation einrichten       |
+| 5.  | Office365 Anwendungen installieren        |
+| 6.  | Teams installieren                        |
+| 7.  | Adobe-Programme installieren              |
+| 8.  | Programm für elektronische Prüfungen      |
+| 9.  | Stundenplan-App auf dem Smartphone        |
+| 10. | Office365 auf dem Smartphone und Teams    |
+
 
 Wenn du das geschafft hast, so erledige bitte noch folgende Aufgaben:
+| Nr. | Aufgabe                                                  | Anwendung |
+|-----|----------------------------------------------------------|-----------|
+| 1.  | Sende deiner Lehrperson eine Mail.                       | Outlook   |
+| 2.  | Richte in Teams ein, dass du bei neuen Nachrichten eine Meldung erhältst. | Teams     |
+| 3.  | Richte in Onedrive die Synchronisation ein.             | Onedrive  |
+
