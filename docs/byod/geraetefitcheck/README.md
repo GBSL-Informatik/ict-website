@@ -9,5 +9,3 @@ sidebar_position: 30
 
 
 Hier findest du Anleitungen, um deinen Laptop für den Gebrauch an unserer Schule einzurichten:
-
-<Features/>
