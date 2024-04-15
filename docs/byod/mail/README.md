@@ -4,7 +4,7 @@ sidebar_custom_props:
   source: gym-kirchenfeld
   path: /docs/byod/mail/README.md
 sidebar_label: E-Mail
-sidebar_position: 70
+sidebar_position: 31
 draft: true
 ---
 

@@ -2,7 +2,7 @@
 sidebar_custom_props:
   icon: mdi-hand-okay
   path: /docs/byod/geraetefitcheck/README.md
-sidebar_position: 30
+sidebar_position: 10
 ---
 
 # Geräte-fit-Check
