@@ -7,5 +7,3 @@ draft: false
 ---
 
 #  Tipps
-
-<Features />
