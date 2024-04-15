@@ -4,7 +4,7 @@ sidebar_custom_props:
   source: gbsl
   path: /docs/byod/stundenplan/README.md
 sidebar_label: Stundenplan
-sidebar_position: 65
+sidebar_position: 70
 draft: false
 ---
 

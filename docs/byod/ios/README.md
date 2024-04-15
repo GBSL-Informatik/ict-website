@@ -5,7 +5,7 @@ sidebar_custom_props:
   icon: mdi-apple
   source: gym-kirchenfeld
   path: /docs/byod/ios/README.md
-sidebar_position: 30
+sidebar_position: 59
 ---
 
 # iOS / iPadOS

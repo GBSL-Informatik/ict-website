@@ -2,7 +2,7 @@
 sidebar_custom_props:
   icon: mdi-tools
 sidebar_label: Support
-sidebar_position: 10
+sidebar_position: 90
 draft: false
 ---
 

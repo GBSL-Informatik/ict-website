@@ -5,7 +5,7 @@ sidebar_custom_props:
   icon: mdi-android
   source: gym-kirchenfeld
   path: /docs/byod/android/README.md
-sidebar_position: 20
+sidebar_position: 58
 ---
 
 # Android
