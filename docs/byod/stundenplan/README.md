@@ -10,6 +10,8 @@ draft: false
 
 #  Stundenplan einrichten auf dem Smartphone
 
+![Für Android-Smartphones](./untisandroid.png)
 
+![Für iPhones](./untisios.png)
 
-<Features />
+![Schule hinzufügen, Schüler:innen verfügen über kein Login](./webuntisgbsl.png)
