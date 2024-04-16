@@ -8,17 +8,17 @@ sidebar_custom_props:
   icon: mdi-microsoft-office
   source: gym-kirchenfeld
   path: /docs/byod/windows/365/README.md
-draft: true
+draft: false
 ---
 
 # Microsoft 365 einrichten
 
 
 
-Um unsere Microsoft 365 Schul-Cloud verwenden zu können, musst du:
+Um Office 365 verwenden zu können, musst du:
 
-1. Microsoft 365 von unserer Schul-Cloud herunterladen und installieren,
-2. dich mit einer 365-App (z.B. Word) an der Schul-Cloud anmelden.
+1. Microsoft 365 über unsere Schul-Homepage herunterladen und installieren,
+2. dich mit einer 365-App (z.B. Word) mit deiner gbsl-Adresse und dem zugehörigen Passwort anmelden.
 
 
 ## Ältere Office-Versionen deinstallieren
@@ -45,7 +45,7 @@ Um unsere Microsoft 365 Schul-Cloud verwenden zu können, musst du:
 
 ## Microsoft Office 365 installieren
 
-Lade Microsoft 365 von der Schul-Cloud herunter und installiere es:
+Lade Microsoft 365 herunter und installiere es:
 
 [Microsoft 365 Download][1]
 
