@@ -13,7 +13,9 @@ draft: false
 
 ## Einstellungen allgemein
 
-mit den untenstehenden Angaben lassen sich viele E-Mail-Programme konfigurieren
+Mit den untenstehenden Angaben lassen sich viele E-Mail-Programme konfigurieren.
+
+Unter den verschiedenen Betriebssystemen (Winwdows, Android, macOS, iOS) findest du spezifische Anleitungen für deine Geräte.
 
 Konto-Typ
 : Exchange
