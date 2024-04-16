@@ -18,6 +18,9 @@ Du befindest dich übrigens auf der ict-Seite der Schule, auf der du für alle m
 
 Hast du beim Einrichten Probleme, kannst du dich beim Support für Schüler:innen melden. Den Support findest du während dem Geräte-fit-Checkup unten im Foyer. Später kannst du dich per Mail melden, QR-Codes findest du im Schulhaus.
 
+Hier ist die Mailadresse für den Support: [it-help-for-students@bernedu.ch](mailto:it-help-for-students@bernedu.ch).
+
+
 Richte bitte Folgendes ein:
 
 | Nr. | Aufgabe                                   |
