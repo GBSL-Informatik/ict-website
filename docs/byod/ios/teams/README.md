@@ -8,14 +8,14 @@ sidebar_custom_props:
   icon: mdi-microsoft-teams
   source: gym-kirchenfeld
   path: /docs/byod/ios/teams/README.md
-draft: true
+draft: false
 ---
 
 # Teams einrichten
 
 
 
-Die Teams-App ermöglicht einfachen Zugriff auf die Unterrichtsplattform des Gymnasiums Kirchenfeld.
+Die Teams-App ermöglicht einfachen Zugriff auf die Unterrichtsplattform des GBSL.
 
 ## Installation
 

@@ -8,14 +8,14 @@ sidebar_custom_props:
   icon: mdi-microsoft-office
   source: gym-kirchenfeld
   path: /docs/byod/ios/365/README.md
-draft: true
+draft: false
 ---
 
 # Microsoft 365 einrichten
 
 
 
-Um unsere Microsoft 365 Schul-Cloud verwenden zu können, musst du:
+Office 365 lässt sich auch auf dem iPhone oder iPad installieren. Gerade wenn du dein iPad im Unterricht brauchen willst, macht das Sinn:
 
 1. Die Microsoft Apps vom AppStore installieren,
 2. dich in den Apps mit deinem Schul-Account anmelden.

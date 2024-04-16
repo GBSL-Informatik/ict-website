@@ -8,14 +8,14 @@ sidebar_custom_props:
   icon: mdi-microsoft-onedrive
   source: gym-kirchenfeld
   path: /docs/byod/ios/onedrive/README.md
-draft: true
+draft: false
 ---
 
 # OneDrive einrichten
 
 
 
-Die OneDrive-App ermöglicht einfachen Zugriff auf den persönlichen Datenspeicher am Gymnasium Kirchenfeld.
+Die OneDrive-App ermöglicht einfachen Zugriff auf den persönlichen Datenspeicher am GBSL.
 
 ## Installation
 
