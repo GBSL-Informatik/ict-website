@@ -9,7 +9,8 @@ draft: false
 #  Beamer
 
 
-Sobald das Zimmernotebook oder ein eigenes Gerät (BYOD) am Beamer angeschlossen ist, gibt es unterschiedliche Präsentationsmodi. 
+Anschliessen des Laptops über hdmi-Kabel oder drahtlos über WinAir oder MacAir
+Sobald ein Laptop am Beamer angeschlossen ist, gibt es unterschiedliche Präsentationsmodi. 
 
 ## Umschalten
 Um zwischen den Modi umzuschalten verwendet man die Tastenkombination [[:mdi-microsoft-windows:]] + [[P]]. Im nun erscheinenden Menü wählt man den Modus. 
