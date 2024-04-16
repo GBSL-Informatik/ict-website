@@ -15,7 +15,7 @@ draft: false
 
 Mit den untenstehenden Angaben lassen sich viele E-Mail-Programme konfigurieren.
 
-Unter den verschiedenen Betriebssystemen (Winwdows, Android, macOS, iOS) findest du spezifische Anleitungen für deine Geräte.
+Unter den verschiedenen Betriebssystemen in der Menüleiste links (Winwdows, Android, macOS, iOS) findest du spezifische Anleitungen für deine Geräte.
 
 Konto-Typ
 : Exchange
