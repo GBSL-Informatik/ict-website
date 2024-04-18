@@ -6,8 +6,3 @@ sidebar_custom_props:
 ---
 
 #  Drucken
-
-
-<Features/>
-
----
