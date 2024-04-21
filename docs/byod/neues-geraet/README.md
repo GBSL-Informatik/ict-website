@@ -5,3 +5,5 @@ sidebar_custom_props:
 sidebar_position: 38
 draft: false
 ---
+
+# Neues Gerät
