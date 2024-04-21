@@ -7,3 +7,11 @@ draft: false
 ---
 
 # Neues Gerät
+
+Wenn du ein ganz neues Gerät hast, so richte es am besten mit dem privaten Konto des alten Gerätes ein, damit alle Einstellungen übernommen werden.
+
+Richte auf keinen Fall ein Gerät mit dem gbsl-Konto ein!
+
+# Windwos
+Auch auf die Einrichtung eines Arbeits- oder Schulkontos solltest du verzichten!
+Zu empfehlen ist das Gerät über eine Microsoft-Konto einzurichten (hotmail, outlook), denn dann wirst du unter diesem Konto den Wiederherstellungsschlüssel für Bitlocker finden können.
