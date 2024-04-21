@@ -1,7 +1,7 @@
 ---
 systems:
-  - Windows
-sidebar_position: 50
+  - neues-geraet
+sidebar_position: 10
 sidebar_custom_props:
   icon: mdi-shield-lock
   source: gym-kirchenfeld
