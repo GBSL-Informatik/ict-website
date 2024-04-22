@@ -1,6 +1,6 @@
 ---
 sidebar_custom_props:
-  icon: mdi-hand-okay
+  icon: mdi-block-helper
   path: /docs/byod/installationsprobleme/README.md
 sidebar_position: 39
 ---
