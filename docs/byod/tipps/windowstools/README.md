@@ -16,8 +16,7 @@ Mit den PowerToys lassen sich auf einfache Weise Einstellungen anpassen, so etwa
 
 Beide Tools kannst du über den Microsoft Store herunterladen
 
-:::flex
-![](./pcmanager.png)
-***
+![--width=300px](./pcmanager.png)
+
 ![](./powertoys.png)
-:::
+
