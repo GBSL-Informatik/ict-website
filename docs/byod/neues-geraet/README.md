@@ -10,7 +10,7 @@ draft: false
 
 Wenn du ein ganz neues Gerät hast, so richte es am besten mit dem privaten Konto des alten Gerätes ein, damit alle Einstellungen übernommen werden.
 
-Richte auf keinen Fall ein Gerät mit dem gbsl-Konto ein!
+Richte auf keinen Fall ein neues Gerät mit dem gbsl-Konto ein!
 
 # Windows
 Auch auf die Einrichtung eines Arbeits- oder Schulkontos solltest du verzichten!
