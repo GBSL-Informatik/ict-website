@@ -14,7 +14,9 @@ das Einrichten eines Arbeits- oder Schulkontos mit der gbsl-Adresse.
 
 Probleme bereiten aber auch vorherige Installationen von office, insbesondere ein office aus der vorherigen Schule. 
 
-Bei Windows-Geräten checken, ob du von der alten Schule her noch immer ein Schulkonto hast. Falls ja, muss dieses entfernt werden.
 
-Bei Mac-Laptops entfernst du die verbliebenen Spuren der alten Office-Installation oder der alten Office-Lizenz mit einem Removal-Tool: 
+Bei **Mac-Laptops** entfernst du die verbliebenen Spuren der alten Office-Installation oder der alten Office-Lizenz mit einem [Removal-Tool](https://support.microsoft.com/en-us/office/how-to-remove-office-license-files-on-a-mac-b032c0f6-a431-4dad-83a9-6b727c03b193))
 
+Bei **Windows-Geräten** checken, ob du von der alten Schule her noch immer ein Schulkonto hast. Falls ja, muss dieses entfernt werden.
+
+![Anleitung](./Schulkonto2.png)
