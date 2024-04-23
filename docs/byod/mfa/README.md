@@ -3,8 +3,7 @@
 sidebar_custom_props:
   icon: mdi-two-factor-authentication
   path: /docs/byod/mfa/README.md
-sidebar_position: 39
-draft: false
+sidebar_position: 25
 ---
 
 # Multi-Faktor-Authentifikation
