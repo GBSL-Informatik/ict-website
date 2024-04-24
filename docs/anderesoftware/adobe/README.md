@@ -19,6 +19,8 @@ Gehe zu [Adobe Creative Cloud](https://www.adobe.com/ch_de/creativecloud/busines
 
 **Wichtig**: Wähle "Unternehmens- oder Bildungseinrichtungskonto".
 
-![--width=80%](./adobekonto.png)
+![--width=80%](./AdobeKonto.png)
 
-**Tipp** Wenn du das Grundlagen- oder Schwerpunktfach Bildnerisches Gestalten gewählt hast, so lade Photoshop herunter.
+:::tip
+Wenn du das Grundlagen- oder Schwerpunktfach Bildnerisches Gestalten gewählt hast, so lade Photoshop herunter.
+:::
