@@ -17,7 +17,9 @@ Folgendermassen kannst du die Programme installieren auf deinem Gerät:
 
 Gehe zu [Adobe Creative Cloud](https://www.adobe.com/ch_de/creativecloud/business.html). Rechts oben kannst du dich anmelden mit deiner Schulmailadresse.
 
-**Wichtig**: Wähle "Unternehmens- oder Bildungseinrichtungskonto".
+:::warning Wichtig
+Wähle "Unternehmens- oder Bildungseinrichtungskonto".
+:::
 
 ![--width=80%](./AdobeKonto.png)
 
