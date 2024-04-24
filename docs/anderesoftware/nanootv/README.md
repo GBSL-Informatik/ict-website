@@ -6,7 +6,7 @@ sidebar_custom_props:
   path: /docs/anderesoftware/nanootv/README.md
 ---
 
-# Mediathek nanoo.tv
+# Mediathek nanoo.tv für Lehrer:innen
 
 Auf nanoo.tv steht der Schule ein Medienserver zur Verfügung. Nach Filmen kann auch schulübergreifend gesucht werden.
 
