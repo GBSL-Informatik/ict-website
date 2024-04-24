@@ -10,6 +10,6 @@ sidebar_custom_props:
 
 Auf nanoo.tv steht der Schule ein Medienserver zur Verfügung. Nach Filmen kann auch schulübergreifend gesucht werden.
 
-[nanoo.tv](nanoo.tv) Anmelden mit Microsoft 365
+[nanoo.tv](nanoo.tv) Anmelden mit Microsoft 365.
 
 ![](./nanootv1.png)
