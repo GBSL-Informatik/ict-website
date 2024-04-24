@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunkict=self.webpackChunkict||[]).push([[4270],{67134:function(e){e.exports=JSON.parse('{"label":"Tipps","permalink":"/tags/tipps","allTagsPath":"/tags","count":1,"items":[{"id":"byod/tipps/webseite-als-app/index","title":"Webseite als App installieren","description":"Webseite als App installieren","permalink":"/byod/tipps/webseite-als-app/"}]}')}}]);
