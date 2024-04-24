@@ -8,7 +8,7 @@ sidebar_custom_props:
   path: /docs/sicherheit/README.md
 ---
 
-# Übersicht
+# Sicherheit und Datenschutz
 
 
 
