@@ -6,6 +6,7 @@ sidebar_custom_props:
   path: /docs/anderesoftware/nanootv/README.md
 ---
 
+
 # Mediathek nanoo.tv
 
 Auf nanoo.tv steht der Schule ein Medienserver zur Verfügung. Nach Filmen kann auch schulübergreifend gesucht werden.
@@ -13,5 +14,4 @@ Auf nanoo.tv steht der Schule ein Medienserver zur Verfügung. Nach Filmen kann 
 [nanoo.tv](nanoo.tv) Anmelden mit Microsoft 365
 
 ![](./nanootv1.png)
-
 
