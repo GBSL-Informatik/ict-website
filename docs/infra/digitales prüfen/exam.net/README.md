@@ -1,7 +1,6 @@
 ---
 sidebar_position: 20
-tags:
-  - Digitales Prüfen
+tags: - Digitales Prüfen
 sidebar_custom_props:
   icon: mdi-test-tube
 ---
