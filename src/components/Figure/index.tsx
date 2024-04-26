@@ -5,7 +5,7 @@ import { defaultUnit } from '../helpers/units';
 
 interface Props {
   children?: React.ReactNode;
-  options?: React.CSSProperties;
+  options?: React.CSSProperties & { size?: string};
   zoom?: boolean;
 }
 
@@ -17,7 +17,7 @@ export default function Figure(props: Props): JSX.Element {
   // console.log(opts);
   if (opts) {
     if ('size' in opts) {
-      opts.maxWidth = `min(90vw, ${defaultUnit(opts['size'])})`;
+      opts.maxWidth = `min(90vw, ${defaultUnit(opts['size'])}, 100%)`;
       opts.maxHeight = defaultUnit(opts['size']);
       delete opts['size'];
     }
@@ -27,7 +27,7 @@ export default function Figure(props: Props): JSX.Element {
       delete opts.height;
     }
     if (opts.width) {
-      opts.maxWidth = `min(90vw, ${defaultUnit(opts.width)})`;
+      opts.maxWidth = `min(90vw, ${defaultUnit(opts.width)}, 100%)`;
       opts.width = defaultUnit(opts.width);
       delete opts.width;
     }

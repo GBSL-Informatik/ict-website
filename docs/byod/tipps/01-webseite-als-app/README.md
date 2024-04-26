@@ -32,11 +32,11 @@ Gilt für PC, Mac, iPad, iPhone, Android und Safari, Chrome und Edge: 3 Punkte r
 
 Symbol ändern.
 
-![--width=250px](images/win-app-symbol.png)
+![--width=350px](images/win-app-symbol.png)
 
 Installationsort festlegen und installieren.
 
-![--width=250px](images/win-app-zulassen.png)
+![--width=350px](images/win-app-zulassen.png)
 
 </BrowserWindow>
 

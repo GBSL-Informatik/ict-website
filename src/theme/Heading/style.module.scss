@@ -10,6 +10,8 @@
         border: 1px solid var(--ifm-color-primary);
         border-radius: 50%;
         padding: 0 calc(var(--ifm-heading-line-height)*1em/4);
+        cursor: pointer;
+        user-select: none;
 
         &:hover {
             background-color: var(--ifm-color-primary);

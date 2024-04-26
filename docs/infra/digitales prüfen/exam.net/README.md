@@ -1,10 +1,11 @@
 ---
 sidebar_position: 20
 tags: 
+  - Digitales Prüfen
 sidebar_custom_props:
   icon: mdi-test-tube
   source: gbsl
-  path: /docs/infra/digitalesprüfen/README.md
+  path: /docs/infra/digitales prüfen/exam.net/README.md
 draft: false
 ---
 

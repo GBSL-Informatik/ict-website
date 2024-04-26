@@ -160,9 +160,10 @@ const config = {
         darkTheme: darkCodeTheme,
       },
       announcementBar: {
-        backgroundColor: '#fcff00',
+        backgroundColor: '#248eca',
+        textColor: '#fff',
         content: '🚧 Seite im Aufbau... 🚧',
-        isCloseable: false
+        isCloseable: true
       },
       zoom: {
         selector: '.markdown figure.zoom > img',
