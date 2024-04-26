@@ -1,6 +1,6 @@
 ---
 sidebar_position: 20
-tags: - Digitales Prüfen
+tags: 
 sidebar_custom_props:
   icon: mdi-test-tube
   source: gbsl
@@ -58,3 +58,16 @@ Den hohen Sicherheitsmodus (**SafeExamBrowser**, nicht Take a Test!) auswählen.
 ![--width=350px](images/examnet-highsecuritymode.png)
 </BrowserWindow>
 
+---
+description: 'Alles, was zur (digitalen) Schulinfrastruktur gehört'
+chapter: Schulinfrastruktur
+sidebar_position: 0
+sidebar_custom_props:
+  icon: mdi-ab-testing
+  source: gbsl
+  path: /docs/infra/digitales prüfen/README.md
+draft: false
+
+---
+
+# Digitales Prüfen
