@@ -33,7 +33,7 @@ Richte bitte Folgendes ein:
 | 6.  | Teams installieren                        |
 | 7.  | Adobe-Programme installieren              |
 | 8.  | Programm für elektronische Prüfungen      |
-| 9.  | Stundenplan-App auf dem Smartphone        |
+| 9.  | Stundenplan-App auf dem Smartphone        |[Link](../stundenplan/) |
 | 10. | Office365 auf dem Smartphone und Teams    |
 
 
