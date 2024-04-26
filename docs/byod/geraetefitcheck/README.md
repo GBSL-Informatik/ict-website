@@ -23,9 +23,9 @@ Hier ist die Mailadresse für den Support: [it-help-for-students@bernedu.ch](mai
 
 Richte bitte Folgendes ein:
 
-| Nr. | Aufgabe                                   |
-|-----|-------------------------------------------|
-| 1.  | Wlan-Zugang einrichten auf dem Laptop    |
+| Nr. | Aufgabe                                   |Link|
+|-----|-------------------------------------------|-------------|
+| 1.  | Wlan-Zugang einrichten auf dem Laptop    |jkkljlk|
 | 2.  | Wlan-Zugang einrichten auf dem Smartphone|
 | 3.  | Mail einrichten                           |
 | 4.  | Mehrfachauthentifikation einrichten       |
