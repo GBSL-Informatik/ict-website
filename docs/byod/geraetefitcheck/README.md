@@ -23,19 +23,18 @@ Hier ist die Mailadresse für den Support: [it-help-for-students@bernedu.ch](mai
 
 Richte bitte Folgendes ein:
 
-| Nr. | Aufgabe                                   |Link|
-|-----|-------------------------------------------|-------------|
-| 1.  | Wlan-Zugang einrichten auf dem Laptop    |jkkljlk|
-| 2.  | Wlan-Zugang einrichten auf dem Smartphone|
+| Nr. | Aufgabe                                   |||
+|-----|-------------------------------------------|-------------|------------|
+| 1.  | Wlan-Zugang einrichten auf dem Laptop    |[Windows](../windows/wlan)| [Mac](../macos/wlan/)|
+| optional  | Wlan-Zugang einrichten auf dem Smartphone|[android](../android/wlan/) | [iPhone, iPad](../ios/wlan/)
 | 3.  | Mail einrichten                           |
 | 4.  | Mehrfachauthentifikation einrichten       |
 | 5.  | Office365 Anwendungen installieren        |
 | 6.  | Teams installieren                        |
 | 7.  | Adobe-Programme installieren              |
 | 8.  | Programm für elektronische Prüfungen      |
-| 9.  | Stundenplan-App auf dem Smartphone        |[Link](../stundenplan/) |
+| 9.  | Stundenplan-App auf dem Smartphone        |[Stundenplan](../stundenplan/) |  |
 | 10. | Office365 auf dem Smartphone und Teams    |
-
 
 
 Wenn du das geschafft hast, so erledige bitte noch folgende Aufgaben:
