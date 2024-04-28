@@ -13,7 +13,7 @@ draft: false
 
 
 
-Auf Windows10-Rechnern kann ein Mechanismus namens **Bitlocker** aktiviert werden. Auf gewissen Geräten ist dieser bereits standardmässig aktiviert. Bitlocker stellt sicher, dass bei Diebstahl oder anderem Verlust des Gerätes keine unbefugte Person auf die Daten zugreifen kann, indem es sämtliche Daten auf der Festplatte verschlüsselt. 
+Auf Windows-Rechnern kann ein Mechanismus namens **Bitlocker** aktiviert werden. Auf gewissen Geräten ist dieser bereits standardmässig aktiviert. Bitlocker stellt sicher, dass bei Diebstahl oder anderem Verlust des Gerätes keine unbefugte Person auf die Daten zugreifen kann, indem es sämtliche Daten auf der Festplatte verschlüsselt. 
 
 Für den Zugriff auf die Daten benötigt man dann einen speziellen **Key**. Wenn auf einem mit Bitlocker geschützten Gerät ein Problem mit der Windowsinstallation oder ein anderer schwerwiegender Fehler auftritt und das Gerät repariert werden muss, **muss dieser Bitlocker-Key vorhanden sein, sonst sind die Daten verloren**. Selbst die Nutzerin/der Nutzer ist dann ausgesperrt und auch der Informatikdienst hat keinen Zugriff, solange der Key nicht bekannt ist. Deshalb sollten alle Schüler:innen und Lehrpersonen, die ein eigenes Windows-Gerät für die Schule nutzen,
 * überlegen, ob sie den Schutz durch Bitlocker wollen.
