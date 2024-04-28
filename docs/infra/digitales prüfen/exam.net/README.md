@@ -9,7 +9,7 @@ sidebar_custom_props:
 draft: false
 ---
 
-# exam.net
+# exam.net für Schüler:innen
 
 ## Anleitung für Schüler:innen
 
@@ -60,15 +60,3 @@ Den hohen Sicherheitsmodus (**SafeExamBrowser**, nicht Take a Test!) auswählen.
 </BrowserWindow>
 
 ---
-description: 'Alles, was zur (digitalen) Schulinfrastruktur gehört'
-chapter: Schulinfrastruktur
-sidebar_position: 0
-sidebar_custom_props:
-  icon: mdi-ab-testing
-  source: gbsl
-  path: /docs/infra/digitales prüfen/README.md
-draft: false
-
----
-
-# Digitales Prüfen
