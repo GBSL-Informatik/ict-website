@@ -30,12 +30,12 @@ Hast du beim Einrichten Probleme, kannst du dich beim Support für Schüler:inne
 |-----|-------------------------------------------|------------------|-----------------|
 | 1.  | Wlan-Zugang einrichten auf dem Laptop    |[Windows](../windows/wlan)| [Mac](../macos/wlan/)|
 | 2.  | Wlan-Zugang einrichten auf dem Smartphone|[android](../android/wlan/) | [iPhone, iPad](../ios/wlan/)
-| 3.  | Mail einrichten auf dem Laptop             |[Windows](../windows/e-mail)| [Mac](../macos/e-mail/)|
-| 4.  | Mail einrichten auf dem Smartphone|[android](../android/e-mail)| [iPhone, iPad](../ios/e-mail/)||
+| 3.  | Mail einrichten auf dem Laptop             |[Windows](../windows/e-mail)| [Mac](../macos/e-mail)|
+| 4.  | Mail einrichten auf dem Smartphone|[android](../android/e-mail)| [iPhone, iPad](../ios/e-mail)||
 | 5.  | Sende deiner Lehrperson eine Mail
 | 6.  | Mehrfachauthentifikation einrichten       |[MFA](../mfa/)||
-| 7.  | Programme installieren: Office365, Teams, |[Windows](../windows/365)| [Mac](../macos/365/)|
-|     | Onedrive und Updates nicht vergessen! | [android](../android/)| [iPhone, iPad](../ios/)|
+| 7.  | Programme installieren: Office365, Teams, |[Windows](../windows/365)| [Mac](../macos/365)|
+|     | Onedrive und Updates nicht vergessen! | [android](../android [iPhone, iPad](../ios)|
 | 8.  | Sende deiner Lehrperson eine Nachricht über Teams
 | 9.  | Teile mit deiner Lehrperson eine Datei über Onedrive
 |10.  | Adobe-Programme installieren              |[Adobe](docs\anderesoftware\adobe\README.md)| |
