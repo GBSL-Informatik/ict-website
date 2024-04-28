@@ -36,7 +36,7 @@ Richte bitte Folgendes ein:
 | 5.  | Laptop: Office365 Anwendungen installieren        |[Windows](../windows/365)| [Mac](../macos/365/)|
 | 6.  | Laptop: Teams installieren                        |[Windows](../windows/teams)| [Mac](../macos/teams/)|
 | 7.  | Adobe-Programme installieren              |[Adobe](docs\anderesoftware\adobe\README.md)| |
-| 8.  | Programm für elektronische Prüfungen      |[E-Prüfen](../infra/exam.net)| |
+| 8.  | Programm für elektronische Prüfungen      |[E-Prüfen](docs\infra\digitales prüfen\README.md)| |
 | 9.  | Stundenplan-App auf dem Smartphone        |[Stundenplan](../stundenplan/) |  |
 | 10. | Office365 auf dem Smartphone und Teams    |
 
