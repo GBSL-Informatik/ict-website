@@ -42,5 +42,3 @@ Hast du beim Einrichten Probleme, kannst du dich beim Support für Schüler:inne
 |11.  | Programm für elektronische Prüfungen      |[E-Prüfen](docs\infra\digitales prüfen\README.md)| |
 |12.  | Stundenplan-App auf dem Smartphone        |[Stundenplan](../stundenplan/) |  |
 :::
-
-
