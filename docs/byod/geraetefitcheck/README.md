@@ -7,8 +7,10 @@ sidebar_position: 10
 
 # Geräte-fit-Check
 
+:::info
 ** Hier findest du Anleitungen, um deinen Laptop und dein Smartphone für den Gebrauch an unserer Schule einzurichten. **
- 
+:::
+
 Hast du einen ganz neuen Laptop, so beachte bitte [folgendes](../neues-geraet)
 
 Hast du von der alten Schule her eine Office365 Lizenz so beachte undgedingt [das](../installationsprobleme/)
