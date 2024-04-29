@@ -28,6 +28,7 @@ Strom, Storen, Lüftung
 : Bei Problemen mit Strom, Storen; Lüftung im Unterrichtszimmer
 : Hausdienst <a href="tel:+41323270669"> 032 327 06 69</a>
 Schüler:in
-: Bist du Schüler:in wendest du dich an it-help-for-students@bernedu.ch
+: Bist du Schüler:in wendest du dich an 
+: it-help-for-students@bernedu.ch
 
 :::
