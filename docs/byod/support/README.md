@@ -12,7 +12,7 @@ draft: false
 Hier kannst du technische Probleme melden, um die wir uns schnellstmöglich kümmern, aber auch eine Frage, ein Anliegen oder eine Anregung vorbringen zu allem Digitalem, ob es Software oder Didaktik betrifft. 
 
 :::warning Nicht Zuständig für...
-⚠️ Achtung: Für folgende Probleme ist der IT-Support **nicht zuständig** und du wendest dich direkt an: 
+Für folgende Probleme ist der IT-Support **nicht zuständig** und du wendest dich direkt an: 
 
 Druckerprobleme
 : Bei Druckerproblemen wie Papier, Toner : Sekretariat 
