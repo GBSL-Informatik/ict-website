@@ -9,6 +9,8 @@ sidebar_position: 10
 
 :::info
 ** Hier findest du Anleitungen, um deinen Laptop und dein Smartphone für den Gebrauch an unserer Schule einzurichten. **
+
+Du kannst die Einrichtung von daheim aus vornehmen und in der Schule. Von daheim aus, kannst du nicht alles einrichten. Richte nach Möglichkeit aber alles ein, was du von daheim einrichten kannst.
 :::
 
 Hast du einen ganz neuen Laptop, so beachte bitte [folgendes](../neues-geraet).
@@ -24,22 +26,23 @@ Hast du beim Einrichten Probleme, kannst du dich beim Support für Schüler:inne
 
 
 :::aufgabe Richte bitte Folgendes ein
+** "Schule" ** bedeutet, dass du es nur in der Schule einrichten kannst, ** "Check" ** bedeutet, dass du es während des Geräte-fit-Checks tun sollst, den einer deiner Lehrpersonen durchführt.
 
 
 | Nr. | Aufgabe                                   |                  |                 |
 |-----|-------------------------------------------|------------------|-----------------|
-| 1.  | Wlan-Zugang einrichten auf dem Laptop    |[Windows](../windows/wlan)| [Mac](../macos/wlan/)|
-| 2.  | Wlan-Zugang einrichten auf dem Smartphone|[Android](../android/wlan/) | [iPhone, iPad](../ios/wlan/)
-| 3.  | Mail einrichten auf dem Laptop             |[Windows](../windows/e-mail)| [Mac](../macos/e-mail)|
-| 4.  | Mail einrichten auf dem Smartphone|[Android](../android/e-mail)| [iPhone, iPad](../ios/e-mail)||
-| 5.  | Sende deiner Lehrperson eine Mail |
+|1Schule| Wlan-Zugang einrichten auf dem Laptop    |[Windows](../windows/wlan)| [Mac](../macos/wlan/)|
+|2Schule| Wlan-Zugang einrichten auf dem Smartphone|[Android](../android/wlan/) | [iPhone, iPad](../ios/wlan/)
+|3 | Mail einrichten auf dem Laptop             |[Windows](../windows/e-mail)| [Mac](../macos/e-mail)|
+|4. | Mail einrichten auf dem Smartphone|[Android](../android/e-mail)| [iPhone, iPad](../ios/e-mail)||
+|5Check| Sende deiner Lehrperson eine Mail |
 |     | Wie man eine Mail korrekt schreibt, kannst du hier nachschauen|[Mail](docs\infra\email\README.md)
-| 6.  | Mehrfachauthentifikation einrichten       |[MFA](../mfa/)||
-| 7.  | Programme installieren: Office365, Teams, |[Windows](../windows)| [Mac](../macos)|
+|6  | Mehrfachauthentifikation einrichten       |[MFA](../mfa/)||
+|7 | Programme installieren: Office365, Teams, |[Windows](../windows)| [Mac](../macos)|
 |     | Onedrive und Updates nicht vergessen! | [Android](../android) | [iPhone, iPad](../ios)|
-| 8.  | Sende deiner Lehrperson eine Nachricht über Teams
-| 9.  | Teile mit deiner Lehrperson eine Datei über Onedrive
-|10.  | Adobe-Programme installieren              |[Adobe](docs\anderesoftware\adobe\README.md)| |
-|11.  | Programm für elektronische Prüfungen      |[E-Prüfen](docs\infra\digitales prüfen\README.md)| |
-|12.  | Stundenplan-App auf dem Smartphone        |[Stundenplan](../stundenplan/) |  |
+|8Check| Sende deiner Lehrperson eine Nachricht über Teams
+|9Check| Teile mit deiner Lehrperson eine Datei über Onedrive
+|10  | Adobe-Programme installieren              |[Adobe](docs\anderesoftware\adobe\README.md)| |
+|11  | Programm für elektronische Prüfungen      |[E-Prüfen](docs\infra\digitales prüfen\README.md)| |
+|12  | Stundenplan-App auf dem Smartphone        |[Stundenplan](../stundenplan/) |  |
 :::
