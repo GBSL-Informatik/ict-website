@@ -154,7 +154,7 @@ Die Schritte zum Erstellen einer neuen Seite sind im Detail unter [docusaurus.io
 
 ```js title=docusaurus.config.js
 const config = {
-  title: 'ICT am Gymnasium Biel Seeland',
+  title: 'ICT am Gymnasium Biel-Seeland',
   tagline: 'Anleitungen, Tipps und Tricks',
   url: 'https://ict.gbsl.website',
   baseUrl: '/',
@@ -179,7 +179,7 @@ const config = {
         }
     },
     navbar: {
-      title: 'ICT Gymnasium Biel Seeland'
+      title: 'ICT Gymnasium Biel-Seeland'
     },
   }
   // ...

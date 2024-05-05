@@ -119,7 +119,7 @@ const config = {
         }
       },
       navbar: {
-        title: 'ICT Gymnasium Biel Seeland',
+        title: 'ICT Gymnasium Biel-Seeland',
         logo: {
           alt: 'ICT GBSL',
           src: 'img/logo.svg',
