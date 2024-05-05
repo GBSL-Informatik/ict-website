@@ -45,7 +45,7 @@ const GIT_COMMIT_SHA = process.env.DRONE_COMMIT_SHA || Math.random().toString(36
 
 /** @type {import('@docusaurus/types').Config} */
 const config = {
-  title: 'ICT am Gymnasium Biel Seeland',
+  title: 'ICT am Gymnasium Biel-Seeland',
   tagline: 'Anleitungen, Tipps und Tricks',
   url: 'https://ict.gbsl.website',
   baseUrl: '/',
