@@ -13,4 +13,4 @@ draft: false
 
 Wie du dir ein **sicheres Passwort** auswählen kannst, liest du unter [Allgemeines zum Schulkonto](docs\byod\schulkonto\allgemeines\README.md)
 
-Hier kannst du den Passwort zurücksetzen, falls du es vergessen hast: [Passwort zurücksetzen](https://password.edubern.ch/)
+Hier kannst du dein Passwort zurücksetzen, falls du es vergessen hast: [Passwort zurücksetzen](https://password.edubern.ch/)

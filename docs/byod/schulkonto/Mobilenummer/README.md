@@ -19,6 +19,8 @@ Passwort zurücksetzen:
 
 <BrowserWindow url="https://password.edubern.ch/" >
 
+![ --width=400px](./pwrücksetzen.png)
+
 </BrowserWindow>
 
 
@@ -26,6 +28,8 @@ Und hast du eine neue Mobile-Nummer, kannst du die Nummer selber ändern, wenn d
 
 Konto aufrufen: 
 
-<BrowserWindow url="https://password.edubern.ch/" >
+<BrowserWindow url="https://aka.ms/mfasetup" >
+
+![ --width=400px](./mskontoanmelden.png)
 
 </BrowserWindow>
