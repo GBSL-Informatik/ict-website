@@ -2,12 +2,12 @@
 sidebar_custom_props:
   icon: mdi-account
   source: gym-kirchenfeld
-  path: /docs/byod/konto/README.md
+  path: /docs/byod/schulkonto/allgemeines/README.md
 sidebar_position: 21
 draft: false
 ---
 
-#  Konto
+#  Allgemeines zum Schulkonto
 
 
 Alle unsere Dienste verwenden ein zentrales Benutzerkonto. Das bedeutet für dich, dass du die nur **ein einziges Passwort** merken musst.
