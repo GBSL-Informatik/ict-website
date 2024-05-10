@@ -15,7 +15,17 @@ Zu deinem Schulkonto gehört auch deine Telefonnummer. Bist du neu an der Schule
 Auf dein Smartphone erhältst du einen Code, um dich zu authentifizieren beim Zurücksetzen deines Passwortes für dein Schulkonto.
 
 
+Passwort zurücksetzen: 
+
+<BrowserWindow url="https://password.edubern.ch/" >
+
+</BrowserWindow>
 
 
-Und hast du eine neue Mobile-Nummer kannst du die Nummer selber ändern, wenn du noch Zugriff auf die alte Nummer hast. 
+Und hast du eine neue Mobile-Nummer, kannst du die Nummer selber ändern, wenn du noch Zugriff auf die alte Nummer hast. Das kannst du direkt in deinem Konto vornehmen.
 
+Konto aufrufen: 
+
+<BrowserWindow url="https://password.edubern.ch/" >
+
+</BrowserWindow>
