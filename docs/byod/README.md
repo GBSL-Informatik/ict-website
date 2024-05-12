@@ -7,7 +7,7 @@ sidebar_custom_props:
   icon: mdi-cog
   source: gym-kirchenfeld
   path: /docs/byod/README.md
-sidebar_position: 0
+sidebar_position: 2
 ---
 
 # Geräte einrichten

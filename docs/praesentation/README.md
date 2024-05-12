@@ -1,6 +1,6 @@
 ---
 description: Vortrag halten mit elektronischen Geräten
-sidebar_position: 0
+sidebar_position: 8
 sidebar_custom_props:
   icon: mdi-presentation
   source: gym-kirchenfeld
@@ -31,3 +31,4 @@ Zahlreiche weitere Produkte existieren. Teilweise liefern sie einen vergleichbar
 | [Prezi](https://prezi.com)                                            | gratis (Basic)<br/>monatl. Gebühr | Online, alles in einem grossen Bild, Details werden mit Zoom-Fahrten eingeblendet |
 | [Google Slides](https://docs.google.com/presentation/)                | gratis, Google-Account            | Online, erlaubt gleichzeitiges Arbeiten im Team                                   |
 | [WPS Office Presentation](http://www.ksosoft.com/product/office-free) | gratis                            | Teil des Office-Paketes *WPS Office Free*, stark an *Powerpoint* orientiert       |
+7
