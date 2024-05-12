@@ -7,6 +7,20 @@ import featuresStyles from "../components/Features/styles.module.scss";
 import Head from "@docusaurus/Head";
 import Feature, { FeatureProps } from "../components/Feature";
 
+
+const QuickLinks: FeatureProps[] = [
+  {
+    name: "Neu am GBSL?",
+    icon: "mdi-compass-outline",
+    route: "/welcome",
+  },
+  {
+    name: "Support",
+    icon: "mdi-tools",
+    route: "/support",
+  }
+];
+
 const IndexPages: FeatureProps[] = [
   {
     name: "Geräte einrichten",
@@ -81,6 +95,11 @@ export default function Home() {
       <Layout description="Anleitungen, Tipps & Tricks">
         <HomepageHeader />
         <main>
+          <div className={clsx(featuresStyles.features, featuresStyles.max2)}>
+            {QuickLinks.map((feat, idx) => (
+              <Feature {...feat} key={idx} />
+            ))}
+          </div>
           <div className={featuresStyles.features}>
             {IndexPages.map((feat, idx) => (
               <Feature {...feat} key={idx} />

@@ -8,9 +8,11 @@ draft: false
 
 # Neues Gerät
 
-Wenn du ein ganz neues Gerät hast, so richte es am besten mit dem privaten Konto des alten Gerätes ein, damit alle Einstellungen übernommen werden.
+Für die Einrichtung eines neuen Gerätes wird man während der Ersteinrichtung im Normalfall nach einem Konto gefragt (:mdi-microsoft-windows: > ein Microsoft-Konto, :mdi-apple: > ein Apple-Konto). Verwende hierfür dein **privates Konto** (oder erstelle dir ein neues Konto, wenn du noch keines hast), damit dein Gerät unabhängig von der Schul-Emailadresse funktioniert.
 
-Richte auf keinen Fall ein neues Gerät mit dem gbsl-Konto ein!
+:::danger Nicht mit dem Schul-Konto einrichten!
+Die Geräte-Einrichtungen erlaubt die Schul-Konten nicht als Login-Konto, da diese von der Schule verwaltet werden.
+::: 
 
 # Windows
 Auch auf die Einrichtung eines Arbeits- oder Schulkontos solltest du verzichten!

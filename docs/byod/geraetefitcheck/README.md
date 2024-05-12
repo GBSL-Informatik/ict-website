@@ -24,25 +24,57 @@ Du befindest dich übrigens auf der ict-Seite der Schule, auf der du für alle m
 
 Hast du beim Einrichten Probleme, kannst du dich beim Support für Schüler:innen melden. Den Support findest du während des Geräte-fit-Checkups unten im Foyer. Später kannst du dich per Mail melden, QR-Codes findest du im Schulhaus. Mailadresse für den Support: [it-help-for-students@bernedu.ch](mailto:it-help-for-students@bernedu.ch). Wichtig: die grünen QR-Codes in den Schulzimmern sind nur für die Lehrpersonen gedacht.
 
+<Tabs>
+<TabItem value="home" label="1. Vorgängig" default>
 
-:::aufgabe Richte bitte Folgendes ein
-** "Schule" ** bedeutet, dass du es nur in der Schule einrichten kannst, ** "Check" ** bedeutet, dass du es während des Geräte-fit-Checks tun sollst, den einer deiner Lehrpersonen durchführt.
-
-
-| Nr. | Aufgabe                                   |                  |                 |
-|-----|-------------------------------------------|------------------|-----------------|
-|1Schule| Wlan-Zugang einrichten auf dem Laptop    |[Windows](../windows/wlan)| [Mac](../macos/wlan/)|
-|2Schule| Wlan-Zugang einrichten auf dem Smartphone|[Android](../android/wlan/) | [iPhone, iPad](../ios/wlan/)
-|3 | Mail einrichten auf dem Laptop             |[Windows](../windows/e-mail)| [Mac](../macos/e-mail)|
-|4. | Mail einrichten auf dem Smartphone|[Android](../android/e-mail)| [iPhone, iPad](../ios/e-mail)||
-|5Check| Sende deiner Lehrperson eine Mail |
-|     | Wie man eine Mail korrekt schreibt, kannst du hier nachschauen|[Mail](docs\infra\email\README.md)
-|6  | Mehrfachauthentifikation einrichten       |[MFA](../mfa/)||
-|7 | Programme installieren: Office365, Teams, |[Windows](../windows)| [Mac](../macos)|
-|     | Onedrive und Updates nicht vergessen! | [Android](../android) | [iPhone, iPad](../ios)|
-|8Check| Sende deiner Lehrperson eine Nachricht über Teams
-|9Check| Teile mit deiner Lehrperson eine Datei über Onedrive
-|10  | Adobe-Programme installieren              |[Adobe](docs\anderesoftware\adobe\README.md)| |
-|11  | Programm für elektronische Prüfungen      |[E-Prüfen](docs\infra\digitales prüfen\README.md)| |
-|12  | Stundenplan-App auf dem Smartphone        |[Stundenplan](../stundenplan/) |  |
+:::danger Vorgängig
+Eigenständige Einrichtung zu Hause. Es wird erwartet, dass diese Schritte bereits während den Sommerferien erledigt werden.
 :::
+
+:::aufgabe Schritte zu Hause
+
+1. Mail einrichten
+   - auf dem Laptop [ :mdi-microsoft-windows: Windows](../windows/e-mail) [:mdi-apple: Mac](../macos/e-mail)
+   - auf dem Smartphone [:mdi-android: Android](../android/e-mail) [:mdi-apple: iPhone, iPad](../ios/e-mail)
+2. Mehrfachauthentifikation einrichten [👉 MFA](../mfa/)
+3. Programme installieren
+   - Office365
+   - Teams
+   - Onedrive 
+   - Adobe-Programme [👉 Adobe](../../anderesoftware/adobe)
+   - Programm für elektronische Prüfungen [👉 E-Prüfen](../../infra/digitales%20prüfen)
+   - Stundenplan-App auf dem Smartphone [👉 Stundenplan](../stundenplan/)
+:::
+
+</TabItem>
+<TabItem value="school" label="2. Am ersten Schultag">
+
+:::caution An der Schule
+Am ersten Schultag die Geräte an der Schule in Betrieb nehmen.
+:::
+
+:::aufgabe Schritte an der Schule
+Wlan-Zugang einrichten auf
+ 1. dem Laptop [:mdi-microsoft-windows: Windows](../windows/wlan) [:mdi-apple: Mac](../macos/wlan/)
+ 2. dem Smartphone/Tablet  [:mdi-android: Android](../android/wlan/) [:mdi-apple: iPhone, iPad](../ios/wlan/)
+:::
+
+</TabItem>
+<TabItem value="geräte-fit-check" label="3. Geräte-Fit-Check">
+
+:::success Im Unterricht
+Diese Schritte werden im Unterricht in der ersten Woche erledigt. Es ist eine spezielle Lektion __Geräte-fit-Check__ dafür vorgesehen.
+:::
+
+:::aufgabe Schritte im Unterricht
+1. E-Mail senden
+   - [👉 Nettiquette](../../infra/email/netiquette): Wie man eine Mail korrekt schreibt
+   - Mailversand überprüfen: Senden einer Mail an deine Lehrperson
+2. Teams-Nachrichten senden
+   - [👉 Nettiquette](../../infra/email/netiquette): Wie man eine Teams-Nachricht korrekt schreibt
+   - Sende deiner Lehrperson eine Nachricht über Teams
+3. Teile mit deiner Lehrperson eine Datei über Onedrive
+:::
+
+</TabItem>
+</Tabs>

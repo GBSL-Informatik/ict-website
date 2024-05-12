@@ -2,13 +2,16 @@
 .features {
   display: grid;
   grid-template-columns: 1fr 1fr 1fr;
-  gap: 0.2em 0;
+  gap: 0.2em 1.5em;
   grid-auto-flow: row;
   text-align: center;
   border-bottom: 1px solid var(--ifm-color-primary);
   max-width: 1000px;
   margin: 1em auto;
   padding: 1em 0;
+  &.max2 {
+    grid-template-columns: 1fr 1fr;
+  }
 }
 
 @media (max-width: 1060px) {
