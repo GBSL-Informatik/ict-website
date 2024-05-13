@@ -46,6 +46,10 @@
                 margin-right: 0.25rem;
                 padding-right: 0.5em;
                 border-right: 1px solid var(--ifm-color-gray-800);
+                .icon {
+                    scale: 2;
+                    transform: translateX(-20%)
+                }
             }
             .spacer {
                 flex-grow: 1;
