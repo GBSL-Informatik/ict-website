@@ -5,6 +5,8 @@ import type {WrapperProps} from '@docusaurus/types';
 import useFrontMatter from "@theme/useFrontMatter";
 import styles from "./style.module.scss";
 import clsx from "clsx";
+import Icon from '@mdi/react';
+import { mdiOpenInNew } from '@mdi/js';
 
 type Props = WrapperProps<typeof FooterType>;
 const COMMIT_SHA_2022_06_09 = "4641afa364f1aa924c4c21daa7264784f722033f";
@@ -20,14 +22,14 @@ export default function FooterWrapper(props: Props): JSX.Element {
             CC 4.0
           </a>
           <a
-            className={clsx(styles.copyright, "badge", "badge--primary")}
+            className={clsx(styles.source, "badge", "badge--primary")}
             target="_blank"
             href={url}
             title="Quelle"
           >
-            ict.mygymer.ch <i className={clsx("mdi", "mdi-open-in-new")} />
+            ict.mygymer.ch <Icon path={mdiOpenInNew} size={0.3} className={styles.mdi} />
           </a>
-          <i className={clsx(styles.copyright, "badge", "badge--primary")}>
+          <i className={clsx(styles.edited, "badge", "badge--primary")}>
             Bearbeitet
           </i>
         </div>

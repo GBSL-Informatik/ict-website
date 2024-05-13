@@ -3,8 +3,14 @@
     .sources {
         display: flex;
         flex-wrap: wrap;
-        .copyright {
-            margin-right: 0.5em;
+        gap: 0.5em;
+        .source {
+            display: inline-flex;
+            align-items: center;
+            gap: 0.6em;
+            .mdi {
+                transform: scale(2);
+            }
         }
     }
     :global .theme-doc-footer.docusaurus-mt-lg {
