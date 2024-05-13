@@ -1,7 +1,7 @@
 const fs = require('fs');
 const path = require('path');
 const KnownCssProperties = require('known-css-properties').all;
-const fileDirectories = ['secure'];
+const fileDirectories = ['docs'];
 
 /**
  * @example

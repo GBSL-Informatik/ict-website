@@ -1,8 +1,12 @@
 const fs = require('fs');
 const path = require('path');
-const { camelCased } = require('../helpers');
 
 const fileDirectories = ['docs'];
+
+
+const camelCased = (dashed) => {
+    return dashed.replace(/-([a-zA-Z])/g, (g) => g[1].toUpperCase()).replace(/-/g, '');
+}
 
 /**
  * @example

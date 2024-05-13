@@ -81,18 +81,18 @@ oder kombiniert...
 
 :::flex
 ![Dojocat](./images/dojocat.jpg)
-***
+::br
 ![Stormtroopocat](./images/stormtroopocat.jpg)
-***
+::br
 ![Minions](./images/minion.png)
 :::
 
 ```md
 :::flex
 ![Dojocat](./images/dojocat.jpg)
-***
+::br
 ![Stormtroopocat](./images/stormtroopocat.jpg)
-***
+::br
 ![Minions](./images/minion.png)
 :::
 ```
@@ -100,14 +100,14 @@ oder kombiniert...
 ### mit Text
 :::flex
 Eine Dojocat ist ein Maskottchen der Code-Hosting-Website GitHub. Es handelt sich um eine Katze, die ein Karateanzug trägt und somit die Verbindung zu "Dojo" herstellt, einem Ort, an dem man traditionell japanische Kampfkünste studiert. Die Dojocat wurde erstmals 2012 von GitHub-Mitarbeiterin Cameron McEfee entworfen und seitdem in verschiedenen Versionen und mit unterschiedlichen Accessoires präsentiert. Sie ist ein beliebtes Symbol in der Entwicklergemeinschaft und wird oft in Zusammenhang mit Open-Source-Projekten und Programmierwettbewerben verwendet.
-***
+::br
 ![Dojocat](./images/dojocat.jpg)
 :::
 
 ```md
 :::flex
 Eine Dojocat ist ein...
-***
+::br
 ![Dojocat](./images/dojocat.jpg)
 :::
 ```
@@ -116,14 +116,14 @@ Eine Dojocat ist ein...
 
 :::flex --alignItems=center
 Eine Dojocat ist ein Maskottchen der Code-Hosting-Website GitHub. Es handelt sich um eine Katze, die ein Karateanzug trägt und somit die Verbindung zu "Dojo" herstellt, einem Ort, an dem man traditionell japanische Kampfkünste studiert. Die Dojocat wurde erstmals 2012 von GitHub-Mitarbeiterin Cameron McEfee entworfen und seitdem in verschiedenen Versionen und mit unterschiedlichen Accessoires präsentiert. Sie ist ein beliebtes Symbol in der Entwicklergemeinschaft und wird oft in Zusammenhang mit Open-Source-Projekten und Programmierwettbewerben verwendet.
-***
+::br
 ![Dojocat](./images/dojocat.jpg)
 :::
 
 ```md
 :::flex --alignItems=center
 Eine Dojocat ist ein...
-***
+::br
 ![Dojocat](./images/dojocat.jpg)
 :::
 ```
@@ -131,18 +131,18 @@ Eine Dojocat ist ein...
 
 :::cards
 ![Dojocat](./images/dojocat.jpg)
-***
+::br
 ![Stormtroopocat](./images/stormtroopocat.jpg)
-***
+::br
 ![Minions](./images/minion.png)
 :::
 
 ```md
 :::cards
 ![Minions](./images/dojocat.jpg)
-***
+::br
 ![Stormtroopocat](./images/stormtroopocat.jpg)
-***
+::br
 ![Minions](./images/minion.png)
 :::
 ```

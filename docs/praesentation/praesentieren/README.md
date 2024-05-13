@@ -149,7 +149,7 @@ Der Titel wurde mit einem weissen, halb-transparenten Rechteck hinterlegt. Dadur
 
 :::flex --class=slides
 ![Folie 1 --zoom](./images/lima-schlecht/Slide1.jpg)
-***
+::br
 ![Folie 1 überarbeitet --zoom](./images/lima-besser/Slide01.jpg)
 :::
 
@@ -162,7 +162,7 @@ Aber: Sind diese Angaben alle wichtig? Bräuchte man nicht einen Vergleich, um e
 
 :::flex --class=slides
 ![Folie 2 --zoom](./images/lima-schlecht/Slide2.jpg)
-***
+::br
 ![Folie 2 überarbeitet --zoom](./images/lima-besser/Slide02.jpg)
 :::
 
@@ -175,7 +175,7 @@ Aber: Was ist die Kernaussage? Lassen sich die beiden Diagramme gut vergleichen?
 
 :::flex --class=slides
 ![Folie 3 --zoom](./images/lima-schlecht/Slide3.jpg)
-***
+::br
 ![Folie 3 überarbeitet --zoom](./images/lima-besser/Slide03.jpg)
 :::
 
@@ -188,7 +188,7 @@ Aber: Ist das nicht zu viel für eine Folie? Müsste man mehrere Folien machen? 
 
 :::flex --class=slides
 ![Folie 4 --zoom](./images/lima-schlecht/Slide4.jpg)
-***
+::br
 ![Folie 4 überarbeitet --zoom](./images/lima-besser/Slide04.jpg)
 :::
 
@@ -202,17 +202,17 @@ Aber: Sagen diese Bilder etwas aus? Entsteht daraus ein Eindruck/ein Mehrwert f�
 
 :::flex --minWidth=150px --class=slides
 ![Folie 5 --zoom](./images/lima-schlecht/Slide5.jpg)
-***
+::br
 ![Folie 5 überarbeitet --zoom](./images/lima-besser/Slide05.jpg)
 :::
 
 :::flex --minWidth=150px --class=slides
 ![Folie 6 hinzugefügt --zoom](./images/lima-besser/Slide06.jpg)
-***
+::br
 ![Folie 7 hinzugefügt --zoom](./images/lima-besser/Slide07.jpg)
-***
+::br
 ![Folie 8 hinzugefügt --zoom](./images/lima-besser/Slide08.jpg)
-***
+::br
 ![Folie 9 hinzugefügt --zoom](./images/lima-besser/Slide09.jpg)
 :::
 
@@ -252,7 +252,7 @@ Interessanter Start
 
 :::flex --class=slides
 ![ --zoom](./images/lima-noch-besser/Slide1.jpg "Folie 1")
-***
+::br
 ![ --zoom](./images/lima-noch-besser/Slide2.jpg "Folie 2 hinzugefügt")
 :::
 
@@ -265,7 +265,7 @@ Zahlen nicht nackt, sondern eingeordnet
 
 :::flex --class=slides
 ![ --zoom](./images/lima-besser/Slide02.jpg "Folie alt")
-***
+::br
 ![ --zoom](./images/lima-noch-besser/Slide3.jpg "Folie überarbeitet")
 :::
 
@@ -279,7 +279,7 @@ Eine Aussage pro Folie
 
 :::flex --class=slides
 ![Folie 3 --zoom](./images/lima-besser/Slide03.jpg)
-***
+::br
 ![Folie überarbeitet --zoom](./images/lima-noch-besser/Slide4.jpg)
 :::
 
@@ -293,7 +293,7 @@ Mehr wissen, als auf der Folie steht
 
 :::flex --class=slides
 ![Folie 4 --zoom](./images/lima-besser/Slide04.jpg)
-***
+::br
 ![Folie überarbeitet --zoom](./images/lima-noch-besser/Slide5.jpg)
 :::
 
@@ -306,6 +306,6 @@ Klarer Schluss
 
 :::flex --class=slides
 ![Folie 5 --zoom](./images/lima-besser/Slide05.jpg)
-***
+::br
 ![Schlussfolie --zoom](./images/lima-noch-besser/Slide6.jpg)
 :::

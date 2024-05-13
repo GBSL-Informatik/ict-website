@@ -28,7 +28,7 @@ Das rechte Bild von Mickey Mouse stammt aus einer png-Datei, die Transparenz unt
 
 :::cards
 ![Ohne Transparenz --zoom](./images/comics/Slide1.jpg)
-***
+::br
 ![mit Transparenz --zoom](./images/comics/Slide2.jpg)
 :::
 
@@ -41,7 +41,7 @@ Rechts wurde versucht, das Bild als Hintergrundbild zu verwenden. Wegen des Kont
 
 :::cards
 ![Folie «Comic-Strip» normales Bild --zoom](./images/comics/Slide3.jpg)
-***
+::br
 ![als Hintergrundbild --zoom](./images/comics/Slide4.jpg)
 :::
 
@@ -50,7 +50,7 @@ Nochmals ein Versuch mit dem Hintergrundbild. Dieses Mal ist es reine Verzierung
 
 :::cards
 ![Folie «Erste Comic-Autoren» ohne Hintergrundbild --zoom](./images/comics/Slide5.jpg)
-***
+::br
 ![mit Hintergrund --zoom](./images/comics/Slide6.jpg)
 :::
 
@@ -60,6 +60,6 @@ Batman: Hier wurde der farbige Hintergrund mit einem dezentem Batman-Logo und ei
 
 :::cards
 ![Folie «Comics» ohne Hintergrundbild --zoom](./images/comics/Slide7.jpg)
-***
+::br
 ![mit Hintergrundbild --zoom](./images/comics/Slide8.jpg)
 :::

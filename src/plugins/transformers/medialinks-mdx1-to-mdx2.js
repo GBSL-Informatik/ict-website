@@ -1,7 +1,7 @@
 const fs = require('fs');
 const path = require('path');
 
-const fileDirectories = ['docs', 'news', 'versioned_docs', 'src/pages', 'secure'];
+const fileDirectories = ['docs'];
 
 const REGEX = /\[@(?<name>youtube|audio|video|circuitverse)\]\((?<src>.*?)\)/;
 

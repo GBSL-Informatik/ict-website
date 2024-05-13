@@ -29,7 +29,7 @@ Folgende Gedanken sollte man sich zu Beginn machen:
 
 :::cards
 ![Folie im 16:9 Breitformat --zoom](./images/16zu9.png)
-***
+::br
 ![im älteren 4:3 Format --zoom](./images/4zu3.png)
 :::
 
@@ -45,7 +45,7 @@ Ein farbenfrohes Design: Gezeichnet, diverse Farben, viel Grafik, lustige Schrif
 
 :::cards
 ![Titelfolie: 5 Jahre Tim --zoom](./images/5-jahre-tim/Slide1.jpg)
-***
+::br
 ![erste Folie --zoom](./images/5-jahre-tim/Slide2.jpg)
 :::
 
@@ -54,7 +54,7 @@ Die untenstehende Präsentation könnte eine Präsentation im Schwerpunktfach Mu
 
 :::cards
 ![Titelfolie: Das Klavier --zoom](./images/das-klavier/Slide1.jpg)
-***
+::br
 ![erste Folie --zoom](./images/das-klavier/Slide2.jpg)
 :::
 
@@ -63,7 +63,7 @@ Die herbstlichen Farben und das Titelbild nehmen das Thema auf. Die Schriftart i
 
 :::cards
 ![Titelfolie: Im Garten --zoom](./images/im-garten/Slide1.jpg)
-***
+::br
 ![erste Folie --zoom](./images/im-garten/Slide2.jpg)
 :::
 
@@ -72,6 +72,6 @@ Eine Präsentation am Institut für Wirtschaftsinformatik der Universität Bern,
 
 :::cards
 ![Titelfolie: Kurs Grundlagen --zoom](./images/grundlagen/Slide1.jpg)
-***
+::br
 ![erste Folie --zoom](./images/grundlagen/Slide2.jpg)
 :::
