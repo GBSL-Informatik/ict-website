@@ -9,4 +9,6 @@ draft: false
 
 #  Schulkonto
 
+Willkommen am Gymnasium Biel-Seeland! Hier findest du Informationen zum Schulkonto und dessen Einrichtung. 
+
 <Features />

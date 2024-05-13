@@ -12,7 +12,7 @@ const QuickLinks: FeatureProps[] = [
   {
     name: "Neu am GBSL?",
     icon: "mdi-compass-outline",
-    route: "/welcome",
+    route: "/byod/schulkonto",
   },
   {
     name: "Support",
