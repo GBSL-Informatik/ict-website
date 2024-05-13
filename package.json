@@ -16,10 +16,10 @@
     "edit-fm": "node edit_front_matter.js"
   },
   "dependencies": {
-    "@docusaurus/core": "^2.4.1",
-    "@docusaurus/plugin-pwa": "^2.4.1",
-    "@docusaurus/preset-classic": "^2.4.1",
-    "@docusaurus/theme-mermaid": "^2.4.1",
+    "@docusaurus/core": "^3.3.2",
+    "@docusaurus/plugin-pwa": "^3.3.2",
+    "@docusaurus/preset-classic": "^3.3.2",
+    "@docusaurus/theme-mermaid": "^3.3.2",
     "@mdi/font": "^6.9.96",
     "@mdx-js/react": "^1.6.22",
     "clsx": "^1.1.1",
@@ -40,7 +40,7 @@
     "sass": "^1.52.2"
   },
   "devDependencies": {
-    "@docusaurus/module-type-aliases": "^2.4.1",
+    "@docusaurus/module-type-aliases": "^3.3.2",
     "@tsconfig/docusaurus": "^1.0.7",
     "gray-matter": "^4.0.3",
     "minimist": "^1.2.6",
