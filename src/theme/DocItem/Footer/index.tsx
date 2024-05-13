@@ -12,7 +12,12 @@ type Props = WrapperProps<typeof FooterType>;
 const COMMIT_SHA_2022_06_09 = "4641afa364f1aa924c4c21daa7264784f722033f";
 
 export default function FooterWrapper(props: Props): JSX.Element {
-  const sidebar_custom_props = useFrontMatter()?.sidebar_custom_props ?? {};
+  let sidebar_custom_props: {source?: string, path?: string} = {};
+  try {
+    sidebar_custom_props = useFrontMatter()?.sidebar_custom_props ?? {};
+  } catch (e) {
+    sidebar_custom_props = {};
+  }
   const url = `https://gitlab.gymkirchenfeld.ch/teach/ict.mygymer.ch/-/blob/${COMMIT_SHA_2022_06_09}${sidebar_custom_props.path}`;
   return (
     <div className={styles.footer}>

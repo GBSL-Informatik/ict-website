@@ -7,7 +7,7 @@ import path from 'path';
  * @param {string} file 
  */
 export const ensureFrontMatter = (file) => {
-    if (!(file.endsWith('.md') || !file.endsWith('.mdx')) || path.basename(file).startsWith('_')) {
+    if (!(file.endsWith('.md') || file.endsWith('.mdx')) || path.basename(file).startsWith('_')) {
         return;
     }
     const fm = matter.read(file);

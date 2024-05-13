@@ -13,7 +13,12 @@ import { camelCased } from '@site/src/plugins/helpers';
 type Props = WrapperProps<typeof HeadingType>;
 
 export default function HeadingWrapper(props: Props): JSX.Element {
-  const { sidebar_custom_props } = useFrontMatter();
+  let sidebar_custom_props: {icon?: string} = {};
+  try {
+    sidebar_custom_props = useFrontMatter()?.sidebar_custom_props ?? {};
+  } catch (e) {
+    sidebar_custom_props = {};
+  }
   const { icon } = sidebar_custom_props;
   return (
     <div className={styles.title}>
