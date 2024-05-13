@@ -39,9 +39,6 @@ const getFilesRecursively = (directory) => {
 //   const files = getFilesRecursively('./test');
   
 const files = getFilesRecursively('./docs');
-files.push(...getFilesRecursively('./news'));
-files.push(...getFilesRecursively('./src/pages'));
-files.push(...getFilesRecursively('./versioned_docs'));
 // console.log(files)
 
 files.forEach((file, idx) => {

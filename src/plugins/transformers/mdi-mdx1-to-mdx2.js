@@ -1,7 +1,8 @@
 const fs = require('fs');
 const path = require('path');
+const { camelCased } = require('../helpers');
 
-const fileDirectories = ['docs', 'news', 'versioned_docs', 'src/pages', 'secure'];
+const fileDirectories = ['docs'];
 
 /**
  * @example
@@ -45,7 +46,7 @@ async function transformMdiIcons(file) {
             hasChanged = true;
             const {content, clsx} = match.groups;
             const clsxStr = clsx ? clsx.split(/\s+/).filter(c => !!c.trim()).map(c => `.${c}`).join(' ') : clsx;
-            const mdi = clsxStr ? `:mdi[${content}]{${clsxStr}}` : `:mdi[${content}]`;
+            const mdi = clsxStr ? `:mdi[${camelCased(content)}]{${clsxStr}}` : `:mdi[${camelCased(content)}]`;
             raw = `${raw.slice(0, match.index)}${mdi}${raw.slice(match.index + match[0].length)}`;
         }
         if (hasChanged) {
