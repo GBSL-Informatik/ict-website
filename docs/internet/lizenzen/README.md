@@ -78,7 +78,7 @@ https://pixabay.com
 
 https://images.google.ch
 : Filter setzen unter
-: Tools :mdi-chevron-right: Nutzungrechte
+: Tools :mdi[chevronRight] Nutzungrechte
 
 https://search.creativecommons.org/search/image
 : Bildersuche, Creative Commons

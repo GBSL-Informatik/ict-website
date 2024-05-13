@@ -15,7 +15,7 @@ draft: false
 
 ## Beschriftung einfügen
 
-:::warning Achtung
+:::warning[Achtung]
 
 Wenn der _Textumbruch_ des Bildes auf _Mit Text in Zeile_ gestellt ist, wird die Beschriftung in den Fliesstext eingefügt. Das ist normalerweise nicht erwünscht.
 
@@ -23,7 +23,7 @@ Daher empfiehlt es sich, vorher den Textfluss des Bildes anzupassen.
 
 :::
 
-Du wählst das Bild aus, dann machst du entweder einen Rechtsklick darauf und wählst __Beschriftung einfügen…__ oder du gehst über das Menu __Referenzen__ :mdi-chevron-right: __Beschriftung einfügen__. Bei Tabellen funktioniert nur der Weg über das Menu. Das folgende Fenster erscheint:
+Du wählst das Bild aus, dann machst du entweder einen Rechtsklick darauf und wählst __Beschriftung einfügen…__ oder du gehst über das Menu __Referenzen__ :mdi[chevronRight] __Beschriftung einfügen__. Bei Tabellen funktioniert nur der Weg über das Menu. Das folgende Fenster erscheint:
 
 ![Beschriftung einfügen](./beschriftung-einfuegen.png)
 
@@ -35,7 +35,7 @@ Bei Elementen **ausserhalb des Textflusses** fügt Word die Beschriftung als Tex
 
 Verschiebst du aber Bild oder Beschriftung, passen diese nicht mehr zusammen. Deshalb musst du **die beiden Elemente unbedingt gruppieren!** Dazu wählst du beide Elemente aus. Dies erreichst du durch Klick auf das erste Element, dann mit gedrückter [[Shift]]-Taste auf das zweite Element klicken. Beide Elemente sollten jetzt markiert sein.
 
-Anschliessend machst du einen Rechtsklick auf die markierten Elemente und wählst __Gruppieren__ :mdi-chevron-right: __Gruppieren__.
+Anschliessend machst du einen Rechtsklick auf die markierten Elemente und wählst __Gruppieren__ :mdi[chevronRight] __Gruppieren__.
 
 ![Beschriftung und Bild gruppieren](./gruppieren.gif)
 

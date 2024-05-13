@@ -36,7 +36,7 @@ Die Art der verwendeten Anführungszeichen hängt von der eingestellten Dokument
 
 Um in Word 2016 für die Dokumentsprache «Deutsch (Schweiz)» die deutschen Anführungszeichen „...“ zu verwenden, muss zu einem Trick gegriffen werden. Es werden eigene Autokorrketur-Regeln definiert, welche eine frei wählbare Zeichenkombination durch die gewünschten Anführungszeichen ersetzt. Wir empfehlen, folgende Regeln zu definieren:
 
-- << ersetzen durch „
+- \<\< ersetzen durch „
 - \>> ersetzen durch “
 
 ![Benutzerdefinierte Anführungszeichen verwenden](./images/autokorrektur-benutzerdefiniert.ms.png)
@@ -45,9 +45,9 @@ Vorgehen:
 
 1. Autokorrketur-Optionen öffnen (siehe oben)
 2. «Während der Eingabe ersetzen» aktivieren
-3. Im Feld «Ersetzen» << eingeben
+3. Im Feld «Ersetzen» \<\< eingeben
 4. In das Feld «Durch» das Anführungszeichen „ einfügen (von hier kopieren)
 5. Auf «Hinzufügen» klicken
 6. Die zweite Regel analog hinzfügen.
 
-Nun kann in einem Word-Dokument << oder >> getippt werden, um die gewünschten Anführungszeichen zu erzeugen.
+Nun kann in einem Word-Dokument \<\< oder >> getippt werden, um die gewünschten Anführungszeichen zu erzeugen.

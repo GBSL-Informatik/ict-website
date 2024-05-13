@@ -1,6 +1,8 @@
 import clsx from 'clsx';
 import * as React from 'react';
 import styles from './styles.module.scss';
+import Icon from '@mdi/react';
+import { mdiClipboardCheck, mdiClipboardRemove, mdiClipboardText, mdiClockCheck, mdiLoading } from '@mdi/js';
 
 
 
@@ -10,10 +12,10 @@ interface Props {
 }
 type CopyState = 'none' | 'spin' | 'copied' | 'error';
 const CopyIcon: {[key in CopyState]: string} = {
-    none: 'mdi-clipboard-text',
-    copied: 'mdi-clipboard-check',
-    error: 'clipboard-remove',
-    spin: 'mdi-loading'
+    none: mdiClipboardText,
+    copied: mdiClipboardCheck,
+    error: mdiClipboardRemove,
+    spin: mdiLoading
 }
 const CopyColor: {[key in CopyState]: string} = {
     none: 'var(--ifm-color-primary)',
@@ -51,7 +53,7 @@ const CopyBadge = (props: Props) => {
         >
             {props.label || props.value}
             <span className={clsx(styles.copyIcon)}>
-                <i className={clsx('mdi', CopyIcon[copyState], copyState === 'spin' && 'mdi-spin')} style={{color: CopyColor[copyState]}}/>
+                <Icon path={CopyIcon[copyState]} size={0.5} spin={copyState === 'spin'} color={CopyColor[copyState]}/>
             </span>
         </span>
     );

@@ -9,7 +9,7 @@
         color: var(--ifm-color-primary);
         border: 1px solid var(--ifm-color-primary);
         border-radius: 50%;
-        padding: 0 calc(var(--ifm-heading-line-height)*1em/4);
+        padding: 0 calc(var(--ifm-heading-line-height)*1em/5);
         cursor: pointer;
         user-select: none;
 
@@ -17,6 +17,9 @@
             background-color: var(--ifm-color-primary);
             color: var(--ifm-color-primary-contrast-background);
             transition-duration: 1s;
+        }
+        .mdi {
+            transform: translateY(10%);
         }
     }
 

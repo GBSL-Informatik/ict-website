@@ -8,7 +8,7 @@ sidebar_position: 10
 # Geräte-fit-Check
 
 :::info
-** Hier findest du Anleitungen, um deinen Laptop und dein Smartphone für den Gebrauch an unserer Schule einzurichten. **
+**Hier findest du Anleitungen, um deinen Laptop und dein Smartphone für den Gebrauch an unserer Schule einzurichten.**
 
 Du kannst die Einrichtung von daheim aus vornehmen und in der Schule. Von daheim aus, kannst du nicht alles einrichten. Richte nach Möglichkeit aber alles ein, was du von daheim einrichten kannst.
 :::
@@ -27,15 +27,15 @@ Hast du beim Einrichten Probleme, kannst du dich beim Support für Schüler:inne
 <Tabs>
 <TabItem value="home" label="1. Vorgängig" default>
 
-:::danger Vorgängig
+:::danger[Vorgängig]
 Eigenständige Einrichtung zu Hause. Es wird erwartet, dass diese Schritte bereits während den Sommerferien erledigt werden.
 :::
 
-:::aufgabe Schritte zu Hause
+:::aufgabe[Schritte zu Hause]
 
 1. Mail einrichten
-   - auf dem Laptop [ :mdi-microsoft-windows: Windows](../windows/e-mail) [:mdi-apple: Mac](../macos/e-mail)
-   - auf dem Smartphone [:mdi-android: Android](../android/e-mail) [:mdi-apple: iPhone, iPad](../ios/e-mail)
+   - auf dem Laptop [ :mdi[microsoftWindows] Windows](../windows/e-mail) [:mdi[apple] Mac](../macos/e-mail)
+   - auf dem Smartphone [:mdi[android] Android](../android/e-mail) [:mdi[apple] iPhone, iPad](../ios/e-mail)
 2. Mehrfachauthentifikation einrichten [👉 MFA](../mfa/)
 3. Programme installieren
    - Office365
@@ -49,24 +49,24 @@ Eigenständige Einrichtung zu Hause. Es wird erwartet, dass diese Schritte berei
 </TabItem>
 <TabItem value="school" label="2. Am ersten Schultag">
 
-:::caution An der Schule
+:::warning[An der Schule]
 Am ersten Schultag die Geräte an der Schule in Betrieb nehmen.
 :::
 
-:::aufgabe Schritte an der Schule
+:::aufgabe[Schritte an der Schule]
 Wlan-Zugang einrichten auf
- 1. dem Laptop [:mdi-microsoft-windows: Windows](../windows/wlan) [:mdi-apple: Mac](../macos/wlan/)
- 2. dem Smartphone/Tablet  [:mdi-android: Android](../android/wlan/) [:mdi-apple: iPhone, iPad](../ios/wlan/)
+ 1. dem Laptop [:mdi[microsoftWindows] Windows](../windows/wlan) [:mdi[apple] Mac](../macos/wlan/)
+ 2. dem Smartphone/Tablet  [:mdi[android] Android](../android/wlan/) [:mdi[apple] iPhone, iPad](../ios/wlan/)
 :::
 
 </TabItem>
 <TabItem value="geräte-fit-check" label="3. Geräte-Fit-Check">
 
-:::success Im Unterricht
+:::success[Im Unterricht]
 Diese Schritte werden im Unterricht in der ersten Woche erledigt. Es ist eine spezielle Lektion __Geräte-fit-Check__ dafür vorgesehen.
 :::
 
-:::aufgabe Schritte im Unterricht
+:::aufgabe[Schritte im Unterricht]
 1. E-Mail senden
    - [👉 Nettiquette](../../infra/email/netiquette): Wie man eine Mail korrekt schreibt
    - Mailversand überprüfen: Senden einer Mail an deine Lehrperson

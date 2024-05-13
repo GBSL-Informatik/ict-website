@@ -15,7 +15,7 @@ draft: true
 
 
 Klicke auf das Plus-Symbol, um das Menü «Diagrammelemente» anzuzeigen.
-Klicke anschliessend auf den Pfeil :mdi-chevron-right: rechts des Menüpunktes __Datenbeschriftungen__. Wähle nun die gewünschte Position der Beschriftung:
+Klicke anschliessend auf den Pfeil :mdi[chevronRight] rechts des Menüpunktes __Datenbeschriftungen__. Wähle nun die gewünschte Position der Beschriftung:
 
 - __Zentriert__: die Beschriftung wird innerhalb der Fläche zentriert dargestellt
 - __Am Ende innerhalb__: die Beschriftung wird innerhalb der Fläche am Rand dargestellt

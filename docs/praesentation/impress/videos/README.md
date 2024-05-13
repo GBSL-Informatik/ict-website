@@ -13,7 +13,7 @@ draft: true
 
 
 ## Video aus Datei
-Über __Einfügen__ :mdi-chevron-right: __Audio/Video...__ kann eine Video-Datei ausgewählt werden. Beim Einfügen kannst du wählen, ob die Video-Datei in der Impress-Datei **integriert** oder **nur verknüpft** werden soll. Wird das Video nur verknüpft, dann kann Impress das Video nur abspielen, wenn auf dieses zugegriffen werden kann!
+Über __Einfügen__ :mdi[chevronRight] __Audio/Video...__ kann eine Video-Datei ausgewählt werden. Beim Einfügen kannst du wählen, ob die Video-Datei in der Impress-Datei **integriert** oder **nur verknüpft** werden soll. Wird das Video nur verknüpft, dann kann Impress das Video nur abspielen, wenn auf dieses zugegriffen werden kann!
 
 ![](./images/video-einfuegen.lo.png)
 

@@ -35,6 +35,6 @@ Eine allfällige Summenzeile darf **nicht** mit ausgwählt werden.
 
 ## Diagrammtyp auswählen
 
-Wähle den Menüpunkt __Einfügen__ :mdi-chevron-right: __Diagramm__ aus. Der Dialog «Diagramm-Assistent» wird angezeigt. Hier kann der gewünscht Diagrammtyp ausgewählt werden.
+Wähle den Menüpunkt __Einfügen__ :mdi[chevronRight] __Diagramm__ aus. Der Dialog «Diagramm-Assistent» wird angezeigt. Hier kann der gewünscht Diagrammtyp ausgewählt werden.
 
 Nach einem Klick auf __Fertigstellen__ wird das Diagramm erstellt.

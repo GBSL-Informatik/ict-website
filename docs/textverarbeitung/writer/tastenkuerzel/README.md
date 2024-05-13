@@ -64,4 +64,4 @@ Wenn du einen bestimmten Befehl immer wieder verwendest, lohnt es sich evtl., da
 ![Tastaturkürzel im Menu](./images/weitere-shortcuts.lo.png)
 
 ### Tastaturkürzel selbst definieren
-Falls für einen Befehl kein Tastaturkürzel definiert ist oder du ein bestehendes Kürzel anpassen möchtest, kannst du das unter __Extras__ :mdi-chevron-right: __Anpassen__ :mdi-chevron-right: __Tastatur__ erledigen.
+Falls für einen Befehl kein Tastaturkürzel definiert ist oder du ein bestehendes Kürzel anpassen möchtest, kannst du das unter __Extras__ :mdi[chevronRight] __Anpassen__ :mdi[chevronRight] __Tastatur__ erledigen.

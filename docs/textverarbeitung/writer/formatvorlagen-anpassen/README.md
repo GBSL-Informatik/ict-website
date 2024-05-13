@@ -25,7 +25,7 @@ Mache einen Rechtsklick auf die zu ändernde Formatvorlage im Formatvorlagenfens
 
 ![Anpassen der Absatzvorlage «Überschrift 1»](./images/formatvorlage-aendern-fenster.lo.png)
 
-oder platziere den Cursor im Text bei der zu ändernden Formatvorlage und wähle im Menu __Vorlagen__ :mdi-chevron-right: __Vorlage bearbeiten…__
+oder platziere den Cursor im Text bei der zu ändernden Formatvorlage und wähle im Menu __Vorlagen__ :mdi[chevronRight] __Vorlage bearbeiten…__
 
 ![Anpassen der Absatzvorlage «Überschrift 1»](./images/formatvorlage-aendern-menu.lo.png)
 

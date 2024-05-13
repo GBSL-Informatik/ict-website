@@ -16,7 +16,7 @@ draft: true
 
 Auf Youtube steht eine Schulung zu isTest2 zur Verfügung: https://youtu.be/rABE2pgjbIQ.
 
-:::warning Achtung: 
+:::warning[Achtung: ]
 Wenn isTest2 ohne **Safe Exam Browser (SEB)** verwendet wird, können Schüler:innen jederzeit andere Dokumente öffnen und so zum Beispiel digitale Unterrichtsunterlagen verwenden. Auch können die Schüler:innen im Internet nach Lösungen suchen resp. Übersetzungsprogramme verwenden! isTest2 alleine ist also nur für Open-book-Prüfungen geeignet (Prüfungen, an denen alle Unterlagen und auch im Internet verfügbare Informationen verwendet werden dürfen). Soll die Prüfung ohne die Hilfe von Unterlagen absolviert werden, so sollte [isTest2 in Kombination mit dem Safe Exam Browser verwendet werden](../seb).
 :::
 
@@ -91,7 +91,7 @@ Wenn alle Schüler:innen einer Klasse in einen Kurs eingeladen werden sollen, ka
 
 Wenn während des Semesters Schüler:innen in eine Klasse neu ein- oder austreten oder wenn man einen Kurs mit Schüler:innen aus unterschiedlichen Klassen erstellen möchte, muss man diese einzeln in einen Kurs aufnehmen.
 
-:::warning Achtung: 
+:::warning[Achtung: ]
 Wenn während eines laufenden Semesters Schüler:innen in eine Klasse neu eintreten, werden diese nicht automatisch in isTest2 hinzugefügt! Die Schülerin muss von einem Admin in isTest2 hinzugefügt werden, damit sie in der Liste erscheint. Fehlende Schüler:innen können an support@gymkirchenfeld.ch gemeldet werden. Bitte den Vor- und Nachnamen des Schülers und die Klasse angeben.
 :::
 

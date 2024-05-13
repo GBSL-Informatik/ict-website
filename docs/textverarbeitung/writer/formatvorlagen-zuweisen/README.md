@@ -26,7 +26,7 @@ Formatvorlagen können sehr einfach zugewiesen werden:
 Für die Auswahl der Formatvorlage stehen drei Möglichkeiten zur Verfügung:
 
 ## Formatvorlagen-Fenster in Seitenleiste
-Durch einen Klick auf das __T__ in der Seitenleiste, über das Menu unter __Vorlagen__ :mdi-chevron-right: __Formatvorlagen__ oder mittels Tastenkürzel [[F11]] öffnest du das Formatvorlagen-Fenster.
+Durch einen Klick auf das __T__ in der Seitenleiste, über das Menu unter __Vorlagen__ :mdi[chevronRight] __Formatvorlagen__ oder mittels Tastenkürzel [[F11]] öffnest du das Formatvorlagen-Fenster.
 
 ![Fenster «Formatvorlagen»](./images/formatvorlagen-fenster.lo.png)
 

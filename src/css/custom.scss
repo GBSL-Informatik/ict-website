@@ -1,5 +1,3 @@
-@import "@mdi/font/css/materialdesignicons.min.css";
-
 /**
  * Any CSS included here will be global. The classic template
  * bundles Infima by default. Infima is a CSS framework designed to
@@ -138,12 +136,10 @@ html[data-theme='dark'] {
 	}
 }
 
-div.solution {
-	details {
-		--ifm-alert-background-color: var(--ifm-color-success-contrast-background);
-		--ifm-alert-foreground-color: var(--ifm-color-success-contrast-foreground);
-		--ifm-alert-border-color: var(--ifm-color-success-dark);
-	}
+details.solution {
+	--ifm-alert-background-color: var(--ifm-color-success-contrast-background);
+	--ifm-alert-foreground-color: var(--ifm-color-success-contrast-foreground);
+	--ifm-alert-border-color: var(--ifm-color-success-dark);
 }
 
 div.flex {
@@ -220,7 +216,8 @@ kbd {
 }
 
 
-.mdi {
+.mdi-icon {
+    transform: translateY(20%);
     &.green {
         color: var(--ifm-color-success);
     }

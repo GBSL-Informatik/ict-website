@@ -13,7 +13,7 @@ Anschliessen des Laptops über hdmi-Kabel oder drahtlos über WinAir oder MacAir
 Sobald ein Laptop am Beamer angeschlossen ist, gibt es unterschiedliche Präsentationsmodi. 
 
 ## Umschalten
-Um zwischen den Modi umzuschalten verwendet man die Tastenkombination [[:mdi-microsoft-windows:]] + [[P]]. Im nun erscheinenden Menü wählt man den Modus. 
+Um zwischen den Modi umzuschalten verwendet man die Tastenkombination [[:mdi[microsoftWindows]]] + [[P]]. Im nun erscheinenden Menü wählt man den Modus. 
 
 ![Auswahl des Betriebsmodus für mehrere Bildschirme](./images/windows-p.jpg)
 

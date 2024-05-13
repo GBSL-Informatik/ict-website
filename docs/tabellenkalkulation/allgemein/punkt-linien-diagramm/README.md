@@ -39,6 +39,6 @@ Das Wachstum der Weltbevölkerung wird in diesem Fall korrekt dargestellt, da di
 
 ![Korrekte Darstellung des Wachstums der Weltbevölkerung](./images/xy-chart.png)
 
-:::warning Fazit
+:::warning[Fazit]
  Liniendiagramme dürfen nicht verwendet werden. Anstelle eines Liniendiagramms sollte immer ein Punktdiagramm verwendet werden. (Einzige Ausnahme: In Klimadiagrammen mit Monaten in der X-Achse kann/muss für den Temperaturverlauf ein Liniendiagramm ausgewählt werden.)
 :::

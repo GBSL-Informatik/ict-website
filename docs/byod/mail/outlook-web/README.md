@@ -13,7 +13,7 @@ draft: false
 
 
 
-:::warning Direkter Link
+:::warning[Direkter Link]
 
 https://outlook.office.com/mail/
 :::

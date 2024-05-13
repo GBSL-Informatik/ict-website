@@ -9,8 +9,8 @@ draft: true
 # Konferenzgeräte
 
 
-[:mdi-owl: MeetingOWL](owl/)
-[:mdi-webcam: Logitech Connect ConferenceCam](logitech/)
-[:mdi-microphone-variant: Jabra Konferenzmikrofon](jabra/)
+[:mdi[owl] MeetingOWL](owl/)
+[:mdi[webcam] Logitech Connect ConferenceCam](logitech/)
+[:mdi[microphoneVariant] Jabra Konferenzmikrofon](jabra/)
 
 

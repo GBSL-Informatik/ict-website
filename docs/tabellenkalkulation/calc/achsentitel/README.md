@@ -20,6 +20,6 @@ Der Diagramm-Modus erkennt man an der veränderten Menüleiste.
 
 ![](./images/axis-title.lo.png)
 
-Wähle den Menüpunkt __Einfügen__ :mdi-chevron-right: __Titel__ aus. Es erscheint ein Dialog, in welchem die Achsentitel eingegeben werden können.
+Wähle den Menüpunkt __Einfügen__ :mdi[chevronRight] __Titel__ aus. Es erscheint ein Dialog, in welchem die Achsentitel eingegeben werden können.
 
 Durch das Ziehen am Rahmen der Titel können diese positioniert und in ihrer Grösse angepasst werden.

@@ -14,7 +14,7 @@ draft: true
 
 
 
-Dei erstellte Präsentation kannst du in diversen Formaten ausdrucken. Über __Datei__ :mdi-chevron-right: __Drucken__ oder [[Ctrl]] + [[P]] rufst du das Druck-Fenster auf:
+Dei erstellte Präsentation kannst du in diversen Formaten ausdrucken. Über __Datei__ :mdi[chevronRight] __Drucken__ oder [[Ctrl]] + [[P]] rufst du das Druck-Fenster auf:
 
 ![Handzettel drucken](./images/drucken.png)
 

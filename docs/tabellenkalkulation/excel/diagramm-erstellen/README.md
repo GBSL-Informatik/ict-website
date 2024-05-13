@@ -34,6 +34,6 @@ Eine allfällige Summenzeile darf **nicht** mit ausgwählt werden.
 
 ## Diagrammtyp auswählen
 
-Wähle den Menüpunkt __Einfügen__ :mdi-chevron-right: __Empfohlene Diagramme__ aus. Der Dialog «Diagramm einfügen» wird angezeigt. Im Register «Empfohlene Diagramme» kann ein Diagrammtyp ausgewählt werden. Wenn der gewünschte Typ nicht in der Liste vorhanden ist, kann er Register «Alle Diagramme» gefunden werden.
+Wähle den Menüpunkt __Einfügen__ :mdi[chevronRight] __Empfohlene Diagramme__ aus. Der Dialog «Diagramm einfügen» wird angezeigt. Im Register «Empfohlene Diagramme» kann ein Diagrammtyp ausgewählt werden. Wenn der gewünschte Typ nicht in der Liste vorhanden ist, kann er Register «Alle Diagramme» gefunden werden.
 
 Nach einem Klick auf __OK__ wird das Diagramm erstellt.

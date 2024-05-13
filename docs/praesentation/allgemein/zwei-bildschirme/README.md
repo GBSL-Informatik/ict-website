@@ -32,7 +32,7 @@ Die Einstellung «Erweiterter Desktop» **kombiniert zwei Bildschirme zu einem**
 
 
 ## Umschalten
-Um zwischen den beiden Modi umzuschalten, drückst du (bei Windows) die Tastenkombination [[:mdi-microsoft-windows:]] + [[P]]. Anschliessend kannst du im erschienen Fenster (siehe Screenshot unten) einen der beiden Bildschirme deaktivieren oder eben den Modus des Zweibildschirm-Betriebs («Doppelt» oder «Erweitert» festlegen.
+Um zwischen den beiden Modi umzuschalten, drückst du (bei Windows) die Tastenkombination [[:mdi[microsoftWindows]]] + [[P]]. Anschliessend kannst du im erschienen Fenster (siehe Screenshot unten) einen der beiden Bildschirme deaktivieren oder eben den Modus des Zweibildschirm-Betriebs («Doppelt» oder «Erweitert» festlegen.
 
 ![Auswahl des Betriebsmodus für mehrere Bildschirme](./images/windows-p.jpg)
 

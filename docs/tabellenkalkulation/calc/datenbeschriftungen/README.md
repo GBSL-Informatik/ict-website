@@ -18,7 +18,7 @@ Um in LibreOffice ein Diagramm zu bearbeiten, muss der Diagramm-Modus aktiviert 
 
 Der Diagramm-Modus erkennt man an der veränderten Menüleiste.
 
-Wähle den Menüpunkt __Einfügen__ :mdi-chevron-right: __Datenbeschriftungen__ aus. Es erscheint ein Dialog, in welchem die Datenbeschriftungen angepasst werden können:
+Wähle den Menüpunkt __Einfügen__ :mdi[chevronRight] __Datenbeschriftungen__ aus. Es erscheint ein Dialog, in welchem die Datenbeschriftungen angepasst werden können:
 
 ![](./images/data-labels.lo.png)
 

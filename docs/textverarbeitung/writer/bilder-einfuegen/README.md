@@ -18,17 +18,17 @@ draft: true
 
 
 ## Bilder einfügen
-Bilder können über die Zwischenablage mit [[Ctrl]] + [[V_]] oder über __Einfügen__ :mdi-chevron-right: __Bild…__ als Datei eingefügt werden.
+Bilder können über die Zwischenablage mit [[Ctrl]] + [[V_]] oder über __Einfügen__ :mdi[chevronRight] __Bild…__ als Datei eingefügt werden.
 
 ![Bild aus Datei einfügen](./images/bild-einfuegen.lo.png)
 
 ## Textfluss festlegen
-Ein Rechtsklick auf das Bild und __Umlauf__ :mdi-chevron-right: __Textumbruch__ erlaubt es dir, verschiedene Positionierungen zu wählen:
+Ein Rechtsklick auf das Bild und __Umlauf__ :mdi[chevronRight] __Textumbruch__ erlaubt es dir, verschiedene Positionierungen zu wählen:
 
 ![Einstellungen Textfluss](./images/bild-textfluss.lo.png)
 
 
-Ein Rechtsklick und __Eigenschaften__ :mdi-chevron-right: Tab _Umlauf_ öffnet das Layout-Fenster mit den Detaileinstellungen:
+Ein Rechtsklick und __Eigenschaften__ :mdi[chevronRight] Tab _Umlauf_ öffnet das Layout-Fenster mit den Detaileinstellungen:
 
 ![Bildeigenschaften «Umlauf»](./images/bild-eigenschaften.lo.png)
 

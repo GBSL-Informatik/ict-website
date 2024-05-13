@@ -2,7 +2,10 @@ import React from 'react';
 import clsx from 'clsx';
 import styles from './styles.module.scss';
 import rawIcons from './mdi-icons.json';
+import * as MdiIcons from '@mdi/js';
 import CopyBadge from './CopyBadge';
+import Icon from '@mdi/react';
+import { camelCased } from '@site/src/plugins/helpers';
 
 export default function MdiSelector(): JSX.Element {
   const [showNr, setShowNr] = React.useState(300);
@@ -47,10 +50,10 @@ export default function MdiSelector(): JSX.Element {
               key={idx}
               className={clsx(styles.icon)}
             >
-              <div style={{ fontSize: '3rem' }} className={`mdi-${ico.name} mdi`}></div>
+              <Icon path={MdiIcons[camelCased(`mdi-${ico.name}`)]} size={2} />
               <CopyBadge value={ico.name} />
-              <CopyBadge label="mdi-" value={`mdi-${ico.name}`} />
-              <CopyBadge label=":mdi-:" value={`:mdi-${ico.name}:`} />
+              <CopyBadge label={camelCased(`mdi-${ico.name.slice(0, 2)}...`)} value={camelCased(`mdi-${ico.name}`)} />
+              <CopyBadge label=":mdi[..." value={`:mdi[${camelCased(ico.name)}]`} />
             </div>
           );
         })}

@@ -35,7 +35,7 @@ Download
   </TabItem>
 </Tabs>
 
-:::warning Wichtig!
+:::warning[Wichtig!]
 WLAN auf automatisch verbinden setzen.
 
 ![--width=600px](images/examnet-wlan-setzen.png)

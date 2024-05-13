@@ -14,7 +14,7 @@ draft: true
 
 
 
-Eine neue Präsentation startet normalerweise mit einer Titelfolie. Weitere Folien kannst du über __Folie__ :mdi-chevron-right: __Neue Folie__ eingefügen. (oder mit Rechtsklick bei der Folienvorschau oder den Layouts)
+Eine neue Präsentation startet normalerweise mit einer Titelfolie. Weitere Folien kannst du über __Folie__ :mdi[chevronRight] __Neue Folie__ eingefügen. (oder mit Rechtsklick bei der Folienvorschau oder den Layouts)
 
 ![Folie einfügen und Layout wählen](./images/folie-einfuegen.lo.png)
 

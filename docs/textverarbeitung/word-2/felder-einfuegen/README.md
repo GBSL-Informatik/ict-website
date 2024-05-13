@@ -32,7 +32,7 @@ Durch einen Doppelklick auf den Bereich der Kopf- oder Fusszeile (also im oberst
 ## Felder einfügen
 Wenn die Kopf- und Fusszeilentools geöffnet sind (siehe Screenshot oben), dann hat man über das Menuband __Entwurf__ die Möglichkeit, die häufigsten Felder über __Datum und Uhrzeit__ oder __Dokumentinformationen__ einzufügen.
 
-Über __Dokumentinformation__ :mdi-chevron-right: __Feld…__ erhält man eine Übersicht über alle verfügbaren Felder:
+Über __Dokumentinformation__ :mdi[chevronRight] __Feld…__ erhält man eine Übersicht über alle verfügbaren Felder:
 
 ![Felder einfügen](./images/felder-einfuegen.ms.png)
 

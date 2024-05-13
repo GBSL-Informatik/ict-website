@@ -15,7 +15,7 @@ draft: true
 
 
 Klicke auf das Plus-Symbol, um das Menü «Diagrammelemente» anzuzeigen.
-Klicke anschliessend auf den Pfeil :mdi-chevron-right: rechts vom Menüpunkt __Achsentitel__. Setze im nun erscheinenden Untermenü beim gewünschten Achsentitel ein Häkchen.
+Klicke anschliessend auf den Pfeil :mdi[chevronRight] rechts vom Menüpunkt __Achsentitel__. Setze im nun erscheinenden Untermenü beim gewünschten Achsentitel ein Häkchen.
 
 - __Primär horizontal__: Achsentitel für die horizontale Achse
 - __Primär vertikal__: Achsentitel für die vertikale Achse

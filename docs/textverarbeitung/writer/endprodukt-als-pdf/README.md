@@ -22,6 +22,6 @@ Der grosse Vorteil dabei: PDF-Dokumente können auf allen Systemen dargestellt w
 
 
 ## Wie?
-Du wählst __Datei__ :mdi-chevron-right: __Als PDF exportieren…__. Im folgenden Dialog kannst du zahlreiche Einstellungen wählen. Wenn die Datei z.B. zu gross für den E-Mail-Versand wird, kannst du bei JPEG-Komprimierung die Qualität herunterschrauben oder darunter die Grafikauflösung reduzieren. Viele weitere Einstellungen sind mölgich.
+Du wählst __Datei__ :mdi[chevronRight] __Als PDF exportieren…__. Im folgenden Dialog kannst du zahlreiche Einstellungen wählen. Wenn die Datei z.B. zu gross für den E-Mail-Versand wird, kannst du bei JPEG-Komprimierung die Qualität herunterschrauben oder darunter die Grafikauflösung reduzieren. Viele weitere Einstellungen sind mölgich.
 
 ![Dialog PDF-Optionen](./images/pdf-erstellen.lo.png)

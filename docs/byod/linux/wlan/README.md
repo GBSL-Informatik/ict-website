@@ -17,11 +17,11 @@ draft: true
 
 Mit der automatischen Installation wird ein allfällig vorhandenes, falsch konfiguriertes Profil mit demselben Namen entfernt. Zudem wird unser Zertifikat installiert (dies muss allerdings bestätigt werden).
 
-[:mdi-download: WLAN-Konfigurationsprogramm (neues WLAN gymKIRCHENFELD)][1]
+[:mdi[download] WLAN-Konfigurationsprogramm (neues WLAN gymKIRCHENFELD)][1]
 
 [1]: https://enterprise-wifi.net/?idp=572&profile=332
 
-:::warning E-Mail-Adresse
+:::warning[E-Mail-Adresse]
 Beim neuen Netzwerk __gymKIRCHENFELD__ bitte die **Schul-E-Mail-Adresse** in das Feld __Benutzername__ eintragen!
 :::
 
@@ -37,7 +37,7 @@ Beim neuen Netzwerk __gymKIRCHENFELD__ bitte die **Schul-E-Mail-Adresse** in das
 ## Manuelle Konfiguration
 
 1. Lade das Zertifikatherunter und speichere es:
-   [:mdi-download: Zertifikat][2]
+   [:mdi[download] Zertifikat][2]
 2. Wähle das WLAN-Netzwerk **gymKIRCHENFELD** aus.
 3. Öffne die Netzwerk-Einstellungen.
 4. Klicke auf das Zahnrad-Symbol, um das WLAN zu konfigurieren.

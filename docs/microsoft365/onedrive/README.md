@@ -13,9 +13,9 @@ draft: true
 
 
 
-[:mdi-cloud-sync: Synchronisation in Windows](sync/)
+[:mdi[cloudSync] Synchronisation in Windows](sync/)
 
-[:mdi-share-all: Inhalte teilen](teilen/)
+[:mdi[shareAll] Inhalte teilen](teilen/)
 
 
 

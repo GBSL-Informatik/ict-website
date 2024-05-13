@@ -72,7 +72,7 @@ Je nach Quellentyp müssen weitere Felder erfasst werden. Unter [Quellen erfasse
 
 ## 3. Quellenangaben einfügen
 
-:::warning Hinweis
+:::warning[Hinweis]
 In Word werden Quellenangaben fälschlicherweise als «Zitate» bezeichnet.
 :::
 
@@ -80,7 +80,7 @@ Klicke im Menübereich _Zitate und Literaturverzeichnis_ auf __Zitat einfügen__
 
 ![Quellenangabe einfügen](./quellenangabe-einfuegen.png)
 
-Klicke anschliessend auf die eingefügte Quellenangabe und öffne mit einem Klick auf __:mdi-menu-down:__ das Menü. Wähle den Menüeintrag __Zitat bearbeiten__:
+Klicke anschliessend auf die eingefügte Quellenangabe und öffne mit einem Klick auf __:mdi[menuDown]__ das Menü. Wähle den Menüeintrag __Zitat bearbeiten__:
 
 ![](./quellenangabe-menue.png)
 
@@ -92,7 +92,7 @@ Der Titel sollte immer unterdrückt werden. Autor und Jahr können unterdrückt 
 
 > Gemäss Eco haben Fussnoten auch den Zweck, die Herkunft der Zitate anzugeben (2020, S. 210). Sie können auch Richtigstellungen beinhalten (S. 211)
 
-Um eine Quellenangabe zu löschen, klicke auf __:mdi-dots-vertical:__ und drücke anschliessend die Löschtaste.
+Um eine Quellenangabe zu löschen, klicke auf __:mdi[dotsVertical]__ und drücke anschliessend die Löschtaste.
 
 ## 4. Literaturverzeichnis erstellen
 
@@ -104,4 +104,4 @@ Das Literaturverzeichnis kannst du jederzeit aktualisieren, indem du es anklicks
 
 ![](./literaturverzeichnis.png)
 
-Um das Literaturverzeichnis zu löschen, klicke auf __:mdi-dots-vertical:__ und drücke anschliessend die Löschtaste.
+Um das Literaturverzeichnis zu löschen, klicke auf __:mdi[dotsVertical]__ und drücke anschliessend die Löschtaste.

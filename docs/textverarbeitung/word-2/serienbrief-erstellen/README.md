@@ -40,7 +40,7 @@ Der eigentliche Seriendruck findet in **Word** statt. Also wird nun Word gestart
 
 ## 3 – Seriendruck aktivieren
 
-Um in einem Word-Dokument den Seriendruck zu aktivieren, wird der Menüpunkt __Sendungen__ :mdi-chevron-right: __Seriendruck starten__ ausgewählt:
+Um in einem Word-Dokument den Seriendruck zu aktivieren, wird der Menüpunkt __Sendungen__ :mdi[chevronRight] __Seriendruck starten__ ausgewählt:
 
 ![](./images/start.ms.png)
 
@@ -49,7 +49,7 @@ Anschliessend kann die gewünschte Dokumentart (z.B. Briefe) ausgewählt werden.
 
 ## 4 – Empfänger auswählen
 
-Als nächstes muss die Excel-Tabelle mit den Empfängern ausgewählt werden. Die geschieht über den Menüpunkt __Sendungen__ :mdi-chevron-right: __Empfänger auswählen__ :mdi-chevron-right:  __Vorhandene Liste verwenden...__:
+Als nächstes muss die Excel-Tabelle mit den Empfängern ausgewählt werden. Die geschieht über den Menüpunkt __Sendungen__ :mdi[chevronRight] __Empfänger auswählen__ :mdi[chevronRight]  __Vorhandene Liste verwenden...__:
 
 ![](./images/empfaenger-auswaehlen.ms.png)
 
@@ -58,19 +58,19 @@ Anschliessend kann die gewünschte Excel-Datei mit den Adressen ausgewählt werd
 
 ## 5 – Seriendruckfelder einfügen
 
-Nun können die Spalten aus der Excel-Tabelle als **Seriendruckfelder** eingefügt werden. Unter dem Menüpunkt __Sendungen__ :mdi-chevron-right: __Seriendruckfeld einfügen__ steht eine Liste aller vorhandenen Spalten zu Verfügung:
+Nun können die Spalten aus der Excel-Tabelle als **Seriendruckfelder** eingefügt werden. Unter dem Menüpunkt __Sendungen__ :mdi[chevronRight] __Seriendruckfeld einfügen__ steht eine Liste aller vorhandenen Spalten zu Verfügung:
 
 ![](./images/insert-field.ms.png)
 
 
 ## 6 – Vorschau aktivieren
 
-Mit dem Menüpunkt __Sendungen__ :mdi-chevron-right: __Vorschau Ergebnisse__ kann die Vorschau ein- und ausgeschaltet werden. So kann überprüft werden, wie die fertigen Dokumente für jeden einzelnen Empfänger aussehen werden.
+Mit dem Menüpunkt __Sendungen__ :mdi[chevronRight] __Vorschau Ergebnisse__ kann die Vorschau ein- und ausgeschaltet werden. So kann überprüft werden, wie die fertigen Dokumente für jeden einzelnen Empfänger aussehen werden.
 
 ![](./images/preview.ms.png)
 
 ## 7 – Drucken
 
-Mit dem Menüpunkt __Sendungen__ :mdi-chevron-right: __Fertig stellen und zusammenführen__ kann der fertige Serienbrief gedruckt werden:
+Mit dem Menüpunkt __Sendungen__ :mdi[chevronRight] __Fertig stellen und zusammenführen__ kann der fertige Serienbrief gedruckt werden:
 
 ![](./images/print.ms.png)

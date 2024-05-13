@@ -12,7 +12,7 @@ draft: false
 
 
 
-:::tip Passwort-Check
+:::tip[Passwort-Check]
 Auf der Seite https://howsecureismypassword.net/ können Sie Ihre Passwörter testen. Sie erhalten eine Schätzung zur Sicherheit Ihres Passwortes. Ihre Passwörter werden dabei **nicht** übers Internet übertragen, die Berechnung findet auf dem eigenen PC statt.
 :::
 
@@ -27,6 +27,6 @@ Ideal ist folgendes Vorgehen
 
 ## Absolutes Minimum
 Auf folgenden Seiten sind individuelle Passwörter (= die nirgends sonst gebraucht werden) **unerlässlich**:
-- :mdi-email: E-Mail-Konten
-- :mdi-cash: Geldinstitute (Banken, Paypal, ...)
-- :mdi-medical-bag: Gesundheit (Krankenkassen-Login, ...)
+- :mdi[email] E-Mail-Konten
+- :mdi[cash] Geldinstitute (Banken, Paypal, ...)
+- :mdi[medicalBag] Gesundheit (Krankenkassen-Login, ...)

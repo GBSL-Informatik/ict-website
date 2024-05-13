@@ -16,7 +16,7 @@ draft: true
 
 ## Beschriftung einfügen
 
-Du wählst das Bild aus, dann machst du entweder einen Rechtsklick darauf und wählst __Beschriftung einfügen…__ oder du gehst über das Menu __Einfügen__ :mdi-chevron-right: __Beschriftung…__. Bei Tabellen funktioniert nur der Weg über das Menu. Das folgende Fenster erscheint:
+Du wählst das Bild aus, dann machst du entweder einen Rechtsklick darauf und wählst __Beschriftung einfügen…__ oder du gehst über das Menu __Einfügen__ :mdi[chevronRight] __Beschriftung…__. Bei Tabellen funktioniert nur der Weg über das Menu. Das folgende Fenster erscheint:
 
 ![Beschriftung einfügen](./images/beschriftung-einfuegen.lo.png)
 

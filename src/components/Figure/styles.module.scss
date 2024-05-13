@@ -1,6 +1,7 @@
 .figure {
   text-align: center;
   margin: 0 auto;
+  margin-bottom: 1em;
   width: fit-content;
   figcaption {
     font-style: italic;
@@ -9,6 +10,9 @@
     align-items: baseline;
     flex-wrap: wrap;
     gap: 0.2em;
+    line-height: 1em;
+    margin-top: 0.5em;
+    margin-bottom: 0.5em;
   }
 }
 

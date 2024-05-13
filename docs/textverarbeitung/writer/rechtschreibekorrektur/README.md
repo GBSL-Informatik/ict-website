@@ -29,7 +29,7 @@ Alle Wörter, die *LibreOffice* als falsch geschrieben interpretiert, werden rot
 * «Área Metropolitana» wird natürlich als falsch erkannt, weil es nicht deutsche Wörter sind. Entweder stellst du die Sprache für die beiden Wörter auf Spanisch, oder du ignorierst die Rechtschreibeprüfung für sie.
 
 ## Thesaurus
-Neben der Rechtschreibung bietet *LibreOffice* unter __Extras__ :mdi-chevron-right: __Thesaurus__ einen Thesaurus an. Dieser schlägt Synonyme für Wörter vor, welche wie Rechtschreibekorrekturen einfach übernommen werden können.
+Neben der Rechtschreibung bietet *LibreOffice* unter __Extras__ :mdi[chevronRight] __Thesaurus__ einen Thesaurus an. Dieser schlägt Synonyme für Wörter vor, welche wie Rechtschreibekorrekturen einfach übernommen werden können.
 
 !["Benutzerdefinierte Anführungszeichen verwenden"](./images/thesaurus.lo.png)
 

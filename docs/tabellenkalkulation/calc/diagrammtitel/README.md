@@ -20,6 +20,6 @@ Der Diagramm-Modus erkennt man an der veränderten Menüleiste.
 
 ![](./images/diagram-title.lo.png)
 
-Wähle nun den Menüpunkt __Einfügen__ :mdi-chevron-right: __Titel__ aus. Es erscheint ein Dialog, in welchem der Diagrammtitel eingegeben werden kann.
+Wähle nun den Menüpunkt __Einfügen__ :mdi[chevronRight] __Titel__ aus. Es erscheint ein Dialog, in welchem der Diagrammtitel eingegeben werden kann.
 
 Durch das Ziehen am Rahmen des Titels kann dieser positioniert und in seiner Grösse angepasst werden.

@@ -18,7 +18,7 @@ Die Folienmaster-Ansicht ermöglicht es dir, **Vorlage-Folien** mit dem Design e
 
 
 ## Folienmaster anzeigen
-Den Folienmaster findest du unter __Ansicht__ :mdi-chevron-right: __Folienmaster__.
+Den Folienmaster findest du unter __Ansicht__ :mdi[chevronRight] __Folienmaster__.
 
 ![](./images/folienmaster-anzeigen.lo.png)
 

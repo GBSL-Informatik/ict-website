@@ -12,7 +12,7 @@ draft: false
 
 
 
-:::warning Das Wichtigste zuerst:
+:::warning[Das Wichtigste zuerst:]
 a. Es ist entscheidend, **dass** regelmässig Backups gemacht werden, die gewählte Methode ist dabei zweitrangig.
 b. Wichtig: **Backups separat lagern** (nicht am Computer angeschlossen und nicht im gleichen Raum).
 :::
@@ -26,7 +26,7 @@ Daten, die in der Cloud gespeichert werden, sind in der Regel relativ gut vor Da
 ## Backup der PC-Daten
 Es gibt viele Wege, die Daten auf einem PC zu sichern. Grundsätzlich kann man zwischen Backups auf ein externes Speichermedium und solchen auf einen Netzwerk- oder Cloudspeicher unterscheiden.
 
-:::tip Empfehlung
+:::tip[Empfehlung]
 Eine gute Lösung ist die Software **Duplicati** (https://www.duplicati.com/, Anleitung siehe unten), die folgende Vorteile bietet:
 :::
 
@@ -45,7 +45,7 @@ In einem Notfall können die Daten ...
 - ... von einem beliebigen, verfügbaren Backupstand,
 - ... an eine beliebige Stelle wiederhergestellt werden.
 
-:::danger Achtung
+:::danger[Achtung]
 Die häufig verwendete Methode, die wichtigen Daten regelmässig *von Hand auf einer externen Festplatte* zu speichern, birgt etliche Gefahren:
 :::
 

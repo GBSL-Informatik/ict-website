@@ -39,7 +39,7 @@ Wenn Sie beim Surfen lieber keine Werbung sehen möchten, empfehlen wir, den Ad-
 
     ![](./firefox-menu.png)
 
-2. Tippe bei _Weitere Add-ons finden_ das Wort **ublock** ein und drücke die Eingabetaste [[:mdi-keyboard-return:]].
+2. Tippe bei _Weitere Add-ons finden_ das Wort **ublock** ein und drücke die Eingabetaste [[:mdi[keyboardReturn]]].
 
     ![](./firefox-ublock-1.png)
 

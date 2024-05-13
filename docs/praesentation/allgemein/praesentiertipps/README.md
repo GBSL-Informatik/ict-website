@@ -31,7 +31,7 @@ Eine Präsentation kannst du mit dem Tastaturkürzel [[F5]] starten. Das geht sc
 Um eine Präsentation zu unterbrechen, drückst du [[Esc]]. Dadurch wechselt die Anzeige ins normale Programm-Fenster. Wenn du die Präsentation weiterführen möchtest, dann stellst du sicher im Programm-Fenster die entsprechende Folie ausgewählt ist und startest die Präsentation von dieser Folie. Am einfachsten geht das mit [[Shift]] + [[F5]].
 
 ## Präsentation pausieren
-Wenn du etwas diskutieren und einfach die Präsentation ausblenden möchtest, dann kannst du den Bildschirm entweder in der **Referentenansicht oder im Kontextmenu** beim Rechtsklick schwarz (__Bildschirm__ :mdi-chevron-right: __schwarz__ oder __Präsentation ausblenden__) oder weiss (__Bildschirm__ :mdi-chevron-right: __weiss__) schalten.
+Wenn du etwas diskutieren und einfach die Präsentation ausblenden möchtest, dann kannst du den Bildschirm entweder in der **Referentenansicht oder im Kontextmenu** beim Rechtsklick schwarz (__Bildschirm__ :mdi[chevronRight] __schwarz__ oder __Präsentation ausblenden__) oder weiss (__Bildschirm__ :mdi[chevronRight] __weiss__) schalten.
 
 Noch einfacher klappt das mit der **Tastatur**: Drücke [[W]] für weiss oder [[B]] für schwarz (*black*).
 Bei den meisten Beamern kannst du direkt mit der **Beamerfernbedienung** den Beamer auf schwarz stellen, oder alternativ ein Standbild aktivieren. Dies hat den zusätzlichen Vorteil, dass du etwas ändern oder vorbereiten kannst, ohne dass die Leute die Arbeit am Beamer nachverfolgen können.

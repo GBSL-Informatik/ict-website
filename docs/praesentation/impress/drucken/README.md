@@ -14,11 +14,11 @@ draft: true
 
 
 
-Dei erstellte Präsentation kannst du in diversen Formaten ausdrucken. Über __Datei__ :mdi-chevron-right: __Drucken__ oder [[Ctrl]] + [[P]] rufst du das Druck-Fenster auf:
+Dei erstellte Präsentation kannst du in diversen Formaten ausdrucken. Über __Datei__ :mdi[chevronRight] __Drucken__ oder [[Ctrl]] + [[P]] rufst du das Druck-Fenster auf:
 
 ![Handzettel drucken](./images/drucken.lo.png)
 
-Bei __Ausdruck__ :mdi-chevron-right: __Dokument__ kann ausgewählt werden zwischen Folien, Handzettel, Notizen und Gliederung.
+Bei __Ausdruck__ :mdi[chevronRight] __Dokument__ kann ausgewählt werden zwischen Folien, Handzettel, Notizen und Gliederung.
 
 ![Folien, Handzettel, Notizen, Gliederung](./images/drucken-varianten.png)
 

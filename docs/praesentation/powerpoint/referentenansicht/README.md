@@ -13,7 +13,7 @@ draft: true
 
 
 
-:::warning Warnung
+:::warning[Warnung]
 Um die Referentenansicht zu verwenden, benötigst du mindestens zwei Bildschirme, resp. einen Bildschirm (eingebaut oder extern) und einen Projektor. Zudem müssen diese in der Einstellung «Erweiterter Desktop» betrieben werden. (siehe Tipp [Zwei Bildschirme](../../allgemein/zwei-bildschirme))
 :::
 

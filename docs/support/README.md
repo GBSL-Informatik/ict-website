@@ -13,7 +13,7 @@ draft: false
 Hast du Probleme mit deinem Konto, kannst du dich nicht mehr anmelden oder Programme nicht mehr installieren, dann schau einmal unter [**Installationsprobleme**](docs\byod\installationsprobleme\README.md), vielleicht findest du da bereits eine Lösung.
 :::
 
-:::info Bist du Schüler:in
+:::info[Bist du Schüler:in]
 
 wendest du dich an:
 
@@ -23,14 +23,14 @@ wendest du dich an:
 
 :::
 
-:::info Bist du eine Lehrperson
+:::info[Bist du eine Lehrperson]
 kannst du hier technische Probleme melden, um die wir uns schnellstmöglich kümmern, aber auch eine Frage, ein Anliegen oder eine Anregung vorbringen zu allem Digitalem, ob es Software oder Didaktik betrifft: 
 
 [**Störungsmeldung**](https://forms.office.com/r/akUrVUFaRu)
 
 :::
 
-:::warning Achtung
+:::warning[Achtung]
 Für folgende Probleme ist der IT-Support **nicht zuständig** und du wendest dich direkt an: 
 
 Druckerprobleme

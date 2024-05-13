@@ -70,7 +70,7 @@ Wenn man sich am Drucker angemeldet hat, sieht man das folgende Menü:
 
 Der USB-Anschluss befindet sich auf der rechten Seite des Geräts.
 
-:::warning Wichtig
+:::warning[Wichtig]
 Es können nur PDF-Dokumente ab dem USB-Speicherstick gedruckt werden. Andere Dokumenttypen müssen direkt ab PC/Notebook gedruckt werden.
 :::
 
@@ -122,7 +122,7 @@ Es besteht die Möglichkeit, am Kopiergerät (auf der rechten Seite) einen USB-S
 
 Man hat die Möglichkeit, direkt ab USB-Stick zu drucken. 
 
-:::warning Wichtig
+:::warning[Wichtig]
 Es wird ausschliesslich das Drucken von PDF-Dokumenten unterstützt! Das Drucken von Worddateien und anderen Dateitypen ist nicht möglich! Die Dateien werden zwar angezeigt und können ausgewählt werden, allerdings erscheint beim Drucken eine Fehlermeldung.
 :::
 
@@ -216,7 +216,7 @@ Unter Windows kann der Druckdialog in einem PDF-Programm (z.B. Adobe Reader) ode
 
 ### Broschürendruck macOS
 
-:::warning Voraussetzung
+:::warning[Voraussetzung]
 Um den Broschürendruck in macOS machen zu können, muss der Drucker _DruckerKopierraum_ gemäss folgender Anleitung hinzugefügt werden:
 https://ict.mygymer.ch/byod/macos/drucker/#druckerkopierraum-hinzufugen
 :::
@@ -254,13 +254,13 @@ Unter macOS kann der Druckdialog in einem PDF-Programm (z.B. Adobe Reader) oder 
 
 Dank dem Posterdruck können Seiten in Übergrösse auf mehrere Blätter aufgeteilt gedruckt werden. Die Blätter werden anschliessend von Hand zugeschnitten und zusammengeklebt. So lassen sich grossformatige Poster auch ohne Plotter herstellen. Die Drucker _DruckerAllgemein_ und _DruckerKopierraum_ bieten die Möglichkeit, auf A3 zu drucken. Die folgende Anleitung beschreibt den Posterdruck eines Motivs auf das Format A1(entspricht 4 A3-Seiten). 
 
-:::warning Auflösung
+:::warning[Auflösung]
 Wenn beim Erstellen des Posters klar ist, dass dieses später im Format A1 gedruckt werden soll, dann sollten die Seitengrösse im Programm entsprechend auf A1 eingestellt werden, resp. eine hohe Pixelauflösung für die Bilder gewählt werden. Andernfalls könnten Text und Bilder beim Vergrössern verpixelt dargestellt werden. 
 :::
 
 1. Das Motiv als PDF abspeichern und in einem beliebigen Programm öffnen
 
-2. Mit [[:mdi-microsoft-windows:]]+ P den Druckdialog öffnen
+2. Mit [[:mdi[microsoftWindows]]]+ P den Druckdialog öffnen
 
 3. Den _DruckerAllgemein_ oder _DruckerKopierraum_ wählen
 

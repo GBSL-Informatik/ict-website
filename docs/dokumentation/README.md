@@ -45,7 +45,7 @@ Aus den `README.md` werden dann `index.html` und aus allen anderen `md`-Dateien 
 ### GUI-Elemente
 
 * Hinweis: im Tab _Einstellungen_
-* Bedienung: Wähle den Menüpunkt __Datei__ :mdi-chevron-right: __Öffnen__
+* Bedienung: Wähle den Menüpunkt __Datei__ :mdi[chevronRight] __Öffnen__
 * Bedienung: Klicke auf __Akzeptieren__.
 
 ``` markdown
@@ -61,9 +61,9 @@ Wir verwenden «Guillemets»
 #### OSX
 
 OsX «
-: [[Option :mdi-apple-keyboard-option:]] + [[,]]
+: [[Option :mdi[appleKeyboardOption]]] + [[,]]
 »
-: [[Shift :mdi-apple-keyboard-shift:]] + [[Option :mdi-apple-keyboard-option:]] + [[,]]
+: [[Shift :mdi[appleKeyboardShift]]] + [[Option :mdi[appleKeyboardOption]]] + [[,]]
 
 ### Bindestrich oder Trennstrich?
 Wir unterscheiden zwischen diesen beiden:

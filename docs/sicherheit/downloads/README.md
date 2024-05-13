@@ -13,7 +13,7 @@ draft: false
 
 
 ## Download-Portale
-Wir raten dringend davon ab, Software von Download-Portalen wie Download.com, Tucows, Softonic, ... herunterzuladen. Meist verändern solche Portale die gewünschte Software so, dass noch zusätzliche Software installiert wird, z.B. Adware <span title="Software, die Werbung anzeigt">:mdi-help-circle:</span>, Spyware <span title="Software, die den Benutzer ausspioniert">:mdi-help-circle:</span>, Malware <span title="Software, die Schaden anrichtet">:mdi-help-circle:</span>, Bloatware <span title="Software, die ohne sinnvollen Zweck das System 'aufbläst'">:mdi-help-circle:</span>, ...
+Wir raten dringend davon ab, Software von Download-Portalen wie Download.com, Tucows, Softonic, ... herunterzuladen. Meist verändern solche Portale die gewünschte Software so, dass noch zusätzliche Software installiert wird, z.B. Adware <span title="Software, die Werbung anzeigt">:mdi[helpCircle]</span>, Spyware <span title="Software, die den Benutzer ausspioniert">:mdi[helpCircle]</span>, Malware <span title="Software, die Schaden anrichtet">:mdi[helpCircle]</span>, Bloatware <span title="Software, die ohne sinnvollen Zweck das System 'aufbläst'">:mdi[helpCircle]</span>, ...
 
 Beachte dazu auch den folgenden Online-Artikel [Download-Portale, die man meiden sollte](https://blog.emsisoft.com/2015/03/11/mind-the-pup-top-download-portals-to-avoid/ "Download-Portale, die man meiden sollte").
 

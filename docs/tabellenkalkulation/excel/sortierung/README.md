@@ -18,7 +18,7 @@ Wähle zuerst den Bereich des Tabellenblatts aus, welcher sortiert werden soll. 
 
 ![](./images/select-table.ms.png)
 
-Anschliessend wird über den Menüpunkt __Start__ :mdi-chevron-right: __Sortieren und Filtern__ :mdi-chevron-right: __Benutzerdefiniertes Sortieren...__ der Dialog «Sortieren» geöffnet.
+Anschliessend wird über den Menüpunkt __Start__ :mdi[chevronRight] __Sortieren und Filtern__ :mdi[chevronRight] __Benutzerdefiniertes Sortieren...__ der Dialog «Sortieren» geöffnet.
 
 ![](./images/sort-menu.ms.png)
 

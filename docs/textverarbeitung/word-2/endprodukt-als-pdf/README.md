@@ -22,7 +22,7 @@ Der grosse Vorteil dabei: PDF-Dokumente können auf allen Systemen dargestellt w
 
 
 ## Wie?
-Du wählst __Datei__ :mdi-chevron-right: __Exportieren__ und klickst auf __PDF/XPS-Dokument erstellen__.
+Du wählst __Datei__ :mdi[chevronRight] __Exportieren__ und klickst auf __PDF/XPS-Dokument erstellen__.
 
 ![Exportieren](./images/datei-exportieren.ms.png)
 

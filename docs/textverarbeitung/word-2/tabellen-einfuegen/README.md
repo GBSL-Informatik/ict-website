@@ -17,7 +17,7 @@ draft: true
 
 
 ## Tabellen einfügen
-Du wählst __Einfügen__ :mdi-chevron-right: __Tabelle__, dann kannst du direkt die Anzahl Zeilen und Spalten markieren und die Tabelle wird mit der gewählten Dimension eingefügt.
+Du wählst __Einfügen__ :mdi[chevronRight] __Tabelle__, dann kannst du direkt die Anzahl Zeilen und Spalten markieren und die Tabelle wird mit der gewählten Dimension eingefügt.
 
 ![Tabelle einfügen](./images/tabelle-einfuegen.ms.png)
 

@@ -35,7 +35,7 @@ Du kannst deine E-Mails, Termine und Kontakte mit deinem Android Phone oder Tabl
 
     ![Einstellungen](./gmail-1.png)
 
-2. Drücke auf der Übersichtsseite auf _:mdi-plus: Konto hinzufügen_.
+2. Drücke auf der Übersichtsseite auf _:mdi[plus] Konto hinzufügen_.
 
 3. Wähle _Microsoft Exchange_:
 

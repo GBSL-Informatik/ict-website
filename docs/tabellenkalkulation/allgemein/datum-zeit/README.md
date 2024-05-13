@@ -63,7 +63,7 @@ Bei der Entwicklung von Microsoft Excel ist diese falsche Darstellung aus Kompat
 Bei anderen Programmen wie LibreOffice oder Google Sheets ist als Stichdatum der **30. Dezember 1899** festgelegt worden, so dass die Darstellung ab dem 1. März 1900 mit Excel übereinstimmt, aber dass auch mit Daten davor korrekt gerechent werden kann.
 
 
-:::tip Grundlegendes Konzept
+:::tip[Grundlegendes Konzept]
 Informationen werden als **Zahlen codiert**, damit sie in einem Computer gespeichert und verarbeitet werden können.
 
 **Beispiele**

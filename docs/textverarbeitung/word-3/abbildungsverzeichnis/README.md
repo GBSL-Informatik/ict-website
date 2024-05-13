@@ -21,7 +21,7 @@ Siehe [Beschriftungen](../../word-1/beschriftungen/)
 
 ## Abbildungsverzeichnis erstellen
 
-Um ein Abbildungsverzeichnis zu erstellen, wähle den Menüpunkt __Referenzen__ :mdi-chevron-right: __Abbildungsverzeichnis&nbsp;einfügen__.
+Um ein Abbildungsverzeichnis zu erstellen, wähle den Menüpunkt __Referenzen__ :mdi[chevronRight] __Abbildungsverzeichnis&nbsp;einfügen__.
 
 ![](./menue-beschriftungen.png)
 

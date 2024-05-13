@@ -14,7 +14,7 @@ draft: true
 
 Aufnahmen von einer Audio-CD können als Dateien abgespeichert werden. Die so generierten Audiodateien können anschliessend auf _Teams_ hochgeladen oder per USB-Stick auf einem beliebigen Gerät mit USB-Anschluss (z.B. Notebook) abgespielt werden. Um Audioaufnahmen von einer CD als Datei abzuspeichern, benötigt man ein CD-Rom-Laufwerk.
 
-:::warning Achtung
+:::warning[Achtung]
 Wenn man den Inhalt einer CD am Computer öffnet, erscheinen die darauf enthaltenen cda-Dateien. Diese lassen sich zwar direkt aus dem CD-Ordner kopieren, sind aber nutzlos, da es sich bei cda-Dateien lediglich um Verknüpfungen auf die CD-Inhalte selbst handelt. Um Audiodateien ab CD zu generieren ist ein Programm wie Windwos Media Player nötig! 
 :::
 

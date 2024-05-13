@@ -25,15 +25,15 @@ Vermeiden Sie das unnötige Versenden von Office-Dokumenten. Meist ist nämlich 
 
 
 **Dateitypen, die problemlos verschickt werden dürfen**
-:mdi-file-pdf-box: PDF-Dateien
-:mdi-file-image: Bildformate wie JPG, PNG
+:mdi[filePdfBox] PDF-Dateien
+:mdi[fileImage] Bildformate wie JPG, PNG
 
 **Dateitypen, die man vermeiden sollte**
-:mdi-file-code: Script-Dateien wie JS, CMD, BAT
-:mdi-file: Programmdateien wie EXE, SCR
-:mdi-file-word: DOC- oder DOCM-Dateien
-:mdi-file-excel:XLS- oder XLXM-Dateien
-:mdi-file-powerpoint: PPT- oder PPTM-Dateien
+:mdi[fileCode] Script-Dateien wie JS, CMD, BAT
+:mdi[file] Programmdateien wie EXE, SCR
+:mdi[fileWord] DOC- oder DOCM-Dateien
+:mdi[fileExcel]XLS- oder XLXM-Dateien
+:mdi[filePowerpoint] PPT- oder PPTM-Dateien
 
 
 ## Spezialfall: ZIP-Dateien

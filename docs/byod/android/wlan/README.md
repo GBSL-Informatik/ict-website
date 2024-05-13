@@ -20,14 +20,14 @@ Leider können wir für Android (noch) keine automatische Installation anbieten.
 1. Lade das Schul-Zertifikat herunter.
 
    :::tip
-   Dieser Schritt ist ab Android 11 **unumgänglich** und für Android <= 10 ebenfalls empfohlen.
+   Dieser Schritt ist ab Android 11 **unumgänglich** und für Android \<= 10 ebenfalls empfohlen.
    :::
 
    ![QR-Code für den Download der Schul-Zertifikats](./qr-code-cert.svg)
 
    Alternativ kann das Zertifikat auch unter folgender Adresse heruntergeladen werden:
 
-   [:mdi-download: WLAN-Zertifikat Gymnasium Kirchenfeld][1]
+   [:mdi[download] WLAN-Zertifikat Gymnasium Kirchenfeld][1]
 
    [1]: http://media.mygymer.ch/wifi/Gymnasium_Kirchenfeld_Root_X1.crt
 

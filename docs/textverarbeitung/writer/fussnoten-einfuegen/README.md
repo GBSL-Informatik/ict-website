@@ -21,7 +21,7 @@ Fussnoten dienen dazu, Erklärungen zu einem Begriff im Text zu liefern, ohne da
 Wie kann ich Anmerkungen in einem Dokument in Form von Fussnoten hinzufügen?
 
 
-Fussnoten können über das Menu __Einfügen__ :mdi-chevron-right: __Fuss-/Endnote__ eingefügt werden. **Fussnoten** werden am Seitenende dargestellt, während **Endnoten** gesammelt am Ende des Dokumentes aufgeführt werden.
+Fussnoten können über das Menu __Einfügen__ :mdi[chevronRight] __Fuss-/Endnote__ eingefügt werden. **Fussnoten** werden am Seitenende dargestellt, während **Endnoten** gesammelt am Ende des Dokumentes aufgeführt werden.
 
 ![Fussnoten einfügen über Menu](./images/fussnoten-einfuegen.lo.png)
 

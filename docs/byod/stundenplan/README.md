@@ -15,7 +15,7 @@ draft: false
 
 :::flex
 ![Für Android-Smartphones--width=305px--height=305px](./untisandroid.png)
-***
+::br
 ![Für iPhones--width=280p--height=280px](./untisios.png)
 :::
 

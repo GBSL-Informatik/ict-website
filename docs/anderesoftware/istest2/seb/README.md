@@ -30,7 +30,7 @@ Folgende Betriebssysteme werden unterstützt:
   * macOS 10.11, 10.12, 10.13, 10.14, 10.15, 11, 12
   * iOS / iPadOS 11 und neuer
 
-:::warning Achtung: 
+:::warning[Achtung: ]
 Mac-User sollten wenn möglich nicht den Safaribrowser verwenden, da die Verwendung des SEB unter Safari je nachdem zu Problemen führen kann (z.B. dass der Browser hängenbleibt). Man sollte stattdessen Firefox installieren und über diesen auf den Test zugreifen.
 :::
   

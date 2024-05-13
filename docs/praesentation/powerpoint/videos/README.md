@@ -15,12 +15,12 @@ draft: true
 
 
 ## Video aus Datei einfügen
-Über __Einfügen__ :mdi-chevron-right: __Video__ :mdi-chevron-right: __Video auf meinem Computer...__ kann eine Video-Datei ausgewählt werden. Der Einfügen-Button bietet mit dem Pfeil eine Option an: Das Video kann entweder in der Präsentations-Datei **integriert** oder **nur verknüpft** werden. Wird das Video nur verknüpft, dann kann Powerpoint das Video nur abspielen, wenn auf dieses zugegriffen werden kann!
+Über __Einfügen__ :mdi[chevronRight] __Video__ :mdi[chevronRight] __Video auf meinem Computer...__ kann eine Video-Datei ausgewählt werden. Der Einfügen-Button bietet mit dem Pfeil eine Option an: Das Video kann entweder in der Präsentations-Datei **integriert** oder **nur verknüpft** werden. Wird das Video nur verknüpft, dann kann Powerpoint das Video nur abspielen, wenn auf dieses zugegriffen werden kann!
 
 ![Video einfügen](./images/video-einfuegen.png)
 
 ## Youtube-Clip einfügen
-Über __Einfügen__ :mdi-chevron-right: __Video__ :mdi-chevron-right: __Onlinevideo...__ kann man direkt Videos auf Youtube suchen oder einen «Einbett-Code» einfügen. Anschliessend wird der Youtube-Clip als Element eingefügt und kann platziert werden. Der Clip spielt natürlich nur, wenn der Computer mit dem Internet verbunden ist und der verlinkte Youtube-Beitrag nicht entfernt wurde. Also unbedingt kurz vor der Präsentation nochmals überprüfen!
+Über __Einfügen__ :mdi[chevronRight] __Video__ :mdi[chevronRight] __Onlinevideo...__ kann man direkt Videos auf Youtube suchen oder einen «Einbett-Code» einfügen. Anschliessend wird der Youtube-Clip als Element eingefügt und kann platziert werden. Der Clip spielt natürlich nur, wenn der Computer mit dem Internet verbunden ist und der verlinkte Youtube-Beitrag nicht entfernt wurde. Also unbedingt kurz vor der Präsentation nochmals überprüfen!
 
 ![Youtube-Video einbetten](./images/youtube.png)
 

@@ -25,7 +25,7 @@ draft: true
 
 ## Versteckte Zeichen anzeigen
 
-Textdokumente enthalten sogenannte Formatierungszeichen. Diese werden nicht standardmässig nicht angezeigt und selbstverständlich auch nicht ausgedruckt, steuern aber den Textfluss. Man kann sich diese versteckten Zeichen zur besseren Orientierung anzeigen lassen: __Ansicht__ :mdi-chevron-right: __¶ Steuerzeichen__ oder [[Ctrl]] + [[F10]]
+Textdokumente enthalten sogenannte Formatierungszeichen. Diese werden nicht standardmässig nicht angezeigt und selbstverständlich auch nicht ausgedruckt, steuern aber den Textfluss. Man kann sich diese versteckten Zeichen zur besseren Orientierung anzeigen lassen: __Ansicht__ :mdi[chevronRight] __¶ Steuerzeichen__ oder [[Ctrl]] + [[F10]]
 
 ![Versteckte Zeichen ein- und ausblenden](./images/screenshot.lo.png)
 
@@ -45,6 +45,6 @@ Eine Auswahl an versteckten Zeichen, die nützlich sein können:
 
 
 ## Versteckte Zeichen einfügen
-Während normale Leerschläge und Tabulatoren mit den entsprechenden Tasten eingetippt werden, braucht es bei Zeilenumbrüchen bereits eine Tastenkombination, nämlich [[Shift]] + [[Return]]. Einige weitere Steuerzeichen können über das Menu __Einfügen__ :mdi-chevron-right: __Formatierungszeichen__ eingefügt werden. Natürlich existieren auch für diese Zeichen Tastenkombinationen.
+Während normale Leerschläge und Tabulatoren mit den entsprechenden Tasten eingetippt werden, braucht es bei Zeilenumbrüchen bereits eine Tastenkombination, nämlich [[Shift]] + [[Return]]. Einige weitere Steuerzeichen können über das Menu __Einfügen__ :mdi[chevronRight] __Formatierungszeichen__ eingefügt werden. Natürlich existieren auch für diese Zeichen Tastenkombinationen.
 
 ![Formatierungszeichen einfügen](./images/einfuegen.lo.png)
