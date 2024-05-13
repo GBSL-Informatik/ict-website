@@ -12,7 +12,7 @@ draft: false
 
 **Eine vielbenötigte Website als App auf dem Startbildschirm oder auf der Taskleiste ablegen.**
 
-:::details Kontext: Störungsmeldung, ICT
+:::details[Kontext: Störungsmeldung, ICT]
 Für Lehrpersonen
 Vielleicht hast du im Unterricht keine Zeit gefunden, eine Störungsmeldung abzusenden, aber jetzt hättest du Zeit, es ist aber nirgends ein QR-Code-Kleber zu finden und wo der Link zu suchen ist für das Formular, ist auch nicht ersichtlich. 
 

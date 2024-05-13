@@ -12,7 +12,7 @@ draft: false
 
 
 
-:::tip Passwort-Check
+:::tip[Passwort-Check]
 Auf der Seite https://howsecureismypassword.net/ können Sie Ihre Passwörter testen. Sie erhalten eine Schätzung zur Sicherheit Ihres Passwortes. Ihre Passwörter werden dabei **nicht** übers Internet übertragen, die Berechnung findet auf dem eigenen PC statt.
 :::
 

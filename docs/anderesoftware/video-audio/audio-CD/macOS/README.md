@@ -14,7 +14,7 @@ draft: true
 
 Aufnahmen von einer Audio-CD können als Dateien abgespeichert werden. Die so generierten Audiodateien können anschliessend auf _Teams_ hochgeladen oder per USB-Stick auf einem beliebigen Gerät mit USB-Anschluss (z.B. Notebook) abgespielt werden. Um Audioaufnahmen von einer CD als Datei abzuspeichern, benötigt man ein CD-Rom-Laufwerk.
 
-:::warning Achtung
+:::warning[Achtung]
 Wenn man den Inhalt einer CD am Mac öffnet, erscheinen die darauf enthaltenen aiff-Dateien. Diese lassen sich zwar direkt aus dem CD-Ordner kopieren, sind aber nicht mit jedem Audioprogramm abspielbar. Wir empfehlen deshalb, die Dateien anhand der hier präsentierten Anleitung als mp3-Dateien zu speichern. 
 :::
 

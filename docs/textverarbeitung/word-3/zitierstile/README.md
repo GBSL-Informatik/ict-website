@@ -23,7 +23,7 @@ In Word kann der Zitierstil im Menü __Referenzen__ im Menübereich _Zitate und 
 
 ## Zitierstile installieren
 
-:::warning Wichtig
+:::warning[Wichtig]
 Diese Installationsanleitung gilt nur für **Microsoft 365**, nicht für ältere Word-Versionen.
 
 Nach der Installation muss Word unbedingt neu gestartet werden, damit die neuen Zitierstile erkannt werden.

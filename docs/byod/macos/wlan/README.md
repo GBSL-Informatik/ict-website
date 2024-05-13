@@ -21,7 +21,7 @@ Mit der automatischen Installation wird ein allfällig vorhandenes, falsch konfi
 
 [1]: https://enterprise-wifi.net/?idp=572&profile=332
 
-:::warning E-Mail-Adresse
+:::warning[E-Mail-Adresse]
 Beim neuen Netzwerk __gymKIRCHENFELD__ bitte die **Schul-E-Mail-Adresse** in das Feld __Benutzername__ eintragen!
 :::
 

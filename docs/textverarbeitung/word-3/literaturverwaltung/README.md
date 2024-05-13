@@ -72,7 +72,7 @@ Je nach Quellentyp müssen weitere Felder erfasst werden. Unter [Quellen erfasse
 
 ## 3. Quellenangaben einfügen
 
-:::warning Hinweis
+:::warning[Hinweis]
 In Word werden Quellenangaben fälschlicherweise als «Zitate» bezeichnet.
 :::
 

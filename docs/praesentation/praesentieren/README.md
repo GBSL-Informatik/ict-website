@@ -30,7 +30,7 @@ Schaue dir die folgenden 5 Folien an und besprich mit deinem Pultnachbar, was an
 Durch das Hintergrundbild und den kleinen hellen Text, lässt sich der Titel fast nicht lesen. Der Kontrast ist viel zu schlecht und der Text zu klein.
 :::
 
-:::flex --class=slides
+:::flex[--class=slides]
 ![Folie 1 --zoom --width=80%](./images/lima-schlecht/Slide1.jpg)
 :::
 ### Folie 2
@@ -40,7 +40,7 @@ Auch hier gibt es Probleme mit dem Kontrast: Das relativ dunkle Blau des Hinterg
 Beim Text handelt es sich um ganze Sätze, wie sie in einem Artikel stehen. So dienen Sie nicht der Unterstützung des Vortragenden und es besteht die Gefahr, dass dieser die Sätze genauso vorliest, wie sie auf der Folie stehen.
 :::
 
-:::flex --class=slides
+:::flex[--class=slides]
 ![--zoom --width=80%](./images/lima-schlecht/Slide2.jpg)
 :::
 ### Folie 3
@@ -48,7 +48,7 @@ Beim Text handelt es sich um ganze Sätze, wie sie in einem Artikel stehen. So d
 In der Tabelle stehen viele Zahlen, die evtl. nicht so gut gelesen werden können. Unter der Temperatur können sich die Zuhörer etwas vorstellen, aber beim Niederschlag fehlen Vergleichsmöglichkeiten, da die meisten Leute wohl nicht wissen, ob 5mm viel oder wenig Niederschlag sind.
 :::
 
-:::flex --class=slides
+:::flex[--class=slides]
 ![--width=80% --zoom](./images/lima-schlecht/Slide3.jpg)
 :::
 
@@ -57,7 +57,7 @@ In der Tabelle stehen viele Zahlen, die evtl. nicht so gut gelesen werden könne
 Die animierte Peru-Flagge unterstützt den Inhalt nicht, sondern lenkt davon ab. Die Aufzählungspunkte sind sehr textlastig und wirken etwas langweilig.
 :::
 
-:::flex --class=slides
+:::flex[--class=slides]
 ![--width=80% --zoom](./images/lima-schlecht/Slide4.jpg)
 :::
 
@@ -66,7 +66,7 @@ Die animierte Peru-Flagge unterstützt den Inhalt nicht, sondern lenkt davon ab.
 Die Bilder sind sehr klein und man erkennt nicht viel. Zudem hat es verschiedene Schriftarten in den Bildunterschriften und die Ausrichtung ist nicht überall gleich. Die Animationen beim Erscheinen der einzelnen Bilder sind übertrieben.
 :::
 
-:::flex --class=slides
+:::flex[--class=slides]
 ![--width=80% --zoom](./images/lima-schlecht/Slide5.jpg)
 :::
 
@@ -147,7 +147,7 @@ Beachtet man die [Präsentationsregeln](#prasentationsregeln) und überarbeitet 
 Der Titel wurde mit einem weissen, halb-transparenten Rechteck hinterlegt. Dadurch wird der Kontrast zum Hintergrundbild erhöht. Die Schriftgrösse des Titels wurde erhöht.
 :::
 
-:::flex --class=slides
+:::flex[--class=slides]
 ![Folie 1 --zoom](./images/lima-schlecht/Slide1.jpg)
 ::br
 ![Folie 1 überarbeitet --zoom](./images/lima-besser/Slide01.jpg)
@@ -160,7 +160,7 @@ Der Kontrast wurde mit einem helleren Hintergrund und durchgängig schwarzem Tex
 Aber: Sind diese Angaben alle wichtig? Bräuchte man nicht einen Vergleich, um etwas damit anfangen zu können?
 :::
 
-:::flex --class=slides
+:::flex[--class=slides]
 ![Folie 2 --zoom](./images/lima-schlecht/Slide2.jpg)
 ::br
 ![Folie 2 überarbeitet --zoom](./images/lima-besser/Slide02.jpg)
@@ -173,7 +173,7 @@ Anstelle der unübersichtlichen Tabelle wurde der Sachverhalt grafisch mit einem
 Aber: Was ist die Kernaussage? Lassen sich die beiden Diagramme gut vergleichen? Wo regnet es im September mehr?
 :::
 
-:::flex --class=slides
+:::flex[--class=slides]
 ![Folie 3 --zoom](./images/lima-schlecht/Slide3.jpg)
 ::br
 ![Folie 3 überarbeitet --zoom](./images/lima-besser/Slide03.jpg)
@@ -186,7 +186,7 @@ Die Ereignisse werden statt mit Aufzählungspunkten in einer Zeitachse grafisch 
 Aber: Ist das nicht zu viel für eine Folie? Müsste man mehrere Folien machen? Was bedeuten die kleinen schwarzen, horizontal angeordneten Pfeile?
 :::
 
-:::flex --class=slides
+:::flex[--class=slides]
 ![Folie 4 --zoom](./images/lima-schlecht/Slide4.jpg)
 ::br
 ![Folie 4 überarbeitet --zoom](./images/lima-besser/Slide04.jpg)
@@ -200,13 +200,13 @@ Aber: Sagen diese Bilder etwas aus? Entsteht daraus ein Eindruck/ein Mehrwert f�
 :::
 
 
-:::flex --minWidth=150px --class=slides
+:::flex[--minWidth=150px --class=slides]
 ![Folie 5 --zoom](./images/lima-schlecht/Slide5.jpg)
 ::br
 ![Folie 5 überarbeitet --zoom](./images/lima-besser/Slide05.jpg)
 :::
 
-:::flex --minWidth=150px --class=slides
+:::flex[--minWidth=150px --class=slides]
 ![Folie 6 hinzugefügt --zoom](./images/lima-besser/Slide06.jpg)
 ::br
 ![Folie 7 hinzugefügt --zoom](./images/lima-besser/Slide07.jpg)
@@ -250,7 +250,7 @@ Statt nur einer Titelfolie, folgt eine zweite Folie. Diese zeigt ein persönlich
 Interessanter Start
 :::
 
-:::flex --class=slides
+:::flex[--class=slides]
 ![ --zoom](./images/lima-noch-besser/Slide1.jpg "Folie 1")
 ::br
 ![ --zoom](./images/lima-noch-besser/Slide2.jpg "Folie 2 hinzugefügt")
@@ -263,7 +263,7 @@ Die Höhe über Meer wurde als unwichtig weggelassen. Die Einwohnerzahl wird nic
 Zahlen nicht nackt, sondern eingeordnet
 :::
 
-:::flex --class=slides
+:::flex[--class=slides]
 ![ --zoom](./images/lima-besser/Slide02.jpg "Folie alt")
 ::br
 ![ --zoom](./images/lima-noch-besser/Slide3.jpg "Folie überarbeitet")
@@ -277,7 +277,7 @@ Eine Aussage pro Folie
 :::
 
 
-:::flex --class=slides
+:::flex[--class=slides]
 ![Folie 3 --zoom](./images/lima-besser/Slide03.jpg)
 ::br
 ![Folie überarbeitet --zoom](./images/lima-noch-besser/Slide4.jpg)
@@ -291,7 +291,7 @@ Mehr wissen, als auf der Folie steht
 :::
 
 
-:::flex --class=slides
+:::flex[--class=slides]
 ![Folie 4 --zoom](./images/lima-besser/Slide04.jpg)
 ::br
 ![Folie überarbeitet --zoom](./images/lima-noch-besser/Slide5.jpg)
@@ -304,7 +304,7 @@ Statt mehreren, nicht viel aussagenden Bildern, wird ein Bild gezeigt und der Bo
 Klarer Schluss
 :::
 
-:::flex --class=slides
+:::flex[--class=slides]
 ![Folie 5 --zoom](./images/lima-besser/Slide05.jpg)
 ::br
 ![Schlussfolie --zoom](./images/lima-noch-besser/Slide6.jpg)

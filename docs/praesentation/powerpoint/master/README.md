@@ -32,7 +32,7 @@ Für jedes Folienlayout (z.B. Titelfolie, Aufzählung, Zwei Inhalte, ...) existi
 
 ![Layoutvorlagen im Folienmaster](./images/verschiedene-layoutvorlagen.png)
 
-:::warning Wichtig zu wissen
+:::warning[Wichtig zu wissen]
 Ganz zu oberst gibt es eine übergeordnete Vorlage, den sogenannten **Master**. Er wird etwas grösser dargestellt als die Layoutvorlagen. Alle hier vorgenommenen Einstellungen wirken sich sofort auf sämtliche untergeordneten Layoutvorlagen aus. Die meisten Änderungen sollten also am Master vorgenommen werden (Schriftart, -grösse, -farbe, Hintergrund, Logo, ...).
 :::
 

@@ -83,7 +83,7 @@ Nun öffnet sicht ein Login-Dialog von Microsoft und fordert zur Passworteingabe
 
 Sobald du das Gutzeichen bei **Konto aktivieren und synchronisieren** setzt, erscheinen unten die verfügbaren Kalender, Adressbücher und Aufgaben. Markiere diejenigen, die du synchronisieren möchtest.
 
-:::warning Achtung
+:::warning[Achtung]
 
 Denke unbedingt daran, die gewünschte Synchronisationsperiode (z.B. `30` Minuten) einzutragen), sonst erfolgt die Synchronisation in Zukunft nicht automatisch!
 :::

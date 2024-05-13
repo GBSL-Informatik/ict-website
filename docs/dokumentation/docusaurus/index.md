@@ -16,7 +16,7 @@ sidebar_custom_props:
 - [VS Code](https://code.visualstudio.com/) Ein Texteditor für das Schreiben und Hinzufügen der Webseiteninhalte
 - [GitHub Account](https://github.com)
 - [git](https://git-scm.com/) Ein Versionsmanager (wird verwendet um die Seite zu veröffentlichen)
-  :::details Git konfigurieren & SSH-Key erstellen
+  :::details[Git konfigurieren & SSH-Key erstellen]
   Um das Arbeiten mit GitHub zu vereinfachen, kann auf GitHub der öffenliche SSH-Key hinterlegt werden. Dieser wird dann bei jedem Push verwendet, um die Identität zu verifizieren.
 
   ```bash
@@ -45,7 +45,7 @@ sidebar_custom_props:
   :::
 
 - [Node v18+](https://nodejs.org/de/) Eine Javascript-Laufzeitumgebung
-  :::details Empfehlung unter Unix/WSL: NVM (Node Version Manager)
+  :::details[Empfehlung unter Unix/WSL: NVM (Node Version Manager)]
   Mit NVM können mehrere Node Versionen parallel verwendet werden, was praktisch ist, da die Standard-Node-Version des OS dadruch nicht verändert werden muss.
 
   👉 https://github.com/nvm-sh/nvm
@@ -59,7 +59,7 @@ sidebar_custom_props:
   :::
 
 - [yarn](https://classic.yarnpkg.com/lang/en/)  Ein Paketmanager für die Installation von Bibliotheken
-  :::details Installation über die Konsole
+  :::details[Installation über die Konsole]
   ```bash
   npm install --global yarn
   ```
@@ -280,7 +280,7 @@ png to ico
 
 Wer gerne mit SASS arbeitet, kann dies einfach einrichten.
 
-:::details Was ist Sass?
+:::details[Was ist Sass?]
 Sass steht für `Syntactically Awesome Style Sheets` und ermöglicht das effizientere Schreiben von CSS-Code. Sass ist eine Erweiterung von CSS, welche insbesondere die Verwendung von verschachtelten Selektoren ermöglicht. Sass-Code wird in der Dateiendung `.scss` gespeichert. Sass-Code wird in CSS-Code kompiliert, welcher dann im Browser verwendet wird.
 
 Statt CSS-Code wie folgt zu schreiben:
@@ -359,7 +359,7 @@ $$
 yarn add remark-math@3 rehype-katex@5 hast-util-is-element@1.1.0
 ```
 
-:::caution Warnung
+:::caution[Warnung]
 Verwende die oben genannten Versionen. Die aktuellsten Versionen sind nicht mit Docusaurus V2 kompatibel. Wer dennoch eine aktuellere Version von KaTeX braucht, kann diese wie [👉 hier](https://docusaurus.io/docs/markdown-features/math-equations#upgrading-rehype-katex-beyond-recommended-version) beschrieben konfigurieren.
 :::
 

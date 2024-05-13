@@ -53,7 +53,7 @@ Um den Datentyp *Text* zu erzwingen, kann dem Wert ein Apostroph  [[']] voranges
 '1.1.2018
 ```
 
-:::tip Grundlegendes Konzept
+:::tip[Grundlegendes Konzept]
 Daten wird ein **Typ** zugeordnet, um festzulegen, welche **Operationen** mit den Daten möglich sind und wie sich die Daten **verhalten**.
 
 **Beispiele**

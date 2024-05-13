@@ -49,7 +49,7 @@ Diese Methode eignet sich besonders für die Darstellung von **Fotografien**. Au
 
 Da für jedes Pixel ein Farbwert gespeichert werden muss, ist der Platzbedarf von Pixelgrafiken eher gross. Wenn sich die Grösse des Bildes verdoppelt, vervierfacht sich der Platzbedarf. Die folgende Tabelle zeigt den theoretischen Platzbedarf, wenn wie üblich für jedes Pixel drei Byte Speicherplatz verwendet werden:
 
-:::info Theoretischer Platzbedarf für Pixelgrafiken
+:::info[Theoretischer Platzbedarf für Pixelgrafiken]
 | Grösse in Pixel | Grösse | Beschreibung                       |
 |:----------------|:-------|:-----------------------------------|
 | 1080 x 566      | 1.8 MB | Instagram quer                     |

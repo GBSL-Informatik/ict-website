@@ -21,7 +21,7 @@ Netiquette steht für **net** (englisch für Netz oder Internet) und **etiquette
 ## Netiquette
 Bei den folgenden Punkten handelt es sich um einen angepassten Auszug aus *Netiquette Guidelines, Intel Corporation, 1995*, https://www.ietf.org/rfc/rfc1855.txt.
 
-:::tip Grundregeln zum Schreiben von E-Mails
+:::tip[Grundregeln zum Schreiben von E-Mails]
 Zu jeder E-Mail-Nachricht gehört ein **aussagekräftiger Betreff**, eine **angebrachte, persönliche Anrede** sowie eine **Grussformel**.
 :::
 

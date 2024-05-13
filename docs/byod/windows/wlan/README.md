@@ -20,7 +20,7 @@ welches hier heruntergeladen werden kann:
 
 
 
-:::warning E-Mail-Adresse
+:::warning[E-Mail-Adresse]
 Beim neuen Netzwerk __gymKIRCHENFELD__ bitte die **Schul-E-Mail-Adresse** in das Feld __Benutzername__ eintragen!
 :::
 

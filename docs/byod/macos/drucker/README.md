@@ -13,7 +13,7 @@ draft: true
 
 
 
-:::warning macOS-Version
+:::warning[macOS-Version]
 Die Behebung der kritischen Sicherheitslücke *PrintNightmare* hat (nicht nur am Gymnasium Kirchenfeld) zur Folge, dass das Drucken auf Windows-Druckserver mit Macbooks nur noch mit den folgenden macOS-Versionen funktioniert:
 
 - Monterey **>= 12.2.1**

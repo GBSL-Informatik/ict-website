@@ -114,14 +114,14 @@ Eine Dojocat ist ein...
 
 ### Ausrichtung der Elemente: `center`, `start`, `end`
 
-:::flex --alignItems=center
+:::flex[--alignItems=center]
 Eine Dojocat ist ein Maskottchen der Code-Hosting-Website GitHub. Es handelt sich um eine Katze, die ein Karateanzug trägt und somit die Verbindung zu "Dojo" herstellt, einem Ort, an dem man traditionell japanische Kampfkünste studiert. Die Dojocat wurde erstmals 2012 von GitHub-Mitarbeiterin Cameron McEfee entworfen und seitdem in verschiedenen Versionen und mit unterschiedlichen Accessoires präsentiert. Sie ist ein beliebtes Symbol in der Entwicklergemeinschaft und wird oft in Zusammenhang mit Open-Source-Projekten und Programmierwettbewerben verwendet.
 ::br
 ![Dojocat](./images/dojocat.jpg)
 :::
 
 ```md
-:::flex --alignItems=center
+:::flex[--alignItems=center]
 Eine Dojocat ist ein...
 ::br
 ![Dojocat](./images/dojocat.jpg)
@@ -149,7 +149,7 @@ Eine Dojocat ist ein...
 
 ## Details
 
-:::details Klicken für mehr Details
+:::details[Klicken für mehr Details]
 Ein Minion als Überraschung
 ![Minion --width=200px](images/minion.png)
 :::
@@ -161,7 +161,7 @@ Ein Minion als Überraschung
 :::
 
 ```md
-:::details Klicken für mehr Details
+:::details[Klicken für mehr Details]
 Ein Minion als Überraschung
 ![Minion --width=200px](images/minion.png)
 :::
@@ -190,7 +190,7 @@ Some **content** with _markdown_ `syntax`.
 Some **content** with _markdown_ `syntax`.
 :::
 
-:::info Information
+:::info[Information]
 Es kann auch ein angepasster Titel gewählt werden.
 :::
 
@@ -219,7 +219,7 @@ Some **content** with _markdown_ `syntax`.
 Some **content** with _markdown_ `syntax`.
 :::
 
-:::info Information
+:::info[Information]
 Some **content** with _markdown_ `syntax`.
 :::
 

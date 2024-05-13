@@ -14,7 +14,7 @@ draft: false
 
 
 
-:::warning Animationen sollen den Inhalt unterstützen!
+:::warning[Animationen sollen den Inhalt unterstützen!]
 Gehe spärlich mit ihnen um und überlege dir jeweils, ob es diese Animation wirklich braucht!
 :::
 

@@ -15,7 +15,7 @@ draft: true
 
 ## Suchmaschinen
 
-:::warning Einschränkungen
+:::warning[Einschränkungen]
 Suchmaschinen...
 - können nicht alles berücksichtigen :mdi[chevronRight] [Deep Web](https://www.google.ch/search?q=Deep+Web)
 - können beeinflusst werden :mdi[chevronRight] [Search Engine Optimization](https://www.google.ch/search?q=Search+Engine+Optimization)
@@ -87,7 +87,7 @@ Quellen
 : Sind Originalquellen aufgeführt?
 : Können diese überprüft werden (Links)?
 
-:::tip Sichern der Recherchenergebnisse
+:::tip[Sichern der Recherchenergebnisse]
 Haben wir eine qualitativ gute Quelle gefunden, die wir in unsere Arbeit einbeziehen möchten, dann ist es wichtig, dass wir unseren Erfolge sichern. Dazu kopiert man am einfachsten die URL (der Link in der Adressleiste des Browsers) in ein Textdokument.
 :::
 

@@ -10,7 +10,7 @@ draft: false
 
 Für die Einrichtung eines neuen Gerätes wird man während der Ersteinrichtung im Normalfall nach einem Konto gefragt (:mdi[microsoftWindows] > ein Microsoft-Konto, :mdi[apple] > ein Apple-Konto). Verwende hierfür dein **privates Konto** (oder erstelle dir ein neues Konto, wenn du noch keines hast), damit dein Gerät unabhängig von der Schul-Emailadresse funktioniert.
 
-:::danger Nicht mit dem Schul-Konto einrichten!
+:::danger[Nicht mit dem Schul-Konto einrichten!]
 Die Geräte-Einrichtungen erlaubt die Schul-Konten nicht als Login-Konto, da diese von der Schule verwaltet werden.
 ::: 
 

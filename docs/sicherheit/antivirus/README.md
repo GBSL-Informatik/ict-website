@@ -17,7 +17,7 @@ draft: false
 ## Virenschutz
 Installierte und stets aktuell gehaltene Antivirensoftware hilft, das ist unbestritten. Allerdings darf man sich nicht in falscher Sicherheit wiegen, denn häufig werden Benutzer Opfer von Viren, bevor die Hersteller der Antivirensoftware ein Update bereitstellen können. Zudem werden immer wieder tiefgreifende Sicherheitslücken in Antivirenprogrammen selber gefunden.
 
-:::warning Merke
+:::warning[Merke]
 Sicherheit kann man sich nicht einfach erkaufen. Die Sicherheit eines Systems hängt vor allem davon ab, welche Software man einsetzt, ob diese Software aktuell gehalten wird und wie vernünftig man sich im Internet bewegt.
 :::
 
@@ -37,6 +37,6 @@ Die meisten solchen Antiviren-Apps belästigen den Benutzer zudem mit häufigen 
 - :mdi[apple] Für **Mac**-Benutzer ist die Installation einer Antivirensoftware in der Regel nicht nötig.
 - :mdi[linux] Auch unter **Linux** steigern Antivirenprogramme die Sicherheit nicht wesentlich.
 
-:::tip Anmerkung für Interessierte
+:::tip[Anmerkung für Interessierte]
 In letzter Zeit werden immer mehr Stimmen laut, die sich gegen Antivirensoftware (mit Ausnahme des von Microsoft gut ins Windowssystem integrierte Produkt) aussprechen, da in Antivirensoftware selber immer wieder erschreckende Sicherheitslücken entdeckt werden. Zudem würden es die Hersteller der Antivirensoftware den Browsserherstellern schwer machen, die Sicherheit zu erhöhen (https://www.bleepingcomputer.com/news/security/former-mozilla-engineer-disable-your-antivirus-software-except-microsofts/).
 :::

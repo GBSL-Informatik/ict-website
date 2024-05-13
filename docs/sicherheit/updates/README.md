@@ -12,7 +12,7 @@ draft: false
 
 
 
-:::warning Regel
+:::warning[Regel]
 Betriebssystem-Updates (Android, iOS, Windows, Mac OS, ...) sollten stets installiert werden, um die Sicherheit zu gewährleisten.
 Dies gilt ebenso für die am meisten verwendeten Programme, insbesondere **Webbrowser** (Firefox, Chrome, Safari, ...).
 :::

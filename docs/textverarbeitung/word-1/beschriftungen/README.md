@@ -15,7 +15,7 @@ draft: false
 
 ## Beschriftung einfügen
 
-:::warning Achtung
+:::warning[Achtung]
 
 Wenn der _Textumbruch_ des Bildes auf _Mit Text in Zeile_ gestellt ist, wird die Beschriftung in den Fliesstext eingefügt. Das ist normalerweise nicht erwünscht.
 

@@ -82,7 +82,7 @@ Hier wird für typische Quellen erklärt, wie diese in der Literaturverwaltung v
 
 Der Wikipedia-Artikel zu «Zitat» wird folgendermassen erfasst:
 
-:::warning Achtung
+:::warning[Achtung]
 Im Feld «Website» wird der Name des Web-Auftritts erfasst, also «Wikipedia». Im Feld «Webseite» wird der Title des konkreten Artikels erfasst, also «Zitat».
 
 Da jeder Wikipediaartikel von einer Vielzahl von Autorinnen und Autoren bearbeitet wurde, geben wir im Feld Autor «Wikipedia» an.

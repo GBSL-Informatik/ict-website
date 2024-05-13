@@ -49,7 +49,7 @@ Seitenzahl
 : Muss über den Button __Seitenzahl__ eingefügt werden.
 : (Kann nicht von Hand geschrieben werden, da auf jeder Seite eine andere Seitenzahl stehen muss!)
 
-:::warning Felder
+:::warning[Felder]
 Die Seitenzahl und – je nach Einfügeart – auch das Datum, sind sogenannte **Felder**. Dies sind Inhalte, die von Word automatisch generiert werden. So ersetzt Word das Feld «Seitenzahl» auf jeder Seite mit der korrekten Zahl.
 
 Mehr dazu: [Felder einfügen](../../word-2/felder-einfuegen/)
