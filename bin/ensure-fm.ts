@@ -1,12 +1,12 @@
-const fs = require('fs');
-const matter = require('gray-matter');
-const path = require('path');
+import fs from 'fs';
+import matter from 'gray-matter';
+import path from 'path';
 
 /**
  * 
  * @param {string} file 
  */
-function ensurePageId(file) {
+export const ensureFrontMatter = (file) => {
     if (!(file.endsWith('.md') || !file.endsWith('.mdx')) || path.basename(file).startsWith('_')) {
         return;
     }
@@ -14,7 +14,7 @@ function ensurePageId(file) {
     if (Object.keys(fm.data).length === 0) {
         fm.data.description = 'Kurzbeschreibung für Suchmaschinen';
         fm.data.sidebar_label = 'Seitenname';
-        fm.data.sidebar_position = 1;
+        fm.data.sidebar_position = 10;
         fm.data.tags = [];
         fm.data.sidebar_custom_props = {
             icon: 'mdi-file-document-outline'
@@ -29,5 +29,3 @@ function ensurePageId(file) {
     }
     return false;
 }
-
-module.exports = ensurePageId;

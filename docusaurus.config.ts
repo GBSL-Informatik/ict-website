@@ -1,18 +1,29 @@
 // @ts-check
 // Note: type annotations allow type checking and IDEs autocompletion
+import type { Config } from '@docusaurus/types';
+import * as Preset from '@docusaurus/preset-classic';
+import remarkMath from 'remark-math';
+import rehypeKatex from 'rehype-katex';
+const { themes } = require('prism-react-renderer');
 
-const lightCodeTheme = require('prism-react-renderer/themes/github');
-const darkCodeTheme = require('prism-react-renderer/themes/dracula');
-const remarkMdi = require('remark-mdi');
-const remarkDeflist = require('remark-deflist-simple');
-const remarkKbd = require('remark-kbd-simple');
-const katex = require('rehype-katex');
-const remarkMath = require('remark-math');
-const remarkUnderline = require('remark-underline');
-const remarkImg2Fig = require('./src/plugins/remark-img2fig');
-const remarkFlex = require('./src/plugins/remark-flex');
-const remarkDetails = require('remark-details-simple');
-const EnsureFM = require('./bin/ensure-fm');
+import mdiPlugin from './src/plugins/remark-mdi/plugin';
+import kbdPlugin from './src/plugins/remark-kbd/plugin';
+import defPlugin from './src/plugins/remark-defbox/plugin';
+import flexCardsPlugin from './src/plugins/remark-flex-cards/plugin';
+import imagePlugin from './src/plugins/remark-images/plugin';
+import deflistPlugin from './src/plugins/remark-deflist/plugin';
+import strongPlugin from './src/plugins/remark-strong/plugin';
+import detailsPlugin from './src/plugins/remark-details/plugin';
+import mediaPlugin from './src/plugins/remark-media/plugin';
+import remarkInlineModifier from './src/plugins/remark-inline-modifier/plugin';
+import { mdiSourceCommit } from '@mdi/js';
+
+import {ensureFrontMatter} from './bin/ensure-fm';
+
+const GIT_COMMIT_SHA = process.env.DRONE_COMMIT_SHA || Math.random().toString(36).substring(7);
+
+const lightCodeTheme = themes.vsLight;
+const darkCodeTheme = themes.vsDark;
 
 const isDev = process.env.NODE_ENV === 'development';
 const isProduction = process.env.NODE_ENV === 'production';
@@ -23,28 +34,67 @@ const admonitionConfig = {
   keywords: ['note', 'tip', 'info', 'caution', 'danger', 'important', 'success', 'secondary', 'aufgabe', 'def', 'warning', 'warn', 'finding'],
 };
 
-const MD_PLUGINS = {
+const REMARK_PLUGINS = {
   beforeDefaultRemarkPlugins: [
-    remarkFlex,
-    remarkImg2Fig,
-    remarkKbd,
-    [remarkUnderline, { marker: '__', classNames: ['underline'], tagType: 'strong'}]
+      flexCardsPlugin,
+      [
+          imagePlugin,
+          { tagNames: { sourceRef: 'SourceRef', figure: 'Figure' } }
+      ],
+      detailsPlugin,
+      defPlugin
   ],
   remarkPlugins: [
-    remarkDeflist,
-    [remarkDetails, {marker: ':::', tags: ['details', 'lösung'], classNameMap: {['lösung']: 'solution', details: undefined }}],
-    remarkMdi,
-    remarkMath
+      /** commentsPlugin must be the first plugin (will be applied last) */
+      [strongPlugin, { className: 'boxed'}],
+      [
+          deflistPlugin,
+          {
+              tagNames: {
+                  dl: 'Dl',
+              },
+          }
+      ],
+      [
+          mdiPlugin,
+          {
+              colorMapping: {
+                  green: 'var(--ifm-color-success)',
+                  red: 'var(--ifm-color-danger)',
+                  orange: 'var(--ifm-color-warning)',
+                  yellow: '#edcb5a',
+                  blue: '#3578e5',
+                  cyan: '#01f0bc'
+              },
+              defaultSize: '1.25em'
+          }
+      ],
+      kbdPlugin,
+      remarkMath,
+      mediaPlugin,
+      remarkInlineModifier
   ],
   rehypePlugins: [
-    katex
+      rehypeKatex
   ]
-};
+}
 
-const GIT_COMMIT_SHA = process.env.DRONE_COMMIT_SHA || Math.random().toString(36).substring(7);
+const scripts: typeof config.scripts = []
 
-/** @type {import('@docusaurus/types').Config} */
-const config = {
+if (process.env.UMAMI_SRC && process.env.UMAMI_ID) {
+    scripts.push(
+        {
+            src: process.env.UMAMI_SRC,
+            ['data-website-id']: process.env.UMAMI_ID,
+            ['data-domains']: (process.env.DOMAIN || 'http://localhost:3000').split('/').filter(w => !!w)[1],
+            async: true,
+            defer: true
+        }
+    )
+}
+
+
+const config: Config = {
   title: 'ICT am Gymnasium Biel-Seeland',
   tagline: 'Anleitungen, Tipps und Tricks',
   url: 'https://ict.gbsl.website',
@@ -73,21 +123,30 @@ const config = {
   presets: [
     [
       'classic',
-      /** @type {import('@docusaurus/preset-classic').Options} */
-      ({
+      {
         docs: {
-          ...MD_PLUGINS,
           routeBasePath: '/',
           showLastUpdateTime: true,
           sidebarCollapsible: true,
-          sidebarPath: require.resolve('./sidebars.js'),
+          sidebarPath: 'sidebars.ts',
           editUrl: 'https://github.com/gbsl-informatik/ict-website/edit/main/',
-          admonitions: admonitionConfig,
+          admonitions: {
+              keywords: ['aufgabe', 'finding'],
+              extendDefaults: true,
+          },
+          beforeDefaultRemarkPlugins: REMARK_PLUGINS.beforeDefaultRemarkPlugins,
+          remarkPlugins: REMARK_PLUGINS.remarkPlugins,
+          rehypePlugins: REMARK_PLUGINS.rehypePlugins,
         },
         blog: false,
         pages: {
-          admonitions: admonitionConfig,
-          ...MD_PLUGINS
+          admonitions: {
+              keywords: ['aufgabe', 'finding'],
+              extendDefaults: true,
+          },
+          beforeDefaultRemarkPlugins: REMARK_PLUGINS.beforeDefaultRemarkPlugins,
+          remarkPlugins: REMARK_PLUGINS.remarkPlugins,
+          rehypePlugins: REMARK_PLUGINS.rehypePlugins,      
         },
         theme: {
           customCss: [
@@ -100,15 +159,18 @@ const config = {
           ignorePatterns: ['/tags/**'],
           filename: 'sitemap.xml',
         }
-      }),
+      } satisfies Preset.Options,
     ],
   ],
   markdown: {
-    mermaid: true
+    mermaid: true,
+    mdx1Compat: {
+        admonitions: false,
+        comments: false,
+        headingIds: false
+    }
   },
-  themeConfig:
-    /** @type {import('@docusaurus/preset-classic').ThemeConfig} */
-    ({
+  themeConfig: {
       mermaid: {
         theme: {light: 'default', dark: 'dark'},
       },
@@ -128,23 +190,22 @@ const config = {
       },
       footer: {
         copyright: `<a 
-          class="footer__link-item" 
-          href="https://creativecommons.org/licenses/by-nc-sa/4.0/deed.de" 
-          target="_blank"
-        >
-          <img src="/img/by-nc-sa.eu.svg" alt="CC-BY-NC-SA">
-          <br/>
-          Alle Inhalte (falls nicht anders angegeben) lizenziert unter 
-          <br/>
-          Creative Commons Namensnennung - Nicht-kommerziell - Weitergabe unter gleichen Bedingungen 4.0 International Lizenz.
-        </a>
+        class="footer__link-item"
+        href="https://creativecommons.org/licenses/by-nc-sa/4.0/deed.de"
+      >
+        Alle Inhalte (falls nicht anders angegeben) lizenziert unter
         <br />
-        <a 
-          class="badge badge--primary" 
-          href="https://github.com/GBSL-Informatik/ict-website/commit/${GIT_COMMIT_SHA}"
-        >
-          <i class="mdi mdi-source-commit mdi-rotate-90"></i> ${GIT_COMMIT_SHA.substring(0, 7)}
-        </a>`,
+        <img src="/img/by-nc-sa.eu.svg" alt="CC-BY-NC-SA"> 
+        <br />
+        Creative Commons Namensnennung - Nicht-kommerziell - Weitergabe unter gleichen Bedingungen 4.0 International Lizenz.
+      </a>
+      <br />
+      <a 
+        class="badge badge--primary"
+        href="https://github.com/GBSL-Informatik/ict-website/commit/${GIT_COMMIT_SHA}"
+      >
+          <svg viewBox="0 0 24 24" role="presentation" style="width: 0.9rem; height: 0.9rem; transform: translateY(15%) rotate(90deg); transform-origin: center center;"><path d="${mdiSourceCommit}" style="fill: currentcolor;"></path></svg> ${GIT_COMMIT_SHA.substring(0, 7)}
+      </a>`
       },
       algolia: {
         appId: process.env.ALGOLIA_APP_ID || "no-id",
@@ -174,7 +235,7 @@ const config = {
         // options you can specify via https://github.com/francoischalifour/medium-zoom#usage
         config: {}
       }
-    }),
+  } satisfies Preset.ThemeConfig,
   stylesheets: [
     {
       href: 'https://cdn.jsdelivr.net/npm/katex@0.13.24/dist/katex.min.css',
@@ -190,13 +251,7 @@ const config = {
   ],
   scripts: [
     // Object format.
-    {
-      src: 'https://umami.gbsl.website/tell-me.js',
-      ['data-website-id']: process.env.UMAMI_ID,
-      ['data-domains']: process.env.UMAMI_DOMAIN,
-      async: true,
-      defer: true
-    },
+    ...scripts
   ],
   plugins: [
     'docusaurus-plugin-sass',
@@ -267,28 +322,28 @@ const config = {
             plugins: [
               {
                 apply: (compiler) => {
-                  const cache = {};
-                  compiler.hooks.watchRun.tap("Frontmatter-Plugin", () => {
-                    if (isDev) {
-                      if (compiler.modifiedFiles) {
-                        compiler.modifiedFiles.forEach((f) => {
-                          if ((f.endsWith('.md') || f.endsWith('.mdx')) && !cache[f] && !f.includes('/versioned_docs/')) {
-                            if (EnsureFM(f)) {
-                              console.log('Added Frontmatter to', f);
+                    const cache = {};
+                    compiler.hooks.watchRun.tap("Frontmatter-Plugin", () => {
+                        if (process.env.NODE_ENV === 'development') {
+                            if (compiler.modifiedFiles) {
+                                compiler.modifiedFiles.forEach((f) => {
+                                    if ((f.endsWith('.md') || f.endsWith('.mdx')) && !cache[f] && !f.includes('/versioned_docs/')) {
+                                        if (ensureFrontMatter(f)) {
+                                            console.log('Added Frontmatter to', f);
+                                        }
+                                        cache[f] = true;
+                                    }
+                                });
                             }
-                            cache[f] = true;
-                          }
-                        });
-                      }
-                      if (compiler.removedFiles) {
-                        compiler.removedFiles.forEach((f) => {
-                          if (f.endsWith('.md') || f.endsWith('.mdx')) {
-                            delete cache[f]
-                          }
-                        })
-                      }
-                    }
-                  });
+                            if (compiler.removedFiles) {
+                                compiler.removedFiles.forEach((f) => {
+                                    if (f.endsWith('.md') || f.endsWith('.mdx')) {
+                                        delete cache[f]
+                                    }
+                                })
+                            }
+                        }
+                    });
                 },
               },
             ]
@@ -300,4 +355,4 @@ const config = {
   ]
 };
 
-module.exports = config;
+export default config;
