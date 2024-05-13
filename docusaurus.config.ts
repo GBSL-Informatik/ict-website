@@ -26,13 +26,7 @@ const lightCodeTheme = themes.vsLight;
 const darkCodeTheme = themes.vsDark;
 
 const isDev = process.env.NODE_ENV === 'development';
-const isProduction = process.env.NODE_ENV === 'production';
 
-
-const admonitionConfig = {
-  tag: ':::',
-  keywords: ['note', 'tip', 'info', 'caution', 'danger', 'important', 'success', 'secondary', 'aufgabe', 'def', 'warning', 'warn', 'finding'],
-};
 
 const REMARK_PLUGINS = {
   beforeDefaultRemarkPlugins: [
@@ -41,7 +35,19 @@ const REMARK_PLUGINS = {
           imagePlugin,
           { tagNames: { sourceRef: 'SourceRef', figure: 'Figure' } }
       ],
-      detailsPlugin,
+      [
+        detailsPlugin,
+        {
+          keywords: ['details', 'solution'],
+          classNames: {
+            details: 'details',
+            solution: 'solution'
+          },
+          defaultLabel: {
+            solution: 'Lösung'
+          }
+        }
+      ],
       defPlugin
   ],
   remarkPlugins: [

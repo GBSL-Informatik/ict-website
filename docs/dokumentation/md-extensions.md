@@ -18,7 +18,6 @@ im Tab *Einstellungen*
 Wähle den Menüpunkt __Datei__ :mdi[chevronRight] __Öffnen__
 ```
 
-
 ## Bilder
 ![Stormtroopocat](./images/stormtroopocat.jpg)
 
@@ -70,10 +69,10 @@ unterschiedliche Grösse
 
 oder kombiniert...
 
-:mdi-school--orange-m: :mdi-school--red-l: :mdi-school--green-xl:
+:mdi[school]{.orange .m} :mdi[school]{.red .l} :mdi[school]{.green .xl}
 
 ```md
-:mdi-school--orange-m: :mdi-school--red-l: :mdi-school--green-xl:
+:mdi[school]{.orange .m} :mdi[school]{.red .l} :mdi[school]{.green .xl}
 ```
 
 
@@ -149,12 +148,19 @@ Eine Dojocat ist ein...
 
 ## Details
 
+
 :::details[Klicken für mehr Details]
 Ein Minion als Überraschung
 ![Minion --width=200px](images/minion.png)
 :::
 
-:::lösung
+
+:::details
+Ein Minion als Überraschung
+![Minion --width=200px](images/minion.png)
+:::
+
+:::solution
 Ein Minion als Überraschung
 ![Minion --width=200px](images/minion.png)
 
@@ -166,7 +172,12 @@ Ein Minion als Überraschung
 ![Minion --width=200px](images/minion.png)
 :::
 
-:::lösung
+:::details
+Ein Minion als Überraschung
+![Minion --width=200px](images/minion.png)
+:::
+
+:::solution
 Ein Minion als Überraschung
 ![Minion --width=200px](images/minion.png)
 :::
@@ -194,7 +205,7 @@ Some **content** with _markdown_ `syntax`.
 Es kann auch ein angepasster Titel gewählt werden.
 :::
 
-:::caution
+:::warning
 Some **content** with _markdown_ `syntax`.
 :::
 
@@ -223,7 +234,7 @@ Some **content** with _markdown_ `syntax`.
 Some **content** with _markdown_ `syntax`.
 :::
 
-:::caution
+:::warning
 Some **content** with _markdown_ `syntax`.
 :::
 
@@ -262,11 +273,8 @@ Definition 2
 
 ## Anpassungen
 
-![Minion --class=small](./images/minion.png)
-
 ![Minion --width=120px](./images/dojocat.jpg)
 
-``` md
-![Minion --class=small](./images/minion.png)
+```md
 ![Minion --width=120px](./images/dojocat.jpg)
 ```

@@ -1,4 +1,3 @@
-import React from 'react';
 // Import the original mapper
 import MDXComponents from '@theme-original/MDXComponents';
 import Features from '../components/Features';
@@ -6,6 +5,7 @@ import FeatureCategories from '../components/FeatureCategories';
 import ExcelBox from '../components/ExcelBox';
 import SearchBox from '../components/SearchBox';
 import Figure from '../components/Figure';
+import SourceRef from '../components/Figure/SourceRef';
 import DefinitionList from '../components/DefinitionList';
 import BrowserWindow from '../components/BrowserWindow';
 import Icon from '../components/Icon';
@@ -20,7 +20,8 @@ export default {
   ExcelBox: ExcelBox,
   SearchBox: SearchBox,
   Figure: Figure,
-  dl: DefinitionList,
+  SourceRef: SourceRef,
+  Dl: DefinitionList,
   BrowserWindow: BrowserWindow,
   Icon: Icon,
   Tabs: Tabs,

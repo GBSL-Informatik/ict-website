@@ -359,7 +359,7 @@ $$
 yarn add remark-math@3 rehype-katex@5 hast-util-is-element@1.1.0
 ```
 
-:::caution[Warnung]
+:::warning[Warnung]
 Verwende die oben genannten Versionen. Die aktuellsten Versionen sind nicht mit Docusaurus V2 kompatibel. Wer dennoch eine aktuellere Version von KaTeX braucht, kann diese wie [👉 hier](https://docusaurus.io/docs/markdown-features/math-equations#upgrading-rehype-katex-beyond-recommended-version) beschrieben konfigurieren.
 :::
 
@@ -483,15 +483,12 @@ const config = {
 };
 ```
 
-Im `custom.css` bzw. `custom.scss` muss noch das Stylesheet für die Icons einbinden und die Farben spezifizieren  einbinden:
+Im `custom.css` bzw. `custom.scss` müssen die Farben spezifiziert werden:
 
 <Tabs>
   <TabItem value="css" label="custom.css">
 
 ```css title="/src/css/custom.css"
-// highlight-start
-@import "@mdi/font/css/materialdesignicons.min.css"; /* erste Zeile*/
-// highlight-end
 
 /*...*/
 
@@ -536,12 +533,6 @@ Im `custom.css` bzw. `custom.scss` muss noch das Stylesheet für die Icons einbi
   <TabItem value="scss" label="custom.scss">
 
 ```scss title="/src/css/custom.scss"
-// highlight-start
-@import "@mdi/font/css/materialdesignicons.min.css"; /* erste Zeile*/
-// highlight-end
-
-/*...*/
-
 .mdi {
     &.green {
         color: var(--ifm-color-success);

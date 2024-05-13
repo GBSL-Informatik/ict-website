@@ -22,7 +22,7 @@ ___
 
 ---
 
-::br
+***
 
 
 ## Typographic replacements
