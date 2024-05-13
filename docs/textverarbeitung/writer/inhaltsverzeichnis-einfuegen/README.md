@@ -16,7 +16,7 @@ draft: true
 
 Hast du ein Dokument mit mehreren Überschriften, so kannst du daraus automatisch ein Inhaltsverzeichnis generieren lassen.
 
-Am besten setzt du den Cursor an die Stelle, wo das Verzeichnis eingefügt werden soll, und wählst dann __Einfügen__ :mdi-chevron-right: __Verzeichis__ :mdi-chevron-right: __Verzeichnis…__ aus.
+Am besten setzt du den Cursor an die Stelle, wo das Verzeichnis eingefügt werden soll, und wählst dann __Einfügen__ :mdi[chevronRight] __Verzeichis__ :mdi[chevronRight] __Verzeichnis…__ aus.
 
 ![Inhaltsverzeichnis einfügen](./images/inhaltsverzeichnis-einfuegen.lo.png)
 

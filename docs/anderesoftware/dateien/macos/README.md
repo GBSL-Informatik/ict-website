@@ -27,7 +27,7 @@ Um einen bestimmten Dateityp standardmässig mit einem anderen Programm zu öffn
 Auch unter macOS werden Dateiendungen standardmässig ausgeblendet. Die Endungen können wie folgt angezeigt werden:
 
 1. Finder öffnen mit.
-2. Im Finder den Menüpunkt __Finder__ :mdi-chevron-right: __Einstellungen__
+2. Im Finder den Menüpunkt __Finder__ :mdi[chevronRight] __Einstellungen__
 3. Unter __Erweitert__ die Checkbox __alle Dateiendungen anzeigen__ aktivieren.
 
 ![Dateiendungen immer anzeigen](./macos-show-fileextension.png)

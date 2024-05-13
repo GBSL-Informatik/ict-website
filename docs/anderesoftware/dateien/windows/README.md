@@ -31,8 +31,8 @@ Meist gibt es mehrere Apps, welche einen bestimmten Dateityp öffnen können. Im
 
 Unter Windows werden Dateiendungen standardmässig ausgeblendet. Die Endungen können wie folgt angezeigt werden:
 
-1. Dateiexplorer öffnen mit [[:mdi-microsoft-windows:]]+[[E]].
-2. Im Windows Explorer den Menüpunkt __Ansicht__ :mdi-chevron-right: __Optionen__ :mdi-chevron-right: __Ordner-&nbsp;und&nbsp;Suchoptionen&nbsp;ändern__ auswählen.
+1. Dateiexplorer öffnen mit [[:mdi[microsoftWindows]]]+[[E]].
+2. Im Windows Explorer den Menüpunkt __Ansicht__ :mdi[chevronRight] __Optionen__ :mdi[chevronRight] __Ordner-&nbsp;und&nbsp;Suchoptionen&nbsp;ändern__ auswählen.
 
     ![Schritt 1](./dateiendungen-anzeigen-1.png)
 

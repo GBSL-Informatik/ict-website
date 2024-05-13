@@ -18,7 +18,7 @@ Wähle zuerst den Bereich des Tabellenblatts aus, welcher sortiert werden soll. 
 
 ![](./images/select-table.lo.png)
 
-Anschliessend wird über den Menüpunkt __Daten__ :mdi-chevron-right: __Sortieren...__ der Dialog «Sortierung» geöffnet.
+Anschliessend wird über den Menüpunkt __Daten__ :mdi[chevronRight] __Sortieren...__ der Dialog «Sortierung» geöffnet.
 
 In diesem Dialog können mehrere Sortierschlüssel definiert werden. Für jede Ebene kann die Spalte, nach welcher sortiert werden soll sowie die Sortierreihenfolge ausgwählt werden:
 

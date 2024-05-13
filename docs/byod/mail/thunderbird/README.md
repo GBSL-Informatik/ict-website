@@ -18,7 +18,7 @@ Falls du Thunderbird (den E-Mail-Client von Mozilla) verwenden möchtest, umdein
 ## Vorarbeiten
 
 ### Version prüfen
-Bitte stelle unbedingt sicher, dass du mindestens Thunderbird Version 68 installiert hast, indem du im Menü (bei den drei Strichen rechts oben) auf den Eintrag __Hilfe__ :mdi-chevron-right: __Über Thunderbird__ klickst.
+Bitte stelle unbedingt sicher, dass du mindestens Thunderbird Version 68 installiert hast, indem du im Menü (bei den drei Strichen rechts oben) auf den Eintrag __Hilfe__ :mdi[chevronRight] __Über Thunderbird__ klickst.
 
 ![Thunderbird-Version](./tb-version.png)
 
@@ -39,7 +39,7 @@ Du musst die beiden Add-ons **TbSync** und **Provider für Exchange ActiveSync**
 
 
 ## E-Mail-Konto hinzufügen
-Im Thunderbird-Menü wählst du dazu den Eintrag __Einstellungen__ :mdi-chevron-right: __Konto-Einstellungen__. Im neuen Fenster wählst du __Konto-Aktionen__ :mdi-chevron-right: __E-Mail-Konto hinzufügen__.
+Im Thunderbird-Menü wählst du dazu den Eintrag __Einstellungen__ :mdi[chevronRight] __Konto-Einstellungen__. Im neuen Fenster wählst du __Konto-Aktionen__ :mdi[chevronRight] __E-Mail-Konto hinzufügen__.
 
 ![Konto hinzufügen](./tb-1.png)
 
@@ -59,7 +59,7 @@ Du kannst mit einem Rechtsklick auf die Kontobezeichnung oberhalb des Posteingan
 ### E-Mail-Konto: Spezialordner richtig konfigurieren (Papierkorb und gesendete E-Mails)
 Thunderbird legt gesendete E-Mails korrekt im Ordner "Gesendete Elemente" ab, allerdings speichert auch der Mailserver von Microsoft die von Thunderbird gesendeten Nachrichten, d.h. sie tauchen doppelt auf. Damit dies nicht geschieht und damit auch gelöschte Mails im richtigen Papierkorb landen, müssen noch zwei Einstellungen angepasst werden:
 
-Öffne erneut die Konto-Einstellungen: Im Thunderbird-Menü wählst du dazu den Eintrag __Einstellungen__ :mdi-chevron-right: __Konto-Einstellungen__. Jetzt klickst du im linken Bereich auf __Kopien & Ordner__ und entfernst im rechten Bereich oben das Häkchen unter **Beim Senden von Nachrichten** bei _Eine Kopie speichern unter:_.
+Öffne erneut die Konto-Einstellungen: Im Thunderbird-Menü wählst du dazu den Eintrag __Einstellungen__ :mdi[chevronRight] __Konto-Einstellungen__. Jetzt klickst du im linken Bereich auf __Kopien & Ordner__ und entfernst im rechten Bereich oben das Häkchen unter **Beim Senden von Nachrichten** bei _Eine Kopie speichern unter:_.
 
 ![Gesendete E-Mails nicht doppelt speichern](./tb-sent.png)
 
@@ -69,7 +69,7 @@ Nun klickst du im linken Bereich auf __Servereinstellungen__ und wählst anschli
 
 
 ## Kalender und Adressbücher hinzufügen
-Im Thunderbird-Menü wählst du dazu den Eintrag __Add-ons__ :mdi-chevron-right: __TbSync__. Im neuen Fenster wählst du __Konto Aktionen__ :mdi-chevron-right: __Neues Konto hinzufügen__ :mdi-chevron-right: _Exchange ActiveSync_.
+Im Thunderbird-Menü wählst du dazu den Eintrag __Add-ons__ :mdi[chevronRight] __TbSync__. Im neuen Fenster wählst du __Konto Aktionen__ :mdi[chevronRight] __Neues Konto hinzufügen__ :mdi[chevronRight] _Exchange ActiveSync_.
 
 ![Adressbuch/Kalender hinzufügen](./tbsync-1.png)
 

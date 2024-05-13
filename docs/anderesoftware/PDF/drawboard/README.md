@@ -29,7 +29,7 @@ Mit Drawboard PDF können Texte und Bilder in PDF-Dateien ergänzt werden durch 
 ## Drawboard PDF installieren
 
 
-1. Die Windows-Taste [[:mdi-microsoft-windows:]] drücken.
+1. Die Windows-Taste [[:mdi[microsoftWindows]]] drücken.
 
 2. Auf dem Keyboard _Microsoft Store_ tippen - die App _Microsoft Store_ sollte vorgeschlagen werden
 
@@ -87,7 +87,7 @@ Mit dem Textmarkertool können Bilder oder Text markiert werden.
 
 ![](./images/drawboard03.png)
 
-Durch einen Klick auf den Pfeil ! kann ein weiteres Menü geöffnet werden, in dem die Farbe ausgewählt werden kann. Ausserdem können Deckkraft und Pinselgrösse eingestellt werden. Auf den Pfeil [[:mdi-arrow-left:]] klicken, um zur vorherigen Ansicht zurückzukehren.
+Durch einen Klick auf den Pfeil ! kann ein weiteres Menü geöffnet werden, in dem die Farbe ausgewählt werden kann. Ausserdem können Deckkraft und Pinselgrösse eingestellt werden. Auf den Pfeil [[:mdi[arrowLeft]]] klicken, um zur vorherigen Ansicht zurückzukehren.
 
 ![](./images/drawboard05.png)
 
@@ -106,13 +106,13 @@ In der nun erscheinenden Ansicht kann zwischen verschiedenen Optionen gewählt w
 
 ![](./images/drawboard07.png)
 
-Durch einen Klick auf den Pfeil ! kann ein weiteres Menü geöffnet werden, in dem die Farbe ausgewählt werden kann. Ausserdem kann die Deckkraft eingestellt werden. Auf den Pfeil [[:mdi-arrow-left:]] klicken, um zur vorherigen Ansicht zurückzukehren.
+Durch einen Klick auf den Pfeil ! kann ein weiteres Menü geöffnet werden, in dem die Farbe ausgewählt werden kann. Ausserdem kann die Deckkraft eingestellt werden. Auf den Pfeil [[:mdi[arrowLeft]]] klicken, um zur vorherigen Ansicht zurückzukehren.
 
 ![](./images/drawboard08.png)
 
 #### Diverse Elemente einfügen
 
-Durch einen Klick auf _Einfügen_ wird ein Menü mit diversen Einfügeoptionen geöffnet. Je nach Option kann durch einen Klick auf den Pfeil ! ein weiteres Menü geöffnet werden, in dem die Farbe, Strichdicke oder Textgrösse ausgewählt werden kann. Auf den Pfeil [[:mdi-arrow-left:]] klicken, um zur vorherigen Ansicht zurückzukehren.
+Durch einen Klick auf _Einfügen_ wird ein Menü mit diversen Einfügeoptionen geöffnet. Je nach Option kann durch einen Klick auf den Pfeil ! ein weiteres Menü geöffnet werden, in dem die Farbe, Strichdicke oder Textgrösse ausgewählt werden kann. Auf den Pfeil [[:mdi[arrowLeft]]] klicken, um zur vorherigen Ansicht zurückzukehren.
 
 
 ![](./images/drawboard09.png)
@@ -142,7 +142,7 @@ Hiermit können 2 Stifte definiert werden um freihand zu schreiben oder zu zeich
 
 ![](./images/drawboard14.png)
 
-Durch einen Klick auf den Pfeil ! kann ein weiteres Menü geöffnet werden, in dem die Farbe ausgewählt werden kann. Ausserdem können Deckkraft und Pinselgrösse eingestellt werden. Auf den Pfeil [[:mdi-arrow-left:]] klicken, um zur vorherigen Ansicht zurückzukehren.
+Durch einen Klick auf den Pfeil ! kann ein weiteres Menü geöffnet werden, in dem die Farbe ausgewählt werden kann. Ausserdem können Deckkraft und Pinselgrösse eingestellt werden. Auf den Pfeil [[:mdi[arrowLeft]]] klicken, um zur vorherigen Ansicht zurückzukehren.
 
 ![](./images/drawboard05.png)
 

@@ -30,7 +30,7 @@ Durch einen Doppelklick auf den Bereich der Kopf- oder Fusszeile (also im oberst
 
 
 ## Felder einfügen
-Felder können über das Menu __Einfügen__ :mdi-chevron-right: __Feldbefehl__ eingefügt werden.
+Felder können über das Menu __Einfügen__ :mdi[chevronRight] __Feldbefehl__ eingefügt werden.
 
 ![Feldbefehl](./images/einfuegen-feld.lo.png)
 
@@ -42,4 +42,4 @@ Teilweise gibt es Optionen und Formate, z.B. bei Daten kann das Datumsformat gew
 
 
 ## Felder verwalten
-Felder werden grau hinterlegt dargestellt. Mit einem Rechtsklick und __Feldbefehl…__ kann man das Feld oder sein Format **anpassen**. Felder **aktualisieren** kann man  über [[F9]] oder __Extras__ :mdi-chevron-right: __Aktualisieren__ :mdi-chevron-right: __Felder__.
+Felder werden grau hinterlegt dargestellt. Mit einem Rechtsklick und __Feldbefehl…__ kann man das Feld oder sein Format **anpassen**. Felder **aktualisieren** kann man  über [[F9]] oder __Extras__ :mdi[chevronRight] __Aktualisieren__ :mdi[chevronRight] __Felder__.

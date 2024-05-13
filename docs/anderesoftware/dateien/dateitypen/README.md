@@ -15,23 +15,23 @@ draft: true
 
 | Erweiterung                      | Bezeichnung               | Bemerkung                                                                   |
 |:---------------------------------|:--------------------------|:----------------------------------------------------------------------------|
-| :mdi-file-pdf-box--red: .pdf     | Portable Document Format  | **Standardformat** für elektronische Dokumente                              |
-| :mdi-file-image--blue: .png      | Portable Network Graphics | **Standardformat** für Logos und Ähnliches                                  |
-| :mdi-file-image--blue: .jpg      | JPEG-Bilddatei            | **Standardformat** für Fotos                                                |
-| :mdi-file-word--blue: .doc       | Microsoft Office-Dokument | altes Wordformat, kann Makros enthalten                                     |
-| :mdi-file-word--blue: .docx      | Microsoft Office-Dokument | neues Wordformat, kann keine Makros enthalten                               |
-| :mdi-file-word--blue: .docm      | Microsoft Office-Dokument | neues Wordformat für Dateien mit Makros                                     |
-| :mdi-file-excel--green: .xls     | Microsoft Office-Dokument | altes Excelformat, kann Makros enthalten                                    |
-| :mdi-file-excel--green: .xlsx    | Microsoft Office-Dokument | neues Excelformat, kann keine Makros enthalten                              |
-| :mdi-file-excel--green: .xlsm    | Microsoft Office-Dokument | neues Excelformat für Dateien mit Makros                                    |
-| :mdi-file-powerpoint--red: .ppt  | Microsoft Office-Dokument | altes Powerpointformat, kann Makros enthalten                               |
-| :mdi-file-powerpoint--red: .pptx | Microsoft Office-Dokument | neues Powerpointformat, kann keine Makros enthalten                         |
-| :mdi-file-powerpoint--red: .pptm | Microsoft Office-Dokument | neues Powerpointformat für Dateien mit Makros                               |
-| :mdi-file-document--blue: .odt   | Open Document Format      | LibreOffice Writer, Textdokument                                            |
-| :mdi-file-chart--green: .ods     | Open Document Format      | LibreOffice Calc, Tabellenkalkulationsdatei                                 |
-| :mdi-file-eye--blue: .odp        | Open Document Format      | LibreOffice Impress, Präsentationsdatei                                     |
-| :mdi-file-alert: .exe            | Ausführbare Programme     | Programmdateien                                                             |
-| :mdi-folder-zip--orange: .zip    | ZIP-komprimierter Ordner  | komprimierte Dateisammlung (kann aus mehreren Dateien und Ordnern bestehen) |
+| :mdi[filePdfBox]{.red} .pdf     | Portable Document Format  | **Standardformat** für elektronische Dokumente                              |
+| :mdi[fileImage]{.blue} .png      | Portable Network Graphics | **Standardformat** für Logos und Ähnliches                                  |
+| :mdi[fileImage]{.blue} .jpg      | JPEG-Bilddatei            | **Standardformat** für Fotos                                                |
+| :mdi[fileWord]{.blue} .doc       | Microsoft Office-Dokument | altes Wordformat, kann Makros enthalten                                     |
+| :mdi[fileWord]{.blue} .docx      | Microsoft Office-Dokument | neues Wordformat, kann keine Makros enthalten                               |
+| :mdi[fileWord]{.blue} .docm      | Microsoft Office-Dokument | neues Wordformat für Dateien mit Makros                                     |
+| :mdi[fileExcel]{.green} .xls     | Microsoft Office-Dokument | altes Excelformat, kann Makros enthalten                                    |
+| :mdi[fileExcel]{.green} .xlsx    | Microsoft Office-Dokument | neues Excelformat, kann keine Makros enthalten                              |
+| :mdi[fileExcel]{.green} .xlsm    | Microsoft Office-Dokument | neues Excelformat für Dateien mit Makros                                    |
+| :mdi[filePowerpoint]{.red} .ppt  | Microsoft Office-Dokument | altes Powerpointformat, kann Makros enthalten                               |
+| :mdi[filePowerpoint]{.red} .pptx | Microsoft Office-Dokument | neues Powerpointformat, kann keine Makros enthalten                         |
+| :mdi[filePowerpoint]{.red} .pptm | Microsoft Office-Dokument | neues Powerpointformat für Dateien mit Makros                               |
+| :mdi[fileDocument]{.blue} .odt   | Open Document Format      | LibreOffice Writer, Textdokument                                            |
+| :mdi[fileChart]{.green} .ods     | Open Document Format      | LibreOffice Calc, Tabellenkalkulationsdatei                                 |
+| :mdi[fileEye]{.blue} .odp        | Open Document Format      | LibreOffice Impress, Präsentationsdatei                                     |
+| :mdi[fileAlert] .exe            | Ausführbare Programme     | Programmdateien                                                             |
+| :mdi[folderZip]{.orange} .zip    | ZIP-komprimierter Ordner  | komprimierte Dateisammlung (kann aus mehreren Dateien und Ordnern bestehen) |
 
 
 

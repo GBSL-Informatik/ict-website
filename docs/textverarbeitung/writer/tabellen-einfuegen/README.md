@@ -15,7 +15,7 @@ draft: true
 # Tabellen einfügen
 
 ## Tabellen einfügen
-Im Menu wählst du __Tabelle__ :mdi-chevron-right: __Tabelle einfügen…__, dann gibst du Anzahl der Spalten und Zeilen an. Zusätzlich kannst du wählen, ob die Tabelle eine Überschrift und eine Umrandung haben soll.
+Im Menu wählst du __Tabelle__ :mdi[chevronRight] __Tabelle einfügen…__, dann gibst du Anzahl der Spalten und Zeilen an. Zusätzlich kannst du wählen, ob die Tabelle eine Überschrift und eine Umrandung haben soll.
 
 ![Tabelle einfügen](./images/tabelle-einfuegen.lo.png)
 

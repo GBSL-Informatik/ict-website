@@ -29,7 +29,7 @@ Schauen wir die Referentenansicht etwas genauer an, so sehen wir, dass neben der
 ![Referentenansicht Folie 4 am PC/Laptop mit Anmerkungen](./images/referentenansicht2.lo.png)
 
 ## Referentenansicht einstellen
-Über __Bildschirmpräsentation__ :mdi-chevron-right: __Präsentationseinstellungen__ kommst du zum unten dargestellten Fenster. Hier kannst du – bei mehreren Bildschirmen – auswählen, auf welchem die Präsentation angezeigt werden soll. Der andere Bildschirm wird dann automatisch für die Referentenansicht verwendet.
+Über __Bildschirmpräsentation__ :mdi[chevronRight] __Präsentationseinstellungen__ kommst du zum unten dargestellten Fenster. Hier kannst du – bei mehreren Bildschirmen – auswählen, auf welchem die Präsentation angezeigt werden soll. Der andere Bildschirm wird dann automatisch für die Referentenansicht verwendet.
 
 ![Fenster «Präsentationseinstellungen»](./images/einstellungen.lo.png)
 

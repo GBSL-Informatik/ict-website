@@ -21,7 +21,7 @@ Du kannst dein Gerät mit folgendem QR-Code automatisch konfigurieren lassen:
 
 Alternativ kann das WLAN-Profil auch unter folgender Adresse heruntergeladen werden:
 
-[:mdi-download: WLAN-Konfigurationsprogramm (neues WLAN gymKIRCHENFELD)][1]
+[:mdi[download] WLAN-Konfigurationsprogramm (neues WLAN gymKIRCHENFELD)][1]
 
 [1]: https://enterprise-wifi.net/?idp=572&profile=332
 

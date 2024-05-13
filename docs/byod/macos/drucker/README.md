@@ -63,7 +63,7 @@ Installation Schritt für Schritt
 
 ## DruckerAllgemein hinzufügen
 
-1. Öffne die Systemeinstellungen, gehe zu _Drucker & Scanner_ und klicke auf das __:mdi-plus:__-Symbol:
+1. Öffne die Systemeinstellungen, gehe zu _Drucker & Scanner_ und klicke auf das __:mdi[plus]__-Symbol:
 
     ![](./drucker-allgemein-1.png)
 
@@ -96,7 +96,7 @@ Installation Schritt für Schritt
 
 ## DruckerKopierraum hinzufügen
 
-1. Öffne die Systemeinstellungen, gehe zu _Drucker & Scanner_ und klicke auf das __:mdi-plus:__-Symbol:
+1. Öffne die Systemeinstellungen, gehe zu _Drucker & Scanner_ und klicke auf das __:mdi[plus]__-Symbol:
 
     ![](./drucker-kopierraum-1.png)
 
@@ -150,7 +150,7 @@ Installation Schritt für Schritt
 
 ## Lehrpersonen: Fachschaftsdrucker hinzufügen
 
-1. Öffne die Systemeinstellungen, gehe zu _Drucker & Scanner_ und klicke auf das __:mdi-plus:__-Symbol:
+1. Öffne die Systemeinstellungen, gehe zu _Drucker & Scanner_ und klicke auf das __:mdi[plus]__-Symbol:
 
     ![](./drucker-kopierraum-1.png)
 

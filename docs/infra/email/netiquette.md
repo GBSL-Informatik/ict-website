@@ -33,7 +33,7 @@ Zu jeder E-Mail-Nachricht gehört ein **aussagekräftiger Betreff**, eine **ange
 ### Anstand, Respekt im Internet
 - GROSSSCHREIBUNG WIRKT WIE SCHREIEN!
 - Denken Sie daran, dass der Empfänger möglicherweise ein Mensch mit anderer Kultur, Sprache und anderem Humor ist. Vorsicht mit Sarkasmus!
-- Smileys können helfen, die eigene Stimmung auszudrücken. Mit einem Augenzwinkern :mdi-emoticon-wink: kann unter Umständen verhindert werden, dass eine ironische Bemerkung falsch aufgefasst wird.
+- Smileys können helfen, die eigene Stimmung auszudrücken. Mit einem Augenzwinkern :mdi[emoticonWink] kann unter Umständen verhindert werden, dass eine ironische Bemerkung falsch aufgefasst wird.
 - Vor dem Weiterleiten von persönlichen Nachrichten sollte man um Erlaubnis fragen.
 - Keine Massen- oder Kettennachrichten verbreiten. Sie enthalten in der Regel irreführende, komplett falsche oder erfundene Angaben. Bevor Sie eine – Ihrer Meinung nach verbreitenswert Nachricht – als Massennachricht weiterleiten, überprüfen Sie mit einer einfachen Online-Suche wenigstens, ob es sich tatsächlich nicht um eine Falschmeldung handelt.
 - Beleidigende, provokative Kommentare (engl. *flames*) sind zu vermeiden. Daraus entstehen schnell sogenannte *flame wars*, also unsachliche, hitzige Diskussionen, die andere Personen häufig verletzen.

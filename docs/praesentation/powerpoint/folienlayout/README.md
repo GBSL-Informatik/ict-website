@@ -13,7 +13,7 @@ draft: true
 
 
 
-Eine neue Präsentation startet normalerweise mit einer Titelfolie. Weitere Folien kannst du über __Start__ :mdi-chevron-right: __Neue Folie__ eingefügen.
+Eine neue Präsentation startet normalerweise mit einer Titelfolie. Weitere Folien kannst du über __Start__ :mdi[chevronRight] __Neue Folie__ eingefügen.
 
 ![Folie einfügen und Layout wählen](./images/folie-einfuegen.png)
 
@@ -21,7 +21,7 @@ Dabei wählst du das gewünschte Folienlayout aus.
 
 Beim **Folienlayout** handelt es sich um eine vordefinierte Anordnung von Elementen auf der Folie. Dazu gehören z.B. Bereiche für Überschrift, Text und Bilder. Durch die Verwendung der Folienlayouts stellst du sicher, dass Elemente auf allen Folien korrekt und konsistent platziert sind. Folienelemente manuell anpassen solltest du nur in ganz speziellen Situationen.
 
-Das Layout einer Folie kannst du auch nachträglich anpassen. Dies klappt entweder mit Rechtsklick auf das Vorschaubild der entsprechenden Folie oder über __Start__ :mdi-chevron-right: __Layout__.
+Das Layout einer Folie kannst du auch nachträglich anpassen. Dies klappt entweder mit Rechtsklick auf das Vorschaubild der entsprechenden Folie oder über __Start__ :mdi[chevronRight] __Layout__.
 
 ![Layout einer Folie ändern](./images/folienlayout.png)
 

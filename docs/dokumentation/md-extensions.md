@@ -11,11 +11,11 @@ sidebar_custom_props:
 ## GUI Elemente
 
 im Tab *Einstellungen*
-Wähle den Menüpunkt __Datei__ :mdi-chevron-right: __Öffnen__
+Wähle den Menüpunkt __Datei__ :mdi[chevronRight] __Öffnen__
 
 ``` md
 im Tab *Einstellungen*
-Wähle den Menüpunkt __Datei__ :mdi-chevron-right: __Öffnen__
+Wähle den Menüpunkt __Datei__ :mdi[chevronRight] __Öffnen__
 ```
 
 
@@ -41,31 +41,31 @@ Wähle den Menüpunkt __Datei__ :mdi-chevron-right: __Öffnen__
 
 ## Icons (MDI)
 
-:mdi-island: :mdi-soccer:
+:mdi[island] :mdi[soccer]
 
 ```md
-:mdi-island: :mdi-soccer:
+:mdi[island] :mdi[soccer]
 ```
 
 farbig
 
-:mdi-school--red: :mdi-school--green: :mdi-school--blue: :mdi-school--yellow: :mdi-school--orange: :mdi-school--cyan:
+:mdi[school]{.red} :mdi[school]{.green} :mdi[school]{.blue} :mdi[school]{.yellow} :mdi[school]{.orange} :mdi[school]{.cyan}
 
 ```md
-:mdi-school--red: 
-:mdi-school--green:
-:mdi-school--blue:
-:mdi-school--yellow:
-:mdi-school--orange:
-:mdi-school--cyan:
+:mdi[school]{.red} 
+:mdi[school]{.green}
+:mdi[school]{.blue}
+:mdi[school]{.yellow}
+:mdi[school]{.orange}
+:mdi[school]{.cyan}
 ```
 
 unterschiedliche Grösse
 
-:mdi-school--m: :mdi-school--l: :mdi-school--xl:
+:mdi[school]{.m} :mdi[school]{.l} :mdi[school]{.xl}
 
 ```md
-:mdi-school--m: :mdi-school--l: :mdi-school--xl:
+:mdi[school]{.m} :mdi[school]{.l} :mdi[school]{.xl}
 ```
 
 oder kombiniert...

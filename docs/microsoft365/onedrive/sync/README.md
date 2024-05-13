@@ -41,7 +41,7 @@ Dieser Link weist OneDrive an, die Bibliothek mit dem Gerät zu synchronisieren.
 
 ## Synchronisation überprüfen und steuern
 
-Im Datei-Explorer wird lokale Kopie des Cloud-Speicher mit dem OneCloud-Symbol :mdi-microsoft-onedrive: und der Bezeichnung _OneDrive - Gymnasium Kirchenfeld_ angezeigt.
+Im Datei-Explorer wird lokale Kopie des Cloud-Speicher mit dem OneCloud-Symbol :mdi[microsoftOnedrive] und der Bezeichnung _OneDrive - Gymnasium Kirchenfeld_ angezeigt.
 
 ![](./images/onedrive-win-manage.svg)
 
@@ -49,10 +49,10 @@ Hier sind alle Ordner und Dateien aufgelistet, welche im Cloud-Speicher vorhande
 
 | Symbol                     | Bedeutung                       |
 | :------------------------- | :------------------------------ |
-| :mdi-cloud-outline:        | nur im Cloud-Speicher           |
-| :mdi-check-circle-outline: | lokal auf dem Gerät vorhanden   |
-| :mdi-check-circle:         | immer behalten auf diesem Gerät |
-| :mdi-refresh:              | Synchronisierung ausstehend     |
+| :mdi[cloudOutline]        | nur im Cloud-Speicher           |
+| :mdi[checkCircleOutline] | lokal auf dem Gerät vorhanden   |
+| :mdi[checkCircle]         | immer behalten auf diesem Gerät |
+| :mdi[refresh]              | Synchronisierung ausstehend     |
 
 Über das Kontextmenü (Rechtsklick auf das Element) kannst du die Synchronisationsart für einzelne Datein oder Ordner ändern.
 

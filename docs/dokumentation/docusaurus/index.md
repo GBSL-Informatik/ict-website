@@ -412,31 +412,31 @@ const config = {
 
 [remark-mdi](https://www.npmjs.com/package/remark-mdi) ermöglicht das Einbinden von Icons in Markdown-Dateien. Die Icons können auf der Webseite [Material Design Icons](https://materialdesignicons.com/) gesucht werden. Die Icons können dann wie folgt eingebunden werden:
 
-:mdi-island: :mdi-soccer:
+:mdi[island] :mdi[soccer]
 
 ```md
-:mdi-island: :mdi-soccer:
+:mdi[island] :mdi[soccer]
 ```
 
 farbig
 
-:mdi-school--red: :mdi-school--green: :mdi-school--blue: :mdi-school--yellow: :mdi-school--orange: :mdi-school--cyan:
+:mdi[school]{.red} :mdi[school]{.green} :mdi[school]{.blue} :mdi[school]{.yellow} :mdi[school]{.orange} :mdi[school]{.cyan}
 
 ```md
-:mdi-school--red: 
-:mdi-school--green:
-:mdi-school--blue:
-:mdi-school--yellow:
-:mdi-school--orange:
-:mdi-school--cyan:
+:mdi[school]{.red} 
+:mdi[school]{.green}
+:mdi[school]{.blue}
+:mdi[school]{.yellow}
+:mdi[school]{.orange}
+:mdi[school]{.cyan}
 ```
 
 unterschiedliche Grösse
 
-:mdi-school--m: :mdi-school--l: :mdi-school--xl:
+:mdi[school]{.m} :mdi[school]{.l} :mdi[school]{.xl}
 
 ```md
-:mdi-school--m: :mdi-school--l: :mdi-school--xl:
+:mdi[school]{.m} :mdi[school]{.l} :mdi[school]{.xl}
 ```
 
 oder kombiniert...

@@ -16,7 +16,7 @@ draft: true
 
 ## Achse formatieren
 
-Klicke auf das Diagramm und öffne das Menüband __Diagrammtools__ :mdi-chevron-right: __Format__.
+Klicke auf das Diagramm und öffne das Menüband __Diagrammtools__ :mdi[chevronRight] __Format__.
 
 Im Menübereich __Aktuelle Auswahl__ wird das aktuell gewählte Diagrammelement angezeigt. Die Auswahl kann entweder durch einen Klick auf das gewünschte Element oder über das Dropdown-Menü geändert werden.
 

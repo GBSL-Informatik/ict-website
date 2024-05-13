@@ -16,7 +16,7 @@ draft: true
 
 Die Darstellung von Zahlenwerten in einer Zelle kann durch die Wahl eines Zahlenformats beeinflusst werden.
 
-In LibreOffice wird dazu das Menü __Format__ :mdi-chevron-right: __Zellen...__ verwendet, welches den Dialog «Zahlen formatieren» öffnet:
+In LibreOffice wird dazu das Menü __Format__ :mdi[chevronRight] __Zellen...__ verwendet, welches den Dialog «Zahlen formatieren» öffnet:
 
 ![](./images/format.lo.png)
 

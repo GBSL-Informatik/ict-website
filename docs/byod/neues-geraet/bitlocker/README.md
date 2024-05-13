@@ -29,7 +29,7 @@ Für den Zugriff auf die Daten benötigt man dann einen speziellen **Key**. Wenn
 
 1. Auf den Windows-Startknopf klicken.
 
-2. Auf _Einstellungen_ [[:mdi-cog:]] klicken.
+2. Auf _Einstellungen_ [[:mdi[cog]]] klicken.
 
 3. Im Suchfeld _Windows-Einstellungen_ den Begriff _bitlocker_ eingeben und auf den Suchvorschlag _BitLocker verwalten_ klicken.
 

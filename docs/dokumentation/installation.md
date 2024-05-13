@@ -27,7 +27,7 @@ Anschliessend kann das Projekt direkt in VS Code geöffnet werden:
 
 ![--width=250px --zoom](images/gh-desktop-open-vsc.png)
 
-Damit die Website lokal angezeigt werden kann, muss ein Server gestartet werden. Dazu müssen aber zuerst die notwendigen Bibliotheken installiert werden. Dies wird in VS Code über __Terminal__ :mdi-chevron-right: __New Terminal__  gemacht. Dort kann nun folgendes eingetippt werden:
+Damit die Website lokal angezeigt werden kann, muss ein Server gestartet werden. Dazu müssen aber zuerst die notwendigen Bibliotheken installiert werden. Dies wird in VS Code über __Terminal__ :mdi[chevronRight] __New Terminal__  gemacht. Dort kann nun folgendes eingetippt werden:
 
 ```bash
 yarn run start

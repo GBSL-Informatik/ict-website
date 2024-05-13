@@ -22,7 +22,7 @@ Man möchte Text aus einem Dokument, z.B. einer Webseite oder einem PDF-Dokument
 
 
 ## Variante 1
-Den Text normal in die Zwischenablage kopieren und dann über das Menu __Bearbeiten__ :mdi-chevron-right: __Unformatierten Text einfügen__.
+Den Text normal in die Zwischenablage kopieren und dann über das Menu __Bearbeiten__ :mdi[chevronRight] __Unformatierten Text einfügen__.
 Dies funktioniert auch mit dem (zugegeben etwas komplizierten) Tastenkürzel [[Ctrl]] + [[Alt]] + [[Shift]] + [[V]].
 
 ## Variante 2

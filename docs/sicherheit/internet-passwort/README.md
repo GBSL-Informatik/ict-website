@@ -27,6 +27,6 @@ Ideal ist folgendes Vorgehen
 
 ## Absolutes Minimum
 Auf folgenden Seiten sind individuelle Passwörter (= die nirgends sonst gebraucht werden) **unerlässlich**:
-- :mdi-email: E-Mail-Konten
-- :mdi-cash: Geldinstitute (Banken, Paypal, ...)
-- :mdi-medical-bag: Gesundheit (Krankenkassen-Login, ...)
+- :mdi[email] E-Mail-Konten
+- :mdi[cash] Geldinstitute (Banken, Paypal, ...)
+- :mdi[medicalBag] Gesundheit (Krankenkassen-Login, ...)

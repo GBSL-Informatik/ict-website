@@ -12,21 +12,21 @@ draft: true
 # Teams
 
 
-[:mdi-collage: Layout ändern](layout/)
+[:mdi[collage] Layout ändern](layout/)
 
-[:mdi-account-multiple: Schüler:innen: Aufgaben abgeben](aufgaben-s/)
+[:mdi[accountMultiple] Schüler:innen: Aufgaben abgeben](aufgaben-s/)
 
-[:mdi-briefcase-variant: Lehrpersonen: Aufträge erstellen](aufgaben-l/)
+[:mdi[briefcaseVariant] Lehrpersonen: Aufträge erstellen](aufgaben-l/)
 
-[:mdi-microsoft-teams: Gruppenräume erstellen](gruppenraeume/)
+[:mdi[microsoftTeams] Gruppenräume erstellen](gruppenraeume/)
 
-[:mdi-microsoft-teams: Externe Nutzer:innen hinzufügen](externe/)
+[:mdi[microsoftTeams] Externe Nutzer:innen hinzufügen](externe/)
 
-[:mdi-file-document: Dateien hochladen](dateien-hochladen/)
+[:mdi[fileDocument] Dateien hochladen](dateien-hochladen/)
 
-[:mdi-microsoft-teams: Ton- und Videoaufnahmen teilen](ton-video-teilen/)
+[:mdi[microsoftTeams] Ton- und Videoaufnahmen teilen](ton-video-teilen/)
 
-[:mdi-microphone: Einstellungen für Tonausgabe und Mikrofon](ton-einstellen/)
+[:mdi[microphone] Einstellungen für Tonausgabe und Mikrofon](ton-einstellen/)
 
 
 

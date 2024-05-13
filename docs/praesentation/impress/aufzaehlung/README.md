@@ -16,7 +16,7 @@ draft: true
 
 Die Folie soll den Vortrag unterstützen. Oft erreicht man das durch Stichwörter, welche auf der Folie stehen. Diese Stichwörter werden meist in Listen mit Aufzählungszeichen gesetzt.
 
-Anpassen kannst du die Aufzählungszeichen in der rechten Seitenleiste unter __Eigenschaften__ :mdi-chevron-right: __Absatz__ oder im __Format__ :mdi-chevron-right: __Aufzählungszeichen und Nummerierung__ erreichbaren Fenster.
+Anpassen kannst du die Aufzählungszeichen in der rechten Seitenleiste unter __Eigenschaften__ :mdi[chevronRight] __Absatz__ oder im __Format__ :mdi[chevronRight] __Aufzählungszeichen und Nummerierung__ erreichbaren Fenster.
 
 ![Aufzählungszeichen anpassen --width=80% --zoom](./images/bullet-points.lo.png)
 

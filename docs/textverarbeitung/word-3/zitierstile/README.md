@@ -33,7 +33,7 @@ Nach der Installation muss Word unbedingt neu gestartet werden, damit die neuen 
 
 Mit dem folgenden Installationsprogramm können die offiziellen Zitierstile des Gymnasiums Kirchenfeld installiert werden:
 
-[:mdi-download: gk_zitierstile.exe](/downloads/gk_zitierstile.exe)
+[:mdi[download] gk_zitierstile.exe](/downloads/gk_zitierstile.exe)
 
 Es kann sein, dass folgende Meldung angezeigt wird:
 
@@ -49,9 +49,9 @@ Nachdem Word neu gestartet wurde, können im Menü __Referenzen__ im Menübereic
 
 Lade die Zitierstile herunter:
 
-[:mdi-download: GK_Harvard.xsl](/downloads/GK_Harvard.xsl)
+[:mdi[download] GK_Harvard.xsl](/downloads/GK_Harvard.xsl)
 
-[:mdi-download: GK_Vancouver.xsl](/downloads/GK_Vancouver.xsl)
+[:mdi[download] GK_Vancouver.xsl](/downloads/GK_Vancouver.xsl)
 
 Nun musst du die Dateien in einen Unterordner der Word-App kopieren.
 

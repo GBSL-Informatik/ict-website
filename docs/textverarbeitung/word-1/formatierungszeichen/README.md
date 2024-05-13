@@ -21,7 +21,7 @@ draft: true
 
 ## Formatierungszeichen anzeigen
 
-Textdokumente enthalten sogenannte Formatierungszeichen. Diese werden standardmässig nicht angezeigt und selbstverständlich auch nicht ausgedruckt, steuern aber den Textfluss. Man kann sich diese versteckten Zeichen zur besseren Orientierung anzeigen lassen: __Start__ :mdi-chevron-right: __Absatz__ :mdi-chevron-right: __¶__.
+Textdokumente enthalten sogenannte Formatierungszeichen. Diese werden standardmässig nicht angezeigt und selbstverständlich auch nicht ausgedruckt, steuern aber den Textfluss. Man kann sich diese versteckten Zeichen zur besseren Orientierung anzeigen lassen: __Start__ :mdi[chevronRight] __Absatz__ :mdi[chevronRight] __¶__.
 
 ![Formatierungszeichen ein- und ausblenden](./formatierungszeichen.png)
 
@@ -41,6 +41,6 @@ Eine Auswahl an wichtigen Formatierungszeichen:
 | Tabulator               | <code>&#10141;</code> | Springt zum nächsten Tabstopp.                                                                                                                                                                                                                                     |
 
 ## Formatierungszeichen einfügen
-Während normale Leerschläge und Tabulatoren mit den entsprechenden Tasten eingetippt werden, braucht es bei Zeilenumbrüchen bereits eine Tastenkombination, nämlich [[shift]] + [[return]]. Einige weitere Formatierungszeichen können über das Fenster «Symbol» eingefügt werden. Dieses lässt sich über __Einfügen__ :mdi-chevron-right: __Symbol__ :mdi-chevron-right: __weitere Symbole…__ anzeigen:
+Während normale Leerschläge und Tabulatoren mit den entsprechenden Tasten eingetippt werden, braucht es bei Zeilenumbrüchen bereits eine Tastenkombination, nämlich [[shift]] + [[return]]. Einige weitere Formatierungszeichen können über das Fenster «Symbol» eingefügt werden. Dieses lässt sich über __Einfügen__ :mdi[chevronRight] __Symbol__ :mdi[chevronRight] __weitere Symbole…__ anzeigen:
 
 ![Formatierungszeichen einfügen](./symbol-einfuegen.png)

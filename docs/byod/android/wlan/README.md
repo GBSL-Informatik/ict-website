@@ -27,7 +27,7 @@ Leider können wir für Android (noch) keine automatische Installation anbieten.
 
    Alternativ kann das Zertifikat auch unter folgender Adresse heruntergeladen werden:
 
-   [:mdi-download: WLAN-Zertifikat Gymnasium Kirchenfeld][1]
+   [:mdi[download] WLAN-Zertifikat Gymnasium Kirchenfeld][1]
 
    [1]: http://media.mygymer.ch/wifi/Gymnasium_Kirchenfeld_Root_X1.crt
 

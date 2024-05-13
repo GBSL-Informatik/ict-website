@@ -61,4 +61,4 @@ Wenn du einen bestimmten Befehl immer wieder verwendest, lohnt es sich evtl., da
 ![Tooltipp zeigt Tastaturkürzel an](./images/weitere-shortcuts.ms.png )
 
 ### Tastaturkürzel selbst definieren
-Falls für einen Befehl kein Tastaturkürzel definiert ist oder du ein bestehendes Kürzel anpassen möchtest, kannst du das unter __Datei__ :mdi-chevron-right: __Optionen__ :mdi-chevron-right: __Menuband anpassen__ :mdi-chevron-right: __Tastenkombinationen: Anpassen__ erledigen.
+Falls für einen Befehl kein Tastaturkürzel definiert ist oder du ein bestehendes Kürzel anpassen möchtest, kannst du das unter __Datei__ :mdi[chevronRight] __Optionen__ :mdi[chevronRight] __Menuband anpassen__ :mdi[chevronRight] __Tastenkombinationen: Anpassen__ erledigen.

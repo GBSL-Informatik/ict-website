@@ -34,8 +34,8 @@ Eigenständige Einrichtung zu Hause. Es wird erwartet, dass diese Schritte berei
 :::aufgabe Schritte zu Hause
 
 1. Mail einrichten
-   - auf dem Laptop [ :mdi-microsoft-windows: Windows](../windows/e-mail) [:mdi-apple: Mac](../macos/e-mail)
-   - auf dem Smartphone [:mdi-android: Android](../android/e-mail) [:mdi-apple: iPhone, iPad](../ios/e-mail)
+   - auf dem Laptop [ :mdi[microsoftWindows] Windows](../windows/e-mail) [:mdi[apple] Mac](../macos/e-mail)
+   - auf dem Smartphone [:mdi[android] Android](../android/e-mail) [:mdi[apple] iPhone, iPad](../ios/e-mail)
 2. Mehrfachauthentifikation einrichten [👉 MFA](../mfa/)
 3. Programme installieren
    - Office365
@@ -55,8 +55,8 @@ Am ersten Schultag die Geräte an der Schule in Betrieb nehmen.
 
 :::aufgabe Schritte an der Schule
 Wlan-Zugang einrichten auf
- 1. dem Laptop [:mdi-microsoft-windows: Windows](../windows/wlan) [:mdi-apple: Mac](../macos/wlan/)
- 2. dem Smartphone/Tablet  [:mdi-android: Android](../android/wlan/) [:mdi-apple: iPhone, iPad](../ios/wlan/)
+ 1. dem Laptop [:mdi[microsoftWindows] Windows](../windows/wlan) [:mdi[apple] Mac](../macos/wlan/)
+ 2. dem Smartphone/Tablet  [:mdi[android] Android](../android/wlan/) [:mdi[apple] iPhone, iPad](../ios/wlan/)
 :::
 
 </TabItem>

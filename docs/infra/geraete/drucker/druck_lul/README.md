@@ -260,7 +260,7 @@ Wenn beim Erstellen des Posters klar ist, dass dieses später im Format A1 gedru
 
 1. Das Motiv als PDF abspeichern und in einem beliebigen Programm öffnen
 
-2. Mit [[:mdi-microsoft-windows:]]+ P den Druckdialog öffnen
+2. Mit [[:mdi[microsoftWindows]]]+ P den Druckdialog öffnen
 
 3. Den _DruckerAllgemein_ oder _DruckerKopierraum_ wählen
 

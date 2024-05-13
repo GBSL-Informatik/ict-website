@@ -17,31 +17,31 @@ draft: true
 
 :::warning Einschränkungen
 Suchmaschinen...
-- können nicht alles berücksichtigen :mdi-chevron-right: [Deep Web](https://www.google.ch/search?q=Deep+Web)
-- können beeinflusst werden :mdi-chevron-right: [Search Engine Optimization](https://www.google.ch/search?q=Search+Engine+Optimization)
-- beeinflussen die Suchergebnisse :mdi-chevron-right: [Filterblase](/sicherheit/filterblase/)
+- können nicht alles berücksichtigen :mdi[chevronRight] [Deep Web](https://www.google.ch/search?q=Deep+Web)
+- können beeinflusst werden :mdi[chevronRight] [Search Engine Optimization](https://www.google.ch/search?q=Search+Engine+Optimization)
+- beeinflussen die Suchergebnisse :mdi[chevronRight] [Filterblase](/sicherheit/filterblase/)
 :::
 
 ### Google-Alternativen
 Es gibt viele alternative Suchmaschinen zu Google. Damit sie Erfolg haben, müssen sie etwas bieten, das Google nicht hat. So haben die meisten dieser Suchmaschinen eine eigene Spezialität.
 
 duckduckgo.com
-: Kein Tracking :mdi-chevron-right: keine Filterblase
+: Kein Tracking :mdi[chevronRight] keine Filterblase
 : Ergebnisse von Bing
 
 startpage.com
-: Kein Tracking :mdi-chevron-right: keine Filterblase
+: Kein Tracking :mdi[chevronRight] keine Filterblase
 : Ergebnisse von Google
 
 swisscows.ch
-: Kein Tracking :mdi-chevron-right: keine Filterblase
+: Kein Tracking :mdi[chevronRight] keine Filterblase
 : regionale Resultate
 
 ecosia.org
 : Einnahmen durch Werbung werden zur Aufforstung des Regenwaldes verwendet.
 
 metager.de
-: Kein Tracking :mdi-chevron-right: keine Filterblase
+: Kein Tracking :mdi[chevronRight] keine Filterblase
 : Ergebnisse von mehreren anderen Suchmaschinen
 
 
