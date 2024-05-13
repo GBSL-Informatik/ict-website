@@ -20,7 +20,7 @@ Leider können wir für Android (noch) keine automatische Installation anbieten.
 1. Lade das Schul-Zertifikat herunter.
 
    :::tip
-   Dieser Schritt ist ab Android 11 **unumgänglich** und für Android <= 10 ebenfalls empfohlen.
+   Dieser Schritt ist ab Android 11 **unumgänglich** und für Android \<= 10 ebenfalls empfohlen.
    :::
 
    ![QR-Code für den Download der Schul-Zertifikats](./qr-code-cert.svg)

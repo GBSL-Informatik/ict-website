@@ -31,9 +31,9 @@ Der Fragetyp ist ähnlich wie _Einfacher Text_, allerdings wird die Antwort mit 
 | (a\|b)     | a oder b                                                                                                 |
 | a*         | Null oder mehr a                                                                                         |
 | a+         | Ein oder mehr a                                                                                          |
-| a{3}       | Genau 3 a                                                                                                |
-| a{3,}      | 3 oder mehr a                                                                                            |
-| a{3,6}     | Zwischen 3 und 6 a                                                                                       |
+| a\{3\}     | Genau 3 a                                                                                                |
+| a\{3,\}    | 3 oder mehr a                                                                                            |
+| a\{3,6\}   | Zwischen 3 und 6 a                                                                                       |
 
 ### Beispiel
 
