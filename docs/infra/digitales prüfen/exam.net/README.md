@@ -22,7 +22,7 @@ Download
 : Download und Installation der Software von exam.net
 : 👉 https://faq-en.exam.net/article/52869/install-high-security-software. 
 
-<Tabs>
+<Tabs groupId="os">
   <TabItem value="win" label="Windows">
 
 ![--width=600px](images/examnet-win-install.png)
