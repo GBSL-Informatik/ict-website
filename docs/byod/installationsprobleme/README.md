@@ -8,25 +8,38 @@ sidebar_position: 39
 
 # Installationsprobleme
 
-Es kann vorkommen, dass du Probleme bei der Installation von Office 365 hast. 
+## Office 365 :mdi[microsoft-office]{.blue}
 
-Ursachen sind meist eine falsche Anmeldung der Apps: Unbedingt das Häkchen nicht setzen bei den Apps und auf keinen Fall "Verwaltung durch das Unternehmen" wählen oder
-das Einrichten eines Arbeits- oder Schulkontos mit der gbsl-Adresse.
+### Anmeldung nicht möglich
 
-Probleme bereiten aber auch vorherige Installationen von office, insbesondere ein office aus der vorherigen Schule. 
+![--width=350px](./images/login-screen-o365.png)
+
+Unten Links auf __Nein, nur bei dieser App anmelden__ klicken.
+
+(Grund: EduBern, welche das Schul-Konto verwalten, sollen keinen Fernzugriff auf Ihren Laptop haben. Damit dies nicht fälschlicherweise doch passiert, hat EduBern diese Option deaktiviert.)
+
+
+### Das alte Schulkonto wird angezeigt
+
+Damit die automatische Synchronisation der Dateien mit OneDrive funktioniert, darf nur ein einziges Schulkonto aktiv sein. Um ein bestehendes Schulkonto zu entfernen, ist wie folgt vorzugehen:
 
 <Tabs groupId="os">
   <TabItem value="win" label="Windows">
-Überprüfen, ob du von der alten Schule her noch immer ein Schulkonto hast. Falls ja, muss dieses entfernt werden, in dem du auf "trennen" klickst.
 
-__Einstellungen :mdi[cog]{.blue} > Konten :mdi[account]{.cyan} > Trennen__
+Unter __Einstellungen :mdi[cog]{.blue} > Konten :mdi[account]{.cyan} > Trennen__ auf __trennen__ klicken.
 
 ![Anleitung](./Schulkonto2.png)
+
   </TabItem>
   <TabItem value="osx" label="Mac">
 
-Entferne die verbliebenen Spuren der alten Office-Installation oder der alten Office-Lizenz mit einem [Removal-Tool](https://support.microsoft.com/en-us/office/how-to-remove-office-license-files-on-a-mac-b032c0f6-a431-4dad-83a9-6b727c03b193).
-Windows-Gerät
+Unter Mac OS X muss ein Tool für die Entfernung von bestehenden Konten verwendet werden. 
+
+Anleitung
+: [👉 Anleitung](https://support.microsoft.com/de-de/office/entfernen-von-office-lizenzdateien-auf-einem-mac-b032c0f6-a431-4dad-83a9-6b727c03b193)
+Tool
+: [👉 Removal-Tool](https://go.microsoft.com/fwlink/?linkid=849815)
+
 
   </TabItem>
 </Tabs>
