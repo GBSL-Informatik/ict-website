@@ -254,3 +254,28 @@ kbd {
         font-size: 2rem;
     }
 }
+
+
+
+strong.boxed {
+    color: #3348b5;
+    font-weight: normal;
+    border: 1px solid var(--ifm-color-gray-600);
+    padding: 1px 0.4em 1px 0.3em;
+    -moz-border-radius: .2em;
+    -webkit-border-radius: .2em;
+    border-radius: 0.2em;
+    line-height: initial;
+}
+
+figcaption {
+    strong.boxed {
+        transform: none;
+    }
+}
+
+html[data-theme='dark'] {    
+    strong.boxed {
+        color: #8395ef;
+    }
+}

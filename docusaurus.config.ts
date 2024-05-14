@@ -51,7 +51,6 @@ const REMARK_PLUGINS = {
       defPlugin
   ],
   remarkPlugins: [
-      /** commentsPlugin must be the first plugin (will be applied last) */
       [strongPlugin, { className: 'boxed'}],
       [
           deflistPlugin,

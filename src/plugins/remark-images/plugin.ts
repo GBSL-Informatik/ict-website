@@ -158,7 +158,7 @@ const plugin: Plugin = function plugin(
                     bibPromises.push(bibPromise);
                 }
                 if (caption.children.length > 0 || hasBibFile) {
-                    figure.children.splice(figure.children.length, 0, caption);
+                    figure.children.splice(figure.children.length, 0, caption as any);
                 }
                 parent.children.splice(idx, 1, figure);
             }
