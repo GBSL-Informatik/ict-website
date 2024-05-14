@@ -14,9 +14,9 @@ draft: false
 
 
 :::flex
-![Für Android-Smartphones--width=305px--height=305px](./untisandroid.png)
+![Für Android-Smartphones --width=305px](./untisandroid.png)
 ::br
-![Für iPhones--width=280p--height=280px](./untisios.png)
+![Für iPhones --width=280px](./untisios.png)
 :::
 
-![Schule hinzufügen, Schüler:innen verfügen über kein Login--width=500px](./webuntisgbsl.png)
+![Schule hinzufügen, Schüler:innen verfügen über kein Login --width=500px](./webuntisgbsl.png)
