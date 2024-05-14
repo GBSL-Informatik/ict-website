@@ -52,7 +52,7 @@ export default function MdiSelector(): JSX.Element {
             >
               <Icon path={MdiIcons[camelCased(`mdi-${ico.name}`)]} size={2} />
               <CopyBadge value={ico.name} />
-              <CopyBadge label={camelCased(`mdi-${ico.name.slice(0, 2)}...`)} value={camelCased(`mdi-${ico.name}`)} />
+              <CopyBadge label={`mdi-${ico.name.slice(0, 2)}...`} value={`mdi-${ico.name}`} />
               <CopyBadge label=":mdi[..." value={`:mdi[${camelCased(ico.name)}]`} />
             </div>
           );
