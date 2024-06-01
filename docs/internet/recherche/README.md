@@ -5,7 +5,7 @@ sidebar_custom_props:
   icon: mdi-search-web
   source: gym-kirchenfeld
   path: /docs/internet/recherche/README.md
-draft: true
+draft: false
 ---
 
 # Internet-Recherche
