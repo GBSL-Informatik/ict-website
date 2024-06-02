@@ -9,5 +9,3 @@ sidebar_custom_props:
 
 # Libre Office Calc
 
-
-<Features />
