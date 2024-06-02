@@ -7,7 +7,7 @@ sidebar_custom_props:
   icon: mdi-sort
   source: gym-kirchenfeld
   path: /docs/tabellenkalkulation/excel/sortierung/README.md
-draft: true
+draft: false
 ---
 
 # Sortierung

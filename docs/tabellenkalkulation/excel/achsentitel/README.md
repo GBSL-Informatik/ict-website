@@ -7,7 +7,7 @@ sidebar_custom_props:
   icon: mdi-format-title
   source: gym-kirchenfeld
   path: /docs/tabellenkalkulation/excel/achsentitel/README.md
-draft: true
+draft: false
 ---
 
 # Achsentitel
