@@ -6,6 +6,3 @@ sidebar_custom_props:
   path: /docs/tabellenkalkulation/calc/README.md
   draft: true
 ---
-
-# Libre Office Calc
-
