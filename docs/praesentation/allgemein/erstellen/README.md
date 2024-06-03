@@ -8,7 +8,7 @@ sidebar_custom_props:
   icon: mdi-presentation
   source: gym-kirchenfeld
   path: /docs/praesentation/allgemein/erstellen/README.md
-draft: true
+draft: false
 ---
 
 # Präsentation erstellen

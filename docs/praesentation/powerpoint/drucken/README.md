@@ -7,7 +7,7 @@ sidebar_custom_props:
   icon: mdi-printer
   source: gym-kirchenfeld
   path: /docs/praesentation/powerpoint/drucken/README.md
-draft: true
+draft: false
 ---
 
 # Drucken
