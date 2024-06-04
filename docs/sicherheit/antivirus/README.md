@@ -33,7 +33,7 @@ Die meisten solchen Antiviren-Apps belästigen den Benutzer zudem mit häufigen 
 
 
 ## Virenschutz am Computer
-- :mdi[microsoftWindows] Unter **Windows** empfehlen Sicherheitsspezialisten den Virenschutz von Microsoft: [**Microsoft Security Essentials** für Windows 7](https://www.microsoft.com/en-us/safety/pc-security/microsoft-security-essentials.aspx "**Microsoft Security Essentials** für Windows 7") resp. **Windows Defender Antivirus** für Windows 10 (enthalten in Windows 10). Diese Software ist gratis und gut ins Betriebssystem integriert.
+- :mdi[microsoftWindows] Unter **Windows** empfehlen Sicherheitsspezialisten den Virenschutz von Microsoft: **Windows Defender Antivirus** enthalten in Windows 10 und 11. Diese Software ist gratis und gut ins Betriebssystem integriert.
 - :mdi[apple] Für **Mac**-Benutzer ist die Installation einer Antivirensoftware in der Regel nicht nötig.
 - :mdi[linux] Auch unter **Linux** steigern Antivirenprogramme die Sicherheit nicht wesentlich.
 
