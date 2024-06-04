@@ -4,7 +4,7 @@ sidebar_custom_props:
   icon: mdi-application-brackets
   source: gym-kirchenfeld
   path: /docs/anderesoftware/browser/README.md
-draft: false
+draft: true
 ---
 
 
