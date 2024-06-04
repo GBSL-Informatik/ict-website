@@ -7,7 +7,5 @@ sidebar_custom_props:
 draft: true
 ---
 
-# Video- & Audiodateien
 
 
-<Features/>
