@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkict=self.webpackChunkict||[]).push([[9782],{68522:e=>{e.exports=JSON.parse('{"tag":{"label":"Word Grundkenntnisse 1","permalink":"/tags/word-grundkenntnisse-1","allTagsPath":"/tags","count":1,"items":[{"id":"textverarbeitung/word-1/README","title":"Word Basis","description":"","permalink":"/textverarbeitung/word-1/"}],"unlisted":false}}')}}]);
