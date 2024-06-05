@@ -7,7 +7,7 @@ sidebar_custom_props:
   icon: mdi-content-save
   source: gym-kirchenfeld
   path: /docs/sicherheit/datenspeicherorte/README.md
-draft: true
+draft: false
 ---
 
 # Datenspeicherorte
@@ -18,10 +18,6 @@ draft: true
 Auf jedem Windows-PC gib es mindestens ein Laufwerk, das System-Laufwerk `C:\`, dort sind meist die gesamte Software und die Benutzerdaten gespeichert. Daneben gibt es aber oft weitere Laufwerke, z.B. USB-Sticks, CD/DVD-Laufwerke, etc. – genannt **Wechseldatenträger**. Dieser Name deutet darauf hin, dass die Daten auf dem PC selber gespeichert sind sondern auf einem austauschbaren Medium.
 
 ![Speicherorte auf dem PC](./laufwerke.png)
-
-Oft stehen aber noch zusätzlich Laufwerke zur Verfügung (wie z.B. hier am Gymnasium), dies sind meist **Netzlaufwerke**. Im Beispiel oben ist das Laufwerk `N:\` ein Netzlaufwerk.
-
-Bei uns am Gymnasium stehen die Laufwerke `H:\`, `K:\` und `V:\` als Netzlaufwerke zur Verfügung. Die Daten auf diesen Laufwerken sind nicht lokal gespeichert sondern auf einem Netzwerkspeicher – also einer Art *Cloud*.
 
 
 ## Daten auf mobilen Geräten

@@ -6,7 +6,7 @@ sidebar_position: 1
 sidebar_custom_props:
   source: gym-kirchenfeld
   path: /docs/praesentation/powerpoint/folienlayout/README.md
-draft: true
+draft: false
 ---
 
 # Folienlayout

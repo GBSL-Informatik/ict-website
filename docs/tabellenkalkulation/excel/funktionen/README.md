@@ -7,7 +7,7 @@ sidebar_custom_props:
   icon: mdi-function-variant
   source: gym-kirchenfeld
   path: /docs/tabellenkalkulation/excel/funktionen/README.md
-draft: true
+draft: false
 ---
 
 # Funktionen

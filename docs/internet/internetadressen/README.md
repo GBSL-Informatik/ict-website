@@ -5,7 +5,7 @@ sidebar_custom_props:
   icon: mdi-link
   source: gym-kirchenfeld
   path: /docs/internet/internetadressen/README.md
-draft: true
+draft: false
 ---
 
 # Internetadressen

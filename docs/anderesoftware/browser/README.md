@@ -7,9 +7,4 @@ sidebar_custom_props:
 draft: true
 ---
 
-# Browser
-
-
-
-<Features/>
 
