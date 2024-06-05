@@ -205,6 +205,9 @@ const config: Config = {
         Creative Commons Namensnennung - Nicht-kommerziell - Weitergabe unter gleichen Bedingungen 4.0 International Lizenz.
       </a>
       <br />
+      <small>
+        <i>Inhalt</i> <a class="badge badge--secondary" target="_blank" href="https://www.gbsl.ch/gbsl/schule/lehrpersonen/#:~:text=kae">kae</a> - <i>Website</i> <a class="badge badge--secondary" target="_blank" href="https://www.gbsl.ch/gbsl/schule/lehrpersonen/#:~:text=hfr">hfr</a><br />
+      </small>
       <a 
         class="badge badge--primary"
         href="https://github.com/GBSL-Informatik/ict-website/commit/${GIT_COMMIT_SHA}"
