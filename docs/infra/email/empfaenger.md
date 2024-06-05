@@ -2,7 +2,7 @@
 description: Wie adressiere ich korrekt eine E-Mail
 sidebar_position: 20
 sidebar_custom_props:
-  icon: mdi-email-send
+  icon: mdi-account-group
   source: gym-kirchenfeld
   path: /docs/infra/email/empfaenger.md
 draft: false
