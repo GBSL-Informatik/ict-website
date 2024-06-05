@@ -6,7 +6,7 @@ sidebar_custom_props:
   icon: mdi-pencil-outline
   source: gym-kirchenfeld
   path: /docs/textverarbeitung/word-1/formatvorlagen-aendern/README.md
-draft: true
+draft: false
 ---
 
 # Formatvorlagen ändern
