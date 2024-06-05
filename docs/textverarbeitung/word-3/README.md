@@ -11,6 +11,6 @@ sidebar_custom_props:
 
 
 
-Die folgenden Basiskenntnisse sollten die Schüler:innen Ende GYM3 beherrschen (Modul «Textverarbeitung 2» im 🚧ICT-Konzept🚧 der Schule):
+Die folgenden Basiskenntnisse sollten die Schüler:innen Ende GYM3 beherrschen, um längere Arbeiten wie die Maturaarbeit oder die Selbständige Arbeit schreiben zu können.
 
 <Features/>

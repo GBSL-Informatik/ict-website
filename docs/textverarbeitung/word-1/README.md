@@ -2,9 +2,8 @@
 apps:
   - Microsoft Word
 tags:
-  - Gym1
-  - Semester1
-  - text
+  - Word Grundkenntnisse 1
+  
 sidebar_custom_props:
   icon: mdi-microsoft-word
   source: gym-kirchenfeld
@@ -15,6 +14,5 @@ sidebar_custom_props:
 
 
 
-Die folgenden Basiskenntnisse sollten alle Schüler:innen Ende GYM 1 beherrschen:
 
 <Features/>
