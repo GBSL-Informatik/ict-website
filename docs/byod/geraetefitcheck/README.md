@@ -40,7 +40,8 @@ Eigenständige Einrichtung zu Hause. Es wird erwartet, dass diese Schritte berei
 3. Programme installieren
    - Office365
    - Teams
-   - Onedrive 
+   - Onedrive
+   - OneNote 
    - Adobe-Programme [👉 Adobe](../../anderesoftware/adobe)
    - Programm für elektronische Prüfungen [👉 E-Prüfen](../../infra/digitales%20prüfen)
    - Stundenplan-App auf dem Smartphone [👉 Stundenplan](../stundenplan/)
