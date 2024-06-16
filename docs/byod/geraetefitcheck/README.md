@@ -17,9 +17,6 @@ Hast du einen ganz neuen Laptop, so beachte bitte [folgendes](../neues-geraet).
 
 Hast du von der alten Schule her eine Office365 Lizenz so beachte unbedingt [das](../installationsprobleme/).
 
-Wenn du auf dieser Seite gelandet bist, so hast du vermutlich das WLAN bereits eingerichtet oder du bist mit dem Smartphone auf dieser Seite oder hast dir einen Hotspot eingerichtet.
-Wenn du den WLAN-Zugang auf deinem Gerät und deinem Smartphone eingerichtet hast, so kannst du mit Aufgabe 3 starten. Solltest du schon Weiteres eingerichtet haben, so erledige bitte das Fehlende.
-
 Du befindest dich übrigens auf der ict-Seite der Schule, auf der du für alle möglichen technischen Probleme und Fragen Antworten finden kannst. Du kannst die Adresse dieser Seite im Browser als Favorit speichern oder sogar als App auf deinem Laptop oder Smartphone einrichten. Eine Anleitung findest du unter [Tipps](../tipps/)
 
 Hast du beim Einrichten Probleme, kannst du dich beim Support für Schüler:innen melden. Den Support findest du während des Geräte-fit-Checkups unten im Foyer. Später kannst du dich per Mail melden, QR-Codes findest du im Schulhaus. Mailadresse für den Support: [it-help-for-students@bernedu.ch](mailto:it-help-for-students@bernedu.ch). Wichtig: die grünen QR-Codes in den Schulzimmern sind nur für die Lehrpersonen gedacht.
@@ -33,11 +30,15 @@ Eigenständige Einrichtung zu Hause. Es wird erwartet, dass diese Schritte berei
 
 :::aufgabe[Schritte zu Hause]
 
-1. Mail einrichten
+1. Ersteinrichtung deines Schulkontos [👉 Ersteinrichtung Schulkonto](../../byod/schulkonto)
+2. Mehrfachauthentifikation einrichten [👉 MFA](../mfa/)
+3. Mail einrichten
    - auf dem Laptop [ :mdi[microsoftWindows] Windows](../windows/e-mail) [:mdi[apple] Mac](../macos/e-mail)
    - auf dem Smartphone [:mdi[android] Android](../android/e-mail) [:mdi[apple] iPhone, iPad](../ios/e-mail)
-2. Mehrfachauthentifikation einrichten [👉 MFA](../mfa/)
-3. Programme installieren
+4. Programme installieren
+  Ueber folgenden Link kannst du die Office-Programme installieren: http://portal.office.com/
+
+  Teams, Onedrive und OneNote musst du evtl. einzeln installieren. 
    - Office365
    - Teams
    - Onedrive
