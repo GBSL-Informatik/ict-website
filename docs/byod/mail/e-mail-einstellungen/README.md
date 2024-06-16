@@ -13,6 +13,10 @@ draft: false
 
 ## Einstellungen allgemein
 
+:::tip
+Mit der outlook-App, die für Windows, Mac, iPad, iPhone und Android erhältlich ist, ist die Einrichtung am einfachsten
+:::
+
 Mit den untenstehenden Angaben lassen sich viele E-Mail-Programme konfigurieren.
 
 Konto-Typ
@@ -25,9 +29,7 @@ Port
 
 Anmelden kannst du dich mit deiner @edu.gbsl.ch- oder @gbsl.ch-E-Mail-Adresse und deinem gbsl-Passwort.
 
-:::tip
-Mit der outlook-App, die für Windows, Mac, iPad, iPhone und Android erhältlich ist, ist die Einrichtung am einfachsten
-:::
+
 
 ## Einstellungen für IMAP
 

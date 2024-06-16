@@ -43,7 +43,7 @@ Eigenständige Einrichtung zu Hause. Es wird erwartet, dass diese Schritte berei
    - Adobe-Programme [👉 Adobe](../../anderesoftware/adobe)
    - Programm für elektronische Prüfungen [👉 E-Prüfen](../../infra/digitales%20prüfen)
    - Stundenplan-App auf dem Smartphone [👉 Stundenplan](../stundenplan/)
-4. Mail einrichten [Mail einrichten](../mail/)
+4. Mail einrichten [Mail einrichten](../mail\e-mail-einstellungen\README.md)
 :::
 
 </TabItem>
