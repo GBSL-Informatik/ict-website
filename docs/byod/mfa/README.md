@@ -36,11 +36,11 @@ Um MFA zu nutzen, müssen weitere Sicherheitsinformationen für die Anmeldemetho
 
    **WICHTIG:** Hier die Schul-Email-Adresse verwenden: Vorname.Name@edu.gbsl.ch
 
-   ![Abbildung 1](https://aka.ms/mfasetup)
+   ![--width=350px](../mfa/mfa1.jpg)
 
 2. Eingabe des Passworts und [Anmelden] wählen.
 
-   ![Abbildung 2](https://aka.ms/mfasetup)
+   ![--width=350px](../mfa/mfa2.jpg)
 
 3. Wurde bereits eine Mobiltelefonnummer hinterlegt, erhältst du einen Code per SMS. In diesem Fall kannst du die Webseite verlassen.
 
@@ -48,7 +48,7 @@ Um MFA zu nutzen, müssen weitere Sicherheitsinformationen für die Anmeldemetho
 
 :::details[Klicke, wenn du eine andere Meldung erhalten hast]  
 
-4. Falls die Mobiltelefonnummer noch nicht in deinem Konto hinterlegt wurde, hast dufolgende Meldung erhalten, die du mit [Weiter] bestätigst.
+4. Falls die Mobiltelefonnummer noch nicht in deinem Konto hinterlegt wurde, hast du folgende Meldung erhalten, die du mit [Weiter] bestätigst.
 
    ![--width=350px](../mfa/mfa3.jpg)
 
