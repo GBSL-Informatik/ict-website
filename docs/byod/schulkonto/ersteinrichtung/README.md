@@ -25,15 +25,17 @@ Darin inbegriffen sind während der gesamten Ausbildungszeit:
 
 2. Klicke auf das Menü «Quicklinks» und wähle «PasswortReset».
 
-![--width=350px](../ersteinrichtung\gbsleinstieg.png)
+![--width=450px](../ersteinrichtung\gbsleinstieg.png)
 
 1. Gib deine Schul-E-Mail-Adresse (Vorname.Nachname@edu.gbsl.ch für Schüler:innen oder Vorname.Nachname@gbsl.ch für Lehrer:innen) sowie deine Mobilnummer im Format 07x xxx xx xx ein. Klicke anschliessend auf «Übermitteln».
+![--width=350px](../ersteinrichtung\edubernpwreset.png)
    - **Wichtig:** Verwende deine persönliche Mobilnummer, welche du auf den Anmeldeformularen der Schule angegeben hast.
 
 2. Wenn du deine Angaben korrekt eingegeben hast, erhältst du eine SMS mit einem Link. Die SMS wird an die Mobilnummer gesendet, welche du in Schritt 3 angegeben hast. Klicke nun auf den Link in der SMS.
    - **Falls eine Fehlermeldung angezeigt wird oder du keine SMS erhalten hast, melde dich bitte beim Sekretariat unter 032 327 07 07 oder sekretariat@gbsl.ch.**
 
 3. Jetzt öffnet sich auf deinem Mobiltelefon ein neues Fenster im Internet-Browser. Hier kannst du dein Passwort für den E-Mail-Account der Schule festlegen.
+![--width=350px](../ersteinrichtung\edubernpwvergeben.png)
    1. Gib deine E-Mail-Adresse der Schule ein (Vorname.Nachname@edu.gbsl.ch)
    2. Gib deine persönliche Mobilnummer ein, die du bereits in Schritt 3 verwendet hast.
    3. Gib dein neues Passwort ein.
@@ -47,6 +49,7 @@ Darin inbegriffen sind während der gesamten Ausbildungszeit:
    - Mindestens ein Sonderzeichen (z.B. * ? ! $ usw.)
    - Der eigene Vorname oder Nachname darf nicht verwendet werden
 
-4. Eine Nachricht bestätigt, dass du dein Passwort erfolgreich festgelegt hast.
+1. Eine Nachricht bestätigt, dass du dein Passwort erfolgreich festgelegt hast.
+![--width=350px](../ersteinrichtung\edubernpwbestätigt.png)
    - **Falls du eine Fehlermeldung erhalten hast, melde dich bitte im Sekretariat unter 032 327 07 07 oder sekretariat@gbsl.ch.**
 
