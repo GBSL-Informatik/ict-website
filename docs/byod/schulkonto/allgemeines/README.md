@@ -11,7 +11,7 @@ import PasswordDocs from '../../../sicherheit/internet-passwort/\_passwords.mdx'
 
 #  Allgemeines zum Schulkonto
 
-Alle unsere Dienste verwenden ein zentrales Benutzerkonto. Das bedeutet für dich, dass du die nur **ein einziges Passwort** merken musst.
+Alle unsere Dienste verwenden ein zentrales Benutzerkonto. Das bedeutet für dich, dass du dir nur **ein einziges Passwort** merken musst.
 
 ## E-Mail-Adresse
 
