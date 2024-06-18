@@ -13,7 +13,7 @@ draft: false
 
 Folgende Optionen stehen zur Verfügung und werden in den nächsten Tipps genauer erläutert:
 
-:::tip
+:::tipp
 ## Outlook App
 Du installierst die Outlook App aus dem Office Paket auf deinem privaten PC, Notebook, Tablet oder Smartphone.
 - :mdi[plusBox] wenig Konfigurationsaufwand, als bei anderen E-Mail-Clients (siehe unten)
