@@ -15,8 +15,7 @@ draft: false
 
 ## Automatische Konfiguration (empfohlen)
 
-Um unser WLAN auf deinem Windows-Gerät zu konfigurieren, verwendest du am besten das Konfigurationsprogramm,  
-welches hier heruntergeladen werden kann:
+Um unser WLAN auf deinem Windows-Gerät zu konfigurieren, verwendest du am besten das Konfigurationsprogramm, welches hier heruntergeladen werden kann:
 
 
 
