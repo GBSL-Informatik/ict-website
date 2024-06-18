@@ -21,7 +21,7 @@ Werke (Texte, Musikstücke, Bilder/Fotos, Videos, Programm, Apps, usw.) sind nor
 - auch wenn das Werk im Internet abrufbar ist
 - auch wenn bereits hunderte Kopien davon gemacht worden sind
 
-Grundsätzlich ist für jede Nutzung eines urheberrechtlich geschützten Werks eine Erlaubnis nötig – eine Quellenangabe allein genügt nicht!.
+Grundsätzlich ist für jede Nutzung eines urheberrechtlich geschützten Werks eine Erlaubnis nötig – eine Quellenangabe allein genügt nicht!
 
 Das Gesetz erlaubt folgendes:
 
@@ -29,13 +29,13 @@ Das Gesetz erlaubt folgendes:
 - Zitieren kleiner Textausschnitte
 - Verwendung im Schulunterricht
 
-Für jede weitergehende Nutzung muss die Erlaubnis des Rechteinhabers eingeholt werden. Urheber können mit Lizenzen automatisch zusätzliche Nutzungen erlauben.
+Für jede weitergehende Nutzung muss die Erlaubnis der Rechteinhaber:innen eingeholt werden. Urheber:innen können mit Lizenzen automatisch zusätzliche Nutzungen erlauben.
 
 ## Lizenzen
 
 - Jede Person, die ein Werk erstellt, ist automatisch Urheberin.
 - Ein Teil des Urheberrechts ist das **Nutzungsrecht**.
-- Die Urheberin kann frei entscheiden, von wem, wann, wo ihr Werk verwendet werden darf.
+- Der/die Urheber:in kann frei entscheiden, von wem, wann, wo ihr Werk verwendet werden darf.
 - Das Abtreten einzelner Nutzungsrechte nennt man **Lizenz**.
 - Um aufwändige Einzelverhandlungen zu vermeiden, gibt es standardisierte Lizenzformen, die eine Klärung der Nutzungsbedingungen vereinfachen.
 
