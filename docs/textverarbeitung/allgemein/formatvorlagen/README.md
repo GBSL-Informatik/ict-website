@@ -19,11 +19,11 @@ draft: false
 
 Eine gute Struktur eines Textdokumentes dient nicht nur der besseren Lesbarkeit.
 
-Überschriften werden normalerweise grösser dargestellt als der restliche Text. Dadurch fällt es dem Betrachter leichter, die Struktur eines Textes zu erkennen: Der Beginn eines Kapitels sticht hervor, ein Abschnitt wird eindeutig als Unterkapitel identifiziert.
+Überschriften werden normalerweise grösser dargestellt als der restliche Text. Dadurch fällt es den Betrachter:innen leichter, die Struktur eines Textes zu erkennen: Der Beginn eines Kapitels sticht hervor, ein Abschnitt wird eindeutig als Unterkapitel identifiziert.
 
 Die Software hingegen erkennt eine Überschrift nicht an Hand ihrer Darstellung. Umgekehrt allerdings kann die Software eine Überschrift entsprechend als solche darstellen.
 
-Deshalb empfiehlt es sich, ein Dokument zu strukturieren, indem man Überschriften als solche auszeichnet und sie nicht einfach fett und grösser formatiert. Dasselbe gilt für weitere Textelemente wie Absätze, Fussnoten, ...
+Deshalb empfiehlt es sich, ein Dokument zu strukturieren, indem man Überschriften als solche auszeichnet und sie nicht einfach fett und grösser formatiert. Dasselbe gilt für weitere Textelemente wie Absätze, Fussnoten etc.
 
 Die Textverarbeitungssoftware kann dann in der sogenannten *Formatvorlage* nachschauen gehen, wie eine Überschrift formatiert wird. Fügt man nun eine weitere Überschrift hinzu, hat diese bereits die korrekte Darstellung. Zudem kann man an einem zentralen Ort die Darstellung sämtlicher Überschriften anpassen.
 
@@ -32,7 +32,7 @@ Die Textverarbeitungssoftware kann dann in der sogenannten *Formatvorlage* nachs
 
 ---
 
-Durch diese Textstruktur eröffnen sich weitere Möglichkeiten
+Durch diese Textstruktur eröffnen sich weitere Möglichkeiten:
 
 Inhaltsverzeichnis
 : Die Textverarbeitungssoftware kann ein automatisches Inhaltsverzeichnis erstellen, indem sie alle Stellen, die mit der Formatvorlage «Überschrift» gekennzeichnet sind, als Kapitelüberschrift ins Inhaltsverzeichnis kopiert und evtl. zusätzlich die Seitenzahl daneben schreibt.
