@@ -30,7 +30,7 @@ Eine neue E-Mail erstellst du, indem du oben links auf _+ Neue Nachricht_ klicks
 
 Füge Empfänger, Betreff und Text hinzu. Abschicken kannst du die Nachricht mit einem Klick auf _Senden_.
 
-Alle E-Mail-Adressen von Schülerinnen und Schülern, Lehrpersonen, Mitarbeitenden und sämtliche Verteiler werden beim Tippen automatisch vervollständigt.
+Alle E-Mail-Adressen von Schüler:innen, Lehrpersonen, Mitarbeitenden und sämtliche Verteiler werden beim Tippen automatisch vervollständigt.
 
 Das _BCC_-Feld kannst du einblenden lassen, wenn du rechts aussen im _An_-Feld auf _BCC_ klickst.
 
