@@ -13,7 +13,7 @@ sidebar_position: 10
 Du kannst die Einrichtung von daheim aus vornehmen und in der Schule. Von daheim aus kannst du nicht alles einrichten. Richte nach Möglichkeit aber alles ein, was du von daheim einrichten kannst.
 :::
 
-Hast du einen ganz neuen Laptop, so beachte bitte [folgendes](../neues-geraet).
+Hast du einen ganz neuen Laptop, so beachte bitte [Folgendes](../neues-geraet).
 
 Hast du von der alten Schule her eine Office365 Lizenz, so beachte unbedingt [das](../installationsprobleme/).
 
