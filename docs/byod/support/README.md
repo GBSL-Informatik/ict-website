@@ -8,8 +8,7 @@ draft: false
 
 #  Support
 
-:::tipp
-
+:::tip
 Hast du Probleme mit deinem Konto, kannst du dich nicht mehr anmelden oder Programme nicht mehr installieren, dann schau einmal unter [**Installationsprobleme**](docs\byod\installationsprobleme\README.md), vielleicht findest du da bereits eine Lösung.
 :::
 
