@@ -61,7 +61,7 @@ Du kannst deine E-Mails, Termine und Kontakte mit deinem Android Phone oder Tabl
 
     ![Server-Namen eintragen](./gmail-7.jpg)
 
-9. Jetzt kannst du deine Daten mit der Gmail App synchronisieren.
+9. Jetzt kannst du deine Daten mit der Gmail-App synchronisieren.
 
 
 [1]: https://play.google.com/store/apps/details?id=com.microsoft.office.outlook
