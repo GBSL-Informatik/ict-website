@@ -24,10 +24,10 @@ Für das Login verwendest du normalerweise deine **Schul-E-Mail-Adresse**. Deine
 
 ## Sicheres Passwort
 
-Mit dem Schulkonto hat man Zugriff auf viele verschiedene Dienste - Dateien auf OneDrive, E-Mails und Teams-Nachrichten versenden, Adobe-Produkte nutzen, etc. Deshalb ist es wichtig, ein **starkes Passwort** zu verwenden.
+Mit dem Schulkonto hat man Zugriff auf viele verschiedene Dienste - Dateien auf OneDrive speichern, E-Mails und Teams-Nachrichten versenden, Adobe-Produkte nutzen, etc. Deshalb ist es wichtig, ein **starkes Passwort** zu verwenden.
 
 :::info[Jährliches Passwort-Update]
-Die Kantons-Vorgaben sehen vor, dass das Passwort **jährlich** geändert werden muss. Du wirst automatisch daran erinnert und muss immer ca. im Mai ein neues Passwort setzen.
+Die Kantons-Vorgaben sehen vor, dass das Passwort **jährlich** geändert werden muss. Du wirst automatisch daran erinnert und musst immer ca. im Mai ein neues Passwort setzen.
 :::
 
 <PasswordDocs />
