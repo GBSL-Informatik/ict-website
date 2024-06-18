@@ -38,7 +38,7 @@ swisscows.ch
 : regionale Resultate
 
 ecosia.org
-: Einnahmen durch Werbung werden zur Aufforstung des Regenwaldes verwendet.
+: Einnahmen durch Werbung werden zur Aufforstung des Regenwaldes verwendet
 
 metager.de
 : Kein Tracking :mdi[chevronRight] keine Filterblase
@@ -66,7 +66,7 @@ Schreibt man direkt vor ein Wort ein Minuszeichen, so werden alle Webseiten welc
 
 
 ## Quellenbeurteilung
-Wenn wir zu einem Thema recherchieren, wollen wir den gefunden Webseiten nicht einfach blind vertrauen. Wir sollten uns immer Gedanken zum Suchergebnis machen und dieses kritisch betrachten. Es lohnt sich auch mehrere Quellen miteinander zu vergleichen!
+Wenn wir zu einem Thema recherchieren, wollen wir den gefunden Webseiten nicht einfach blind vertrauen. Wir sollten uns immer Gedanken zum Suchergebnis machen und dieses kritisch betrachten. Es lohnt sich auch, mehrere Quellen miteinander zu vergleichen!
 
 Autor/Betreiber
 : Wer betreibt die Webseite?
@@ -79,7 +79,7 @@ Aktualität
 
 Absicht
 : An wen richtet sich die Seite?
-: Angemessen Sprache?
+: Angemessene Sprache?
 : Ansprechende Gestaltung?
 : Wird Werbung eingesetzt?
 
