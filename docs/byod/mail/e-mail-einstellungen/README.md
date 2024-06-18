@@ -13,7 +13,7 @@ draft: false
 
 ## Einstellungen allgemein
 
-:::tip
+:::tipp
 Mit der outlook-App, die für Windows, Mac, iPad, iPhone und Android erhältlich ist, ist die Einrichtung am einfachsten
 :::
 
