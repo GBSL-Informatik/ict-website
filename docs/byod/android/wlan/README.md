@@ -40,7 +40,7 @@ Leider können wir für Android (noch) keine automatische Installation anbieten.
    ![Nicht öffnen!](./android-2a.png)
 
 3. Öffne die Einstellungsseite mit den WLAN-Verbindungen (z.B. _Einstellungen_ ‣ _Netzwerk & Internet_ ‣ _WLAN_).
-4. Öffne die erweiteren WLAN-Einstellungn. Je nach Android-Version oder Telefonmodell ist ein anderer Weg nötig:
+4. Öffne die erweiteren WLAN-Einstellungen. Je nach Android-Version oder Telefonmodell ist ein anderer Weg nötig:
    - Falls du oben rechts drei Punkte hast, tippe darauf und wähle _Erweitert_.
    - Falls nicht, sollte unten den verfügbaren Netzwerken ein Eintrag _WLAN-Einstellungen_ auftauchen. Tippe darauf und wähle anschliessend _Erweitert_.
 5. Anschliessend tippst du auf _Zertifikate installieren_.
