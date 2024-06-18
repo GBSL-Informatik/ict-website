@@ -16,7 +16,8 @@ Danach erthältst du auf deinem Smartphone entweder eine SMS mit einem Code oder
 
 # Anleitung: Einrichtung 
 
-:::tip
+:::tip[Tipp]
+
 Aktiviere die Authentifizierung über SMS.
 
 Es bestehen verschiedene Varianten der zusätzlichen Authentifizierung. Hier wird die Variante der Authentifizierung über SMS-Code vorgestellt, die einfacher zu installieren ist als andere.
