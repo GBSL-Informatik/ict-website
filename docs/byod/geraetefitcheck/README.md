@@ -10,7 +10,7 @@ sidebar_position: 10
 :::info
 **Hier findest du Anleitungen, um deinen Laptop und dein Smartphone für den Gebrauch an unserer Schule einzurichten.**
 
-Du kannst die Einrichtung von daheim aus vornehmen und in der Schule. Von daheim aus, kannst du nicht alles einrichten. Richte nach Möglichkeit aber alles ein, was du von daheim einrichten kannst.
+Du kannst die Einrichtung von daheim aus vornehmen und in der Schule. Von daheim aus kannst du nicht alles einrichten. Richte nach Möglichkeit aber alles ein, was du von daheim einrichten kannst.
 :::
 
 Hast du einen ganz neuen Laptop, so beachte bitte [folgendes](../neues-geraet).
