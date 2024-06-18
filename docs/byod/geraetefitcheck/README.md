@@ -15,7 +15,7 @@ Du kannst die Einrichtung von daheim aus vornehmen und in der Schule. Von daheim
 
 Hast du einen ganz neuen Laptop, so beachte bitte [folgendes](../neues-geraet).
 
-Hast du von der alten Schule her eine Office365 Lizenz so beachte unbedingt [das](../installationsprobleme/).
+Hast du von der alten Schule her eine Office365 Lizenz, so beachte unbedingt [das](../installationsprobleme/).
 
 Du befindest dich übrigens auf der ict-Seite der Schule, auf der du für alle möglichen technischen Probleme und Fragen Antworten finden kannst. Du kannst die Adresse dieser Seite im Browser als Favorit speichern oder sogar als App auf deinem Laptop oder Smartphone einrichten. Eine Anleitung findest du unter [Tipps](../tipps/)
 
