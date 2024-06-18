@@ -9,7 +9,7 @@ draft: false
 #  Beamer
 
 
-Anschliessen des Laptops über hdmi-Kabel oder drahtlos über WinAir oder MacAir
+Anschliessen des Laptops über hdmi-Kabel oder drahtlos über WinAir oder MacAir:
 Sobald ein Laptop am Beamer angeschlossen ist, gibt es unterschiedliche Präsentationsmodi. 
 
 ## Umschalten
