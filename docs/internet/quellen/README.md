@@ -35,7 +35,7 @@ Zum Zitat gehört eine Quellenangabe. Nur ein Name – wie oben – reicht für 
 Bei den Quellenangaben gibt es viele verschiedene Möglichkeiten. Unser Gymer hat im Hinblick auf die Maturaarbeiten die Broschüre [«Korrektes Zitieren und Bibliographieren»](https://intern.gymkirchenfeld.ch/document/show?id=60004) veröffentlicht. Diese umfasst 20 Seiten!
 
 Gemäss den dortigen Angaben müsste in der Quellenangabe zum obenstehenden Zitat folgendes stehen:
-- Name des Autoren
+- Name Autor:in
 - Jahr der Veröffentlichung
 - Titel des Werks
 - Verlag oder Reihe
@@ -57,14 +57,14 @@ Turing interessierte sich bereits in der Kindheit für Naturwissenschaften. Im A
 :::
 
 Im Vergleich zur Buchquelle ergeben sich die folgenden Probleme:
-- Der Autor eines Wikipedia-Artikels – oder allgemein einer Webseite: Ist der mit Namen bekannt? Wenn die Person nicht bekannt ist, nehmen wir halt den Namen der Webseite, also z.B. Wikipedia.
+- Der/die Autor:in eines Wikipedia-Artikels – oder allgemein einer Webseite: Ist er/sie mit Namen bekannt? Wenn die Person nicht bekannt ist, nehmen wir halt den Namen der Webseite, also z.B. Wikipedia.
 - Die letzte Aktualisierung ist auch schwierig. Das lassen wir weg.
 - Wie kann diese Webseite gefunden werden? Wir geben den vollständigen Link an!
 - Webseiten können sich ändern – ev. ist der Inhalt nicht mehr verfügbar. Deshalb geben wir das Datum an, an welchem wir die Inhalte von der Webseite übernommen haben.
 
 Bei Online-Quellen müssen also folgende Angaben gemacht werden:
 
-- Autor oder Institution
+- Autor:in oder Institution
 - Titel
 - Link (URL)
 - Datum des Abrufs
@@ -83,7 +83,7 @@ Wikipedia: *Alan Turing*, https://de.wikipedia.org/wiki/Alan_Turing, (abgerufen 
 
 Auch wenn wir Bilder verwenden (und andere Medien) dürfen natürlich Quellenangaben nicht fehlen. Bei einem Bild halten wir das folgende fest:
 
-- Autor/Fotograf
+- Autor:in/Fotograf:in
 - Name des Webauftritts
 - Link (URL)
 - Datum des Abrufs
