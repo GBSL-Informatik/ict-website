@@ -58,5 +58,5 @@ Port
 Sicherheit
 : TLS oder STARTTLS
 
-Anmelden kannst du dich mit deiner @edu.gbsl.ch- oder @gbsl.ch-E-Mail-Adresse und deinem gbsl-Passwort.
+Anmelden kannst du dich mit deiner @edu.gbsl.ch- oder @gbsl.ch-E-Mail-Adresse und mit deinem gbsl-Passwort.
 
