@@ -59,7 +59,7 @@ Wenn man sich am Drucker angemeldet hat, sieht man das folgende Menü:
 
 Der USB-Anschluss befindet sich auf der rechten Seite des Geräts.
 
-:::warning[<i class="mdi mdi-alert"></i> Wichtig]
+:::warning[<i className="mdi mdi-alert"></i> Wichtig]
 Man kann nur PDF-Dokumente ab dem USB-Speicherstick drucken. Andere Dokumenttypen muss man am Computer drucken.
 :::
 
@@ -112,7 +112,7 @@ Es besteht die Möglichkeit, am Kopiergerät (auf der rechten Seite) einen USB-S
 
 Man hat die Möglichkeit, direkt ab USB-Stick zu drucken. 
 
-:::warning[<i class="mdi mdi-alert"></i> Wichtig]
+:::warning[<i className="mdi mdi-alert"></i> Wichtig]
 Es wird ausschliesslich das Drucken von PDF-Dokumenten unterstützt! Das Drucken von Worddateien und anderen Dateitypen ist nicht möglich! Die Dateien werden zwar angezeigt und können ausgewählt werden, allerdings erscheint beim Drucken eine Fehlermeldung.
 :::
 
