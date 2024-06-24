@@ -76,7 +76,7 @@ Freundliche Grüsse
           title="Feedback: Fehler, Vorschläge oder Anregungen mitteilen"
           className={clsx(styles.edited, "badge", "badge--success")}
           href={
-            `mailto:ICT%20Feedback<477b37ea.bernedu.ch@emea.teams.ms>?subject=${encodeURIComponent('Feedback ict.gbsl.website')}&body=${encodeURIComponent(feedbackBody)}`
+            `mailto:ICT%20Feedback<ict.gbsl@bernedu.ch>?subject=${encodeURIComponent('Feedback ict.gbsl.website')}&body=${encodeURIComponent(feedbackBody)}`
           }
         >
           Rückmeldung <Icon path={mdiEmailFast} size={0.3} className={styles.mdi} style={{ marginLeft: '8px', marginRight: '4px', transform: 'scale(2.5)' }} />
