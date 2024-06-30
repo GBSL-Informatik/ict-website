@@ -15,7 +15,7 @@ Mit deiner Schulmailadresse hast du eine Lizenz für die Programmsuite von Adobe
 
 Folgendermassen kannst du die Programme installieren auf deinem Gerät:
 
-Gehe zu [Adobe-Konto](https://account.adobe.com/) und melde dich mit deiner Schulmailadresse an. Klicke auf "weiter" und danach auf "Weiter mit microsoft"
+Gehe zu [Adobe-Konto](https://account.adobe.com/) und melde dich mit deiner Schulmailadresse an. Klicke auf "Mehr anzeigen" und danach auf "Weiter mit microsoft"
 
 ![--width=80%](./AdobeKonto.png)
 
