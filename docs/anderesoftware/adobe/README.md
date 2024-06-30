@@ -15,11 +15,7 @@ Mit deiner Schulmailadresse hast du eine Lizenz für die Programmsuite von Adobe
 
 Folgendermassen kannst du die Programme installieren auf deinem Gerät:
 
-Gehe zu [Adobe Creative Cloud](https://www.adobe.com/ch_de/creativecloud/business.html). Rechts oben kannst du dich anmelden mit deiner Schulmailadresse.
-
-:::warning[Wichtig]
-Wähle "Unternehmens- oder Bildungseinrichtungskonto".
-:::
+Gehe zu [Adobe-Konto](https://account.adobe.com/) und melde dich mit deiner Schulmailadresse an. Klicke auf "weiter" und danach auf "Weiter mit microsoft"
 
 ![--width=80%](./AdobeKonto.png)
 

@@ -44,7 +44,7 @@ WLAN auf automatisch verbinden setzen.
 
 ### Prüfung starten
 
-Anschliessend mit einem beliebigen Browser [👉 exam.net](https://exam.net) öffnen und oben rechts den Prüfungsschlüssel __as9bKy__ eingeben. 
+Anschliessend mit einem beliebigen Browser [👉 exam.net](https://exam.net) öffnen und oben rechts den Prüfungsschlüssel __WSXEAj__ eingeben. 
 
 <BrowserWindow url="https://exam.net">
 
