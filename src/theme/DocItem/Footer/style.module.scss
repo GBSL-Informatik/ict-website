@@ -1,15 +1,23 @@
 .footer {
     margin-top: 3rem;
-    .sources {
+    .badges {
         display: flex;
         flex-wrap: wrap;
         gap: 0.5em;
-        .source {
-            display: inline-flex;
-            align-items: center;
-            gap: 0.6em;
-            .mdi {
-                transform: scale(2);
+        .spacer {
+            flex: 1 1 0;
+        }
+        .sources {
+            display: flex;
+            flex-wrap: wrap;
+            gap: 0.5em;
+            .source {
+                display: inline-flex;
+                align-items: center;
+                gap: 0.6em;
+                .mdi {
+                    transform: scale(2);
+                }
             }
         }
     }
