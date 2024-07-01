@@ -16,11 +16,8 @@ Danach erthältst du auf deinem Smartphone entweder eine SMS mit einem Code oder
 
 # Anleitung: Einrichtung 
 
-:::tip[Tipp]
-
-Aktiviere die Authentifizierung über SMS.
-
-Es bestehen verschiedene Varianten der zusätzlichen Authentifizierung. Hier wird die Variante der Authentifizierung über SMS-Code vorgestellt, die einfacher zu installieren ist als andere.
+:::tip[Authentifizierung über SMS]
+Für die Zweifaktorauthentifizierung muss eine **aktive Mobile Telefonnummer** hinterlegt sein. Weiter Varianten (App oder E-Mail) können zusätzlich hinzugefügt werden.
 :::
 
 ## Überprüfung und Einrichten der Sicherheitsinformationen mit SMS
