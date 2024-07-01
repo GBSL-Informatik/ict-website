@@ -1,0 +1,26 @@
+{
+    "theme.admonition.tip": {
+        "message": "Tipp",
+        "description": "The default label used for the Tip admonition (:::tip)"        
+    },
+    "theme.admonition.note": {
+        "message": "Hinweis",
+        "description": "The default label used for the Note admonition (:::note)"        
+    },
+    "theme.admonition.info": {
+        "message": "Info",
+        "description": "The default label used for the Info admonition (:::info)"        
+    },
+    "theme.admonition.danger": {
+        "message": "Vorsicht",
+        "description": "The default label used for the Danger admonition (:::danger)"        
+    },
+    "theme.admonition.caution": {
+        "message": "Achtung",
+        "description": "The default label used for the Caution admonition (:::caution)"
+    },
+    "theme.admonition.warning": {
+        "message": "Warnung",
+        "description": "The default label used for the Warning admonition (:::warning)"
+    }
+}
