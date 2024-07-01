@@ -30,15 +30,17 @@ Um MFA zu nutzen, müssen weitere Sicherheitsinformationen für die Anmeldemetho
 
    Es erscheint die Aufforderung zur Eingabe der E-Mail-Adresse (Benutzernamen). E-Mail-Adresse eingeben und mit [Weiter] bestätigen.
 
-   **WICHTIG:** Hier die Schul-Email-Adresse verwenden: Vorname.Name@edu.gbsl.ch
+   ::⚠:warning[Wichtig]
+   Hier die Schul-Email-Adresse verwenden: __Vorname.Name@edu.gbsl.ch__
+   :::
 
    ![--width=350px](../mfa/mfa1.jpg)
 
-2. Eingabe des Passworts und [Anmelden] wählen.
+3. Eingabe des Passworts und [Anmelden] wählen.
 
    ![--width=350px](../mfa/mfa2.jpg)
 
-3. Wurde bereits eine Mobiltelefonnummer hinterlegt, erhältst du einen Code per SMS. In diesem Fall kannst du die Webseite verlassen.
+4. Wurde bereits eine Mobiltelefonnummer hinterlegt, erhältst du einen Code per SMS. In diesem Fall kannst du die Webseite verlassen.
 
 ![--width=350px](../mfa/mfa8.jpg)
 
