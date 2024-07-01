@@ -11,4 +11,8 @@ draft: false
 
 Willkommen am Gymnasium Biel-Seeland! Hier findest du Informationen zum Schulkonto und dessen Einrichtung. 
 
+:::warning[Schul-Konto nicht für Laptop-Anmeldung geeignet]
+Die Geräte-Einrichtungen (Windows oder Mac) kann nicht mit einem Schul-Konto abgeschlossen werden.
+::: 
+
 <Features />

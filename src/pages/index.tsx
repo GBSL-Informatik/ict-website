@@ -67,6 +67,11 @@ const IndexPages: FeatureProps[] = [
     icon: "mdi-table-large",
     route: "/tabellenkalkulation",
   },
+  {
+    name: "Tipps und Tricks",
+    icon: "mdi-lightbulb-on-outline",
+    route: "/tipps/",
+  },
 ];
 
 function HomepageHeader() {

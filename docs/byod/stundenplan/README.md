@@ -19,4 +19,4 @@ draft: false
 ![Für iPhones --width=280px](./untisios.png)
 :::
 
-![Schule hinzufügen, Schüler: innen verfügen über kein Login --width=500px](./webuntisgbsl.png)
+![Schule hinzufügen, Schüler\:innen verfügen über kein Login --width=500px](./webuntisgbsl.png)

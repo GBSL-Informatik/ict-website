@@ -1,5 +1,6 @@
 ---
 sidebar_position: 25
+sidebar_label: Adobe Acrobat
 sidebar_custom_props:
   icon: mdi-file-pdf-box
   source: gbsl
