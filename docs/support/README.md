@@ -30,7 +30,7 @@ kannst du hier technische Probleme melden, um die wir uns schnellstmöglich küm
 
 :::
 
-:::warning[Achtung]
+:::warning
 Für folgende Probleme ist der IT-Support **nicht zuständig** und du wendest dich direkt an: 
 
 Druckerprobleme
