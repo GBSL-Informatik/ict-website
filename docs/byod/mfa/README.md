@@ -8,19 +8,14 @@ sidebar_position: 25
 
 # Multi-Faktor-Authentifikation
 
-Eine "Multi-Faktor-Authentifizierung" dient der Sicherheit. Wenn man sich mit 2 Geräten authentifizieren muss, kann ein gestohlener Lapatop nicht dazu verwendet werden, um sich Zutritt zu einem Konto zu verschaffen. Alle Lehrer:innen und Schüler:innen müssen diese einrichten. Wenn du im Schulnetz bist, reichen Mailadresse und Passwort, aber sonst musst du dich immer doppelt authentifizieren.
+Eine "Multi-Faktor-Authentifizierung" (kurz __MFA__) dient der Sicherheit. Wenn man sich mit 2 Faktoren authentifizieren muss, kann bspw. ein gestohlener Lapatop nicht dazu verwendet werden, um sich Zutritt zu einem Konto zu verschaffen. Alle Lehrer:innen und Schüler:innen müssen diese einrichten. Wenn du im Schulnetz bist, reichen Mailadresse und Passwort, aber sonst musst du dich immer doppelt authentifizieren.
 Zuerst musst du dich mit Mailadresse der Schule und Passwort anmelden.
 Danach erthältst du auf deinem Smartphone entweder eine SMS mit einem Code oder einen Code in deiner Authenticator-App.
 
-**Anleitung:**
-
 # Anleitung: Einrichtung 
 
-:::tip[Tipp]
-
-Aktiviere die Authentifizierung über SMS.
-
-Es bestehen verschiedene Varianten der zusätzlichen Authentifizierung. Hier wird die Variante der Authentifizierung über SMS-Code vorgestellt, die einfacher zu installieren ist als andere.
+:::tip[Authentifizierung über SMS]
+Für die Zweifaktorauthentifizierung muss eine **aktive Mobile Telefonnummer** hinterlegt sein. Weiter Varianten (App oder E-Mail) können zusätzlich hinzugefügt werden.
 :::
 
 ## Überprüfung und Einrichten der Sicherheitsinformationen mit SMS
@@ -35,15 +30,17 @@ Um MFA zu nutzen, müssen weitere Sicherheitsinformationen für die Anmeldemetho
 
    Es erscheint die Aufforderung zur Eingabe der E-Mail-Adresse (Benutzernamen). E-Mail-Adresse eingeben und mit [Weiter] bestätigen.
 
-   **WICHTIG:** Hier die Schul-Email-Adresse verwenden: Vorname.Name@edu.gbsl.ch
+   ::⚠:warning[Wichtig]
+   Hier die Schul-Email-Adresse verwenden: __Vorname.Name@edu.gbsl.ch__
+   :::
 
    ![--width=350px](../mfa/mfa1.jpg)
 
-2. Eingabe des Passworts und [Anmelden] wählen.
+3. Eingabe des Passworts und [Anmelden] wählen.
 
    ![--width=350px](../mfa/mfa2.jpg)
 
-3. Wurde bereits eine Mobiltelefonnummer hinterlegt, erhältst du einen Code per SMS. In diesem Fall kannst du die Webseite verlassen.
+4. Wurde bereits eine Mobiltelefonnummer hinterlegt, erhältst du einen Code per SMS. In diesem Fall kannst du die Webseite verlassen.
 
 ![--width=350px](../mfa/mfa8.jpg)
 
