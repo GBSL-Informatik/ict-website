@@ -3,7 +3,7 @@ sidebar_custom_props:
   icon: mdi-email-edit
   source: 
   path: /docs/byod/schulkonto/ersteinrichtung/README.md
-sidebar_position: 21
+sidebar_position: 5
 draft: false
 ---
 

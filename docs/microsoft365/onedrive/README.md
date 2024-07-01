@@ -11,11 +11,7 @@ draft: true
 
 # OneDrive
 
-
-
-[:mdi[cloudSync] Synchronisation in Windows](sync/)
-
-[:mdi[shareAll] Inhalte teilen](teilen/)
+<FeatureCategories/>
 
 
 
