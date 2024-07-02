@@ -135,7 +135,7 @@ Achtung: dem Publikum nicht den Rücken zudrehen
 
 
 ## Verbessertes Beispiel
-Beachtet man die [Präsentationsregeln](#prasentationsregeln) und überarbeitet die Präsentation aus dem [«schlechten» Beispiel](#schlechtes-beispiel), könnte man auf die folgenden überarbeiteten Folien kommen.
+Beachtet man die [Präsentationsregeln](#präsentationsregeln) und überarbeitet die Präsentation aus dem [«schlechten» Beispiel](#schlechtes-beispiel), könnte man auf die folgenden überarbeiteten Folien kommen.
 
 :::aufgabe
 - Vergleiche jeweils die linke und die rechte Folie und überlege, was wie verbessert wurde.

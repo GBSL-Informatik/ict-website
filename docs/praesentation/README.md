@@ -21,9 +21,10 @@ Dabei erstellt der Vortragende sogenannte **Folien** in einer Präsentationssoft
 ### :mdi-microsoft-powerpoint--red-l: Microsoft PowerPoint
 *Powerpoint* ist Teil des *Microsoft Office*-Paketes und ist auf *Windows* und *macOS* verfügbar.
 
-Siehe: [Microsoft 365 (Windows)](../byod/windows/365/) oder [Microsoft 365 (macOS)](../byod/macos/365/)
+Siehe: [👉 Office 365 installieren](../byod/geraetefitcheck/README.md)
 
 ### Alternativen
+
 Zahlreiche weitere Produkte existieren. Teilweise liefern sie einen vergleichbaren Funktionsumfang wie *Impress* und *Powerpoint*, teilweise basieren sie auf anderen Prinzipien und haben ihre Stärken in speziellen Bereichen. Für Interessierte seien hier einige wenige genannt:
 
 | Produkt                                                               | Kosten                            | Bemerkung                                                                         |

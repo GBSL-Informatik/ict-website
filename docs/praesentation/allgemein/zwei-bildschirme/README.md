@@ -26,7 +26,7 @@ Nun gibt es zwei Möglichkeiten diesen zweiten Bildschirm anzusteuern.
 ![Laptop und Beamer im Klonmodus](./images/klonen.png)
 
 ## 2. Erweiterter Desktop
-Die Einstellung «Erweiterter Desktop» **kombiniert zwei Bildschirme zu einem**: Du kannst Fenster beliebig auf den Bildschirmen hin- und herschieben. Die Bildschirme lassen sich neben oder übereinander anordnen. Diese Einstellung verwendet man, wenn man einen Arbeitsplatz mit mehreren Bildschirmen betreibt, oder aber für die Referenten-Ansicht bei einer Präsentation (siehe [Referentenansicht Powerpoint](../../powerpoint/referentenansicht/) oder siehe [Referentenansicht Impress](../../impress/referentenansicht/))
+Die Einstellung «Erweiterter Desktop» **kombiniert zwei Bildschirme zu einem**: Du kannst Fenster beliebig auf den Bildschirmen hin- und herschieben. Die Bildschirme lassen sich neben oder übereinander anordnen. Diese Einstellung verwendet man, wenn man einen Arbeitsplatz mit mehreren Bildschirmen betreibt, oder aber für die Referenten-Ansicht bei einer Präsentation (siehe [Referentenansicht Powerpoint](../../powerpoint/referentenansicht/README.md) oder siehe [Referentenansicht Impress](../../impress/referentenansicht/README.md))
 
 ![Laptop und Beamer mit erweitertem Desktop](./images/erweiterter-desktop.png)
 

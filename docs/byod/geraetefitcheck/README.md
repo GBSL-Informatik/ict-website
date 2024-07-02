@@ -13,9 +13,9 @@ sidebar_position: 10
 Du kannst die Einrichtung von daheim aus vornehmen und in der Schule. Von daheim aus kannst du nicht alles einrichten. Richte nach Möglichkeit aber alles ein, was du von daheim einrichten kannst.
 :::
 
-Hast du von der alten Schule her eine Office365 Lizenz, so beachte unbedingt [das](docs\microsoft365\installationsprobleme\README.md)).
+Hast du von der alten Schule her eine Office365 Lizenz, so beachte unbedingt [das](../../microsoft365/installationsprobleme/README.md).
 
-Du befindest dich übrigens auf der ict-Seite der Schule, auf der du für alle möglichen technischen Probleme und Fragen Antworten finden kannst. Du kannst die Adresse dieser Seite im Browser als Favorit speichern oder sogar als App auf deinem Laptop oder Smartphone einrichten. Eine Anleitung findest du unter [Tipps](../tipps/).
+Du befindest dich übrigens auf der ict-Seite der Schule, auf der du für alle möglichen technischen Probleme und Fragen Antworten finden kannst. Du kannst die Adresse dieser Seite im Browser als Favorit speichern oder sogar als App auf deinem Laptop oder Smartphone einrichten. Eine Anleitung findest du unter [Tipps](../../tipps/01-webseite-als-app/README.md).
 
 Hast du beim Einrichten Probleme, kannst du dich beim Support für Schüler:innen melden. Den Support findest du während des Geräte-fit-Checkups unten im Foyer. Später kannst du dich per Mail melden, QR-Codes findest du im Schulhaus. Mailadresse für den Support: [it-help-for-students@bernedu.ch](mailto:it-help-for-students@bernedu.ch). Wichtig: die grünen QR-Codes in den Schulzimmern sind nur für die Lehrpersonen gedacht.
 
@@ -28,8 +28,8 @@ Eigenständige Einrichtung zu Hause. Es wird erwartet, dass diese Schritte berei
 
 :::aufgabe[Schritte zu Hause]
 
-1. Ersteinrichtung deines Schulkontos [👉 Ersteinrichtung Schulkonto](../../byod/schulkonto)
-2. Mehrfachauthentifikation einrichten [👉 MFA](../mfa/)
+1. Ersteinrichtung deines Schulkontos [👉 Ersteinrichtung Schulkonto](../schulkonto/README.md)
+2. Mehrfachauthentifikation einrichten [👉 MFA](../schulkonto/mfa/README.md)
 3. Office-Programme installieren: [👉 Office365](http://portal.office.com/)
    - Office365 (Word, Excel, Powerpoint)
    - Teams
@@ -50,9 +50,7 @@ Am ersten Schultag die Geräte an der Schule in Betrieb nehmen.
 :::
 
 :::aufgabe[Schritte an der Schule]
-Wlan-Zugang einrichten auf
- 1. dem Laptop [:mdi[microsoftWindows] Windows](../windows/wlan) [:mdi[apple] Mac](../macos/wlan/)
- 2. dem Smartphone/Tablet  [:mdi[android] Android](../android/wlan/) [:mdi[apple] iPhone, iPad](../ios/wlan/)
+[👉 Wlan-Zugang einrichten](../wlan/README.md)
 :::
 
 </TabItem>
