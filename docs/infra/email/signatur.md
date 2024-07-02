@@ -5,7 +5,6 @@ sidebar_custom_props:
   icon: mdi-email-check
   source: gym-kirchenfeld
   path: /docs/infra/email/signatur.md
-draft: true
 ---
 
 # Signatur
@@ -26,8 +25,8 @@ Die Signatur besteht aus einigen Zeilen Text, welche normalerweise durch zwei Mi
 
 -\-
 Ada Lovelace
-Schülerin Q23c
-Gymnasium Kirchenfeld
+Schülerin 28Ga
+Gymnasium Biel-Seeland
 
 </BrowserWindow>
 
@@ -38,28 +37,15 @@ E-Mail-Programme können so konfiguriert werden, dass diese Signatur immer autom
 ### Outlook für Web (im Browser)
 Die Signatur kann in den Einstellungen von Outlook for Web gesetzt werden:
 
-<vue-plyr>
-  <video controls>
-    <source src="./images/AnleitungSignaturWebmail.mp4" type="video/mp4"/>
-  </video>
-</vue-plyr>
+<video controls>
+  <source src="./images/AnleitungSignaturWebmail.mp4" type="video/mp4"/>
+</video>
 
 
 ### Outlook
 So setzt man die Signatur in Outlook:
 
-<vue-plyr>
-  <video controls>
-    <source src="./images/AnleitungSignaturOutlook.mp4" type="video/mp4"/>
-  </video>
-</vue-plyr>
+<video controls>
+  <source src="./images/AnleitungSignaturOutlook.mp4" type="video/mp4"/>
+</video>
 
-
-### Thunderbird
-So setzt man die Signatur in Thunderbird:
-
-<vue-plyr>
-  <video controls>
-    <source src="./images/AnleitungSignaturThunderbird.mp4" type="video/mp4"/>
-  </video>
-</vue-plyr>

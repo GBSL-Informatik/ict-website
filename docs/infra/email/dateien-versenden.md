@@ -5,7 +5,6 @@ sidebar_custom_props:
   icon: mdi-attachment
   source: gym-kirchenfeld
   path: /docs/infra/email/dateien-versenden.md
-draft: false
 ---
 
 # Dateien versenden
@@ -19,10 +18,10 @@ Wenn immer möglich sollten Dokumente als **PDF-Datei** verschickt werden.
 
 ### Begründung
 - PDF-Dateien sehen auf jedem Gerät genau gleich aus und werden korrekt gedruckt
-- Office-Dokumente können Makroviren enthalten
 - Office-Dokumente setzen ein installiertes Office-Paket voraus
-- Microsoft-Dokumente sehen im LibreOffice nicht zwingend exakt gleich aus (und umgekehrt)
 - Office-Dokumente enthalten Zusatzinformationen, die oft nicht verschickt werden sollten
+- Microsoft-Dokumente sehen im LibreOffice nicht zwingend exakt gleich aus (und umgekehrt)
+- Office-Dokumente können Makroviren enthalten
 
 ### Ausnahme
 Dateien in einem Office-Format werden nur genau dann verschickt, wenn die empfangende Person die Datei **überarbeiten** muss. Verschickt man eine Datei in einem Office-Format, so sind im E-Mail-Text die Umstände explizit zu erwähnen.

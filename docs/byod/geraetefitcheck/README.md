@@ -39,7 +39,7 @@ Eigenständige Einrichtung zu Hause. Es wird erwartet, dass diese Schritte berei
    - WebUntis: Stundenplan-App auf dem Smartphone [👉 Stundenplan](../stundenplan/)
    - Adobe-Programme [👉 Adobe](../../anderesoftware/adobe)
    - Programm für elektronische Prüfungen [👉 E-Prüfen](../../infra/digitales%20prüfen)
-5. Mail einrichten [Mail einrichten](../mail\e-mail-einstellungen\README.md)
+5. Mail einrichten [Mail einrichten](../mail/e-mail-einstellungen/README.md)
 :::
 
 </TabItem>
@@ -62,10 +62,11 @@ Diese Schritte werden im Unterricht in der ersten Woche erledigt. Es ist eine sp
 
 :::aufgabe[Schritte im Unterricht]
 1. E-Mail senden
-   - [👉 Nettiquette](../../infra/email/netiquette): Wie man eine Mail korrekt schreibt
+   - [👉 Regeln für E-Mail Nachrichten](../../infra/email/README.md#e-mail): Wie man eine Mail korrekt schreibt
+   - [👉 Anhang hinzufügen](../../infra/email/dateien-versenden.md)
    - Mailversand überprüfen: Senden einer Mail an deine Lehrperson
 2. Teams-Nachrichten senden
-   - [👉 Nettiquette](../../infra/email/netiquette): Wie man eine Teams-Nachricht korrekt schreibt
+   - [👉 Regeln für Teams-Nachrichten](../../infra/email/README.md#teams): Wie man eine Teams-Nachricht korrekt schreibt
    - Sende deiner Lehrperson eine Nachricht über Teams
 3. Teile mit deiner Lehrperson eine Datei über Onedrive
 :::
