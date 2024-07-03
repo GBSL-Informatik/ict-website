@@ -7,7 +7,7 @@ sidebar_custom_props:
   icon: mdi-format-quote-close
   source: gym-kirchenfeld
   path: /docs/textverarbeitung/word-2/anfuehrungszeichen/README.md
-draft: false
+draft: true
 ---
 
 # Anführungszeichen
