@@ -6,7 +6,7 @@ sidebar_position: 5
 sidebar_custom_props:
   source: gym-kirchenfeld
   path: /docs/praesentation/powerpoint/master/README.md
-draft: false
+draft: true
 ---
 
 # Masterfolie

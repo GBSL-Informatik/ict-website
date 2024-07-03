@@ -8,7 +8,7 @@ sidebar_custom_props:
   icon: mdi-chart-pie
   source: gym-kirchenfeld
   path: /docs/tabellenkalkulation/allgemein/diagrammtypen/README.md
-draft: false
+draft: true
 ---
 
 # Diagrammtypen

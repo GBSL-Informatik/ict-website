@@ -8,7 +8,7 @@ sidebar_custom_props:
   icon: mdi-projector
   source: gym-kirchenfeld
   path: /docs/praesentation/allgemein/zwei-bildschirme/README.md
-draft: false
+draft: true
 ---
 
 # Zwei Bildschirme

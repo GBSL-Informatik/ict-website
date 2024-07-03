@@ -8,7 +8,7 @@ sidebar_custom_props:
   icon: mdi-table
   source: gym-kirchenfeld
   path: /docs/tabellenkalkulation/allgemein/arbeitsmappe/README.md
-draft: false
+draft: true
 ---
 
 # Arbeitsmappe

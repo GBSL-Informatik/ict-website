@@ -8,7 +8,7 @@ sidebar_custom_props:
   icon: mdi-chart-bar
   source: gym-kirchenfeld
   path: /docs/tabellenkalkulation/allgemein/aufbau-diagramm/README.md
-draft: false
+draft: true
 ---
 
 # Aufbau eines Diagramms

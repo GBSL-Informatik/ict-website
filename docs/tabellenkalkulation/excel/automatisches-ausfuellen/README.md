@@ -7,7 +7,7 @@ sidebar_custom_props:
   icon: mdi-card-plus-outline
   source: gym-kirchenfeld
   path: /docs/tabellenkalkulation/excel/automatisches-ausfuellen/README.md
-draft: false
+draft: true
 ---
 
 # Automatisches Ausfüllen

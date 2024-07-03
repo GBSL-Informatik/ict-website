@@ -35,7 +35,7 @@ const IndexPages: FeatureProps[] = [
   {
     name: "Andere Software & Medien",
     icon: "mdi-cellphone-link",
-    route: "/anderesoftware",
+    route: "/anderesoftware"
   },
   {
     name: "Schulinfrastruktur",
@@ -43,29 +43,33 @@ const IndexPages: FeatureProps[] = [
     route: "/infra",
   },
   {
+    name: "Tipps und Tricks",
+    icon: "mdi-lightbulb-on-outline",
+    route: "/tipps/",
+  },
+  {
     name: "Internet verwenden",
     icon: "mdi-earth",
-    route: "/internet",
+    route: "https://ict.mygymer.ch/internet/",
+    extern: true
   },
   {
     name: "Textverarbeitung",
     icon: "mdi-text-box-outline",
-    route: "/textverarbeitung",
+    route: "https://ict.mygymer.ch/textverarbeitung/",
+    extern: true
   },
   {
     name: "Präsentation",
     icon: "mdi-presentation",
-    route: "/praesentation",
+    route: "https://ict.mygymer.ch/praesentation/",
+    extern: true
   },
   {
     name: "Tabellenkalkulation",
     icon: "mdi-table-large",
-    route: "/tabellenkalkulation",
-  },
-  {
-    name: "Tipps und Tricks",
-    icon: "mdi-lightbulb-on-outline",
-    route: "/tipps/",
+    route: "https://ict.mygymer.ch/tabellenkalkulation/",
+    extern: true
   },
 ];
 
