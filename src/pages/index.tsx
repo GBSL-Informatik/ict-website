@@ -43,11 +43,6 @@ const IndexPages: FeatureProps[] = [
     route: "/infra",
   },
   {
-    name: "Sicherheit und Datenschutz",
-    icon: "mdi-security",
-    route: "/sicherheit",
-  },
-  {
     name: "Internet verwenden",
     icon: "mdi-earth",
     route: "/internet",
