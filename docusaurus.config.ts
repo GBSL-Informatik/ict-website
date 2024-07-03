@@ -84,21 +84,6 @@ const REMARK_PLUGINS = {
   ]
 }
 
-const scripts: typeof config.scripts = []
-
-if (process.env.UMAMI_SRC && process.env.UMAMI_ID) {
-    scripts.push(
-        {
-            src: process.env.UMAMI_SRC,
-            ['data-website-id']: process.env.UMAMI_ID,
-            ['data-domains']: (process.env.DOMAIN || 'http://localhost:3000').split('/').filter(w => !!w)[1],
-            async: true,
-            defer: true
-        }
-    )
-}
-
-
 const config: Config = {
   title: 'ICT am Gymnasium Biel-Seeland',
   tagline: 'Anleitungen, Tipps und Tricks',
@@ -258,8 +243,13 @@ const config: Config = {
     '@docusaurus/theme-mermaid'
   ],
   scripts: [
-    // Object format.
-    ...scripts
+    {
+      src: 'https://umami.gbsl.website/tell-me.js',
+      ['data-website-id']: 'b712f437-c0b3-41f0-ba9b-c1e5ec681751',
+      ['data-domains']: 'ict.gbsl.website',
+      async: true,
+      defer: true
+    }
   ],
   plugins: [
     'docusaurus-plugin-sass',
