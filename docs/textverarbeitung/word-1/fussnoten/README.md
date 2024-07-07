@@ -8,7 +8,7 @@ sidebar_custom_props:
   icon: mdi-chevron-up
   source: gym-kirchenfeld
   path: /docs/textverarbeitung/word-1/fussnoten/README.md
-draft: false
+draft: true
 ---
 
 # Fussnoten

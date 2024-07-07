@@ -2,7 +2,7 @@
 description: >-
   Einige Regeln, an die wir uns halten sollten, damit ein einheitlicher Auftritt
   entstehen kann
-sidebar_position: 20
+sidebar_position: 900
 sidebar_custom_props:
   icon: mdi-account-details
   source: gym-kirchenfeld

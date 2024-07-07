@@ -5,6 +5,7 @@ sidebar_custom_props:
   source: gym-kirchenfeld
   path: /docs/praesentation/allgemein/README.md
 sidebar_position: 2
+draft: true
 ---
 
 # Allgemeines

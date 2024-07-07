@@ -5,7 +5,7 @@ sidebar_custom_props:
   icon: mdi-shield-check
   source: gym-kirchenfeld
   path: /docs/sicherheit/updates/README.md
-draft: false
+draft: true
 ---
 
 # Updates installieren
