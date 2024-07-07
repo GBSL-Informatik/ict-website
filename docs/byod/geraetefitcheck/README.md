@@ -72,4 +72,12 @@ Diese Schritte werden im Unterricht in der ersten Woche erledigt. Es ist eine sp
 :::
 
 </TabItem>
+<TabItem value="lehrer:innen" label="4. Für Lehrer:innen">
+
+:::info
+Du führst den Geräte-Fit-Check mit der Klasse durch. Merci!
+Damit das gut klappt, solltest du vorgängig ein Team für die Klasse eingerichtet haben (in deinem Fach). Falls du OneNote verwendest
+:::
+
+</TabItem>
 </Tabs>
