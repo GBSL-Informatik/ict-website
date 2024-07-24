@@ -9,13 +9,15 @@ sidebar_position: 17
 
 <Tabs>
   <TabItem value="win" label="Windows">
-    Anleitung Widnows
+    Anleitung Windows
   </TabItem>
   <TabItem value="osx" label="Mac OS">
     Anleitung Mac OS
   </TabItem>
   <TabItem value="ios" label="iOS">
-    Anleitung iOS
+    Öffne die Einstellungen
+
+
   </TabItem>
   <TabItem value="android" label="Android">
     Anleitung Android
@@ -27,7 +29,7 @@ sidebar_position: 17
 
 <Tabs>
   <TabItem value="win" label="Windows">
-    Anleitung Widnows
+    Anleitung Windows
   </TabItem>
   <TabItem value="osx" label="Mac OS">
     Anleitung Mac OS
