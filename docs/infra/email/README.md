@@ -47,7 +47,7 @@ Auch auf Teams werden Nachrichten an Lehrpersonen mit **Sorgfalt** geschrieben. 
 >
 > Mark Muster, 28Gh
 
-Entwickelt sich durch die Antwort der Lehrperson ein **Chat-Charakter**, kann die Anrede und die Schlussformel anschliessend für diese Unterhaltung weggelassen werden. Beim nächsten Anliegen gehört sie aber wieder dazu.
+Entwickelt sich durch die Antwort der Lehrperson ein **Chat-Charakter**, kann die Anrede und die Grussformel anschliessend für diese Unterhaltung weggelassen werden. Beim nächsten Anliegen gehört sie aber wieder dazu.
 
 ### Wann antworten? Wann nicht?
 
