@@ -6,7 +6,7 @@ sidebar_custom_props:
   icon: mdi-wifi
   source: gym-kirchenfeld
   path: /docs/byod/macos/wlan/README.md
-draft: false
+draft: true
 ---
 
 # WLAN einrichten
