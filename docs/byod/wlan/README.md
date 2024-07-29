@@ -25,7 +25,7 @@ sidebar_position: 17
 </Tabs>
 
 
-# Probleme beim Einrichten des WLANS
+# Probleme beim Einrichten des WLANS?
 
 <Tabs>
   <TabItem value="win" label="Windows">
