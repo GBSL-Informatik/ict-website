@@ -13,9 +13,9 @@ In den Unterrichtszimmern befinden sich höhenverstellbare Stehpulte.
 
 ## Höhe verstellen
 
-Metallhebel nach oben drücken, gleichzeitig Tischfläche nach unten oder oben drücken
+Der Metallhebel für die Höhenverstellung befindet sich rechts unter der Tischflächenach. Nach oben drücken, gleichzeitig Tischfläche nach unten oder oben drücken.
 
-![](./images/stehpult-01.png)
+![](./images/Stehpult2.jpg)
 
 
 

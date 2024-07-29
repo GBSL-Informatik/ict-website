@@ -4,8 +4,9 @@ sidebar_custom_props:
   source: gym-kirchenfeld
   path: /docs/infra/geraete/drucker/README.md
 ---
+# Drucker einrichten
 
-# Neue Druckeransteuerung für BYOD-Geräte mit erweiterten Möglichkeiten
+## Neue Druckeransteuerung für BYOD-Geräte mit erweiterten Möglichkeiten
 
 Einrichten des Uniflow-Druckertreibers für die Fotokopierer/Drucker. Klicke auf folgenden Link: [https://gymb.eu.uniflowonline.com/Login](https://gymb.eu.uniflowonline.com/Login)
 
