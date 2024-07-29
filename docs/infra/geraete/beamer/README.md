@@ -8,6 +8,12 @@ draft: false
 
 #  Beamer
 
+## Fernbedienung des Beamers
+
+Auf der Fernbedienung benötigst du nur 2 Tasten: Ein/Ausschalten und die Taste «hdmi». Optional die Tasten «Volume», «A/V Mute» (=Blank) und «Freeze».
+
+![Fernbedienung](./BeamerFB.png)
+
 
 Anschliessen des Laptops über hdmi-Kabel oder drahtlos über WinAir oder MacAir:
 Sobald ein Laptop am Beamer angeschlossen ist, gibt es unterschiedliche Präsentationsmodi. 
