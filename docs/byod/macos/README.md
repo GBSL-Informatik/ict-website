@@ -7,6 +7,7 @@ sidebar_custom_props:
   path: /docs/byod/macos/README.md
 sidebar_position: 50
 draft: true
+
 ---
 
 # macOS
@@ -15,4 +16,4 @@ draft: true
 
 Hier findest du Anleitungen, um dein MacBook für den Gebrauch an unserer Schule einzurichten:
 
-<Features/>
+
