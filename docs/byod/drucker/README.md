@@ -1,17 +1,33 @@
 ---
-systems:
-  - Windows
-sidebar_position: 60
 sidebar_custom_props:
   icon: mdi-printer
-  source: gym-kirchenfeld
-  path: /docs/byod/windows/drucker/README.md
-draft: true
+  source: 
+  path: /docs/byod/drucker/README.md
 ---
-
 # Drucker einrichten
 
-Du kannst Druckaufträge per Mail an die Drucker senden und auf jedem FollowMe-Drucker im Haus drucken, indem du dich mit deinem Badge oder Kärtchen anmeldest.
+## Neue Druckeransteuerung für BYOD-Geräte mit erweiterten Möglichkeiten
 
-Für Lehrpersonen: Für Windows und Mac gibt es je eine Anleitung, wie du den FollowMe-Drucker einrichten kannst
-Um den Drucker einzurichten muss dein Gerät am WLAN der Schule angemeldet sein.
+Einrichten des Uniflow-Druckertreibers für die Fotokopierer/Drucker. Klicke auf folgenden Link: [https://gymb.eu.uniflowonline.com/Login](https://gymb.eu.uniflowonline.com/Login)
+
+![](./uniflowkonto.png)
+
+Melde dich mit deinem Schulkonto (Mailadresse) an. Du wirst eine Mail mit dem PIN für uniflow erhalten.
+
+![](.\uniflowdashboard.png)
+
+Du befindest dich auf dem Dashboard. Klicke im Menü links auf "Drucken starten" und scrolle herunter bis zu "Druckertreiber installieren".
+
+Wähle den Druckertreiber gemäss deinem Betriebssystem.
+
+:::details[Windows: Ich weiss nicht, welche Version des Betriebssystems ich habe.]
+Klicke in der Taskleiste auf das Suchfenster und gib "Version" ein, danach klickst du auf "Überprüfen..."
+![Win-Version --width=600px](./WinVersionPruefen.png)
+:::
+
+Lade den Druckertreiber herunter und starte ihn mit einem Doppelklick. Erlaube dem Installationsprogramm Änderungen. Der Prozess dauert eine Weile, anschliessend steht dir der Drucker in all deinen Programmen zur Verfügung, so auch in Word:
+
+![](./uniflowbroschürendruck.png)
+
+Um den Broschürendruck zu finden, gehe auf "Druckereigenschaften", im neuen Fenster kannst  du den Broschürendruck wählen.
+

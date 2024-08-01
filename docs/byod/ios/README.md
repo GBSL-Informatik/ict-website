@@ -6,7 +6,7 @@ sidebar_custom_props:
   source: gym-kirchenfeld
   path: /docs/byod/ios/README.md
 sidebar_position: 59
-draft: false
+draft: true
 ---
 
 # iOS / iPadOS
