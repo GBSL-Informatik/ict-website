@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkict=self.webpackChunkict||[]).push([[3608],{3396:e=>{e.exports=JSON.parse('{"tag":{"label":"vuejs","permalink":"/tags/vuejs","allTagsPath":"/tags","count":1,"items":[{"id":"dokumentation/md-extensions","title":"Markdown-Extensions","description":"GUI Elemente","permalink":"/dokumentation/md-extensions"}],"unlisted":false}}')}}]);
