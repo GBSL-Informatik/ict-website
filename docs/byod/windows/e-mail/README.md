@@ -19,7 +19,8 @@ draft: false
 
 ![Outlook-Anmeldung unter Windows, Schritt 1](./outlook-1.png)
 
-Falls die Anmeldung nicht automatisch beim Starten von Outlook erscheint, dann gehe in Outlook oben links auf _Datei_. Klicke im Abschnitt _Informationen_ auf _Konto hinzufügen_.
+Falls die Anmeldung nicht automatisch beim Starten von Out
+![Outlook-Anmeldung unter Windows, Schritt 3](./outlook-3.png)look erscheint, dann gehe in Outlook oben links auf _Datei_. Klicke im Abschnitt _Informationen_ auf _Konto hinzufügen_.
 
 2. Im nächsten Dialog wählst du _Office 365_:
 
@@ -27,4 +28,3 @@ Falls die Anmeldung nicht automatisch beim Starten von Outlook erscheint, dann g
 
 Entferne den Haken bei _Outlook Mobile auch auf meinem Telefon einrichten_. Dazu kannst du die Anleitung auf dieser Webseite verwenden.
 
-![Outlook-Anmeldung unter Windows, Schritt 3](./outlook-3.png)

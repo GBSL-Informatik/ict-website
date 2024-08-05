@@ -15,14 +15,12 @@ Jede Klasse und jede Unterrichtsgruppe hat ein Team. Diese Teams werden in der g
 
 [https://www.microsoft.com/de-ch/microsoft-teams/download-app?market=ch](https://www.microsoft.com/de-ch/microsoft-teams/download-app?market=ch)
 
-![Bild](path/to/image)
 
 Lade Teams für Beruf, Schule und Studium herunter
 
 :::detail
   Falls du nicht weisst, welches Betriebssystem du hast:
   
-  ![Bild](path/to/image)
 :::
 
 
