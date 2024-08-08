@@ -61,14 +61,21 @@ Diese Schritte werden im Unterricht in der ersten Woche erledigt. Es ist eine sp
 :::
 
 :::aufgabe[Schritte im Unterricht]
-1. E-Mail senden
+:::info
+Mit dem _Geräte-fit-Check_ soll sichergestellt werden, dass dein Laptop für den Unterricht eingerichtet ist. Weil die Zeit knapp ist, werden Tablet (iPad) und Smartphone nicht geprüft, ausser beim Stundenplan und Teams.
+
+Die Lehrperson, die den _Geräte-fit-Check_ durchführt, wird zuerst folgende Punkte überprüfen und du solltest dich melden, wenn du etwas nicht einrichten konntest oder etwas nicht funktioniert.
+
+1. Ist das WLAN eingerichtet?
+
+1. Teile mit deiner Lehrperson eine Datei über Onedrive
+2. E-Mail senden
    - [👉 Regeln für E-Mail Nachrichten](../../infra/email/README.md#e-mail): Wie man eine Mail korrekt schreibt
    - [👉 Anhang hinzufügen](../../infra/email/dateien-versenden.md)
    - Mailversand überprüfen: Senden einer Mail an deine Lehrperson
-2. Teams-Nachrichten senden
+3. Teams-Nachrichten senden
    - [👉 Regeln für Teams-Nachrichten](../../infra/email/README.md#teams): Wie man eine Teams-Nachricht korrekt schreibt
    - Sende deiner Lehrperson eine Nachricht über Teams
-3. Teile mit deiner Lehrperson eine Datei über Onedrive
 :::
 
 </TabItem>
