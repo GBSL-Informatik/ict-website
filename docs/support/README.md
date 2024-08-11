@@ -15,7 +15,7 @@ Hast du Probleme mit deinem Konto, kannst du dich nicht mehr anmelden oder Progr
 
 :::tip[Tipp 2: Probleme mit dem Wlan]
 
-Kannst du dich nicht im Wlan anmelden, dann schau einmal unter [**Wlan Anmeldeprobleme**](docs\microsoft365\installationsprobleme\README.md), vielleicht findest du da bereits eine Lösung.
+Kannst du dich nicht im Wlan anmelden, dann schau noch einmal unter [**Wlan**](docs\byod\wlan/README.md) nach, ob du alles korrekt eingerichtet und die richtigen Einstellungen hast.
 :::
 
 :::info[Bist du Schüler:in]
