@@ -30,7 +30,7 @@ Um MFA zu nutzen, müssen weitere Sicherheitsinformationen für die Anmeldemetho
 
    Es erscheint die Aufforderung zur Eingabe der E-Mail-Adresse (Benutzernamen). E-Mail-Adresse eingeben und mit [Weiter] bestätigen.
 
-   ::⚠warning[Wichtig]
+   :::warning[Wichtig]
    Hier die Schul-Email-Adresse verwenden: __Vorname.Name@edu.gbsl.ch__
    :::
 
