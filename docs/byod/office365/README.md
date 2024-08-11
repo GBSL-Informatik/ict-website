@@ -9,29 +9,22 @@ sidebar_position: 17
 
 Alle Lehrer:innen und Schüler:innen haben eine Lizenz für die Programmsuite office 365 und arbeiten mit diesen Programmen.
 
-office 365 wird wie folgt installiert:
+Microsoft365 wird wie folgt installiert:
 
 <Tabs>
   <TabItem value="win" label="Windows">
-  Ueber folgenden Link können die Programme installiert werden:
+ 
+Gehe zu folgender Seite [Konto](https://www.microsoft365.com/?auth=2&home=1), melde dich an und wähle **Installieren und mehr**. Die Programme werden heruntergeladen und installiert.
 
+![](microsoftkonto.png)
 
-
-[https://www.microsoft.com/de-ch/microsoft-teams/download-app?market=ch](https://www.microsoft.com/de-ch/microsoft-teams/download-app?market=ch)
-
-
-Lade Teams für Beruf, Schule und Studium herunter
-
-:::detail
-  Falls du nicht weisst, welches Betriebssystem du hast:
-  
-:::
+Kontrolliere, ob auch **Teams** und **OneNote** installiert worden sind. Wenn nicht, findest du die Anleitung auch auf der **ict.gbsl-Seite**.
 
 
   </TabItem>
   <TabItem value="osx" label="Mac OS">
-    Anleitung Mac OS
-
+    
+Gehe zu folgender Seite [Konto](https://www.microsoft365.com/?auth=2&home=1), melde dich an und wähle **Installieren und mehr**. Die Programme werden heruntergeladen und installiert.
 
   </TabItem>
   <TabItem value="ios" label="iOS">
@@ -49,6 +42,7 @@ Installiere die folgenden Apps:
 - [Microsoft Excel im App Store][2]
 - [Microsoft PowerPoint im App Store][3]
 - [Microsoft OneNote im App Store][4]
+- [Microsoft Teams im App Store][5]
 
 
 
@@ -56,6 +50,7 @@ Installiere die folgenden Apps:
 [2]: https://apps.apple.com/ch/app/microsoft-excel/id586683407
 [3]: https://apps.apple.com/ch/app/microsoft-powerpoint/id586449534
 [4]: https://apps.apple.com/ch/app/microsoft-onenote/id410395246
+[5]: https://apps.apple.com/ch/app/microsoft-teams/id1113153706
 
 
 
