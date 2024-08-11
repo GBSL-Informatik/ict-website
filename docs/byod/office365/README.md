@@ -15,8 +15,9 @@ Microsoft365 wird wie folgt installiert:
   <TabItem value="win" label="Windows">
  
 Gehe zu folgender Seite [Konto](https://www.microsoft365.com/?auth=2&home=1), melde dich an und wähle **Installieren und mehr**. Die Programme werden heruntergeladen und installiert.
-
 ![](microsoftkonto.png)
+
+
 
 Kontrolliere, ob auch **Teams** und **OneNote** installiert worden sind. Wenn nicht, findest du die Anleitung auch auf der **ict.gbsl-Seite**.
 
@@ -24,7 +25,16 @@ Kontrolliere, ob auch **Teams** und **OneNote** installiert worden sind. Wenn ni
   </TabItem>
   <TabItem value="osx" label="Mac OS">
     
-Gehe zu folgender Seite [Konto](https://www.microsoft365.com/?auth=2&home=1), melde dich an und wähle **Installieren und mehr**. Die Programme werden heruntergeladen und installiert.
+Gehe zu folgender Seite [Konto](https://www.microsoft365.com/?auth=2&home=1), melde dich an und wähle **Installieren und mehr**. 
+
+Sichere die Datei:
+![](officedownloadmac.png)
+Oeffne die Datei:
+![](office365pkgmac.png)
+Wähle _Standardinstallation_, damit werden auch _OneNote_  und _Teams_ installiert.
+![](installmac.png)
+
+Sollten **Teams** und **OneNote** nicht installiert worden sein, Wfindest du die Anleitung auch auf der **ict.gbsl-Seite* um sie zu installieren.
 
   </TabItem>
   <TabItem value="ios" label="iOS">
@@ -56,8 +66,18 @@ Installiere die folgenden Apps:
 
   </TabItem>
   <TabItem value="android" label="Android">
-Installiere die App direkt aus dem App Store und melde dich beim Starten der App mit deinem gbsl-Account an.
+Office 365 lässt sich auch auf dem Android-Smartphone oder Android-Tablet installieren. Gerade wenn du dein Tablet im Unterricht brauchen willst, macht das Sinn:
 
-[Microsoft OneDrive im App Store](https://apps.apple.com/us/app/microsoft-onedrive/id477537958)
-  </TabItem>
+1. Die Microsoft Apps vom _Play-Store_ installieren,
+2. dich in den Apps mit deinem Schul-Account anmelden.
+
+Installiere die folgenden Apps:
+- Microsoft Word
+- Microsoft Excel
+- Microsoft PowerPoint
+- Microsoft OneNote
+- Microsoft Teams
+
+
+</TabItem>
 </Tabs>
