@@ -83,7 +83,21 @@ Die Lehrperson, die den _Geräte-fit-Check_ durchführt, wird zuerst folgende Pu
 
 :::info
 Du führst den Geräte-Fit-Check mit der Klasse durch. Merci!
-Damit das gut klappt, solltest du vorgängig ein Team für die Klasse eingerichtet haben (in deinem Fach). Falls du OneNote verwendest
+Damit das gut klappt, solltest du vorgängig ein Team für die Klasse eingerichtet haben (in deinem Fach). 
+
+Wenn Schüler:innen Probleme mit dem Einrichten haben und du ihnen nicht weiterhelfen kannst, so schicke sie während dem Geräte-fit-Check zum Support:
+- Montag: 
+- Dienstag:
+- Donnerstag
+
+1. Kläre ab, ob alle Schüler:innen ihren Laptop mit dem WLAN-Netz WLGYMB-BYOD verbinden konnten. Haben Sie das noch nicht getan, so sollen sie es tun.
+2. Kläre ab, ob alle Schüler:innen die Office-Programme installiert haben.
+3. Falls du OneNote in deinem Unterricht verwendest, so kontrolliere, ob die Schüler:innen das Notizbuch öffnen können.
+4. Kontrolliere, ob alle Schüler:innen mit dir eine Datei über OneDrive teilen konnten.
+5. Kontrolliere, ob dir alle Schüler:innen eine Mail mit einer Datei im Anhang schreiben konnten.
+6. Kontrolliere, ob dir alle Schüler:innen eine Nachricht über Teams schreiben konnten.
+
+
 :::
 
 </TabItem>

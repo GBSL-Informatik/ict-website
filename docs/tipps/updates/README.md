@@ -33,20 +33,33 @@ Updates sind wichtig, damit deine Programme auf dem aktuellen Stand bleiben. Mei
   </TabItem>
   <TabItem value="osx" label="Mac OS">
     Anleitung Mac OS
+Das Betriebssystem von MacBooks heisst macOS. Das Betriebssystem und wichtige Apps sollte unbedingt auf dem neuesten Stand gehalten werden, um die Sicherheit zu gewährleisten.
+
+
+## Betriebssystem-Version überprüfen
+
+Öffne die Systemeinstellungen und wähle _Softwareupdate_. Überprüfe folgendes:
+
+- Es steht **«Dein Mac ist auf dem neuesten Stand»**.
+- Es ist eine neue Version vorhanden.
+- Bei _Meinen Mac automatisch aktualisieren_ ist ein Haken gesetzt.
+
+![](./macos-check.png)
+
+
   </TabItem>
   <TabItem value="ios" label="iOS">
 
-## Installation
 
-Installiere die App direkt aus dem App Store:
 
-[Microsoft OneDrive im App Store](https://apps.apple.com/us/app/microsoft-onedrive/id477537958)
+Meist erhältst du eine Nachricht auf dem Bildschirm, dass ein Update vorhanden ist. Diese klickst du an.
 
+Sonst: öffne die Einstellungen und wähle _Datenschutz und Sicherheit_
 
 
   </TabItem>
   <TabItem value="android" label="Android">
-Je nach Android-Version und Marke des Smartphones verhält es sich mit den Updates anders. Meist erhältst du eine Nachricht auf dem Bildschirm, dass ein Update vorhanden ist. DieseJ klickst du an.
+Je nach Android-Version und Marke des Smartphones verhält es sich mit den Updates anders. Meist erhältst du eine Nachricht auf dem Bildschirm, dass ein Update vorhanden ist. Diese klickst du an.
 
 Sonst: öffne die Einstellungen und wähle _Datenschutz und Sicherheit_
 
@@ -59,4 +72,3 @@ und du siehst, ob es Updates zu installieren gibt.
 ![--width=200px](./updateandroid3.png)
   </TabItem>
 </Tabs>
-
