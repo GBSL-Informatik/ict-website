@@ -26,8 +26,8 @@ Updates sind wichtig, damit deine Programme auf dem aktuellen Stand bleiben. Mei
 ## Weitere Updates installieren
 
 1. Öffne die Systemeinstellungen und wähle _Updates & Sicherheit_.
-2. Wähle links im Menü ganz oben den Menüpunkt __Windows Update__.
-3. Überprüfe, ob Updates zur Installation bereit stehen. Falls ja, starte den Computer neu, damit die Updates installiert werden.
+2. Wähle unten rechts _Erweiterte Optionen_.
+3. Wähle _Updates für andere Microsoft-Produkte erhalten_.
 
 
   </TabItem>
