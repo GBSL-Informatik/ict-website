@@ -5,7 +5,7 @@ sidebar_custom_props:
 sidebar_position: 17
 ---
 
-# office 365 einrichten
+# Office 365 einrichten
 
 Alle Lehrer:innen und Schüler:innen haben eine Lizenz für die Programmsuite office 365 und arbeiten mit diesen Programmen.
 
@@ -14,7 +14,7 @@ Microsoft365 wird wie folgt installiert:
 <Tabs>
   <TabItem value="win" label="Windows">
  
-Gehe zu folgender Seite [Konto](https://www.microsoft365.com/?auth=2&home=1), melde dich an und wähle **Installieren und mehr**. Die Programme werden heruntergeladen und installiert.
+Gehe zu folgender Seite [Konto](https://www.microsoft365.com/?auth=2&home=1), melde dich an und wähle __Installieren und mehr__. Die Programme werden heruntergeladen und installiert.
 ![](microsoftkonto.png)
 
 
