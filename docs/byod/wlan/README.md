@@ -9,14 +9,14 @@ sidebar_position: 17
 
 <Tabs>
   <TabItem value="win" label="Windows">
-  Klicke in der Taskleiste unten auf das WLAN-Symbol und wähle das WLAN WLGYMB-BYOD aus. Verbinde dich mit diesem Netzwerk, ignoriere die die Meldung über das Zertifikat und melde dich mit Mailadresse und Passwort an.
+  Klicke in der Taskleiste unten auf das WLAN-Symbol und wähle das WLAN __WLGYMB-BYOD__ aus. Verbinde dich mit diesem Netzwerk, ignoriere die die Meldung über das Zertifikat und melde dich mit Mailadresse und Passwort an.
   :::details[Klicke, wenn du dich nicht verbinden kannst oder du keine Internetverbindung bekommst]
   Gib __WLAN-Einstellungen__ im Suchfeld ein und kontrolliere die folgenden Einstellungen
-![VPN und ](./Netzwerk%20%20und%20Internet.png)
+![WLAN ist eingeschaltet](./Netzwerk%20%20und%20Internet.png)
 :::
   </TabItem>
   <TabItem value="osx" label="Mac OS">
-Klicke oben auf das WLAN-Symbol und wähle das WLAN WLGYMB-BYOD aus. Verbinde dich mit diesem Netzwerk, ignoriere die die Meldung über das Zertifikat und melde dich mit Mailadresse und Passwort an.  
+Klicke oben auf das WLAN-Symbol und wähle das WLAN __WLGYMB-BYOD__ aus. Verbinde dich mit diesem Netzwerk, ignoriere die die Meldung über das Zertifikat und melde dich mit Mailadresse und Passwort an.  
 </TabItem>
   <TabItem value="ios" label="iOS">
     Öffne die Einstellungen
