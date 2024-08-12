@@ -3,6 +3,7 @@ sidebar_custom_props:
   icon: mdi-wifi
   path: /docs/byod/onedrive/onedriveeinrichten/README.md
 sidebar_position: 17
+draft: true
 ---
 
 # OneDrive einrichten
