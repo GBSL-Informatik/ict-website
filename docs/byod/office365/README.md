@@ -5,11 +5,11 @@ sidebar_custom_props:
 sidebar_position: 17
 ---
 
-# Office 365 einrichten
+# Microsoft 365 einrichten
 
 Alle Lehrer:innen und Schüler:innen haben eine Lizenz für die Programmsuite office 365 und arbeiten mit diesen Programmen.
 
-Microsoft365 wird wie folgt installiert:
+Microsoft 365 wird wie folgt installiert:
 
 <Tabs>
   <TabItem value="win" label="Windows">
@@ -18,9 +18,7 @@ Gehe zu folgender Seite [Konto](https://www.microsoft365.com/?auth=2&home=1), me
 ![](microsoftkonto.png)
 
 
-
 Kontrolliere, ob auch **Teams** und **OneNote** installiert worden sind. Wenn nicht, findest du die Anleitung auch auf der **ict.gbsl-Seite**.
-
 
   </TabItem>
   <TabItem value="osx" label="Mac OS">
@@ -41,7 +39,7 @@ Sollten **Teams** und **OneNote** nicht installiert worden sein, Wfindest du die
 
 ## Installation
 
-Office 365 lässt sich auch auf dem iPhone oder iPad installieren. Gerade wenn du dein iPad im Unterricht brauchen willst, macht das Sinn:
+Microsoft 365 lässt sich auch auf dem iPhone oder iPad installieren. Gerade wenn du dein iPad im Unterricht brauchen willst, macht das Sinn:
 
 1. Die Microsoft Apps vom AppStore installieren,
 2. dich in den Apps mit deinem Schul-Account anmelden.
@@ -66,7 +64,7 @@ Installiere die folgenden Apps:
 
   </TabItem>
   <TabItem value="android" label="Android">
-Office 365 lässt sich auch auf dem Android-Smartphone oder Android-Tablet installieren. Gerade wenn du dein Tablet im Unterricht brauchen willst, macht das Sinn:
+Microsoft 365 lässt sich auch auf dem Android-Smartphone oder Android-Tablet installieren. Gerade wenn du dein Tablet im Unterricht brauchen willst, macht das Sinn:
 
 1. Die Microsoft Apps vom _Play-Store_ installieren,
 2. dich in den Apps mit deinem Schul-Account anmelden.
