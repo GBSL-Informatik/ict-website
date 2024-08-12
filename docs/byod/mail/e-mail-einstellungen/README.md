@@ -55,23 +55,3 @@ Sicherheit
 
 Anmelden kannst du dich mit deiner @edu.gbsl.ch- oder @gbsl.ch-E-Mail-Adresse und mit deinem gbsl-Passwort.
 
-# Mail Apps der verschiedenen Betriebssysteme:
-
-<Tabs>
-  <TabItem value="win" label="Windows">
-1. Starte Outlook und melde dich mit deiner Schul-E-Mail-Adresse und deinem Passwort an:
-
-
-
-
-  </TabItem>
-  <TabItem value="osx" label="Mac OS">
-    Anleitung Mac OS
-  </TabItem>
-  <TabItem value="ios" label="iOS">
-
-  </TabItem>
-  <TabItem value="android" label="Android">
-    Anleitung Android
-  </TabItem>
-</Tabs>
