@@ -12,7 +12,8 @@ draft: false
 
 <Tabs>
   <TabItem value="win" label="Windows">
-Für Windows gibt es viele Mailprogramme, hier findest du die Einstellungen für _outlook_:
+Für Windows gibt es viele Mailprogramme, mit _outlook_ lässt sich das Konto einfach einrichten:
+Starte _outlook_. Wenn du das das erste Mal tust, wird dich _outlook_ nach einem Konto fragen. Gib deine Mailadresse und das Passwort ein. _outllook_ erkennt automatisch den Typ des Kontos und richtet alles ein.
 
 
   </TabItem>
