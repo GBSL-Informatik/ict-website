@@ -86,7 +86,7 @@ Du führst den Geräte-Fit-Check mit der Klasse durch. Merci!
 Damit das gut klappt, solltest du vorgängig ein Team für die Klasse eingerichtet haben (in deinem Fach). 
 
 Wenn Schüler:innen Probleme mit dem Einrichten haben und du ihnen nicht weiterhelfen kannst, so schicke sie während dem Geräte-fit-Check zum Support:
-- Montag: M205
+- Montag: M105
 - Dienstag: D104
 - Donnerstag: D215
 
