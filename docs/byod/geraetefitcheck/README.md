@@ -89,6 +89,13 @@ Wenn Schüler:innen Probleme mit dem Einrichten haben und du ihnen nicht weiterh
 - Montag: M105
 - Dienstag: D104
 - Donnerstag: D215
+  :::
+
+:::danger[info MFA/Authenticator]
+Bei Problemen mit der Authentifizierung über die Authenticator App eine Mail schreiben an edubern, Name und Tel. Schüler:in einfügen.
+[Mail schreiben](mailto:jahany.soarhe@edu.bern.ch?subject=Account%20Sch%C3%BCler%3Ain%20zur%C3%BCcksetzen&body=Lieber%20Soarhe%2C%0A%0ABitte%20setze%20folgenden%20Account%20zur%C3%BCck%3A%0A%0Ax%40edu.gbsl.ch%0A%0ATel.%2007%0A%0AMerci%20und%20liebe%20Gr%C3%BCsse)
+:::
+
 
 1. Kläre ab, ob alle Schüler:innen ihren Laptop mit dem WLAN-Netz WLGYMB-BYOD verbinden konnten. Haben Sie das noch nicht getan, so sollen sie es tun.
 2. Kläre ab, ob alle Schüler:innen die Office-Programme installiert haben.
