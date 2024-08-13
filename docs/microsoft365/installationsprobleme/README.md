@@ -26,7 +26,7 @@ Damit die automatische Synchronisation der Dateien mit OneDrive funktioniert, da
 <Tabs groupId="os">
   <TabItem value="win" label="Windows">
 
-Unter __Einstellungen :mdi[cog]{.blue} > Konten :mdi[account]{.cyan} > Trennen__ auf __trennen__ klicken.
+Unter __Einstellungen :mdi[cog]{.blue}__ klicke auf __Konten :mdi[account]{.cyan}__ scrolle runter auf __Auf Arbeits-, Schulkonto...zugreifen__ danach auf __trennen__ klicken.
 
 ![Anleitung](./Schulkonto2.png)
 
