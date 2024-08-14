@@ -78,5 +78,8 @@ Um MFA zu nutzen, müssen weitere Sicherheitsinformationen für die Anmeldemetho
 
 [Anleitung - Einrichten MFA EDUBERN](https://erzbe.sharepoint.com/sites/EDUBERN-Infohub-Hilfsmittel/Lists/Hilfsmittel/Attachments/4/Anleitung%20-%20Einrichten%20MFA%20EDUBERN%20.pdf)
 
-
 :::
+
+:::danger[Problem mit dem Authenticator]
+
+Wenn du versucht hast den Authenticator einzurichten, aber keinen Code erhältst oder keinen Code auf deinem Smartphone eingeben kannst, so musst du den Account zurücksetzen lassen. Das machst du per Mail, gib darin deine Schulmailadresse an und deine Mobilenummer. Hier ist die [Vorlage](mailto:jahany.soarhe@edu.bern.ch?subject=Account%20Sch%C3%BCler%3Ain%20zur%C3%BCcksetzen&body=Guten%20Tag%20Herr%20Jahany%2C%0A%0ABitte%20setzen%20Sie%20meinen%20Account%20zur%C3%BCck%3A%0A%0A%40edu.gbsl.ch%0A%0ATel.%2007%0A%0ABesten%20Dank%20und%20freundliche%20Gr%C3%BCsse)
