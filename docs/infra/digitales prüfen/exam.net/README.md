@@ -44,19 +44,8 @@ WLAN auf automatisch verbinden setzen.
 
 ### Prüfung starten
 
-Anschliessend mit einem beliebigen Browser [👉 exam.net](https://exam.net) öffnen und oben rechts den Prüfungsschlüssel __WSXEAj__ eingeben. 
-
-<BrowserWindow url="https://exam.net">
-
-![](images/examnet-schluessel.png)
-</BrowserWindow>
+Anschliessend die App exam.net öffnen, die Prüfung starten und den Testschlüssel __WSXEAj__ eingeben. 
 
 
-Den hohen Sicherheitsmodus (**SafeExamBrowser**, nicht Take a Test!) auswählen.
-
-<BrowserWindow url="https://exam.net">
-
-![--width=350px](images/examnet-highsecuritymode.png)
-</BrowserWindow>
 
 ---
