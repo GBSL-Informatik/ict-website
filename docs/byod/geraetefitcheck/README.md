@@ -93,7 +93,7 @@ Wenn Schüler:innen Probleme mit dem Einrichten haben und du ihnen nicht weiterh
 
 :::danger[Info MFA/Authenticator]
 Bei Problemen mit der Authentifizierung über die Authenticator App schickst du die Schüler:innen bitte nicht zum Support, da wir nichts machen können. Sende dafür bitte eine Mail an edubern, du brauchst nur noch Name und Tel. der Schüler:innen einzufügen.Der Account wird zurückgesetzt und die Authentifikation funktioniert über SMS. (Am besten belassen es die Schüler:innen dabei.)
-[Mail schreiben](mailto:jahany.soarhe@bernedu.ch?subject=Account%20Sch%C3%BCler%3Ain%20zur%C3%BCcksetzen&body=Lieber%20Soarhe%2C%0A%0ABitte%20setze%20folgenden%20Account%20zur%C3%BCck%3A%0A%0Ax%40edu.gbsl.ch%0A%0ATel.%2007%0A%0AMerci%20und%20liebe%20Gr%C3%BCsse)
+[👉 :mdi[emailEditOutline]](mailto:jahany.soarhe@bernedu.ch?subject=Account%20Sch%C3%BCler%3Ain%20zur%C3%BCcksetzen&body=Lieber%20Soarhe%2C%0A%0ABitte%20setze%20folgenden%20Account%20zur%C3%BCck%3A%0A%0Ax%40edu.gbsl.ch%0A%0ATel.%2007%0A%0AMerci%20und%20liebe%20Gr%C3%BCsse)
 :::
 
 :::note
