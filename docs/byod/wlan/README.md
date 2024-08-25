@@ -37,7 +37,17 @@ Deaktiviere zum Schluss die Option __Tracking der IP-Adresse beschränken__.
 
 :::
 </TabItem>
+
   <TabItem value="ios" label="iOS">
+
+![](wlanios1.jpeg)
+
+![](wlanios2.jpeg)
+
+![](wlanios3.jpeg)
+
+
+
   </TabItem>
 
   <TabItem value="android" label="Android">
