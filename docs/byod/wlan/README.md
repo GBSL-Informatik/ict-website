@@ -39,13 +39,27 @@ Deaktiviere zum Schluss die Option __Tracking der IP-Adresse beschränken__.
 </TabItem>
 
   <TabItem value="ios" label="iOS">
+Gehe zu __Einstellungen__ __WLAN__ und verbinde dich mit __WLGYMB-Byod__ und bei __Zertifikat__ klickst du auf __Vertrauen__ und melde dich mit Mailadresse und Passwort an.
 
-![](wlanios1.jpeg)
+![--width=70%](wlanios1.jpeg)
+:::details[Klicke, falls du keine Verbindung mit WLGYMB-Byod herstellen kannst oder keine Internetverbindung erhältst.]
 
-![](wlanios2.jpeg)
+Kontrolliere folgendes:
 
-![](wlanios3.jpeg)
+- IP Konfigurieren: automatisch
+- DNS Konfigurieren: automatisch
+- Proxy konfigurieren: aus
 
+Weichen deine Einstellungen davon ab, so ändere sie.
+
+![--width=70%](wlanios2.jpeg)
+
+Kontrolliere auch VPN: __Einstellungen__ __Allgemein__ runterscrollen zu VPN und Geräteverwaltung.
+
+![--width=70%](vpnios.jpg)
+
+Hier darf weder VPN verbunden noch ein Arbeits- oder Schulaccount eingerichtet sein.
+:::
 
 
   </TabItem>
