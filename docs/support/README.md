@@ -21,21 +21,20 @@ Kannst du dich nicht im Wlan anmelden, dann schau noch einmal unter [**Wlan**](d
 :::info[Bist du Schüler:in]
 
 wendest du dich an:
-
 **it-help-for-students@bernedu.ch**
-
-
 :::
 
 :::info[Bist du eine Lehrperson]
 kannst du hier technische Probleme melden, um die wir uns schnellstmöglich kümmern, aber auch eine Frage, ein Anliegen oder eine Anregung vorbringen zu allem Digitalem, ob es Software oder Didaktik betrifft: 
-
 [**Störungsmeldung**](https://forms.office.com/r/akUrVUFaRu)
 :::
 
 :::info[Digitales Prüfen]
 Bist du Schüler:in oder Lehrer:in und hast Probleme mit oder Fragen zum **digitalen Prüfen** oder ist gar dein Laptop gesperrt, findest du hier Hilfe: 
 [👉 :mdi[emailEditOutline]](mailto:7b72b655.bernedu.ch@emea.teams.ms?subject=Problem%2FFrage%20zum%20digitalen%20Pr%C3%BCfen&body=%5B%20%20%20%5D%20Hohe%20Priorit%C3%A4t%2Feilt%0A%0AGuten%20Tag%20%0A%0AIch%20habe%20folgendes%20Anliegen%3A%0A%0A%5B%20%20%20%5D%20Mein%20Laptop%20wurde%20von%20exam.net%20gesperrt%0A%5B%20%20%20%5D%20Ich%20bin%20Lehrer%3Ain%20und%20m%C3%B6chte%20eine%20Einf%C3%BChrung%20in%20exam.net%0A%5B%20%20%20%5D%20Ich%20schreibe%20mit%20meiner%20Klasse%20zum%20ersten%20Mal%20eine%20Pr%C3%BCfung%20mit%20exam.net%20und%20bin%20froh%20f%C3%BCr%20eine%20Begleitung%0A%5B%20%20%20%5D%20Ich%20schreibe%20mit%20meiner%20Klasse%20zum%20ersten%20Mal%20eine%20Pr%C3%BCfung%20im%20Hochsicherheitsmodus%20und%20bin%20froh%20f%C3%BCr%20eine%20Begleitung%0A%0ASonstiges%20Anliegen%3A%20%0A%0ABesten%20Dank%20und%20freundliche%20Gr%C3%BCsse)
+:::
+
+:::note[Digicoaches]
 
 :::
 
