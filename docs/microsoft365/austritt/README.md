@@ -22,11 +22,13 @@ Wenn du die Schule verlässt, geschieht Folgendes:
 Folgende Möglichkeiten hast du:
 
 1. Richte eine Signatur in deinem Mailprogramm ein, die darauf hinweist, dass deine gbsl-Adresse nicht mehr lange gültig sein wird und gib deine private Mailadresse an.
-   Weil das für jedes Mailprogramm anders ist, kannst du alternativ auch eine automatische Nachricht versenden lassen über die Online-Version von outlook. Im Anhang findest du eine Anleitung.
-1. Du kannst dir Office kaufen oder ein Abo zulegen, das Office 365-Abo ist für 6 «Familienmitglieder» gültig. Daneben gibt es auch die Open-Source-Programme wie beispielsweise *LibreOffice* und *OpenOffice*.
+   Weil das für jedes Mailprogramm anders ist, kannst du alternativ auch eine automatische Nachricht versenden lassen über die Online-Version von outlook. 
+2. Du kannst dir Office kaufen oder ein Abo zulegen, das Office 365-Abo ist für 6 «Familienmitglieder» gültig. Daneben gibt es auch die Open-Source-Programme wie beispielsweise *LibreOffice* und *OpenOffice*.
    Wenn du PDF-Dateien bearbeiten möchtest, dann ist folgendes gratis Online-Tool empfehlenswert: [Alle PDF Tools - 100% kostenlos - PDF24 Tools](https://tools.pdf24.org/de/alle-tools). Alternativen zu Adobe Acrobat sind meist kostenpflichtig mit einem Jahresabo, das sich in der Preiskategorie von Office bewegt.
-1. Lade alle deine Dateien, die du noch benötigst runter auf deinen PC und/oder lade sie auf eine andere Cloud hoch. 
-1. Damit du weiterhin auf mit dir geteilte oder für dich freigegebene Dateien zugreifen kannst, musst du darum bitten, dass die Dateien für deine private Mailadresse freigegeben werden.
-1. Dateien aus Teams, die du weiterhin benötigst, kannst du runterladen.
-1. Wenn du weiterhin zu einem Team gehören möchtest, bitte darum, dass du als Gast zum Team hinzugefügt wirst mit deiner privaten Adresse. Falls du die Berechtigung hast, Personen zum betreffenden Team hinzuzufügen, kannst du dich selber als Gast hinzufügen (mit deiner privaten Adresse). Bei Teams deren Besitzer:in du bist: Achte darauf, dass du weitere Besitzer:innen hinzufügst, bevor du keinen Zugriff mehr hast.
-1. Falls du ein privates Abo von Office 365 hast, kannst du die Office-Apps auf deinem Smartphone damit verknüpfen.
+3. Lade alle deine Dateien, die du noch benötigst runter auf deinen PC und/oder lade sie auf eine andere Cloud hoch. 
+4. Damit du weiterhin auf mit dir geteilte oder für dich freigegebene Dateien zugreifen kannst, musst du darum bitten, dass die Dateien für deine private Mailadresse freigegeben werden.
+5. Dateien aus Teams, die du weiterhin benötigst, kannst du runterladen.
+6. Wenn du weiterhin zu einem Team gehören möchtest, bitte darum, dass du als Gast zum Team hinzugefügt wirst mit deiner privaten Adresse. Falls du die Berechtigung hast, Personen zum betreffenden Team hinzuzufügen, kannst du dich selber als Gast hinzufügen (mit deiner privaten Adresse). Bei Teams deren Besitzer:in du bist: Achte darauf, dass du weitere Besitzer:innen hinzufügst, bevor du keinen Zugriff mehr hast.
+7. Falls du ein privates Abo von Office 365 hast, kannst du die Office-Apps auf deinem Smartphone damit verknüpfen.
+
+[Link](./austritt.pdf)
