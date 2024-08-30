@@ -32,3 +32,7 @@ Folgende Möglichkeiten hast du:
 7. Falls du ein privates Abo von Office 365 hast, kannst du die Office-Apps auf deinem Smartphone damit verknüpfen.
 
 [Link](austritt.pdf)
+
+[Link](./austritt.pdf)
+
+[Link](../austritt/austritt.pdf)
