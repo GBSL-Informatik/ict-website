@@ -31,4 +31,4 @@ Folgende Möglichkeiten hast du:
 6. Wenn du weiterhin zu einem Team gehören möchtest, bitte darum, dass du als Gast zum Team hinzugefügt wirst mit deiner privaten Adresse. Falls du die Berechtigung hast, Personen zum betreffenden Team hinzuzufügen, kannst du dich selber als Gast hinzufügen (mit deiner privaten Adresse). Bei Teams deren Besitzer:in du bist: Achte darauf, dass du weitere Besitzer:innen hinzufügst, bevor du keinen Zugriff mehr hast.
 7. Falls du ein privates Abo von Office 365 hast, kannst du die Office-Apps auf deinem Smartphone damit verknüpfen.
 
-[Link](./austritt.pdf)
+[Link](austritt.pdf)
