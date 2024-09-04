@@ -35,11 +35,21 @@ Bist du Schüler:in oder Lehrer:in und hast Probleme mit oder Fragen zum **digit
 :::
 
 :::note[Digicoaches]
+In jeder Klasse hat es eine:n Digicoach: 
+- Bist du **Schüler:in**, bekommst du Hilfe bei Problemen mit deinem Laptop.
+- Bist du **Lehrer:in**, bekommst du Hilfe bei den Installationen in den Unterrichtszimmern. 
 
+Aufgaben der Digicoaches:
+- Support der Klassenkolleg:innen bei Problemen mit deren BYOD-Geräten.
+- Weiterleitung an it-help-for-students@bernedu.ch, falls sie die Probleme nicht lösen können.
+- Unterstützung der Lehrer:innen bei Schwierigkeiten mit der Technik in den Unterrichtszimmern.
+- Meldung an den Support über den QR-Code auf den AV-Stehpulten, falls sie das Problem nicht lösen können.
+
+Die Digicoaches erhalten eine Einführung und eine jährliche Weiterbildung.
 :::
 
 :::warning
-Für folgende Probleme ist der IT-Support **nicht zuständig** und du wendest dich direkt an: 
+Für folgende Probleme ist der IT-Support **nicht zuständig** und du wendest dich direkt an:
 
 Druckerprobleme
 : Bei Druckerproblemen wie Papier, Toner : Sekretariat 
