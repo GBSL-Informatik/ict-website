@@ -8,6 +8,5 @@ sidebar_custom_props:
 sidebar_position: 11
 ---
 
-# IT-Hilfe zur Selbsthilfe - Checklisten
 
-<Features />
+# IT-Hilfe zur Selbsthilfe - Checklisten
