@@ -13,7 +13,7 @@ draft: false
 
 ## Anleitung für Schüler:innen
 
-An unserer Schule werden vermehrt Prüfungen digital mit exam.net geschrieben, auch Abschlussprüfungen. Diese Anleitung zeigt, wie ein Computer für den Hochsicherheitsmodus eingerichtet werden kann.
+An unserer Schule werden vermehrt Prüfungen digital mit exam.net (Prüfungsumgebung) geschrieben, auch Abschlussprüfungen. Diese Anleitung zeigt, wie ein Computer für den Hochsicherheitsmodus eingerichtet werden kann.
 
 
 ### Vorbereitung
@@ -26,14 +26,6 @@ Download
   <TabItem value="win" label="Windows">
 
 ![--width=600px](images/examnet-win-install.png)
-
-  </TabItem>
-  <TabItem value="osx" label="Mac, iPad">
-
-![--width=600px](images/examnet-apple-install.png)
-
-  </TabItem>
-</Tabs>
 
 :::warning[Wichtig!]
 WLAN auf automatisch verbinden setzen.
@@ -59,4 +51,22 @@ Den hohen Sicherheitsmodus (**SafeExamBrowser**, nicht Take a Test!) auswählen.
 ![--width=350px](images/examnet-highsecuritymode.png)
 </BrowserWindow>
 
+  </TabItem>
+  <TabItem value="osx" label="Mac, iPad">
+
+![--width=600px](images/examnet-apple-install.png)
+
+  </TabItem>
+</Tabs>
+
+:::warning[Wichtig!]
+WLAN auf automatisch verbinden setzen.
+
+![--width=600px](images/wlanexamnetapple.png)
+
+:::
+
+### Prüfung starten
+
+Anschliessend in der App den entsprechenden Testschlüssel eingeben und die Prüfung starten. 
 ---
