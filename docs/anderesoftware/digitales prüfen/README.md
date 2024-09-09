@@ -5,7 +5,7 @@ sidebar_position: 10
 sidebar_custom_props:
   icon: mdi-ab-testing
   source: gbsl
-  path: /docs/infra/digitales prüfen/README.md
+  path: /docs/anderesoftware/digitales prüfen/README.md
 draft: false
 
 ---

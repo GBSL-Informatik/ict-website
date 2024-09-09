@@ -56,8 +56,7 @@ Den hohen Sicherheitsmodus (**SafeExamBrowser**, nicht Take a Test!) auswählen.
 
 ![--width=600px](images/examnet-apple-install.png)
 
-  </TabItem>
-</Tabs>
+
 
 :::warning[Wichtig!]
 WLAN auf automatisch verbinden setzen.
@@ -69,4 +68,7 @@ WLAN auf automatisch verbinden setzen.
 ### Prüfung starten
 
 Anschliessend in der App den entsprechenden Testschlüssel eingeben und die Prüfung starten. 
+
+  </TabItem>
+</Tabs>
 ---
