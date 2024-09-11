@@ -25,7 +25,7 @@ const IndexPages: FeatureProps[] = [
   {
     name: "Geräte einrichten",
     icon: "mdi-cog",
-    route: "/byod",
+    route: "/byod"
   },
   {
     name: "Microsoft 365",

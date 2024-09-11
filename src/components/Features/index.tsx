@@ -1,8 +1,6 @@
 import React from 'react';
 import styles from './styles.module.scss';
-import { useCurrentSidebarCategory } from '@docusaurus/theme-common';
-// @ts-ignore
-import { useDocsSidebar } from '@docusaurus/theme-common/internal';
+import {useCurrentSidebarCategory, useDocsSidebar} from '@docusaurus/plugin-content-docs/client';
 import Feature from '../Feature';
 import { useLocation } from '@docusaurus/router';
 // https://github.com/facebook/docusaurus/blob/main/packages/docusaurus-theme-common/src/contexts/docsSidebar.tsx
@@ -16,7 +14,14 @@ function MyFeature(): JSX.Element {
       {sidebar.items.map((item, idx) => {
         if (item.type === 'link' || item.type === 'category') {
           return (
-            <Feature icon={item.customProps?.icon as string} name={item.label} route={item.href} pages={item.type === 'category' ? item.items.length : 1} key={idx} />
+            <Feature
+              icon={item.customProps?.icon as string}
+              name={item.label} 
+              route={item.href}
+              description={item.description}
+              pages={item.type === 'category' ? item.items.length : 1}
+              key={idx}
+            />
           );
         } else {
           return null;
@@ -48,7 +53,11 @@ export default function Features(): JSX.Element {
   if (!current || current.type !== 'category') {
     return (
       <div className={styles.features}>
-        <Feature icon="mdi-heart-broken" name="Keine Unterseite Gefunden 😢" route={(docsSidebar?.items.find((it) => it.type !== 'html') as {href: string})?.href || '/'} />
+        <Feature 
+          icon="mdi-heart-broken"
+          name="Keine Unterseite Gefunden 😢"
+          route={(docsSidebar?.items.find((it) => it.type !== 'html') as {href: string})?.href || '/'}
+        />
       </div>
     );
   }

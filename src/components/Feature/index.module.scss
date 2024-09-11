@@ -3,6 +3,17 @@
     border-radius: var(--ifm-global-radius);
     position: relative;
     
+
+    &:hover {
+        box-shadow: var(--ifm-global-shadow-lw);
+        .pages {
+            opacity: 1;
+            transition: all 0.3s ease-in-out;
+        } 
+    }
+    &.extern {
+        color: #fca400;
+    }
     .pages {
         position: absolute;
         right: 0.5rem;
@@ -20,17 +31,10 @@
     h2 {
         font-size: 1.2rem;
     }
+    .description {
+        margin: 0.5em 1em;
+    }
 
-    &:hover {
-        box-shadow: var(--ifm-global-shadow-lw);
-        .pages {
-            opacity: 1;
-            transition: all 0.3s ease-in-out;
-        } 
-    }
-    &.extern {
-        color: #fca400;
-    }
 }
 
 @media (max-width: 719px) {
@@ -38,5 +42,8 @@
         h2 {
             font-size: 1rem;
         }
+  }
+  .description {
+    display: none;
   }
 }
