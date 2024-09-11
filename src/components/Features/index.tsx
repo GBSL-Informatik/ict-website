@@ -15,8 +15,16 @@ function MyFeature(): JSX.Element {
     <div className={styles.features}>
       {sidebar.items.map((item, idx) => {
         if (item.type === 'link' || item.type === 'category') {
+          console.log(item);
           return (
-            <Feature icon={item.customProps?.icon as string} name={item.label} route={item.href} pages={item.type === 'category' ? item.items.length : 1} key={idx} />
+            <Feature 
+              icon={item.customProps?.icon as string}
+              name={item.label} 
+              route={item.href}
+              description={item.description}
+              pages={item.type === 'category' ? item.items.length : 1}
+              key={idx}
+            />
           );
         } else {
           return null;
@@ -48,7 +56,11 @@ export default function Features(): JSX.Element {
   if (!current || current.type !== 'category') {
     return (
       <div className={styles.features}>
-        <Feature icon="mdi-heart-broken" name="Keine Unterseite Gefunden 😢" route={(docsSidebar?.items.find((it) => it.type !== 'html') as {href: string})?.href || '/'} />
+        <Feature 
+          icon="mdi-heart-broken"
+          name="Keine Unterseite Gefunden 😢"
+          route={(docsSidebar?.items.find((it) => it.type !== 'html') as {href: string})?.href || '/'}
+        />
       </div>
     );
   }

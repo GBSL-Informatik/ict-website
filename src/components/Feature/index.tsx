@@ -13,12 +13,13 @@ export interface FeatureProps {
   route: string;
   pages?: number;
   extern?: boolean;
+  description?: string;
 }
 
 const SIZE_INDICATOR = 0.8;
 
 
-const Feature = ({ name, icon, route, pages, extern }: FeatureProps) => {
+const Feature = ({ name, icon, route, pages, extern, description }: FeatureProps) => {
   return (
     <Link to={route}>
       <div className={clsx(styles.feature, extern && styles.extern)}>
@@ -27,6 +28,7 @@ const Feature = ({ name, icon, route, pages, extern }: FeatureProps) => {
         {extern && <span className={clsx(styles.pages)}><Icon path={MdiIcons.mdiOpenInNew} className={clsx(styles.file)} size={SIZE_INDICATOR}/></span>}
         <Icon path={MdiIcons[camelCased(icon || 'mdi-file-document-outline')]} className={clsx(styles.icon)} size={'4rem'} />
         <h2>{name}</h2>
+        {description && <p className={clsx(styles.description)}>{description}</p>}
       </div>
     </Link>
   );
