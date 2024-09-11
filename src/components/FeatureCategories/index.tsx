@@ -1,7 +1,6 @@
 import React from 'react';
 import styles from '../Features/styles.module.scss';
-// @ts-ignore:next-line 2307
-import { useDocsSidebar } from '@docusaurus/theme-common/internal';
+import { useDocsSidebar } from '@docusaurus/plugin-content-docs/client';
 import Feature from '../Feature';
 import { ContextValue } from '../Features';
 import { useLocation } from '@docusaurus/router';

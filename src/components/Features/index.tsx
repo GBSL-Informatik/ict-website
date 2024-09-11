@@ -1,8 +1,6 @@
 import React from 'react';
 import styles from './styles.module.scss';
-import { useCurrentSidebarCategory } from '@docusaurus/theme-common';
-// @ts-ignore
-import { useDocsSidebar } from '@docusaurus/theme-common/internal';
+import {useCurrentSidebarCategory, useDocsSidebar} from '@docusaurus/plugin-content-docs/client';
 import Feature from '../Feature';
 import { useLocation } from '@docusaurus/router';
 // https://github.com/facebook/docusaurus/blob/main/packages/docusaurus-theme-common/src/contexts/docsSidebar.tsx
@@ -15,9 +13,8 @@ function MyFeature(): JSX.Element {
     <div className={styles.features}>
       {sidebar.items.map((item, idx) => {
         if (item.type === 'link' || item.type === 'category') {
-          console.log(item);
           return (
-            <Feature 
+            <Feature
               icon={item.customProps?.icon as string}
               name={item.label} 
               route={item.href}
