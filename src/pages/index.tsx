@@ -33,9 +33,10 @@ const IndexPages: FeatureProps[] = [
     route: "/microsoft365",
   },
   {
-    name: "Andere Software & Medien",
+    name: "Software & Medien",
     icon: "mdi-cellphone-link",
     route: "/anderesoftware"
+    description: 'office, adobe, exam.net'
   },
   {
     name: "Schulinfrastruktur",
