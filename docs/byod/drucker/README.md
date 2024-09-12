@@ -5,6 +5,7 @@ sidebar_custom_props:
   path: /docs/byod/drucker/README.md
 ---
 # Drucker einrichten
+<Features />
 
 ## Neue Druckeransteuerung für BYOD-Geräte mit erweiterten Möglichkeiten
 
