@@ -7,7 +7,7 @@ sidebar_position: 1
 draft: false
 ---
 
-import PasswordDocs from '../../../sicherheit/internet-passwort/\_passwords.mdx';
+import PasswordDocs from '../../sicherheit/internet-passwort/\_passwords.mdx';
 
 #  Allgemeines zum Schulkonto
 

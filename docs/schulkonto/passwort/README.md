@@ -2,13 +2,12 @@
 sidebar_custom_props:
   icon: mdi-onepassword
   source: 
-  path: /docs/byod/schulkonto/passwort/README.md
+  path: /docs/schulkonto/passwort/README.md
 sidebar_position: 31
 
 draft: false
 ---
 
-import PasswordDocs from '../../../sicherheit/internet-passwort/\_passwords.mdx';
 
 # Sicheres Passwort
 
