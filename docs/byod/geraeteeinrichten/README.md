@@ -28,18 +28,19 @@ Eigenständige Einrichtung zu Hause. Es wird erwartet, dass diese Schritte berei
 
 :::aufgabe[Schritte zu Hause]
 
-1. Ersteinrichtung deines Schulkontos [👉 Ersteinrichtung Schulkonto](../schulkonto/README.md)
-2. Mehrfachauthentifikation einrichten [👉 MFA](../schulkonto/mfa/README.md)
-3. Office-Programme installieren: [👉 Office365](http://portal.office.com/)
+1. Updates installieren [👉Updates](/docs/tipps/updates/README.md)
+2. Ersteinrichtung deines Schulkontos [👉 Ersteinrichtung Schulkonto](../schulkonto/README.md)
+3. Mehrfachauthentifikation einrichten [👉 MFA](../schulkonto/mfa/README.md)
+4. Office-Programme installieren: [👉 Office365](http://portal.office.com/)
    - Office365 (Word, Excel, Powerpoint)
    - Teams
    - OneDrive
    - OneNote
-4. Weitere Programme
+5. Weitere Programme
    - WebUntis: Stundenplan-App auf dem Smartphone [👉 Stundenplan](../stundenplan/)
    - Adobe-Programme [👉 Adobe](../../anderesoftware/adobe)
    - Programm für elektronische Prüfungen [👉 E-Prüfen](../../infra/digitales%20prüfen)
-5. Mail einrichten [Mail einrichten](../mail/e-mail-einstellungen/README.md)
+6. Mail einrichten [Mail einrichten](../mail/e-mail-einstellungen/README.md)
 :::
 
 </TabItem>

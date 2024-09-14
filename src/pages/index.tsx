@@ -10,43 +10,44 @@ import Feature, { FeatureProps } from "../components/Feature";
 
 const QuickLinks: FeatureProps[] = [
   {
-    name: "Neu am GBSL?",
-    icon: "mdi-compass-outline",
-    route: "/byod/schulkonto",
-  },
-  {
     name: "Support",
-    icon: "mdi-tools",
+    icon: "mdi-account-supervisor",
     route: "/support",
-  }
+    description: 'Supportadressen, Hilfe zur Selbsthilfe'
+  },
 ];
-
+  
 const IndexPages: FeatureProps[] = [
   {
     name: "Geräte einrichten",
     icon: "mdi-cog",
-    route: "/byod"
+    route: "/byod",
+    description: 'Geräte einrichten, Geräte-fit-Check'
   },
   {
-    name: "Microsoft 365",
+    name: "Schulkonto",
     icon: "mdi-microsoft-windows",
-    route: "/microsoft365",
+    route: "/schulkonto",
+    description: 'Neu am GBSL, Schulkonto, Austritt'
   },
   {
-    name: "Andere Software & Medien",
+    name: "Software & Medien",
     icon: "mdi-cellphone-link",
     route: "/anderesoftware",
-    description: 'office, adobe, exam.net'
+    description: 'Office365, Adobe, exam.net'
   },
   {
+   
     name: "Schulinfrastruktur",
     icon: "mdi-home-circle",
     route: "/infra",
+    description: 'Unterrichtszimmer, Drucker'
   },
   {
     name: "Tipps und Tricks",
     icon: "mdi-lightbulb-on-outline",
     route: "/tipps/",
+    description: 'Update, Tools, Netiquette'
   },
   {
     name: "Internet verwenden",

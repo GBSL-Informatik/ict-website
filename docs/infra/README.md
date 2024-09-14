@@ -1,6 +1,6 @@
 ---
 description: 'Alles, was zur (digitalen) Schulinfrastruktur gehört'
-chapter: Unterrichtszimmer
+chapter: Schulinfrastruktur
 sidebar_position: 3
 sidebar_custom_props:
   icon: mdi-home-circle
