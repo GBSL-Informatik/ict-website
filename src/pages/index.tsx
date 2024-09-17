@@ -44,7 +44,7 @@ const IndexPages: FeatureProps[] = [
     description: 'Unterrichtszimmer, Drucker'
   },
   {
-    name: "Tipps und Tricks",
+    name: "Nützliches und Regeln",
     icon: "mdi-lightbulb-on-outline",
     route: "/tipps/",
     description: 'Update, Tools, Netiquette'

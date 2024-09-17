@@ -13,7 +13,6 @@ draft: true
 # Webseitenzertifikate
 
 
-
 ## Unverschlüsselte Webseiten
 Herkömmliche Webseiten verwenden keine Verschlüsselung. Dies erkennt man daran, dass **kein** grünes Schloss vor der Adresse sichtbar ist und die Adresse **nicht** mit `https://` beginnt:
 ![HTTP-Verbindung](./01-be.ch-markiert.png)

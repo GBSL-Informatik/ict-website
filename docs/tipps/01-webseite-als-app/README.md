@@ -1,7 +1,7 @@
 ---
 description: Webseite als App installieren
 sidebar_label: Webseite als App installieren
-sidebar_position: 1
+sidebar_position: 4
 tags: [Tipps]
 sidebar_custom_props:
   icon: mdi-application-import

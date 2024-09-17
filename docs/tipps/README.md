@@ -5,6 +5,6 @@ sidebar_position: 80
 draft: false
 ---
 
-#  Tipps und Tricks
+#  Nützliches und Regeln
 
 <Features/>
