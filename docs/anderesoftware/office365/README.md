@@ -79,3 +79,43 @@ Installiere die folgenden Apps:
 
 </TabItem>
 </Tabs>
+
+
+
+## Hast du Probleme mit Installieren, gibt es zwei Hauptursachen
+:::solution
+
+Anmeldung nicht möglich tritt auf, wenn du folgendes Häkchen nicht gelöscht hast.
+
+![--width=350px](./images/login-screen-o365.png)
+
+Unten Links auf __Nein, nur bei dieser App anmelden__ klicken.
+
+
+
+Falls du von deiner alten Schule die Office-Installation nicht vollständig gelöscht hast, treten verschiedene Probleme auf, eines davon ist z.B. die Synchronisation von OneDrive. Mit dem vollständigen Löschen der alten Installatin aber löst du alle Probleme, die durch die alte Installation entstehen.
+
+Damit die automatische Synchronisation der Dateien mit OneDrive funktioniert, darf nur ein einziges Schulkonto aktiv sein. Um ein bestehendes Schulkonto zu entfernen, ist wie folgt vorzugehen:
+
+<Tabs groupId="os">
+  <TabItem value="win" label="Windows">
+
+Unter __Einstellungen :mdi[cog]{.blue}__ klicke auf __Konten :mdi[account]{.cyan}__ scrolle runter auf __Auf Arbeits-, Schulkonto...zugreifen__ danach auf __trennen__ klicken.
+
+![Anleitung](./Schulkonto2.png)
+
+  </TabItem>
+  <TabItem value="osx" label="Mac">
+
+Unter Mac OS X muss ein Tool für die Entfernung von bestehenden Konten verwendet werden. 
+
+Anleitung
+: [👉 Anleitung](https://support.microsoft.com/de-de/office/entfernen-von-office-lizenzdateien-auf-einem-mac-b032c0f6-a431-4dad-83a9-6b727c03b193)
+Tool
+: [👉 Removal-Tool](https://go.microsoft.com/fwlink/?linkid=849815)
+
+
+  </TabItem>
+</Tabs>
+
+:::

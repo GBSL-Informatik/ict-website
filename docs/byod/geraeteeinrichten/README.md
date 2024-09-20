@@ -1,11 +1,11 @@
 ---
 sidebar_custom_props:
-  icon: mdi-hand-okay
-  path: /docs/byod/geraetefitcheck/README.md
+  icon: mdi-account-supervisor
+  path: /docs/byod/geraeteeinrichtenk/README.md
 sidebar_position: 10
 ---
 
-# Geräte-fit-Check
+# Geräte einrichten
 
 :::info
 **Hier findest du Anleitungen, um deinen Laptop und dein Smartphone für den Gebrauch an unserer Schule einzurichten.**
