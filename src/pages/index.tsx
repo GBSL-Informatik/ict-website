@@ -80,9 +80,9 @@ function HomepageHeader() {
   return (
     <header className={clsx("hero index-page", styles.heroBanner)}>
       <img src="/img/logo.svg" className={styles.logo} />
-      <div className="container index-page-title">
+      <div className={clsx('container', 'index-page-title')}>
         <h1 className="hero__title">{siteConfig.title}</h1>
-        <p className="hero__subtitle">{siteConfig.tagline}</p>
+        <p className={clsx("hero__subtitle", styles.subTitle)}>{siteConfig.tagline}</p>
       </div>
     </header>
   );
@@ -101,7 +101,7 @@ export default function Home() {
       <Layout description="Anleitungen, Tipps & Tricks">
         <HomepageHeader />
         <main>
-          <div className={clsx(featuresStyles.features, featuresStyles.max2)}>
+          <div className={clsx(featuresStyles.features, featuresStyles.max2, styles.center)}>
             {QuickLinks.map((feat, idx) => (
               <Feature {...feat} key={idx} />
             ))}
