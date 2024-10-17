@@ -83,7 +83,8 @@ Installiere die folgenden Apps:
 
 
 ## Hast du Probleme mit Installieren, gibt es zwei Hauptursachen
-:::solution
+
+### Anmeldung
 
 Anmeldung nicht möglich tritt auf, wenn du folgendes Häkchen nicht gelöscht hast.
 
@@ -91,7 +92,7 @@ Anmeldung nicht möglich tritt auf, wenn du folgendes Häkchen nicht gelöscht h
 
 Unten Links auf __Nein, nur bei dieser App anmelden__ klicken.
 
-
+### Das alte Schulkonto wird angezeigt
 
 Falls du von deiner alten Schule die Office-Installation nicht vollständig gelöscht hast, treten verschiedene Probleme auf, eines davon ist z.B. die Synchronisation von OneDrive. Mit dem vollständigen Löschen der alten Installatin aber löst du alle Probleme, die durch die alte Installation entstehen.
 
@@ -117,5 +118,3 @@ Tool
 
   </TabItem>
 </Tabs>
-
-:::

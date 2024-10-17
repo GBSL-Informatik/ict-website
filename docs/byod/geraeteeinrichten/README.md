@@ -13,7 +13,7 @@ sidebar_position: 10
 Du kannst die Einrichtung von daheim aus vornehmen und in der Schule. Von daheim aus kannst du nicht alles einrichten. Richte nach Möglichkeit aber alles ein, was du von daheim einrichten kannst.
 :::
 
-Hast du von der alten Schule her eine Office365 Lizenz, so beachte unbedingt [das](../../microsoft365/installationsprobleme/README.md).
+Hast du von der alten Schule her eine Office365 Lizenz, so beachte unbedingt [👉 das](../../anderesoftware/office365/README.md).
 
 Du befindest dich übrigens auf der ict-Seite der Schule, auf der du für alle möglichen technischen Probleme und Fragen Antworten finden kannst. Du kannst die Adresse dieser Seite im Browser als Favorit speichern oder sogar als App auf deinem Laptop oder Smartphone einrichten. Eine Anleitung findest du unter [Tipps](../../tipps/01-webseite-als-app/README.md).
 
