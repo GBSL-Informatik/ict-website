@@ -6,6 +6,7 @@ sidebar_custom_props:
 sidebar_position: 31
 draft: false
 ---
+import PasswordDocs from '../../sicherheit/internet-passwort/\_passwords.mdx';
 
 
 # Sicheres Passwort
