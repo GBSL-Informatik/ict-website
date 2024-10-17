@@ -4,7 +4,6 @@ sidebar_custom_props:
   source: 
   path: /docs/schulkonto/passwort/README.md
 sidebar_position: 31
-
 draft: false
 ---
 
