@@ -39,7 +39,7 @@ Eigenständige Einrichtung zu Hause. Es wird erwartet, dass diese Schritte berei
 5. Weitere Programme
    - WebUntis: Stundenplan-App auf dem Smartphone [👉 Stundenplan](../stundenplan/)
    - Adobe-Programme [👉 Adobe](../../anderesoftware/adobe)
-   - Programm für elektronische Prüfungen [👉 E-Prüfen](../../anderesoftware/digitales%20prüfen/exam.net/)
+   - Programm für elektronische Prüfungen [👉 E-Prüfen](../../anderesoftware/digitales%20prüfen/)
 6. Mail einrichten [Mail einrichten](../mail/e-mail-einstellungen/README.md)
 :::
 
