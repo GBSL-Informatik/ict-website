@@ -5,7 +5,8 @@ import * as Preset from '@docusaurus/preset-classic';
 import remarkMath from 'remark-math';
 import rehypeKatex from 'rehype-katex';
 const { themes } = require('prism-react-renderer');
-
+import path from 'path';
+import matter from 'gray-matter';
 import mdiPlugin from './src/plugins/remark-mdi/plugin';
 import kbdPlugin from './src/plugins/remark-kbd/plugin';
 import defPlugin from './src/plugins/remark-defbox/plugin';
@@ -16,9 +17,9 @@ import strongPlugin from './src/plugins/remark-strong/plugin';
 import detailsPlugin from './src/plugins/remark-details/plugin';
 import mediaPlugin from './src/plugins/remark-media/plugin';
 import remarkInlineModifier from './src/plugins/remark-inline-modifier/plugin';
+import { promises as fs } from 'fs';
 import { mdiSourceCommit } from '@mdi/js';
-
-import {ensureFrontMatter} from './bin/ensure-fm';
+const BUILD_LOCATION = __dirname;
 
 const GIT_COMMIT_SHA = process.env.DRONE_COMMIT_SHA || Math.random().toString(36).substring(7);
 
@@ -110,6 +111,9 @@ const config: Config = {
     defaultLocale: 'de',
     locales: ['de'],
   },
+  future: {
+    experimental_faster: true,
+  },
   presets: [
     [
       'classic',
@@ -158,6 +162,40 @@ const config: Config = {
         admonitions: false,
         comments: false,
         headingIds: false
+    },
+    parseFrontMatter: async (params) => {
+      const result = await params.defaultParseFrontMatter(params);
+      /**
+       * don't edit blogs frontmatter
+       */
+      if (params.filePath.startsWith(`${BUILD_LOCATION}/blog/`)) {
+        return result;
+      }
+      if (path.basename(params.filePath).startsWith('_')) {
+        return result;
+      }
+      if (process.env.NODE_ENV !== 'production') {
+        let needsRewrite = false;
+        if (Object.keys(result.frontMatter).length === 0) {
+          result.frontMatter.description = 'Kurzbeschreibung für Suchmaschinen';
+          result.frontMatter.sidebar_label = 'Seitenname';
+          result.frontMatter.sidebar_position = 10;
+          result.frontMatter.tags = [];
+          result.frontMatter.sidebar_custom_props = {
+              icon: 'mdi-file-document-outline'
+          }
+          result.frontMatter.draft = true;
+          needsRewrite = true;
+        }
+        if (needsRewrite) {
+          await fs.writeFile(
+            params.filePath,
+            matter.stringify(params.fileContent, result.frontMatter),
+            { encoding: 'utf-8' }
+          )
+        }
+      }
+      return result;
     }
   },
   themeConfig: {
@@ -311,45 +349,7 @@ const config: Config = {
           },
         ],
       },
-    ],
-    function (context, options) {
-      return {
-        name: 'on-compile',
-        configureWebpack(config, isServer, utils) {
-          return {
-            plugins: [
-              {
-                apply: (compiler) => {
-                    const cache = {};
-                    compiler.hooks.watchRun.tap("Frontmatter-Plugin", () => {
-                        if (process.env.NODE_ENV === 'development') {
-                            if (compiler.modifiedFiles) {
-                                compiler.modifiedFiles.forEach((f) => {
-                                    if ((f.endsWith('.md') || f.endsWith('.mdx')) && !cache[f] && !f.includes('/versioned_docs/')) {
-                                        if (ensureFrontMatter(f)) {
-                                            console.log('Added Frontmatter to', f);
-                                        }
-                                        cache[f] = true;
-                                    }
-                                });
-                            }
-                            if (compiler.removedFiles) {
-                                compiler.removedFiles.forEach((f) => {
-                                    if (f.endsWith('.md') || f.endsWith('.mdx')) {
-                                        delete cache[f]
-                                    }
-                                })
-                            }
-                        }
-                    });
-                },
-              },
-            ]
-          }
-        }
-      }
-    },
-    require.resolve('docusaurus-plugin-image-zoom')
+    ]
   ]
 };
 

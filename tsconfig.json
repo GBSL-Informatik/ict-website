@@ -2,11 +2,10 @@
   // This file is not used in compilation. It is here just for a nice editor experience.
   "extends": "@docusaurus/tsconfig",
   "compilerOptions": {
-    "target": "ES6",
     "baseUrl": ".",
-    "types": ["docusaurus-theme-frontmatter"],
+    "types": ["docusaurus-theme-frontmatter", "docusaurus-plugin-sass"],
     "resolveJsonModule": true,
     "esModuleInterop":true,
   },
-  "exclude": ["src/plugins/**/*.test.ts"],
+  "exclude": ["src/plugins/**/*.test.ts"]
 }
