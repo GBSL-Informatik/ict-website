@@ -1,12 +1,17 @@
 import { visit, CONTINUE, SKIP, EXIT } from 'unist-util-visit';
 import type { Plugin, Processor, Transformer } from 'unified';
-import type { MdxJsxFlowElement } from 'mdast-util-mdx';
+import type { MdxJsxFlowElement, MdxJsxTextElement } from 'mdast-util-mdx';
 import { Parent, PhrasingContent, RootContent, Text } from 'mdast';
 
 // match to determine if the line is an opening tag
 const DD_REGEX = /(\r?\n):[ \t]+(.*?)/;
 const DD_CONSECUTIVE_REGEX = /^(\r?\n)?:[ \t]+(.*?)/;
-type ActionStates = 'SEEK_DD_START' | 'SEEK_CONSECUTIVE_DD_START' | 'COLLECT_DT_BODY' | 'COLLECT_DD_BODY' | 'ADD_TO_DL';
+type ActionStates =
+    | 'SEEK_DD_START'
+    | 'SEEK_CONSECUTIVE_DD_START'
+    | 'COLLECT_DT_BODY'
+    | 'COLLECT_DD_BODY'
+    | 'ADD_TO_DL';
 
 const createMdxJsxFlowElementNode = (name: string, children: RootContent[] = [], className?: string) => {
     const attributes = className ? [{ type: 'mdxJsxAttribute', name: 'className', value: className }] : [];
@@ -16,10 +21,16 @@ const createMdxJsxFlowElementNode = (name: string, children: RootContent[] = [],
         attributes: attributes,
         children: children,
         data: {
-            "_mdxExplicitJsx": true
+            _mdxExplicitJsx: true
         }
     } as MdxJsxFlowElement;
-}
+};
+const createMdxJsxTextElementNode = (name: string, children: RootContent[] = [], className?: string) => {
+    return {
+        ...createMdxJsxFlowElementNode(name, children, className),
+        type: 'mdxJsxTextElement'
+    } as MdxJsxTextElement;
+};
 
 const plugin: Plugin = function plugin(
     this: Processor,
@@ -28,42 +39,47 @@ const plugin: Plugin = function plugin(
             dl?: string;
             dt?: string;
             dd?: string;
-        },
+        };
         tagNames?: {
             dl?: string;
             dt?: string;
             dd?: string;
-        }
+        };
     }
 ): Transformer {
-    const { classNames, tagNames } = { tagNames: {}, classNames: {}, ...(optionsInput || {})};
+    const { classNames, tagNames } = { tagNames: {}, classNames: {}, ...(optionsInput || {}) };
     const DL = tagNames.dl || 'dl';
     const DT = tagNames.dt || 'dt';
     const DD = tagNames.dd || 'dd';
     const getDLNode = (children: RootContent[] = []) => {
         return createMdxJsxFlowElementNode(DL, children, classNames.dl);
-    }
+    };
 
     const getDTNode = (children: RootContent[]) => {
-        return createMdxJsxFlowElementNode(DT, [{ type: 'paragraph', children: children} as RootContent], classNames.dt);
-    }
+        return createMdxJsxTextElementNode(DT, children, classNames.dt);
+    };
 
     const getDDNode = (children: RootContent[]) => {
-        return createMdxJsxFlowElementNode(DD, [{ type: 'paragraph', children: children} as RootContent], classNames.dd);
-    }
+        return createMdxJsxTextElementNode(DD, children, classNames.dd);
+    };
     return async (ast, vfile) => {
-        visit(ast, (node, idx, parent: Parent) => {
+        visit(ast, (node, _idx, parent: Parent) => {
+            if (_idx === undefined) {
+                return CONTINUE;
+            }
+            let idx = _idx as number;
             if (node.type === 'paragraph') {
                 let action: ActionStates = 'SEEK_DD_START';
-                visit(node, (cNode, cIdx, cParent: Parent) => {
+                visit(node, (cNode, _cIdx, cParent: Parent) => {
                     /**
                      * RULE: only visit the direct children of the paragraph
                      *       --> only "SKIP" or "EXIT" are returned (except on the first visit)
                      */
-                    if (!cParent) {
+                    if (!cParent || _cIdx === undefined) {
                         /** continue to it's children if cParent is not present */
                         return CONTINUE;
                     }
+                    let cIdx = _cIdx as number;
                     switch (action) {
                         case 'SEEK_DD_START':
                             if (cNode.type === 'text') {
@@ -94,52 +110,64 @@ const plugin: Plugin = function plugin(
                                 action = 'COLLECT_DD_BODY';
                                 return [SKIP, cIdx];
                             }
-                            visit(cParent, (dtNode, dtIdx, dtParent: Parent) => {
-                                const correctNested = dtParent && dtParent === cParent;
-                                if (!correctNested || dtIdx >= cIdx) {
-                                    if (correctNested) {
-                                        return SKIP;
+                            visit(
+                                cParent,
+                                (dtNode, dtIdx, dtParent) => {
+                                    if (dtIdx === undefined) {
+                                        return CONTINUE;
                                     }
-                                    return CONTINUE;
-                                }
-                                if (dtNode.type === 'text') {
-                                    const text = dtNode as Text;
-                                    const newLineMatch = text.value.match(/\r?\n/);
-                                    if (newLineMatch) {
-                                        const pre = text.value.slice(0, newLineMatch.index);
-                                        const post = text.value.slice(newLineMatch.index + newLineMatch[0].length);
-                                        const newChildren: RootContent[] = [];
-                                        const dtNodes = dtParent.children.splice(dtIdx + 1, cIdx - (dtIdx + 1));
-                                        if (pre.trim()) {
-                                            newChildren.push({
-                                                type: 'text',
-                                                value: pre
-                                            });
+                                    const correctNested = dtParent && dtParent === cParent;
+                                    if (!correctNested || dtIdx >= cIdx) {
+                                        if (correctNested) {
+                                            return SKIP;
                                         }
-                                        if (post.trim()) {
-                                            dtNodes.splice(0, 0, {
-                                                type: 'text',
-                                                value: post
-                                            });
-                                        };
-                                        newChildren.push(getDTNode(dtNodes));
-                                        dtParent.children.splice(dtIdx, 1, ...newChildren);
+                                        return CONTINUE;
+                                    }
+                                    if (dtNode.type === 'text') {
+                                        const text = dtNode as Text;
+                                        const newLineMatch = text.value.match(/\r?\n/);
+                                        if (newLineMatch) {
+                                            const pre = text.value.slice(0, newLineMatch.index);
+                                            const post = text.value.slice(
+                                                (newLineMatch.index || 0) + newLineMatch[0].length
+                                            );
+                                            const newChildren: RootContent[] = [];
+                                            const dtNodes = dtParent.children.splice(
+                                                dtIdx + 1,
+                                                cIdx - (dtIdx + 1)
+                                            );
+                                            if (pre.trim()) {
+                                                newChildren.push({
+                                                    type: 'text',
+                                                    value: pre
+                                                });
+                                            }
+                                            if (post.trim()) {
+                                                dtNodes.splice(0, 0, {
+                                                    type: 'text',
+                                                    value: post
+                                                });
+                                            }
+                                            newChildren.push(getDTNode(dtNodes));
+                                            dtParent.children.splice(dtIdx, 1, ...newChildren);
+                                            action = 'ADD_TO_DL';
+                                            return EXIT;
+                                        }
+                                    }
+                                    if (dtIdx === 0) {
+                                        const dtNodes = dtParent.children.splice(0, cIdx);
+                                        dtParent.children.splice(0, 0, getDTNode(dtNodes));
                                         action = 'ADD_TO_DL';
+                                        cIdx = 0;
                                         return EXIT;
                                     }
-                                }
-                                if (dtIdx === 0) {
-                                    const dtNodes = dtParent.children.splice(0, cIdx);
-                                    dtParent.children.splice(0, 0, getDTNode(dtNodes));
-                                    action = 'ADD_TO_DL';
-                                    cIdx = 0;
-                                    return EXIT;
-                                }
-                                return SKIP;
-                            }, true);
+                                    return SKIP;
+                                },
+                                true
+                            );
                             return [SKIP, cIdx];
                         case 'ADD_TO_DL':
-                            /** if cIdx != 0, it means the paragraph did not start with 
+                            /** if cIdx != 0, it means the paragraph did not start with
                              * the deflist. The current paragraph mus be splitted. */
                             if (cIdx !== 0) {
                                 const pre = cParent.children.splice(0, cIdx) as PhrasingContent[];
@@ -150,9 +178,10 @@ const plugin: Plugin = function plugin(
                                 idx++;
                                 cIdx = 0;
                             }
-                            const hasDL = idx > 0
-                                && parent.children[idx - 1].type === 'mdxJsxFlowElement'
-                                && (parent.children[idx - 1] as MdxJsxFlowElement).name === DL;
+                            const hasDL =
+                                idx > 0 &&
+                                parent.children[idx - 1].type === 'mdxJsxFlowElement' &&
+                                (parent.children[idx - 1] as MdxJsxFlowElement).name === DL;
                             const node2move = cParent.children.splice(cIdx, 1)[0] as MdxJsxFlowElement;
                             if (node2move.name === DT) {
                                 action = 'COLLECT_DD_BODY';
@@ -174,7 +203,10 @@ const plugin: Plugin = function plugin(
                             }
                             return [SKIP, cIdx];
                         case 'COLLECT_DD_BODY':
-                            visit(cParent, (ddNode, ddIdx, ddParent: Parent) => {
+                            visit(cParent, (ddNode, ddIdx, ddParent) => {
+                                if (ddIdx === undefined) {
+                                    return CONTINUE;
+                                }
                                 const correctNested = ddParent && ddParent === cParent;
                                 if (!correctNested || ddIdx < cIdx) {
                                     if (correctNested) {
@@ -187,7 +219,9 @@ const plugin: Plugin = function plugin(
                                     const newLineMatch = text.value.match(/\r?\n/);
                                     if (newLineMatch) {
                                         const dd = text.value.slice(0, newLineMatch.index);
-                                        const post = text.value.slice(newLineMatch.index + newLineMatch[0].length);
+                                        const post = text.value.slice(
+                                            (newLineMatch.index || 0) + newLineMatch[0].length
+                                        );
                                         text.value = dd;
                                         const ddNodes = ddParent.children.splice(cIdx, ddIdx - cIdx + 1);
                                         ddParent.children.splice(cIdx, 0, getDDNode(ddNodes));
@@ -196,7 +230,7 @@ const plugin: Plugin = function plugin(
                                                 type: 'text',
                                                 value: post
                                             });
-                                        };
+                                        }
                                         action = 'ADD_TO_DL';
                                         return EXIT;
                                     }
@@ -230,7 +264,7 @@ const plugin: Plugin = function plugin(
                 });
             }
         });
-    }
-}
+    };
+};
 
 export default plugin;
