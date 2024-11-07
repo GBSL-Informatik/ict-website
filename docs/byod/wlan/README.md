@@ -31,7 +31,7 @@ Private-Relay schützt dich vor Angriffen aus dem Internet, indem es deine Ident
 
 Die beste Lösung besteht darin, __Private-Relay__ nur für das BYOD-WLAN auszuschalten, so bist du weiterhin auch in den einfacheren Netzwerken gut geschützt:
 
-Klicke auf das Apple-Menü __:mdi[apple]__, wähle __Systemeinstellungen__ . Klicke in der Seitenleiste auf __Netzwerk__ und anschiessend auf der rechten Seite __WLAN-BYOD__, Klicke auf die __:mdi[informationOutline]__.
+Klicke auf das Apple-Menü __:mdi[apple]__, wähle __Systemeinstellungen__ . Klicke in der Seitenleiste auf __Netzwerk__ und anschliessend auf der rechten Seite __WLAN-BYOD__, Klicke auf die __:mdi[informationOutline]__.
 
 Deaktiviere zum Schluss die Option __Tracking der IP-Adresse beschränken__.
 
