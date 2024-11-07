@@ -16,7 +16,7 @@
   }
 }
 
-:globale .card__image {
+:global(.card__image) {
   figure.figure {
     width: 100%;
   }
