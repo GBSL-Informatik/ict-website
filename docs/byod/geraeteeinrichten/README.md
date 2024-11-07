@@ -29,8 +29,8 @@ Eigenständige Einrichtung zu Hause. Es wird erwartet, dass diese Schritte berei
 :::aufgabe[Schritte zu Hause]
 
 1. Updates installieren [👉Updates](/docs/tipps/updates/README.md)
-2. Ersteinrichtung deines Schulkontos [👉 Ersteinrichtung Schulkonto](../schulkonto/README.md)
-3. Mehrfachauthentifikation einrichten [👉 MFA](../schulkonto/mfa/README.md)
+2. Ersteinrichtung deines Schulkontos [👉 Ersteinrichtung Schulkonto](../../schulkonto/README.md)
+3. Mehrfachauthentifikation einrichten [👉 MFA](../../schulkonto/mfa/README.md)
 4. Office-Programme installieren: [👉 Office365](http://portal.office.com/)
    - Office365 (Word, Excel, Powerpoint)
    - Teams
