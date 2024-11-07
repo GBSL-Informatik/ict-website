@@ -43,18 +43,14 @@ Gemäss den dortigen Angaben müsste in der Quellenangabe zum obenstehenden Zita
 
 Die Quellenangabe würde also wie folgt aussehen:
 
-:::border
-Alan Turing (1950): *Computing Machinery and Intelligence*. A Quarterly Review of Psychology and Philosophy, vol. 59. 460.
-:::
+> Alan Turing (1950): *Computing Machinery and Intelligence*. A Quarterly Review of Psychology and Philosophy, vol. 59. 460.
 
 Erkennst du bereits Probleme? Was ergibt sich wenn wir nicht aus einem Buch, sondern von Wikipedia zitieren?
 
 ## Online-Quelle
 Wir finden auf Wikipedia im Artikel zu Alan Turing Information zu seiner Kindheit. Daraus paraphrasieren wir den folgenden Absatz:
 
-:::border
-Turing interessierte sich bereits in der Kindheit für Naturwissenschaften. Im Alter von 16 Jahren stiess er auf die Arbeiten Albert Einsteins.
-:::
+> Turing interessierte sich bereits in der Kindheit für Naturwissenschaften. Im Alter von 16 Jahren stiess er auf die Arbeiten Albert Einsteins.
 
 Im Vergleich zur Buchquelle ergeben sich die folgenden Probleme:
 - Der/die Autor:in eines Wikipedia-Artikels – oder allgemein einer Webseite: Ist er/sie mit Namen bekannt? Wenn die Person nicht bekannt ist, nehmen wir halt den Namen der Webseite, also z.B. Wikipedia.
@@ -71,9 +67,7 @@ Bei Online-Quellen müssen also folgende Angaben gemacht werden:
 
 Die korrekte Quellenangabe wäre also wie folgt:
 
-:::border
-Wikipedia: *Alan Turing*, https://de.wikipedia.org/wiki/Alan_Turing, (abgerufen am 16.8.2019)
-:::
+> Wikipedia: *Alan Turing*, https://de.wikipedia.org/wiki/Alan_Turing, (abgerufen am 16.8.2019)
 
 
 ## Bilder
@@ -90,6 +84,4 @@ Auch wenn wir Bilder verwenden (und andere Medien) dürfen natürlich Quellenang
 
 Die korrekte Quellenangabe für das obenstehende Schwarzweiss-Foto lautet:
 
-:::border
-unbekannt, Wikimedia Commons: https://commons.wikimedia.org/wiki/File:Alan_Turing_Aged_16.jpg, (abgerufen am 16.8.2019)
-:::
+> unbekannt, Wikimedia Commons: https://commons.wikimedia.org/wiki/File:Alan_Turing_Aged_16.jpg, (abgerufen am 16.8.2019)
