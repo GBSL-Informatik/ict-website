@@ -41,6 +41,9 @@ const REMARK_PLUGINS = {
           classNames: {
             details: 'details',
             solution: 'solution'
+          },
+          defaultLabel: {
+            solution: 'Lösung'
           }
         }
       ]

@@ -95,6 +95,29 @@ describe('#details', () => {
           "
         `);
     });
+    it('can customize default label name', async () => {
+        const input = alignLeft(`# Details element example
+          :::details
+          Hello world!
+          :::
+          Byyye!
+        `);
+        const result = await process(input, { defaultLabel: { details: 'Foo' } });
+        expect(result).toMatchInlineSnapshot(`
+          "# Details element example
+
+          <details>
+            <summary>
+              Foo
+            </summary>
+
+            Hello world!
+          </details>
+
+          Byyye!
+          "
+        `);
+    });
     it('can customize tag names', async () => {
         const input = alignLeft(`# Details element example
           :::details[hello]
@@ -137,7 +160,7 @@ describe('#details', () => {
           "
         `);
     });
-    it('can use custom keywords with summary', async () => {
+    it('can use custom directive name', async () => {
         const input = alignLeft(`# Details element example
             :::solution[Lösung]
             Hello world!
@@ -145,6 +168,32 @@ describe('#details', () => {
             Byyye!
         `);
         const result = await process(input, { directiveNames: ['solution'] });
+        expect(result).toMatchInlineSnapshot(`
+          "# Details element example
+
+          <details>
+            <summary>
+              Lösung
+            </summary>
+
+            Hello world!
+          </details>
+
+          Byyye!
+          "
+        `);
+    });
+    it('can use custom directive name and default label', async () => {
+        const input = alignLeft(`# Details element example
+            :::solution
+            Hello world!
+            :::
+            Byyye!
+        `);
+        const result = await process(input, {
+            directiveNames: ['solution'],
+            defaultLabel: { solution: 'Lösung' }
+        });
         expect(result).toMatchInlineSnapshot(`
           "# Details element example
 

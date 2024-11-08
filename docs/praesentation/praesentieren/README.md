@@ -26,7 +26,7 @@ Schaue dir die folgenden 5 Folien an und besprich mit deinem Pultnachbar, was an
 
 
 
-:::solution[Lösung]
+:::solution
 Durch das Hintergrundbild und den kleinen hellen Text, lässt sich der Titel fast nicht lesen. Der Kontrast ist viel zu schlecht und der Text zu klein.
 :::
 
@@ -35,7 +35,7 @@ Durch das Hintergrundbild und den kleinen hellen Text, lässt sich der Titel fas
 :::
 ### Folie 2
 
-:::solution[Lösung]
+:::solution
 Auch hier gibt es Probleme mit dem Kontrast: Das relativ dunkle Blau des Hintergrundes bewirkt, dass der schwarze Text schlecht lesbar ist.
 Beim Text handelt es sich um ganze Sätze, wie sie in einem Artikel stehen. So dienen Sie nicht der Unterstützung des Vortragenden und es besteht die Gefahr, dass dieser die Sätze genauso vorliest, wie sie auf der Folie stehen.
 :::
@@ -44,7 +44,7 @@ Beim Text handelt es sich um ganze Sätze, wie sie in einem Artikel stehen. So d
 ![--zoom --width=80%](./images/lima-schlecht/Slide2.jpg)
 :::
 ### Folie 3
-:::solution[Lösung]
+:::solution
 In der Tabelle stehen viele Zahlen, die evtl. nicht so gut gelesen werden können. Unter der Temperatur können sich die Zuhörer etwas vorstellen, aber beim Niederschlag fehlen Vergleichsmöglichkeiten, da die meisten Leute wohl nicht wissen, ob 5mm viel oder wenig Niederschlag sind.
 :::
 
@@ -53,7 +53,7 @@ In der Tabelle stehen viele Zahlen, die evtl. nicht so gut gelesen werden könne
 :::
 
 ### Folie 4
-:::solution[Lösung]
+:::solution
 Die animierte Peru-Flagge unterstützt den Inhalt nicht, sondern lenkt davon ab. Die Aufzählungspunkte sind sehr textlastig und wirken etwas langweilig.
 :::
 
@@ -62,7 +62,7 @@ Die animierte Peru-Flagge unterstützt den Inhalt nicht, sondern lenkt davon ab.
 :::
 
 ### Folie 5
-:::solution[Lösung]
+:::solution
 Die Bilder sind sehr klein und man erkennt nicht viel. Zudem hat es verschiedene Schriftarten in den Bildunterschriften und die Ausrichtung ist nicht überall gleich. Die Animationen beim Erscheinen der einzelnen Bilder sind übertrieben.
 :::
 
@@ -143,7 +143,7 @@ Beachtet man die [Präsentationsregeln](#präsentationsregeln) und überarbeitet
 :::
 
 ### Folie 1
-:::solution[Lösung]
+:::solution
 Der Titel wurde mit einem weissen, halb-transparenten Rechteck hinterlegt. Dadurch wird der Kontrast zum Hintergrundbild erhöht. Die Schriftgrösse des Titels wurde erhöht.
 :::
 
@@ -154,7 +154,7 @@ Der Titel wurde mit einem weissen, halb-transparenten Rechteck hinterlegt. Dadur
 :::
 
 ### Folie 2
-:::solution[Lösung]
+:::solution
 Der Kontrast wurde mit einem helleren Hintergrund und durchgängig schwarzem Text verbessert. Zudem wurde der Text in stichwortartige Aufzählungspunkte aufgeteilt.
 
 Aber: Sind diese Angaben alle wichtig? Bräuchte man nicht einen Vergleich, um etwas damit anfangen zu können?
@@ -167,7 +167,7 @@ Aber: Sind diese Angaben alle wichtig? Bräuchte man nicht einen Vergleich, um e
 :::
 
 ### Folie 3
-:::solution[Lösung]
+:::solution
 Anstelle der unübersichtlichen Tabelle wurde der Sachverhalt grafisch mit einem Diagramm dargestellt. Als Vergleich wurde ein Klimadiagramm aus der Schweiz hinzugefügt.
 
 Aber: Was ist die Kernaussage? Lassen sich die beiden Diagramme gut vergleichen? Wo regnet es im September mehr?
@@ -180,7 +180,7 @@ Aber: Was ist die Kernaussage? Lassen sich die beiden Diagramme gut vergleichen?
 :::
 
 ### Folie 4
-:::solution[Lösung]
+:::solution
 Die Ereignisse werden statt mit Aufzählungspunkten in einer Zeitachse grafisch dargestellt und mittels Bildern aufgewertet. Die sinnlose und vom Inhalt ablenkende, animierte Peru-Flagge wurde entfernt. Dafür wurde eine Animation (hier chronologisches Erscheinen der Element) der Zeitachse verwendet.
 
 Aber: Ist das nicht zu viel für eine Folie? Müsste man mehrere Folien machen? Was bedeuten die kleinen schwarzen, horizontal angeordneten Pfeile?
@@ -193,7 +193,7 @@ Aber: Ist das nicht zu viel für eine Folie? Müsste man mehrere Folien machen? 
 :::
 
 ### Folie 5
-:::solution[Lösung]
+:::solution
 Anstelle der einen Folie mit 4 mickrigen Bildchen, wurde eine Titelfolie und dann pro Bild eine Folie erzeugt. So können die Bilder als Diashow in voller Grösse gezeigt werden. Anstelle der übertriebenen Effekte, werden die Folien nun mit einem simplen Folienübergang ein- und ausgeblendet.
 
 Aber: Sagen diese Bilder etwas aus? Entsteht daraus ein Eindruck/ein Mehrwert fürs Publikum?
@@ -246,7 +246,7 @@ Gehe die Folien durch und überlege dir, welche Inhaltsregel angewandt wurde.
 ### Einstieg
 Statt nur einer Titelfolie, folgt eine zweite Folie. Diese zeigt ein persönliches Erlebnis des Präsentierenden, z.B. «Letzten Sommer konnte ich zwei Monate in Lima verbringen. Ihr seht hier die Iglesia de San José, die ich jeden Tag auf meinem Weg zur Schule passierte.»
 
-:::solution[Lösung]
+:::solution
 Interessanter Start
 :::
 
@@ -259,7 +259,7 @@ Interessanter Start
 ### Kenndaten
 Die Höhe über Meer wurde als unwichtig weggelassen. Die Einwohnerzahl wird nicht mehr pro km<sup>2</sup> angegeben und erlaubt, zusammen mit dem CH-Umriss auf der Karte einen direkten Vergleich zur Schweiz.
 
-:::solution[Lösung]
+:::solution
 Zahlen nicht nackt, sondern eingeordnet
 :::
 
@@ -272,7 +272,7 @@ Zahlen nicht nackt, sondern eingeordnet
 ### Klima
 Da das Hauptthema nicht das Klima ist, ist ein Klimadiagramm (oder sogar zwei) etwas übertrieben. Die Kernaussage soll sein, dass es im tropischen Wüstenklima von Peru fast nie regnet, und immer zwischen 18 und 26 Grad warm ist. (Man könnte den Wetter-Screenshot gleich vor dem Vortrag aktualisieren!)
 
-:::solution[Lösung]
+:::solution
 Eine Aussage pro Folie
 :::
 
@@ -286,7 +286,7 @@ Eine Aussage pro Folie
 ### Kolonialzeit
 Die nicht ganz klar verständlichen Kästchen wurden entfernt, der Text im Allgemeinen reduziert. Dafür haben jetzt alle 4 Kästchen ein Bild. Die Folie wird relativ lange gezeigt und die Zeitlinie wird aufgebaut. Dabei können die nicht mehr eingeblendeten Inhalte mündlich erläutert werden. Z.B. «Die Umgebung des heutigen Limas, war bereits vor der Entdeckung durch Francisco Pizarro, das dichtest besiedelte Gebiet der peruanischen Küste.»
 
-:::solution[Lösung]
+:::solution
 Mehr wissen, als auf der Folie steht
 :::
 
@@ -300,7 +300,7 @@ Mehr wissen, als auf der Folie steht
 ### Ende
 Statt mehreren, nicht viel aussagenden Bildern, wird ein Bild gezeigt und der Bogen zurück zum Start gemacht: «Falls ihr einmal Lima besucht, verpasst es nicht, dem Casa de Osambela einen Besuch abzustatten. Glaubt mir: es lohnt sich. – Vielen Dank für die Aufmerksamkeit und Adios»
 
-:::solution[Lösung]
+:::solution
 Klarer Schluss
 :::
 

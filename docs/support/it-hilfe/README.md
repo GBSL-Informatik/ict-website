@@ -19,7 +19,7 @@ Keine Verbindung zum WLAN
   <TabItem value="Installation D-Gebäude" label="Installation D-Gebäude">
 :::info[Ton]
 Kein Ton bei einer Präsention, bei einem Film
-:::solution[Lösung][Lösung][Lösung]
+:::solution[Lösung][Lösung]
 Kontrolliere, ob du den] Ton nicht auf stumm eingestellt hast auf deinem Gerät:
 ![](lautstärke.png)
 Bild einsetzen
