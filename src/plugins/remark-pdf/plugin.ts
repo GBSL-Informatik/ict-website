@@ -1,14 +1,13 @@
 import { visit } from 'unist-util-visit';
-import type { Plugin, Processor, Transformer } from 'unified';
+import type { Plugin, Transformer } from 'unified';
 import type { MdxJsxFlowElement, MdxjsEsm } from 'mdast-util-mdx';
-import type { LeafDirective } from 'mdast-util-directive';
 import { requireDefaultMdastNode, toJsxAttribute, transformAttributes } from '../helpers';
-import { Parent, Text } from 'mdast';
+import { Root, Text } from 'mdast';
 import path from 'path';
 
 const IMPORT_PDF_REACT_NODE: MdxjsEsm = {
     type: 'mdxjsEsm',
-    value: "import PdfViewer from '@site/src/components/PdfViewer';",
+    value: "import PdfViewer from '@tdev-components/PdfViewer';",
     data: {
         estree: {
             type: 'Program',
@@ -26,8 +25,8 @@ const IMPORT_PDF_REACT_NODE: MdxjsEsm = {
                     ],
                     source: {
                         type: 'Literal',
-                        value: '@site/src/components/PdfViewer',
-                        raw: "'@site/src/components/PdfViewer'"
+                        value: '@tdev-components/PdfViewer',
+                        raw: "'@tdev-components/PdfViewer'"
                     }
                 }
             ],
@@ -37,8 +36,10 @@ const IMPORT_PDF_REACT_NODE: MdxjsEsm = {
     }
 };
 
-
-const PdfViewerNode = (src: string, attr: {[key: string]: string | number | boolean | string | undefined}): MdxJsxFlowElement => {
+const PdfViewerNode = (
+    src: string,
+    attr: { [key: string]: string | number | boolean | string | undefined }
+): MdxJsxFlowElement => {
     return {
         type: 'mdxJsxFlowElement',
         name: 'PdfViewer',
@@ -52,36 +53,28 @@ const PdfViewerNode = (src: string, attr: {[key: string]: string | number | bool
             attr.scale !== undefined && toJsxAttribute('scale', attr.scale),
             requireDefaultMdastNode('file', src)
         ].filter((attr) => !!attr),
-        children: [],
-        data: {
-          _mdxExplicitJsx: true
-        }
-      };
-}
+        children: []
+    };
+};
 
-const plugin: Plugin = function plugin(
-    this: Processor,
-    optionsInput?: {
-    }
-): Transformer {
+const plugin: Plugin<unknown[], Root> = function plugin(): Transformer<Root> {
     return async (ast, vfile) => {
         let hasPdf = false;
-        
-        visit(ast, (node, idx, parent: Parent) => {
-            if (node.type !== 'leafDirective' || (node as unknown as LeafDirective).name !== 'pdf') {
+
+        visit(ast, 'leafDirective', (node, idx, parent) => {
+            if (node.name !== 'pdf' || idx === undefined || !parent) {
                 return;
             }
             hasPdf = true;
-            const directive = node as unknown as LeafDirective
-            const src = (directive.children[0] as Text).value;
-            const rawAttributes = transformAttributes(directive.attributes || {});
+            const src = (node.children[0] as Text).value;
+            const rawAttributes = transformAttributes(node.attributes || {}, {});
             parent.children.splice(idx, 1, PdfViewerNode(src, rawAttributes.attributes));
         });
 
         if (hasPdf) {
-            (ast as unknown as Parent).children.unshift(IMPORT_PDF_REACT_NODE);
+            ast.children.unshift(IMPORT_PDF_REACT_NODE);
         }
     };
-}
+};
 
 export default plugin;

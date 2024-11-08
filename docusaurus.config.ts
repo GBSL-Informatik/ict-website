@@ -9,14 +9,12 @@ import path from 'path';
 import matter from 'gray-matter';
 import mdiPlugin from './src/plugins/remark-mdi/plugin';
 import kbdPlugin from './src/plugins/remark-kbd/plugin';
-import defPlugin from './src/plugins/remark-defbox/plugin';
 import flexCardsPlugin from './src/plugins/remark-flex-cards/plugin';
 import imagePlugin from './src/plugins/remark-images/plugin';
 import deflistPlugin from './src/plugins/remark-deflist/plugin';
 import strongPlugin from './src/plugins/remark-strong/plugin';
 import detailsPlugin from './src/plugins/remark-details/plugin';
 import mediaPlugin from './src/plugins/remark-media/plugin';
-import remarkInlineModifier from './src/plugins/remark-inline-modifier/plugin';
 import { promises as fs } from 'fs';
 import { mdiSourceCommit } from '@mdi/js';
 const BUILD_LOCATION = __dirname;
@@ -39,17 +37,13 @@ const REMARK_PLUGINS = {
       [
         detailsPlugin,
         {
-          keywords: ['details', 'solution'],
+          directiveNames: ['details', 'solution'],
           classNames: {
             details: 'details',
             solution: 'solution'
-          },
-          defaultLabel: {
-            solution: 'Lösung'
           }
         }
-      ],
-      defPlugin
+      ]
   ],
   remarkPlugins: [
       [strongPlugin, { className: 'boxed'}],
@@ -77,8 +71,7 @@ const REMARK_PLUGINS = {
       ],
       kbdPlugin,
       remarkMath,
-      mediaPlugin,
-      remarkInlineModifier
+      mediaPlugin
   ],
   rehypePlugins: [
       rehypeKatex
@@ -349,7 +342,22 @@ const config: Config = {
           },
         ],
       },
-    ]
+    ],
+    () => {
+      return {
+        name: 'alias-configuration',
+        configureWebpack(config, isServer, utils, content) {
+          return {
+            resolve: {
+              alias: {
+                '@tdev-components': path.resolve(__dirname, './src/components'),
+                '@tdev': path.resolve(__dirname, './src')
+              }
+            }
+          }
+        }
+      }
+    },
   ]
 };
 

@@ -1,80 +1,72 @@
-import React from 'react';
+import React, { useId } from 'react';
 import clsx from 'clsx';
 import styles from './styles.module.scss';
-import rawIcons from './mdi-icons.json';
-import * as MdiIcons from '@mdi/js';
-import CopyBadge from './CopyBadge';
 import Icon from '@mdi/react';
-import { camelCased } from '@site/src/plugins/helpers';
+import * as Mdi from '@mdi/js';
+import _ from 'lodash';
+import CopyBadge from '@tdev-components/shared/CopyBadge';
 
 export default function MdiSelector(): JSX.Element {
-  const [showNr, setShowNr] = React.useState(300);
-  const [icons, setIcons] = React.useState([]);
-  const [filter, setFilter] = React.useState('');
-  const [perfectMatch, setPerfectMatch] = React.useState(true);
+    const [showNr, setShowNr] = React.useState(300);
+    const [icons, setIcons] = React.useState<string[]>([]);
+    const [filter, setFilter] = React.useState('');
 
-  React.useEffect(() => {
-    setShowNr(300)
-    if (filter.trim() === '') {
-      setIcons(rawIcons);
-      return;
-    }
-    const trm = filter.trim().toLowerCase().replace(/-/g, '');
-    const icos = rawIcons.filter((ico) => {
-      return (
-        ico.name.replace(/-/g, '').includes(trm) ||
-        (!perfectMatch && ico.tags.join(' ').toLowerCase().includes(trm))
-      );
-    });
-    // console.log(icos.length);
-    setIcons(icos);
-  }, [filter, perfectMatch]);
-  return (
-    <div>
-      <div style={{ display: 'flex', alignItems: 'baseline' }}>
-        <input type="text" value={filter} onChange={(e) => setFilter(e.target.value)} />
-        <input
-          id="perfectMatch"
-          type="checkbox"
-          checked={perfectMatch}
-          onChange={(e) => setPerfectMatch(!perfectMatch)}
-        />
-        <label htmlFor="perfectMatch">Tags durchsuchen?</label>
-        <span style={{ flexGrow: 1 }}></span>
-        <span className="badge badge--primary">{icons.length}</span>
-      </div>
-      <div style={{ display: 'flex', flexWrap: 'wrap', gap: '0.5em' }}>
-        {icons.slice(0, showNr).map((ico, idx) => {
-          return (
-            <div
-              key={idx}
-              className={clsx(styles.icon)}
-            >
-              <Icon path={MdiIcons[camelCased(`mdi-${ico.name}`)]} size={2} />
-              <CopyBadge value={ico.name} />
-              <CopyBadge label={`mdi-${ico.name.slice(0, 2)}...`} value={`mdi-${ico.name}`} />
-              <CopyBadge label=":mdi[..." value={`:mdi[${camelCased(ico.name)}]`} />
+    React.useEffect(() => {
+        setShowNr(300);
+        if (filter.trim() === '') {
+            setIcons(Object.keys(Mdi));
+            return;
+        }
+        const trm = new RegExp(`${filter}`, 'i');
+        const icos = Object.keys(Mdi).filter((ico) => trm.test(ico));
+        setIcons(icos);
+    }, [filter]);
+    return (
+        <div>
+            <div className={clsx(styles.header)}>
+                <input
+                    type="text"
+                    value={filter}
+                    onChange={(e) => setFilter(e.target.value)}
+                    placeholder="🔎 Suche"
+                />
+                <span className={styles.spacer}></span>
+                <span className={styles.spacer}></span>
+                <span className="badge badge--primary">{icons.length}</span>
             </div>
-          );
-        })}
-      </div>
-      <div>
-        <span
-          className={clsx('badge', 'badge--secondary')}
-        >
-          {showNr}
-        </span>
-        {' '}
-        <span 
-          className={clsx('badge', 'badge--primary')}
-          onClick={() => {
-            setShowNr(showNr + 100)
-          }}
-          style={{cursor: 'pointer'}}
-        >
-          Show 100 More
-        </span>
-      </div>
-    </div>
-  );
+            <div className={clsx(styles.icons)}>
+                {icons.slice(0, showNr).map((ico, idx) => {
+                    const dashed = _.startCase(ico).split(' ').slice(1).join('-');
+                    return (
+                        <div key={idx} className={clsx(styles.icon)}>
+                            <Icon path={Mdi[ico as keyof typeof Mdi]} size={1.8} />
+                            <CopyBadge className={styles.copyBadge} value={dashed.replace('-', ' ')} />
+                            <CopyBadge
+                                className={styles.copyBadge}
+                                label={`mdi${dashed.charAt(0)}...`}
+                                value={ico}
+                            />
+                            <CopyBadge
+                                className={styles.copyBadge}
+                                label={`:mdi[${dashed.charAt(0)}...]`}
+                                value={`:mdi[${dashed}]`.toLowerCase()}
+                            />
+                        </div>
+                    );
+                })}
+            </div>
+            <div>
+                <span className={clsx('badge', 'badge--secondary')}>{showNr}</span>{' '}
+                <span
+                    className={clsx('badge', 'badge--primary')}
+                    onClick={() => {
+                        setShowNr(showNr + 100);
+                    }}
+                    style={{ cursor: 'pointer' }}
+                >
+                    Show 100 More
+                </span>
+            </div>
+        </div>
+    );
 }

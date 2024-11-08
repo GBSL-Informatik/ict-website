@@ -160,7 +160,7 @@ Ein Minion als Überraschung
 ![Minion --width=200px](images/minion.png)
 :::
 
-:::solution
+:::solution[Lösung]
 Ein Minion als Überraschung
 ![Minion --width=200px](images/minion.png)
 
