@@ -28,6 +28,13 @@ Anmeldung nicht möglich tritt auf, wenn du folgendes Häkchen nicht gelöscht h
 Unten Links auf __Nein, nur bei dieser App anmelden__ klicken.
 :::
 
+
+:::info[WLAN]
+Problem mit dem **Passwort** beim Anmelden
+:::solution[Lösung]
+Kein neues Passwort setzen im Anmeldeprozess des WLAN! Setze dir hier ein neues Passwort, das gilt für alle Anmeldungen in der Schule (Apps, WLAN, Mail): [👉 ](https://password.edubern.ch/)
+:::
+
   </TabItem>
   <TabItem value="Installation D-Gebäude" label="Installation D-Gebäude">
 :::info[Ton]
