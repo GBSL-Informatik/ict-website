@@ -9,7 +9,7 @@ sidebar_position: 11
 ---
 
 
-# IT-Hilfe zur Selbsthilfe - Checklisten
+# IT-Hilfe zur Selbsthilfe
 
 <Tabs>
   <TabItem value="Mein Gerät" label="Mein Gerät">
