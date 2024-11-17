@@ -28,6 +28,24 @@ Anmeldung nicht möglich tritt auf, wenn du folgendes Häkchen nicht gelöscht h
 Unten Links auf __Nein, nur bei dieser App anmelden__ klicken.
 :::
 
+:::info[Ich komme mit meinem Macbook nicht ins Internert, obwohl ich im WLAN angemeldet bin]
+:::solution[Lösung]
+1. Installiere (daheim ober über Hotspot) einen andern Browser (Chrome, Opera, Edge) damit kommst du auch in der Schule ins Internet.
+2. Kontrolliere, ob du ein iCloud+-Abo hast und __Privat-Relay__ eingeschaltet ist:
+
+Klicke auf das Apple-Menü __:mdi[apple]__, wähle __Systemeinstellungen__ . Klicke dann oben in der Seitenleiste auf „[dein Name]“ und anschließend auf __iCloud__. Klicke anschliessend auf __Privat-Relay__.
+![](macprivaterelay.png)
+Schalte es aus.
+
+**Was ist Private-Relay und wieso gibt es Probleme?- Eine elegante Lösung**
+Private-Relay schützt dich vor Angriffen aus dem Internet, indem es deine Identität verbirgt und deine Anfragen versteckt. Das macht durchaus Sinn etwa im WLAN daheim, aber nicht in gut gesicherten Netzwerken, weil in diesen gerade mit der Kontrolle der Identität die Sicherheit erhöht wird.
+
+Die beste Lösung besteht darin, __Private-Relay__ nur für das BYOD-WLAN auszuschalten, so bist du weiterhin auch in den einfacheren Netzwerken gut geschützt:
+
+Klicke auf das Apple-Menü __:mdi[apple]__, wähle __Systemeinstellungen__ . Klicke in der Seitenleiste auf __Netzwerk__ und anschliessend auf der rechten Seite __WLAN-BYOD__, Klicke auf die __:mdi[informationOutline]__.
+
+Deaktiviere zum Schluss die Option __Tracking der IP-Adresse beschränken__.
+:::
 
 :::info[WLAN]
 Problem mit dem **Passwort** beim Anmelden
