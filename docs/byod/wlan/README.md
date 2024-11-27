@@ -67,6 +67,13 @@ Hier darf weder VPN verbunden noch ein Arbeits- oder Schulaccount eingerichtet s
   </TabItem>
 
   <TabItem value="android" label="Android">
-    Anleitung Android
+    Öffne auf deinem Gerät die Einstellungen und klicke unter WLAN auf das Netzwerk __WLGYMB-BYOD__.
+    
+    Gib folgende Einstellungen ein und melde dich mit Mailadresse und Passwort an:
+  ![--width=70%](WLAN-Android-Standard.png)
+:::details[Klicke, falls du keine Verbindung mit WLGYMB-Byod herstellen kannst.]
+Gib folgende Einstellungen ein und melde dich mit Mailadresse und Passwort an:
+![--width=70%](WLAN-Android-erweitert.png)
+:::
   </TabItem>
 </Tabs>
