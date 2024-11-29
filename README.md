@@ -29,3 +29,9 @@ This command generates static content into the `build` directory and can be serv
 ### Deployment
 
 Whenever you push to github, drone-ci will build and deploy the app.
+
+### Update Command
+
+```bash
+yarn upgrade @docusaurus/core@latest @docusaurus/faster@latest @docusaurus/plugin-pwa@latest @docusaurus/preset-classic@latest @docusaurus/theme-mermaid@latest @docusaurus/module-type-aliases@latest @docusaurus/tsconfig@latest @docusaurus/types@latest 
+```
