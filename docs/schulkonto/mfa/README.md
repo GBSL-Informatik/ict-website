@@ -93,10 +93,12 @@ Sichere die Einstellungen des Authenticators, dann kannst du sie auf einem neuen
 Füge ein private Microsoft-Konto hinzu (Mailadresse mit @outlook.de oder @hotmail.de), wenn du keines hast, so erstelle dir eines __+__ (1).
 
 Klicke auf __⋮__ (2) und danach auf __Einstellungen__ (3).
+
 ![--width=350px](./AuthenticatorEinstellungen.png)
 
 
 Danach kannst du die Cloudsicherung einrichten mit deinem privaten Microsoft-Konto und hast damit ein Backup.
+
 ![--width=350px](./cloudsicherungauthenticator.png)
 
 Hier findest du die ausführliche Anleitung von Microsoft für iPhone und Android-Phone: 👉 [Klicke hier](https://support.microsoft.com/de-de/account-billing/sichern-von-kontoanmeldeinformationen-in-microsoft-authenticator-bb939936-7a8d-4e88-bc43-49bc1a700a40#ID0EBJ=iOS)
