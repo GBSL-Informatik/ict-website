@@ -85,7 +85,7 @@ Um MFA zu nutzen, müssen weitere Sicherheitsinformationen für die Anmeldemetho
 Wenn du versucht hast den Authenticator einzurichten, aber keinen Code erhältst oder keinen Code auf deinem Smartphone eingeben kannst, so musst du den Account zurücksetzen lassen. Das machst du per Mail, gib darin deine Schulmailadresse an und deine Mobilenummer: [👉 :mdi[emailEditOutline]](mailto:soarhe.jahany@bernedu.ch?subject=Account%20Sch%C3%BCler%3Ain%20zur%C3%BCcksetzen&body=Guten%20Tag%20Herr%20Jahany%2C%0A%0ABitte%20setzen%20Sie%20meinen%20Account%20zur%C3%BCck%3A%0A%0A%40edu.gbsl.ch%0A%0ATel.%2007%0A%0ABesten%20Dank%20und%20freundliche%20Gr%C3%BCsse)
 :::
 
-:::details[Bei Verlust, Defekt, Wechsel des Smartphones gibt es Schwierigkeiten mit dem Authenticator. Klicke hier, wenn du erfahren willst, wie du diese vermeiden kannst.] 
+:::details[**Backup für den Authenticator** - Bei Verlust, Defekt, Wechsel des Smartphones gibt es Schwierigkeiten mit dem Authenticator. Klicke hier, wenn du erfahren willst, wie du diese vermeiden kannst.] 
 Sichere die Einstellungen des Authenticators, dann kannst du sie auf einem neuen Gerät leicht wiederherstellen.
 
 Öffne die Authenticator-App auf deinem Smartphone
