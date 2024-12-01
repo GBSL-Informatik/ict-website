@@ -8,6 +8,6 @@ sidebar_custom_props:
   path: /docs/infra/README.md
 ---
 
-# Unterrichtszimmer
+# Schulinfrastruktur
 
 <Features />
