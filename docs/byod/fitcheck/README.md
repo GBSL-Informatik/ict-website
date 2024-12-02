@@ -26,11 +26,11 @@ Die Lehrperson, die den _Geräte-fit-Check_ durchführt, wird zuerst folgende Pu
 
 1. Teile mit deiner Lehrperson eine Datei über Onedrive
 2. E-Mail senden
-   - [👉 Regeln für E-Mail Nachrichten](../../infra/email/README.md#e-mail): Wie man eine Mail korrekt schreibt
-   - [👉 Anhang hinzufügen](../../infra/email/dateien-versenden.md)
+   - [👉 Regeln für E-Mail Nachrichten](../../byod/mail/mailen/README.md#e-mail): Wie man eine Mail korrekt schreibt
+   - [👉 Anhang hinzufügen](../../byod/mail/mailen/dateien-versenden.md)
    - Mailversand überprüfen: Senden einer Mail an deine Lehrperson
 3. Teams-Nachrichten senden
-   - [👉 Regeln für Teams-Nachrichten](../../infra/email/README.md#teams): Wie man eine Teams-Nachricht korrekt schreibt
+   - [👉 Regeln für Teams-Nachrichten](../../byod/mail/mailen/README.md#teams): Wie man eine Teams-Nachricht korrekt schreibt
    - Sende deiner Lehrperson eine Nachricht über Teams
 :::
 
