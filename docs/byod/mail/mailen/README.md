@@ -7,7 +7,7 @@ draft: false
 ---
 
 
-# E-Mail
+# Mailen
 
 ## Eine E-Mail ist ein Brief
 
