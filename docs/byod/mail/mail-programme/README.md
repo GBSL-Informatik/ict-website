@@ -46,6 +46,6 @@ Hier findest du die Einstellungen für das Mailprogramm von Apple:
 
     Du öffnest die App und gehst in den __Einstellungen__ zu __Konto hinzufügen__ , wählst danach __Exchange__ und danach läuft die Anmeldung automatisch ab.
 
-    ![--width 150ppx](AndroidMailEinrichten.png)
+    ![--width=250px](AndroidMailEinrichten.png)
   </TabItem>
 </Tabs>
