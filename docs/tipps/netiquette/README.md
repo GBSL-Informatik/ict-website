@@ -35,7 +35,7 @@ Bei einer E-Mail wird immer auch ein **Betreff** angegeben. Dieser sollte so gew
 
 ## Grussformel
 
-Zwischen Text und Grussformel befindet sich eine **Leerzeile**. Die Grussformel lautet «Freundliche Grüsse» ohne Satzzeichen. Ist man vertrauter, schreibt man «Liebe Grüsse». In der Grussformel am Ende der Nachricht halten Sie nebst ihrem Namen auch die **Klassenbezeichnung** fest.
+Zwischen Text und Grussformel befindet sich eine **Leerzeile**. Die Grussformel lautet «Freundliche Grüsse» ohne Satzzeichen. Ist man vertrauter, schreibt man «Liebe Grüsse». In der Grussformel am Ende der Nachricht hältst du nebst deinem Namen auch die **Klassenbezeichnung** fest.
 
 ## Teams
 
@@ -52,6 +52,6 @@ Entwickelt sich durch die Antwort der Lehrperson ein **Chat-Charakter**, kann di
 
 ### Wann antworten? Wann nicht?
 
-Benutzen Sie die Antworten-Funktion nur, wenn Sie wirklich eine Antwort auf eine Mail schreiben. So kann eine längere E-Mail-Konversation vom Mailprogramm sauber dargestellt und nachvollzogen werden.
+Benutze die Antworten-Funktion nur, wenn du wirklich eine Antwort auf eine Mail schreibst. So kann eine längere E-Mail-Konversation vom Mailprogramm sauber dargestellt und nachvollzogen werden.
 
-Wenn Sie jemandem eine neue Nachricht schreiben, sich also nicht auf vorhergehenden E-Mail-Verkehr beziehen, dann sollten Sie die Antworten-Funktion nicht verwenden, sondern einfach eine neue E-Mail schreiben.
+Wenn du jemandem eine neue Nachricht schreibst, sich also nicht auf vorhergehenden E-Mail-Verkehr beziehen, dann solltest du die Antworten-Funktion nicht verwenden, sondern einfach eine neue E-Mail schreiben.

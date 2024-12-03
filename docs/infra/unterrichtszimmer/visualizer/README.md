@@ -15,3 +15,5 @@ In den Schulzimmern ist eine Dokumentenkamera, ein sog. Visualizer, installiert.
 
 
 ![Lumens DC193](../visualizer/lumenns.png) 
+
+![Bedienung](../visualizer/lumensbedienung.png)
