@@ -53,3 +53,17 @@ Darin inbegriffen sind während der gesamten Ausbildungszeit:
 ![--width=350px](../ersteinrichtung\edubernpwbestätigt.png)
    - **Falls du eine Fehlermeldung erhalten hast, melde dich bitte im Sekretariat unter 032 327 07 07 oder sekretariat@gbsl.ch.**
 
+import PasswordDocs from '../../sicherheit/internet-passwort/\_passwords.mdx';
+
+
+# Sicheres Passwort
+
+Mit dem Schulkonto hat man Zugriff auf viele verschiedene Dienste - Dateien auf OneDrive, E-Mails und Teams-Nachrichten versenden, Adobe-Produkte nutzen, etc. Deshalb ist es wichtig, ein **starkes Passwort** zu verwenden.
+
+:::details[Sicheres Passwort]
+<PasswordDocs />
+:::
+
+## Passwort zurücksetzen
+
+Hier kannst du dein Passwort zurücksetzen, falls du es vergessen hast: [👉 Passwort zurücksetzen](https://password.edubern.ch/)
