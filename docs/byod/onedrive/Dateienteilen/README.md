@@ -1,6 +1,6 @@
 ---
 sidebar_custom_props:
-  icon: mdi-share-variant
+  icon: mdiCloudSyncOutline
   path: /docs/byod/onedrive/Dateienteilen/README.md
 sidebar_position: 17
 draft: false

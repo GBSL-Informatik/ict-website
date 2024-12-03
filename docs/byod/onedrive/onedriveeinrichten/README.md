@@ -1,8 +1,8 @@
 ---
 sidebar_custom_props:
-  icon: mdi-wifi
+  icon: mdiCloudCogOutline
   path: /docs/byod/onedrive/onedriveeinrichten/README.md
-sidebar_position: 17
+sidebar_position: 10
 draft: true
 ---
 
