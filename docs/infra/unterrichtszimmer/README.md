@@ -4,11 +4,11 @@ chapter: Unterrichtszimmer
 sidebar_custom_props:
   icon: mdi-home-circle
   source: gym-kirchenfeld
-  path: /docs/infra/geraete/README.md
+  path: /docs/infra/unterrichtszimmer/README.md
 draft: false
 ---
 
-# Geräte
+# Unterrichtszimmer
 
 
 <Features />

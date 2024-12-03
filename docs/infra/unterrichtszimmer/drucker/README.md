@@ -2,11 +2,13 @@
 sidebar_custom_props:
   icon: mdi-printer
   source: gym-kirchenfeld
-  path: /docs/infra/geraete/drucker/README.md
-  draft: true
+  path: /docs/infra/unterrichtszimmer/drucker/README.md
+  draft: false
 
 ---
 # Drucker einrichten
+
+<Features />
 
 ## Neue Druckeransteuerung für BYOD-Geräte mit erweiterten Möglichkeiten
 
