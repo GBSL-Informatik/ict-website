@@ -32,10 +32,20 @@ Hier findest du die Einstellungen für das Mailprogramm von Apple:
 
 </TabItem>
   <TabItem value="ios" label="iOS">
-    Öffne die Einstellungen
+    Tippe auf dem iPhone oder iPad auf __Einstellungen__ , wähle __Mail__ , danach __Account hinzufügen__ und schliesslich __Microsoft Exchange__. Gib danach deine GBSL-Mailadresse ein und dein Passwort. Es wird alles automatisch eingerichtet.
+
+    Du bist natürlich frei, die Outlook-App zu installieren als Mail-App auf dem iPhone oder iPad.
 
   </TabItem>
   <TabItem value="android" label="Android">
-    Anleitung Android
+    Du kannst die Outlook-App installieren als Mailprogramm, damit ist das Einrichten des GBSL-Kontos einfach.
+
+    Immer daran denken, beim Einrichten das Exchange-Konto zu wählen!
+
+    Als Beispiel für eine andere App: Gmail.
+
+    Du öffnest die App und gehst in den __Einstellungen__ zu __Konto hinzufügen__ , wählst danach __Exchange__ und danach läuft die Anmeldung automatisch ab.
+
+    ![--width 150ppx](AndroidMailEinrichten.png)
   </TabItem>
 </Tabs>
