@@ -4,8 +4,12 @@ sidebar_custom_props:
   source: 
   path: /docs/byod/drucker/README.md
 ---
+
+
 # Drucker einrichten
 <Features />
+
+:mdi[arrowRight] [Drucker einrichten](../../infra/uniflow-drucker)
 
 ## Neue Druckeransteuerung für BYOD-Geräte mit erweiterten Möglichkeiten
 

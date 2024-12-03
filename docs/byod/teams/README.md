@@ -13,9 +13,6 @@ Gilt für alle Betriebssysteme: Installiere die App direkt über die folgende Se
 
 [https://www.microsoft.com/de-ch/microsoft-teams/download-app?market=ch](https://www.microsoft.com/de-ch/microsoft-teams/download-app?market=ch)
 
-
-Lade Teams für Beruf, Schule und Studium herunter
-
 :::details[Klicke, falls du nicht weisst, welches Windows-Beriebssystem du hast]
 Gib im Suchfenster _Version_ ein und  wähle _Ueberprüfen..._
 ![](WinVersion.png)
