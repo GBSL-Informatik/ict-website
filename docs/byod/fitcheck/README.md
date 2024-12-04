@@ -16,17 +16,31 @@ sidebar_position: 11
 Diese Schritte werden im Unterricht in der ersten Woche erledigt. Es ist eine spezielle Lektion __Geräte-fit-Check__ dafür vorgesehen.
 :::
 
-:::aufgabe[Schritte im Unterricht]
-:::info
+::::aufgabe[Schritte im Unterricht]
+:::note
 Mit dem _Geräte-fit-Check_ soll sichergestellt werden, dass dein Laptop für den Unterricht eingerichtet ist. Weil die Zeit knapp ist, werden Tablet (iPad) und Smartphone nicht geprüft, ausser beim Stundenplan und Teams.
+:::
 
 Du führst den _Geräte-fit-Check_ selbständig durch und trägst dich in einer Liste ein, wenn du alle Aufgaben erledigen konntest. Melde dich danach bei der Lehrperson.
 
-1. Ist dein Laptop mit dem WLGYMB-BYOD verbunden? Kannst du www.gbsl.ch aufrufen?
+1. WLAN-Verbindung
+  
+  ```mermaid
+  flowchart TD
+      Start(Laptop mit WLGYMB-BYOD verbunden? 🛜) -->|Ja| Test
+      Test(Kannst du <a href="https://www.gbsl.ch" target="_blank">👉 www.gbsl.ch</a> aufrufen?) --> |Ja| Done
+      Start -->|Nein| Konfigurieren
+      Konfigurieren(<a href="../wlan">👉 WLAN Einrichtung</a> bereits gemacht?) -->|Ja| Support
+      Konfigurieren -->|Nein| Start
+      Test -->|Nein| OSX
+      OSX(Hast einen Mac?) -->|Ja| OSXHelp
+      OSX-->|Nein| Support
+      OSXHelp(Versuche <a href="../wlan?os=osx">👉 dieses</a> Troublshooting)
+      OSXHelp --> Done
+      Support(Gehe zum Support 🧰)
+      Done(Schritt 1: ✅)
 
-Wenn du einen Mac hast, mit dem WLAN verbunden bist, aber dich nicht verbinden kannst, schau hier nach:
-
-Sonst suche sofort den Support auf in den Zimmern 
+  ```
 
 2. Teams-Nachricht senden
    - - Sende eine Nachricht über Teams im Team, das deine Lehrperson für deine Klasse eingerichtet hat.
@@ -38,7 +52,7 @@ Sonst suche sofort den Support auf in den Zimmern
    - [👉 Regeln für E-Mail Nachrichten](../../byod/mail/mailen/README.md#e-mail): Wie man eine Mail korrekt schreibt.  
 
 4. Teile mit deiner Lehrperson eine Datei über Onedrive
-:::
+::::
 
 </TabItem>
 <TabItem value="lehrer:innen" label="Infos für Lehrer:innen">
@@ -74,7 +88,6 @@ Bei Problemen mit der Authentifizierung über die Authenticator App schickst du 
 Falls du OneNote in deinem Unterricht verwendest, so kontrolliere, ob die Schüler:innen das von dir erstellte Notizbuch öffnen können.
 :::
 
-:::
 
 </TabItem>
 </Tabs>

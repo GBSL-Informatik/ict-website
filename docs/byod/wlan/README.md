@@ -7,7 +7,7 @@ sidebar_position: 17
 
 # WLAN einrichten
 
-<Tabs>
+<Tabs groupId="os" queryString>
   <TabItem value="win" label="Windows">
   Klicke in der Taskleiste unten auf das WLAN-Symbol und wähle das WLAN __WLGYMB-BYOD__ aus. Verbinde dich mit diesem Netzwerk, ignoriere die die Meldung über das Zertifikat und melde dich mit Mailadresse und Passwort an.
 
