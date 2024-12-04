@@ -22,7 +22,7 @@ Dabei erstellt der Vortragende sogenannte **Folien** in einer Präsentationssoft
 ### :mdi-microsoft-powerpoint--red-l: Microsoft PowerPoint
 *Powerpoint* ist Teil des *Microsoft Office*-Paketes und ist auf *Windows* und *macOS* verfügbar.
 
-Siehe: [👉 Office 365 installieren](../byod/geraetefitcheck/README.md)
+Siehe: [👉 Office 365 installieren](../byod/fitcheck/README.md)
 
 ### Alternativen
 
