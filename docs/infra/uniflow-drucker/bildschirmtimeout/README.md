@@ -19,14 +19,15 @@ __Zeit bis zur automatischen Rückstellung__
 ## Schritt für Schritt
 
 :::cards{basis=400px}
-![Schritt 1](./images/step-1.jpg)
+![Schritt 1: :mdi[cog]{.blue}](./images/step-1.jpg)
 ::br
-![Schritt 2](./images/step-2.jpg)
+![Schritt 2 <strong className="boxed">Präferenzen</strong>](./images/step-2.jpg)
 ::br
-![Schritt 3](./images/step-3.jpg)
+![Schritt 3 <strong className="boxed">Einstellungen Timer/Energie</strong>](./images/step-3.jpg)
 ::br
-![Schritt 4](./images/step-4.jpg)
+![Schritt 4 <strong className="boxed">Zeit bis zur automatischen Rückstellung</strong>](./images/step-4.jpg)
 ::br
 ![Schritt 5](./images/step-5.jpg)
+::br
 :::
 
