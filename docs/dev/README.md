@@ -7,7 +7,6 @@ sidebar_custom_props:
   icon: mdi-account-details
   source: gym-kirchenfeld
   path: /docs/dokumentation/README.md
-unlisted: true
 ---
 
 # Hinweise für Autor:innen
