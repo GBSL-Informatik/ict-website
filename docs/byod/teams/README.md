@@ -11,7 +11,7 @@ Jede Klasse und jede Unterrichtsgruppe hat ein Team. Diese Teams werden in der g
 
 Gilt für alle Betriebssysteme: Installiere die App direkt über die folgende Seite:
 
-[https://www.microsoft.com/de-ch/microsoft-teams/download-app?market=ch](https://www.microsoft.com/de-ch/microsoft-teams/download-app?market=ch)
+[https://www.microsoft.com/de-ch/microsoft-teams/download-app](https://www.microsoft.com/de-ch/microsoft-teams/download-app?market=ch)
 
 :::details[Welches Windows-Beriebssystem habe ich?]
 Gib im Suchfenster _Version_ ein und  wähle _Ueberprüfen..._

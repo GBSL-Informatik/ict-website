@@ -13,6 +13,7 @@ import deflistPlugin from './src/plugins/remark-deflist/plugin';
 import strongPlugin from './src/plugins/remark-strong/plugin';
 import detailsPlugin from './src/plugins/remark-details/plugin';
 import mediaPlugin from './src/plugins/remark-media/plugin';
+import linkAnnotationPlugin from './src/plugins/remark-link-annotation/plugin';
 import { promises as fs } from 'fs';
 import { mdiSourceCommit } from '@mdi/js';
 const BUILD_LOCATION = __dirname;
@@ -72,7 +73,14 @@ const REMARK_PLUGINS = {
     ],
     kbdPlugin,
     remarkMath,
-    mediaPlugin
+    mediaPlugin,
+    [
+      linkAnnotationPlugin,
+      {
+        prefix: '👉',
+        postfix: null
+      }
+    ]
   ],
   rehypePlugins: [
     rehypeKatex
