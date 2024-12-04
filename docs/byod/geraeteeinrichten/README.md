@@ -5,7 +5,7 @@ sidebar_custom_props:
 sidebar_position: 10
 ---
 
-# Geräte einrichten
+# Ersteinrichtung
 
 :::info
 **Hier findest du Anleitungen, um deinen Laptop und dein Smartphone für den Gebrauch an unserer Schule einzurichten.**

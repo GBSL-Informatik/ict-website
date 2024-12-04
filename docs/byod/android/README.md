@@ -2,12 +2,12 @@
 systems:
   - android
 sidebar_custom_props:
-  icon: mdi-apple
+  icon: mdi-android
   source: gym-kirchenfeld
   path: /docs/byod/android/README.md
-sidebar_position: 58
+  hidden: true
+sidebar_position: 200
 draft: true
-
 ---
 
-# iOS / iPadOS
+# Android

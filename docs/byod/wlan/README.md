@@ -10,21 +10,22 @@ sidebar_position: 17
 <Tabs>
   <TabItem value="win" label="Windows">
   Klicke in der Taskleiste unten auf das WLAN-Symbol und wähle das WLAN __WLGYMB-BYOD__ aus. Verbinde dich mit diesem Netzwerk, ignoriere die die Meldung über das Zertifikat und melde dich mit Mailadresse und Passwort an.
-  :::details[Klicke, wenn du dich nicht verbinden kannst oder du keine Internetverbindung bekommst]
-  Gib __WLAN-Einstellungen__ im Suchfeld ein und kontrolliere die folgenden Einstellungen
-![WLAN ist eingeschaltet](./Netzwerk%20%20und%20Internet.png)
-:::
+
+  :::details[Keine Verbindung möglich oder kein Internetzugang?]
+    Gib __WLAN-Einstellungen__ im Suchfeld ein und kontrolliere die folgenden Einstellungen
+    ![WLAN ist eingeschaltet](./Netzwerk%20%20und%20Internet.png)
+  :::
   </TabItem>
   <TabItem value="osx" label="Mac OS">
-Klicke oben auf das WLAN-Symbol und wähle das WLAN __WLGYMB-BYOD__ aus. Verbinde dich mit diesem Netzwerk, ignoriere die die Meldung über das Zertifikat und melde dich mit Mailadresse und Passwort an.  
-:::details[Klicke, wenn du trotz WLAN-Verbindung keine Internetseite öffnen kannst.]
-1. Installiere (daheim ober über Hotspot) einen andern Browser (Chrome, Opera, Edge) damit kommst du auch in der Schule ins Internet.
-2. Kontrolliere, ob du ein iCloud+-Abo hast und __Privat-Relay__ eingeschaltet ist:
+  Klicke oben auf das WLAN-Symbol und wähle das WLAN __WLGYMB-BYOD__ aus. Verbinde dich mit diesem Netzwerk, ignoriere die die Meldung über das Zertifikat und melde dich mit Mailadresse und Passwort an.  
+  :::details[Trotz WLAN-Verbindung kein Internetzugang?]
+    1. Installiere (daheim ober über Hotspot) einen andern Browser (Chrome, Opera, Edge) damit kommst du auch in der Schule ins Internet.
+    2. Kontrolliere, ob du ein iCloud+-Abo hast und __Privat-Relay__ eingeschaltet ist:
 
-Klicke auf das Apple-Menü __:mdi[apple]__, wähle __Systemeinstellungen__ . Klicke dann oben in der Seitenleiste auf „[dein Name]“ und anschließend auf __iCloud__. Klicke anschliessend auf __Privat-Relay__.
-![](macprivaterelay.png)
-Schalte es aus.
-:::
+    Klicke auf das Apple-Menü __:mdi[apple]__, wähle __Systemeinstellungen__ . Klicke dann oben in der Seitenleiste auf „[dein Name]“ und anschließend auf __iCloud__. Klicke anschliessend auf __Privat-Relay__.
+    ![](macprivaterelay.png)
+    Schalte es aus.
+  :::
 
 :::details[Was ist Private-Relay und wieso gibt es Probleme?- Eine elegante Lösung]
 **Private-Relay** 
