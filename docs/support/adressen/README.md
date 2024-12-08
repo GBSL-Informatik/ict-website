@@ -13,7 +13,7 @@ sidebar_position: 14
 
 :::tip[Tipp 1: Probleme mit dem Schulkonto, mit Office 365]
 
-Hast du Probleme mit deinem Konto, kannst du dich nicht mehr anmelden oder Programme nicht mehr installieren, dann schau einmal unter [**Installationsprobleme**](../../anderesoftware/office365/README.md), vielleicht findest du da bereits eine Lösung.
+Hast du Probleme mit deinem Konto, kannst du dich nicht mehr anmelden oder Programme nicht mehr installieren, dann schau einmal unter [**IT-Selbsthilfe**](../it-hilfe), vielleicht findest du da bereits eine Lösung.
 :::
 
 :::tip[Tipp 2: Probleme mit dem Wlan]

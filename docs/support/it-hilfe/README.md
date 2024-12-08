@@ -72,6 +72,16 @@ Kontrolliere auf der Fernbedienung des Beamers __Volume__
 Bild
 :::
 
+:::info[Beamer lässt sich nicht einschalten]
+
+:::solution[Lösung]
+
+
+
+
+
+
+:::
 
 </TabItem>
   <TabItem value="Installation M + G" label="Installation M + G">
