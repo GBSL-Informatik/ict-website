@@ -78,7 +78,7 @@ Bild
  
 ```mermaid
 flowchart TD
-    Start("Der Beamer lässt sich nicht einschalten") --> D["Am Beamer leuchtet ein Lämpchen"] & n2["Am Beamer leuchtet kein Lämpchen"]
+    Start("Der Beamer lässt sich nicht einschalten") --> D["Am Beamer leuchtet ein Lämpchen"] & n2["Am Beamer leuchtet kein Lämpchen"] & n13["Deckenlicht lässt sich auch nicht einschalten<br>Hausdienst 032 327 06 69"]
     n2 --> n6["Support benachrichtigen<br>[ <a href="https://forms.office.com/r/akUrVUFaRu" target="_blank">👉 IT-Support</a>]"]
     D --> n7["Fernbedienung: Batteriefach kontrollieren"]
     n7 --> n9["Keine Batterien oder Kreiden."] & n11["Batterien korrekt eingelegt?"]
