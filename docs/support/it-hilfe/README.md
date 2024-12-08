@@ -75,8 +75,21 @@ Bild
 :::info[Beamer lässt sich nicht einschalten]
 
 :::solution[Lösung]
+ 
+```mermaid
+flowchart TD
+    Start("Der Beamer lässt sich nicht einschalten") --> D["Am Beamer leuchtet ein Lämpchen"] & n2["Am Beamer leuchtet kein Lämpchen"]
+    n2 --> n6["Support benachrichtigen<br>[ <a href="https://forms.office.com/r/akUrVUFaRu" target="_blank">👉 IT-Support</a>]"]
+    D --> n7["Fernbedienung: Batteriefach kontrollieren"]
+    n7 --> n9["Keine Batterien oder Kreiden."] & n11["Batterien korrekt eingelegt?"]
+    n9 --> n10["Batterien holen."]
+    n11 --> n12["Batterien korrekt einlegen<br>Neue Batterien holen<br>Kurz: Fernbedienung aus anderem Zimmer ausleiehn"]
+
+    D@{ shape: rounded}
+    n2@{ shape: rounded}
 
 
+```
 
 
 
