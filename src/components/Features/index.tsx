@@ -12,6 +12,9 @@ function MyFeature(): JSX.Element {
   return (
     <div className={styles.features}>
       {sidebar.items.map((item, idx) => {
+        if (item.customProps?.hidden) {
+          return null;
+        }
         if (item.type === 'link' || item.type === 'category') {
           return (
             <Feature

@@ -2,10 +2,11 @@
 systems:
   - iOS / iPadOS
 sidebar_custom_props:
-  icon: mdi-apple
+  icon: mdi-apple-ios
   source: gym-kirchenfeld
   path: /docs/byod/ios/README.md
-sidebar_position: 59
+  hidden: true
+sidebar_position: 200
 draft: true
 ---
 

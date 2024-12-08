@@ -9,7 +9,7 @@ sidebar_custom_props:
   path: /docs/dokumentation/README.md
 ---
 
-# Hinweise für Autoren
+# Hinweise für Autor:innen
 
 ## Typografie
 

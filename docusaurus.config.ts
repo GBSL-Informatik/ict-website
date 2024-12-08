@@ -1,5 +1,3 @@
-// @ts-check
-// Note: type annotations allow type checking and IDEs autocompletion
 import type { Config } from '@docusaurus/types';
 import * as Preset from '@docusaurus/preset-classic';
 import remarkMath from 'remark-math';
@@ -15,6 +13,7 @@ import deflistPlugin from './src/plugins/remark-deflist/plugin';
 import strongPlugin from './src/plugins/remark-strong/plugin';
 import detailsPlugin from './src/plugins/remark-details/plugin';
 import mediaPlugin from './src/plugins/remark-media/plugin';
+import linkAnnotationPlugin from './src/plugins/remark-link-annotation/plugin';
 import { promises as fs } from 'fs';
 import { mdiSourceCommit } from '@mdi/js';
 const BUILD_LOCATION = __dirname;
@@ -29,55 +28,62 @@ const isDev = process.env.NODE_ENV === 'development';
 
 const REMARK_PLUGINS = {
   beforeDefaultRemarkPlugins: [
-      flexCardsPlugin,
-      [
-          imagePlugin,
-          { tagNames: { sourceRef: 'SourceRef', figure: 'Figure' } }
-      ],
-      [
-        detailsPlugin,
-        {
-          directiveNames: ['details', 'solution'],
-          classNames: {
-            details: 'details',
-            solution: 'solution'
-          },
-          defaultLabel: {
-            solution: 'Lösung'
-          }
+    flexCardsPlugin,
+    [
+      imagePlugin,
+      { tagNames: { sourceRef: 'SourceRef', figure: 'Figure' } }
+    ],
+    [
+      detailsPlugin,
+      {
+        directiveNames: ['details', 'solution'],
+        classNames: {
+          details: 'details',
+          solution: 'solution'
+        },
+        defaultLabel: {
+          solution: 'Lösung'
         }
-      ]
+      }
+    ]
   ],
   remarkPlugins: [
-      [strongPlugin, { className: 'boxed'}],
-      [
-          deflistPlugin,
-          {
-              tagNames: {
-                  dl: 'Dl',
-              },
-          }
-      ],
-      [
-          mdiPlugin,
-          {
-              colorMapping: {
-                  green: 'var(--ifm-color-success)',
-                  red: 'var(--ifm-color-danger)',
-                  orange: 'var(--ifm-color-warning)',
-                  yellow: '#edcb5a',
-                  blue: '#3578e5',
-                  cyan: '#01f0bc'
-              },
-              defaultSize: '1.25em'
-          }
-      ],
-      kbdPlugin,
-      remarkMath,
-      mediaPlugin
+    [strongPlugin, { className: 'boxed' }],
+    [
+      deflistPlugin,
+      {
+        tagNames: {
+          dl: 'Dl',
+        },
+      }
+    ],
+    [
+      mdiPlugin,
+      {
+        colorMapping: {
+          green: 'var(--ifm-color-success)',
+          red: 'var(--ifm-color-danger)',
+          orange: 'var(--ifm-color-warning)',
+          yellow: '#edcb5a',
+          blue: '#3578e5',
+          cyan: '#01f0bc'
+        },
+        defaultSize: '1.25em'
+      }
+    ],
+    kbdPlugin,
+    remarkMath,
+    mediaPlugin,
+    [
+      linkAnnotationPlugin,
+      {
+        prefix: '👉',
+        postfix: null
+      }
+    ]
   ],
   rehypePlugins: [
-      rehypeKatex
+    rehypeKatex
   ]
 }
 
@@ -96,7 +102,7 @@ const config: Config = {
   projectName: 'ict-website', // Usually your repo name.
   deploymentBranch: 'gh-pages',
   trailingSlash: true,
-  customFields: { 
+  customFields: {
     GIT_COMMIT_SHA: GIT_COMMIT_SHA,
   },
 
@@ -121,8 +127,8 @@ const config: Config = {
           sidebarPath: 'sidebars.ts',
           editUrl: 'https://github.com/gbsl-informatik/ict-website/edit/main/',
           admonitions: {
-              keywords: ['aufgabe', 'finding'],
-              extendDefaults: true,
+            keywords: ['aufgabe', 'finding'],
+            extendDefaults: true,
           },
           beforeDefaultRemarkPlugins: REMARK_PLUGINS.beforeDefaultRemarkPlugins,
           remarkPlugins: REMARK_PLUGINS.remarkPlugins,
@@ -131,12 +137,12 @@ const config: Config = {
         blog: false,
         pages: {
           admonitions: {
-              keywords: ['aufgabe', 'finding'],
-              extendDefaults: true,
+            keywords: ['aufgabe', 'finding'],
+            extendDefaults: true,
           },
           beforeDefaultRemarkPlugins: REMARK_PLUGINS.beforeDefaultRemarkPlugins,
           remarkPlugins: REMARK_PLUGINS.remarkPlugins,
-          rehypePlugins: REMARK_PLUGINS.rehypePlugins,      
+          rehypePlugins: REMARK_PLUGINS.rehypePlugins,
         },
         theme: {
           customCss: [
@@ -155,9 +161,9 @@ const config: Config = {
   markdown: {
     mermaid: true,
     mdx1Compat: {
-        admonitions: false,
-        comments: false,
-        headingIds: false
+      admonitions: false,
+      comments: false,
+      headingIds: false
     },
     parseFrontMatter: async (params) => {
       const result = await params.defaultParseFrontMatter(params);
@@ -178,7 +184,7 @@ const config: Config = {
           result.frontMatter.sidebar_position = 10;
           result.frontMatter.tags = [];
           result.frontMatter.sidebar_custom_props = {
-              icon: 'mdi-file-document-outline'
+            icon: 'mdi-file-document-outline'
           }
           result.frontMatter.draft = true;
           needsRewrite = true;
@@ -195,73 +201,74 @@ const config: Config = {
     }
   },
   themeConfig: {
-      mermaid: {
-        theme: {light: 'default', dark: 'dark'},
-      },
-      docs: {
-        sidebar: {
-          hideable: true,
-          autoCollapseCategories: true
-        }
-      },
-      navbar: {
-        title: 'ICT Gymnasium Biel-Seeland',
-        logo: {
-          alt: 'ICT GBSL',
-          src: 'img/logo.svg',
-        },
-        items: [],
-      },
-      footer: {
-        copyright: `<a 
-        class="footer__link-item"
-        href="https://creativecommons.org/licenses/by-nc-sa/4.0/deed.de"
-      >
-        Alle Inhalte (falls nicht anders angegeben) lizenziert unter
-        <br />
-        <img src="/img/by-nc-sa.eu.svg" alt="CC-BY-NC-SA"> 
-        <br />
-        Creative Commons Namensnennung - Nicht-kommerziell - Weitergabe unter gleichen Bedingungen 4.0 International Lizenz.
-      </a>
-      <br />
-      <small>
-        <i>Inhalt</i> <a class="badge badge--secondary" target="_blank" href="https://www.gbsl.ch/gbsl/schule/lehrpersonen/#:~:text=kae">kae</a> - <i>Website</i> <a class="badge badge--secondary" target="_blank" href="https://www.gbsl.ch/gbsl/schule/lehrpersonen/#:~:text=hfr">hfr</a><br />
-      </small>
-      <a 
-        class="badge badge--primary"
-        href="https://github.com/GBSL-Informatik/ict-website/commit/${GIT_COMMIT_SHA}"
-      >
-          <svg viewBox="0 0 24 24" role="presentation" style="width: 0.9rem; height: 0.9rem; transform: translateY(15%) rotate(90deg); transform-origin: center center;"><path d="${mdiSourceCommit}" style="fill: currentcolor;"></path></svg> ${GIT_COMMIT_SHA.substring(0, 7)}
-      </a>`
-      },
-      algolia: {
-        appId: process.env.ALGOLIA_APP_ID || "no-id",
-        apiKey: process.env.ALGOLIA_API_KEY || "no-key",
-        indexName: process.env.ALGOLIA_INDEX_NAME || "no-index",
-        // Optional: see doc section below
-        contextualSearch: true,
-        // Optional: path for search page that enabled by default (`false` to disable it)
-        searchPagePath: 'search',
-      },
-      prism: {
-        theme: lightCodeTheme,
-        darkTheme: darkCodeTheme,
-      },
-      announcementBar: {
-        backgroundColor: '#248eca',
-        textColor: '#fff',
-        content: '🚧 Seite im Aufbau... 🚧',
-        isCloseable: true
-      },
-      zoom: {
-        selector: '.markdown figure.zoom > img',
-        background: {
-          light: 'rgb(255, 255, 255)',
-          dark: 'rgb(50, 50, 50)'
-        },
-        // options you can specify via https://github.com/francoischalifour/medium-zoom#usage
-        config: {}
+    mermaid: {
+      theme: { light: 'default', dark: 'dark' },
+    },
+    docs: {
+      sidebar: {
+        hideable: true,
+        autoCollapseCategories: true
       }
+    },
+    navbar: {
+      title: 'ICT Gymnasium Biel-Seeland',
+      logo: {
+        alt: 'ICT GBSL',
+        src: 'img/logo.svg',
+      },
+      items: [],
+    },
+    footer: {
+      copyright: `<a href="https://creativecommons.org/licenses/by-nc-sa/4.0/deed.de">
+                <div style="display: flex; flex-direction: column; align-items: center;">
+                  <div>
+                    Alle Inhalte (falls nicht anders angegeben) lizenziert unter
+                  </div>
+                  <img style="height: 2em" src="/img/by-nc-sa.eu.svg" alt="CC-BY-NC-SA">
+                </div>
+              </a>
+              <div>
+                <small>
+                  <i>Inhalt</i> <a class="badge badge--secondary" target="_blank" href="https://www.gbsl.ch/gbsl/schule/lehrpersonen/#:~:text=kae">kae</a> - <i>Website</i> <a class="badge badge--secondary" target="_blank" href="https://www.gbsl.ch/gbsl/schule/lehrpersonen/#:~:text=hfr">hfr</a><br />
+                </small>
+              </div>
+              <a 
+                class="badge badge--primary"
+                style="margin-top: 0.5rem; display: inline-flex; align-items: flex-start; gap: 0.25rem;"
+                href="https://github.com/GBSL-Informatik/ict-website/commit/${GIT_COMMIT_SHA}"
+              >
+                  <svg viewBox="0 0 24 24" role="presentation" style="width: 0.9rem; height: 0.9rem; transform: rotate(90deg); transform-origin: center center;"><path d="${mdiSourceCommit}" style="fill: currentcolor;"></path></svg>
+                  <span>${GIT_COMMIT_SHA.substring(0, 7)}</span>
+              </a>`
+    },
+    algolia: {
+      appId: process.env.ALGOLIA_APP_ID || "no-id",
+      apiKey: process.env.ALGOLIA_API_KEY || "no-key",
+      indexName: process.env.ALGOLIA_INDEX_NAME || "no-index",
+      // Optional: see doc section below
+      contextualSearch: true,
+      // Optional: path for search page that enabled by default (`false` to disable it)
+      searchPagePath: 'search',
+    },
+    prism: {
+      theme: lightCodeTheme,
+      darkTheme: darkCodeTheme,
+    },
+    announcementBar: {
+      backgroundColor: '#248eca',
+      textColor: '#fff',
+      content: 'Einführungsphase',
+      isCloseable: true
+    },
+    zoom: {
+      selector: '.markdown figure.zoom > img',
+      background: {
+        light: 'rgb(255, 255, 255)',
+        dark: 'rgb(50, 50, 50)'
+      },
+      // options you can specify via https://github.com/francoischalifour/medium-zoom#usage
+      config: {}
+    }
   } satisfies Preset.ThemeConfig,
   stylesheets: [
     {

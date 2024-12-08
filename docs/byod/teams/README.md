@@ -1,6 +1,6 @@
 ---
 sidebar_custom_props:
-  icon: mdi-wifi
+  icon: mdi-microsoft-teams
   path: /docs/byod/teams/README.md
 sidebar_position: 17
 ---
@@ -11,9 +11,9 @@ Jede Klasse und jede Unterrichtsgruppe hat ein Team. Diese Teams werden in der g
 
 Gilt für alle Betriebssysteme: Installiere die App direkt über die folgende Seite:
 
-[https://www.microsoft.com/de-ch/microsoft-teams/download-app?market=ch](https://www.microsoft.com/de-ch/microsoft-teams/download-app?market=ch)
+[https://www.microsoft.com/de-ch/microsoft-teams/download-app](https://www.microsoft.com/de-ch/microsoft-teams/download-app?market=ch)
 
-:::details[Klicke, falls du nicht weisst, welches Windows-Beriebssystem du hast]
+:::details[Welches Windows-Beriebssystem habe ich?]
 Gib im Suchfenster _Version_ ein und  wähle _Ueberprüfen..._
 ![](WinVersion.png)
 Schau unter _Systemtyp_ nach.
