@@ -1,13 +1,12 @@
 ---
-chapter: IT-Hilfe für Selbsthilfe
-description: >-
-  Hier findest du Informationen, um dein Problem selbst lösen zu können 
+description: Kurzbeschreibung für Suchmaschinen
+sidebar_label: IT-Hilfe zur Selbsthilfe
+sidebar_position: 10
+tags: []
 sidebar_custom_props:
-  icon: mdi-help-box
-  path: /docs/it-hilfe/README.md
-sidebar_position: 11
+  icon: mdiHelpBoxMultipleOutline
+draft: false
 ---
-
 
 # IT-Hilfe zur Selbsthilfe
 
@@ -90,12 +89,31 @@ flowchart TD
 
 
 ```
-
-
-
-
 :::
 
+:::info[Kamera funktioniert nicht]
+
+:::solution[Lösung]
+ 
+```mermaid
+flowchart TD
+    C("Der Beamer ist eingeschaltet und die Quelle ist hdBase-T?") -- ja --> n2["Kamera hat Strom"]
+    n2 -- nein --> n3["Licht im Zimmer funktioniert?"]
+    n2 -- ja --> n4["hdmi-Kabel angeschlossen bei hdmi in?"]
+    n3 -- ja --> n5["Kamera eingeschaltet?<br>Stromkabel angeschlossen?"]
+    n3 -- nein --> n6["Hausdienst 032 327 06 069"]
+    n5 -- ja --> n7["Stromkabel unten am Boden des AV-Pultes eingesteckt?"]
+    n7 --> n8["Support benachrichtigen<br>[ <a href="https://forms.office.com/r/akUrVUFaRu" target="_blank">👉 IT-Support</a>]"]
+    n4 --> n9["Kein Kabel vorhanden oder Stecker abgeknickt"] & n11["Kabel eingesteckt im schwarzen Kästchen und das Lämpchen des Eingangs leuchtet?"]
+    n9 --> n10["Hole eines in D101 oder D201, schliesse es an"]
+    n11 -- ja --> n12["Support benachrichtigen<br>[ <a href="https://forms.office.com/r/akUrVUFaRu" target="_blank">👉 IT-Support</a>]"]
+    n11 -- nein --> n13["Stecke das hdmi-Kabel ein und und wähle mit dem Druckschalter diesen Kanal"]
+    C -- nein --> n14["Schalte den Beamer ein und wechsle mit der Taste hdmi auf die Quelle hdBaseT"]
+
+    n2@{ shape: rounded}
+
+```
+:::
 </TabItem>
   <TabItem value="Installation M + G" label="Installation M + G">
 Kein Strom bei Kamera, Verstärker

@@ -1,12 +1,13 @@
 ---
-sidebar_custom_props:
-  icon: mdi-tools
+description: Kurzbeschreibung für Suchmaschinen
 sidebar_label: Support
-sidebar_position: 12
+sidebar_position: 10
+tags: []
+sidebar_custom_props:
+  icon: mdi-file-document-outline
 draft: false
 ---
 
-#  Support
+# Support
 
 <Features />
-
