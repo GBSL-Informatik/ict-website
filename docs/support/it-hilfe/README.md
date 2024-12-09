@@ -103,7 +103,7 @@ flowchart TD
     n3 -- ja --> n5["Kamera eingeschaltet?<br>Stromkabel angeschlossen?"]
     n3 -- nein --> n6["Hausdienst 032 327 06 069"]
     n5 -- ja --> n7["Stromkabel unten am Boden des AV-Pultes eingesteckt?"]
-    n7 --> n8["Support benachrichtigen<br>[ <a href="https://forms.office.com/r/akUrVUFaRu" target="_blank">👉 IT-Support</a>]"]
+    n7 --> n8["Support benachrichtigen<br>[<a href="https://forms.office.com/r/akUrVUFaRu" target="_blank">👉 IT-Support</a>]"]
     n4 --> n9["Kein Kabel vorhanden oder Stecker abgeknickt"] & n11["Kabel eingesteckt im schwarzen Kästchen und das Lämpchen des Eingangs leuchtet?"]
     n9 --> n10["Hole eines in D101 oder D201, schliesse es an"]
     n11 -- ja --> n12["Support benachrichtigen<br>[ <a href="https://forms.office.com/r/akUrVUFaRu" target="_blank">👉 IT-Support</a>]"]
