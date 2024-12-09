@@ -1,0 +1,84 @@
+---
+description: Kurzbeschreibung für Suchmaschinen
+sidebar_label: réseau sans fil
+sidebar_position: 18
+tags: []
+sidebar_custom_props:
+  icon: mdi-wifi
+draft: true
+
+---
+
+# Configurer le réseau sans fil
+
+<Tabs groupId="os" queryString>
+  <TabItem value="win" label="Windows">
+  Clique sur l'icône WLAN dans la barre des tâches en bas et sélectionne le réseau WLAN __WLGYMB-BYOD__. Connecte-toi à ce réseau, ignore le message concernant le certificat et connecte-toi avec ton adresse e-mail et ton mot de passe.
+
+  :::details[Impossible de se connecter ou pas d'accès à Internet ?]
+    Saisis __paramètres WLAN__ dans le champ de recherche et vérifie les paramètres suivants
+    ![Le WLAN est activé](./Netzwerk%20%20und%20Internet.png)
+  :::
+  </TabItem>
+  <TabItem value="osx" label="Mac OS">
+  Clique sur l'icône WLAN en haut et sélectionne le réseau WLAN __WLGYMB-BYOD__. Connecte-toi à ce réseau, ignore le message concernant le certificat et connecte-toi avec ton adresse e-mail et ton mot de passe.  
+  :::details[Pas d'accès à Internet malgré une connexion WLAN ?]
+    1. Installe (à la maison ou via un hotspot) un autre navigateur (Chrome, Opera, Edge) qui te permettra d'accéder à Internet à l'école également.
+    2. Kontrolliere, ob du ein iCloud+-Abo hast und __Privat-Relay__ eingeschaltet ist:
+
+    Klicke auf das Apple-Menü __:mdi[apple]__, wähle __Systemeinstellungen__ . Klicke dann oben in der Seitenleiste auf „[dein Name]“ und anschließend auf __iCloud__. Klicke anschliessend auf __Privat-Relay__.
+    ![](macprivaterelay.png)
+    Schalte es aus.
+  :::
+
+:::details[Was ist Private-Relay und wieso gibt es Probleme?- Eine elegante Lösung]
+**Private-Relay** 
+schützt dich vor Angriffen aus dem Internet, indem es deine Identität verbirgt und deine Anfragen versteckt. Das macht durchaus Sinn etwa im WLAN daheim, aber nicht in gut gesicherten Netzwerken, weil in diesen gerade mit der Kontrolle der Identität die Sicherheit erhöht wird.
+
+**Beste Lösung**
+Die beste Lösung besteht darin, __Private-Relay__ nur für das BYOD-WLAN auszuschalten, so bist du weiterhin auch in den einfacheren Netzwerken gut geschützt:
+
+Klicke auf das Apple-Menü __:mdi[apple]__, wähle __Systemeinstellungen__ . Klicke in der Seitenleiste auf __Netzwerk__ und anschliessend auf der rechten Seite __WLAN-BYOD__, Klicke auf die __:mdi[informationOutline]__.
+
+Deaktiviere zum Schluss die Option __Tracking der IP-Adresse beschränken__.
+
+:::
+</TabItem>
+
+  <TabItem value="ios" label="iOS">
+Gehe zu __Einstellungen__ __WLAN__ und verbinde dich mit __WLGYMB-Byod__ und bei __Zertifikat__ klickst du auf __Vertrauen__ und melde dich mit Mailadresse und Passwort an.
+
+![--width=70%](wlanios1.jpeg)
+:::details[Klicke, falls du keine Verbindung mit WLGYMB-Byod herstellen kannst oder keine Internetverbindung erhältst.]
+
+Kontrolliere folgendes:
+
+- IP Konfigurieren: automatisch
+- DNS Konfigurieren: automatisch
+- Proxy konfigurieren: aus
+
+Weichen deine Einstellungen davon ab, so ändere sie.
+
+![--width=70%](wlanios2.jpeg)
+
+Kontrolliere auch VPN: __Einstellungen__ __Allgemein__ runterscrollen zu VPN und Geräteverwaltung.
+
+![--width=70%](vpnios.jpg)
+
+Hier darf weder VPN verbunden noch ein Arbeits- oder Schulaccount eingerichtet sein.
+:::
+
+
+  </TabItem>
+
+  <TabItem value="android" label="Android">
+    Öffne auf deinem Gerät die Einstellungen und klicke unter WLAN auf das Netzwerk __WLGYMB-BYOD__.
+    
+    Gib folgende Einstellungen ein und melde dich mit Mailadresse und Passwort an:
+  ![--width=70%](WLAN-Android-Standard.png)
+:::details[Klicke, falls du keine Verbindung mit WLGYMB-Byod herstellen kannst.]
+Gib folgende Einstellungen ein und melde dich mit Mailadresse und Passwort an:
+![--width=70%](WLAN-Android-erweitert.png)
+:::
+  </TabItem>
+</Tabs>

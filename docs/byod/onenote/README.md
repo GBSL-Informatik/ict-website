@@ -2,7 +2,7 @@
 sidebar_custom_props:
   icon: mdi-microsoft-onenote
   path: /docs/byod/onenote/README.md
-sidebar_position: 18
+sidebar_position: 19
 ---
 
 # OneNote
