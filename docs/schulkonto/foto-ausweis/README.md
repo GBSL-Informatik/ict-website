@@ -5,7 +5,7 @@ sidebar_position: 10
 tags: []
 sidebar_custom_props:
   icon: mdiFaceRecognition
-draft: true
+draft: false
 ---
 
 # Foto für den Schülerausweis erstellen
