@@ -11,6 +11,8 @@ sidebar_position: 10
 **Hier findest du Anleitungen, um deinen Laptop und dein Smartphone für den Gebrauch an unserer Schule einzurichten.**
 
 Du kannst die Einrichtung von daheim aus vornehmen und in der Schule. Von daheim aus kannst du nicht alles einrichten. Richte nach Möglichkeit aber alles ein, was du von daheim einrichten kannst.
+
+ **Achtung: Die Aufgaben 1 und 2 (s. weiter unten) möglichst rasch erledigen, die Foto für den Ausweis muss bis am 14. Mai elektronisch eingereicht werden.**
 :::
 
 Hast du von der alten Schule her eine Office365 Lizenz, so beachte unbedingt [👉 das](../../anderesoftware/office365/README.md).
@@ -28,19 +30,20 @@ Eigenständige Einrichtung zu Hause. Es wird erwartet, dass diese Schritte berei
 
 :::aufgabe[Schritte zu Hause]
 
-1. Updates installieren [👉Updates](/docs/tipps/updates/README.md)
-2. Ersteinrichtung deines Schulkontos [👉 Ersteinrichtung Schulkonto](../../schulkonto/README.md)
+1. Ersteinrichtung deines Schulkontos [👉 Ersteinrichtung Schulkonto](../../schulkonto/README.md)
+2. Foto für den Schüler:innenausweis [👉 Foto für den Ausweis](../../schulkonto/foto-ausweis/README.md)
 3. Mehrfachauthentifikation einrichten [👉 MFA](../../schulkonto/mfa/README.md)
-4. Office-Programme installieren: [👉 Office365](http://portal.office.com/)
+4. Updates installieren [👉Updates](/docs/tipps/updates/README.md)
+5. Office-Programme installieren: [👉 Office365](http://portal.office.com/)
    - Office365 (Word, Excel, Powerpoint)
    - Teams
    - OneDrive
    - OneNote
-5. Weitere Programme
+6. Weitere Programme
    - WebUntis: Stundenplan-App auf dem Smartphone [👉 Stundenplan](../stundenplan/)
    - Adobe-Programme [👉 Adobe](../../anderesoftware/adobe)
    - Programm für elektronische Prüfungen [👉 E-Prüfen](../../anderesoftware/digitales%20prüfen/)
-6. Mail einrichten [Mail einrichten](../mail/e-mail-einstellungen/README.md)
+7. Mail einrichten [Mail einrichten](../mail/e-mail-einstellungen/README.md)
 :::
 
 </TabItem>
