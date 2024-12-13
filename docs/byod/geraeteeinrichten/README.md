@@ -2,7 +2,7 @@
 sidebar_custom_props:
   icon: mdi-account-supervisor
   path: /docs/byod/geraeteeinrichtenk/README.md
-sidebar_position: 10
+sidebar_position: 1
 ---
 
 # Ersteinrichtung
