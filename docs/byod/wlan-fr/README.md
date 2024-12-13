@@ -9,75 +9,75 @@ draft: false
 
 ---
 
-# Configurer le réseau sans fil
+# Configurer le réseau Wi-Fi
 
 <Tabs groupId="os" queryString>
   <TabItem value="win" label="Windows">
-  Clique sur l'icône WLAN dans la barre des tâches en bas et sélectionne le réseau WLAN __WLGYMB-BYOD__. Connecte-toi à ce réseau, ignore le message concernant le certificat et connecte-toi avec ton adresse e-mail et ton mot de passe.
+  Cliquez sur l'icône Wi-Fi dans la barre des tâches en bas, puis sélectionnez le réseau Wi-Fi __WLGYMB-BYOD__. Connectez-vous à ce réseau, ignorez l'avertissement concernant le certificat et connectez-vous avec votre adresse e-mail et votre mot de passe.
 
-  :::details[Impossible de se connecter ou pas d'accès à Internet ?]
-    Saisis __paramètres WLAN__ dans le champ de recherche et vérifie les paramètres suivants
-    ![Le WLAN est activé](./Netzwerk%20%20und%20Internet.png)
+  :::details[Impossible de se connecter ou pas d'accès Internet ?]
+    Tapez __Paramètres Wi-Fi__ dans la barre de recherche et vérifiez les paramètres suivants :
+    ![Le Wi-Fi est activé](./Netzwerk%20%20und%20Internet.png)
   :::
   </TabItem>
+  
   <TabItem value="osx" label="Mac OS">
-  Clique sur l'icône WLAN en haut et sélectionne le réseau WLAN __WLGYMB-BYOD__. Connecte-toi à ce réseau, ignore le message concernant le certificat et connecte-toi avec ton adresse e-mail et ton mot de passe.  
-  :::details[Pas d'accès à Internet malgré une connexion WLAN ?]
-    1. Installe (à la maison ou via un hotspot) un autre navigateur (Chrome, Opera, Edge) qui te permettra d'accéder à Internet à l'école également.
-    2. Kontrolliere, ob du ein iCloud+-Abo hast und __Privat-Relay__ eingeschaltet ist:
+  Cliquez sur l'icône Wi-Fi en haut, puis sélectionnez le réseau Wi-Fi __WLGYMB-BYOD__. Connectez-vous à ce réseau, ignorez l'avertissement concernant le certificat et connectez-vous avec votre adresse e-mail et votre mot de passe.  
+  :::details[Aucun accès Internet malgré la connexion Wi-Fi ?]
+    1. Installez (à domicile ou via un hotspot) un autre navigateur (Chrome, Opera, Edge) pour accéder à Internet à l'école.
+    2. Vérifiez si vous avez un abonnement iCloud+ et si __Private Relay__ est activé :
 
-    Klicke auf das Apple-Menü __:mdi[apple]__, wähle __Systemeinstellungen__ . Klicke dann oben in der Seitenleiste auf „[dein Name]“ und anschließend auf __iCloud__. Klicke anschliessend auf __Privat-Relay__.
+    Cliquez sur le menu Apple __:mdi[apple]__, sélectionnez __Réglages système__. Cliquez ensuite sur votre nom en haut de la barre latérale, puis sur __iCloud__. Ensuite, cliquez sur __Private Relay__.
     ![](macprivaterelay.png)
-    Schalte es aus.
+    Désactivez-le.
   :::
 
-:::details[Was ist Private-Relay und wieso gibt es Probleme?- Eine elegante Lösung]
-**Private-Relay** 
-schützt dich vor Angriffen aus dem Internet, indem es deine Identität verbirgt und deine Anfragen versteckt. Das macht durchaus Sinn etwa im WLAN daheim, aber nicht in gut gesicherten Netzwerken, weil in diesen gerade mit der Kontrolle der Identität die Sicherheit erhöht wird.
+:::details[Qu'est-ce que Private Relay et pourquoi cela pose-t-il problème ? Une solution élégante]
+**Private Relay**  
+Vous protège des attaques sur Internet en masquant votre identité et vos requêtes. Cela est utile sur un réseau domestique, mais moins dans des réseaux bien sécurisés où l'identité contribue à renforcer la sécurité.
 
-**Beste Lösung**
-Die beste Lösung besteht darin, __Private-Relay__ nur für das BYOD-WLAN auszuschalten, so bist du weiterhin auch in den einfacheren Netzwerken gut geschützt:
+**Meilleure solution**  
+La meilleure solution consiste à désactiver __Private Relay__ uniquement pour le réseau Wi-Fi BYOD, tout en restant protégé sur d'autres réseaux :
 
-Klicke auf das Apple-Menü __:mdi[apple]__, wähle __Systemeinstellungen__ . Klicke in der Seitenleiste auf __Netzwerk__ und anschliessend auf der rechten Seite __WLAN-BYOD__, Klicke auf die __:mdi[informationOutline]__.
+Cliquez sur le menu Apple __:mdi[apple]__, sélectionnez __Réglages système__. Dans la barre latérale, allez sur __Réseau__, puis sélectionnez __Wi-Fi-BYOD__ sur la droite. Cliquez sur l'icône __:mdi[informationOutline]__.
 
-Deaktiviere zum Schluss die Option __Tracking der IP-Adresse beschränken__.
+Enfin, désactivez l'option __Limiter le suivi de l'adresse IP__.
 
 :::
 </TabItem>
 
   <TabItem value="ios" label="iOS">
-Gehe zu __Einstellungen__ __WLAN__ und verbinde dich mit __WLGYMB-Byod__ und bei __Zertifikat__ klickst du auf __Vertrauen__ und melde dich mit Mailadresse und Passwort an.
+Allez dans __Réglages__ __Wi-Fi__ et connectez-vous au réseau __WLGYMB-Byod__. Lorsque l'on vous demande de __Certificat__, cliquez sur __Faire confiance__, puis connectez-vous avec votre adresse e-mail et votre mot de passe.
 
 ![--width=70%](wlanios1.jpeg)
-:::details[Klicke, falls du keine Verbindung mit WLGYMB-Byod herstellen kannst oder keine Internetverbindung erhältst.]
+:::details[Cliquez ici si vous ne pouvez pas vous connecter à WLGYMB-Byod ou si vous n'avez pas d'accès Internet.]
 
-Kontrolliere folgendes:
+Vérifiez les paramètres suivants :
 
-- IP Konfigurieren: automatisch
-- DNS Konfigurieren: automatisch
-- Proxy konfigurieren: aus
+- Configuration de l'adresse IP : automatique
+- Configuration DNS : automatique
+- Configuration du proxy : désactivée
 
-Weichen deine Einstellungen davon ab, so ändere sie.
+Si vos paramètres diffèrent, ajustez-les.
 
 ![--width=70%](wlanios2.jpeg)
 
-Kontrolliere auch VPN: __Einstellungen__ __Allgemein__ runterscrollen zu VPN und Geräteverwaltung.
+Vérifiez également le VPN : __Réglages__ __Général__, faites défiler vers le bas jusqu'à VPN et gestion des appareils.
 
 ![--width=70%](vpnios.jpg)
 
-Hier darf weder VPN verbunden noch ein Arbeits- oder Schulaccount eingerichtet sein.
+Aucun VPN ne doit être connecté et aucun compte professionnel ou scolaire ne doit être configuré.
 :::
-
 
   </TabItem>
 
   <TabItem value="android" label="Android">
-    Öffne auf deinem Gerät die Einstellungen und klicke unter WLAN auf das Netzwerk __WLGYMB-BYOD__.
+    Ouvrez les paramètres de votre appareil et accédez à Wi-Fi. Sélectionnez le réseau __WLGYMB-BYOD__.
     
-    Gib folgende Einstellungen ein und melde dich mit Mailadresse und Passwort an:
+    Saisissez les paramètres suivants et connectez-vous avec votre adresse e-mail et votre mot de passe :
   ![--width=70%](WLAN-Android-Standard.png)
-:::details[Klicke, falls du keine Verbindung mit WLGYMB-Byod herstellen kannst.]
-Gib folgende Einstellungen ein und melde dich mit Mailadresse und Passwort an:
+:::details[Cliquez ici si vous ne pouvez pas vous connecter à WLGYMB-Byod.]
+Saisissez les paramètres suivants et connectez-vous avec votre adresse e-mail et votre mot de passe :
 ![--width=70%](WLAN-Android-erweitert.png)
 :::
   </TabItem>
