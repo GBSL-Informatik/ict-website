@@ -59,5 +59,3 @@ Am ersten Schultag die Geräte an der Schule in Betrieb nehmen.
 
 </TabItem>
 </Tabs>
-
-
