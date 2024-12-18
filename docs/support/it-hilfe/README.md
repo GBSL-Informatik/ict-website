@@ -56,6 +56,16 @@ Klappt auch das nicht, dann ist dein Account gesperrt und muss zurückgesetzt we
 Wenn dein Account zurückgesetzt ist, kannst du dir ein neues Passwort setzen [👉 ](https://password.edubern.ch/) und dich danach damit wieder beim WLAN-BYOD anmelden.
 :::
 
+:::info[Mein Windows-Notebook geht in den Ruhezustand oder der Bildschirm wird dunkel während einer Präsentation.]
+
+:::solution[Lösung]
+Eine einfache und praktische Lösung ist die Installation von __Microsoft PowerToys__ über den __Microsoft Store__. Interessant ist __PowerToys Awake__, das du aufrufen kannst, nachdem du __PowerToys__ installiert hast. Dort wählst du folgende Einstellungen:
+
+![](PowerToysAwake.png)
+
+
+:::
+
   </TabItem>
   <TabItem value="Installation D-Gebäude" label="Installation D-Gebäude">
 :::info[Ton]
