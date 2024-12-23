@@ -3,7 +3,7 @@ sidebar_custom_props:
   icon: mdiCloudCogOutline
   path: /docs/byod/onedrive/onedriveeinrichten/README.md
 sidebar_position: 10
-draft: true
+draft: false
 ---
 
 # OneDrive einrichten
@@ -11,24 +11,31 @@ draft: true
 :::info[Ich habe noch kein OneDrive eingerichtet]
 :::solution[Klicke hier]
 
-Rufe im Browser __www.gbsl.ch__ auf, über __Quicklinks__ __Office365 Login__.
+Rufe im Browser __www.gbsl.ch__ auf, über __Quicklinks__  danach __Office365 Login__.
+Melde dich an.
+
+Klicke oben links auf das App-Startfeld __⋮⋮⋮__ danach auf __☁️__ , so dass du dich auf deinem OneDrive-Ordner befindest.
+
+
+
+
+
+
 :::
 
-:::info[Ich habe bereits ein privates (persönliches) OneDrive eingerichtet]
+:::info[Ich habe bereits ein privates (persönliches) OneDrive  oder das einer andern Organisation eingerichtet]
 :::solution[Klicke hier]
-Damit zwischen dem persönlichen Onedrive und dem Onedrive deines gbsl-Accountes keine Probleme entstehen, empfiehlt sich folgendes Vorgehen:
-Rechtsklick Wolke, Konto, Konto hinzufüge 3 screenshots
+Damit zwischen den beiden Onedrives keine Probleme entstehen, 
+geh folgendermassen vor (genau gleich machst du es, wenn du ein Konto einer andern Or)
 
+Auf der Taskleiste findest du die **"Onedrive-Wolke"** (1), entweder unten (Windows) oder oben (Mac).  
+Klicke auf __☁️__ und anschließend auf __⚙️__ .
 ![](./onedriveprivplusedubern1.png)
+Anschliessend nochmals auf __⚙️__ __Einstellungen__.
 ![](./onedrivepersplusedubern2.png)
+Schliesslich klickst du auf Konto und Konto hinzufügen und fügst deine gbsl-Mailadresse ein:
 ![](./onedrivepersplusedubern3.png)
-:::
-
-:::info[Ich habe bereits ein OneDrive einer Organisation eingerichtet]
-:::solution[Klicke hier]
-Onedrive deines gbsl-Accounts kannst du problemlos zusätzlich einrichten:
-
-Rufe im Browser __www.gbsl.ch__ auf, über __Quicklinks__ __Office365 Login__.
+Nun läuft der Prozess ab, beendet ist er, wenn du in der Taskleiste 2 Onedrive-Wolken hast.
 :::
 
 :::info[Onedrive auf dem iPhone/iPad oder dem Android-Gerät einrichten]
