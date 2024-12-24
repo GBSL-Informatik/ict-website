@@ -49,30 +49,7 @@ const IndexPages: FeatureProps[] = [
     route: "/tipps/",
     description: 'Update, Tools, Netiquette'
   },
-  {
-    name: "Internet verwenden",
-    icon: "mdi-earth",
-    route: "https://ict.mygymer.ch/internet/",
-    extern: true
-  },
-  {
-    name: "Textverarbeitung",
-    icon: "mdi-text-box-outline",
-    route: "https://ict.mygymer.ch/textverarbeitung/",
-    extern: true
-  },
-  {
-    name: "Präsentation",
-    icon: "mdi-presentation",
-    route: "https://ict.mygymer.ch/praesentation/",
-    extern: true
-  },
-  {
-    name: "Tabellenkalkulation",
-    icon: "mdi-table-large",
-    route: "https://ict.mygymer.ch/tabellenkalkulation/",
-    extern: true
-  },
+  
 ];
 
 function HomepageHeader() {
