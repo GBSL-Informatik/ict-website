@@ -10,7 +10,7 @@ draft: false
 
 Gehe auf die Schulwebseite [www.gbsl.ch](https://www.gbsl.ch), wähle __Quicklinks__ und __Office365 Login__.
 
-Anschliessend öffnest du **OneDrive** über die 9 Punkte links oben.
+Anschliessend öffnest du **OneDrive** über __⋮⋮⋮__ links oben.
 
 Falls du noch keine Datei hast, erstelle rasch eine über __Neu hinzufügen__
 
