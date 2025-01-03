@@ -8,6 +8,8 @@ sidebar_position: 12
 
 # Multi-Faktor-Authentifikation
 
+<Features />
+
 Eine "Multi-Faktor-Authentifizierung" (kurz __MFA__) dient der Sicherheit. Wenn man sich mit 2 Faktoren authentifizieren muss, kann bspw. ein gestohlener Lapatop nicht dazu verwendet werden, um sich Zutritt zu einem Konto zu verschaffen. Alle Lehrer:innen und Schüler:innen müssen diese einrichten. Wenn du im Schulnetz bist, reichen Mailadresse und Passwort, aber sonst musst du dich immer doppelt authentifizieren.
 Zuerst musst du dich mit Mailadresse der Schule und Passwort anmelden.
 Danach erhältst du auf deinem Smartphone entweder eine SMS mit einem Code oder einen Code in deiner Authenticator-App.
