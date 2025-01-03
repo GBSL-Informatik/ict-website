@@ -13,7 +13,9 @@
     "write-translations": "docusaurus write-translations",
     "write-heading-ids": "docusaurus write-heading-ids",
     "typecheck": "tsc",
-    "edit-fm": "node edit_front_matter.js"
+    "edit-fm": "node edit_front_matter.js",
+    "format": "prettier --write .",
+    "format:check": "prettier --check ."
   },
   "dependencies": {
     "@docusaurus/core": "^3.6.3",
@@ -42,6 +44,7 @@
     "gray-matter": "^4.0.3",
     "known-css-properties": "^0.31.0",
     "minimist": "^1.2.6",
+    "prettier": "^3.4.2",
     "typescript": "^5.3.2"
   },
   "browserslist": {
