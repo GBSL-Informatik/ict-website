@@ -13,17 +13,17 @@ import Tabs from '@theme/Tabs';
 import TabItem from '@theme/TabItem';
 
 export default {
-  // Re-use the default mapping
-  ...MDXComponents,
-  Features: Features,
-  FeatureCategories: FeatureCategories,
-  ExcelBox: ExcelBox,
-  SearchBox: SearchBox,
-  Figure: Figure,
-  SourceRef: SourceRef,
-  Dl: DefinitionList,
-  BrowserWindow: BrowserWindow,
-  Icon: Icon,
-  Tabs: Tabs,
-  TabItem: TabItem,
+    // Re-use the default mapping
+    ...MDXComponents,
+    Features: Features,
+    FeatureCategories: FeatureCategories,
+    ExcelBox: ExcelBox,
+    SearchBox: SearchBox,
+    Figure: Figure,
+    SourceRef: SourceRef,
+    Dl: DefinitionList,
+    BrowserWindow: BrowserWindow,
+    Icon: Icon,
+    Tabs: Tabs,
+    TabItem: TabItem
 };

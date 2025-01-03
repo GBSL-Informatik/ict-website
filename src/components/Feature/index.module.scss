@@ -2,14 +2,13 @@
     height: 100%;
     border-radius: var(--ifm-global-radius);
     position: relative;
-    
 
     &:hover {
         box-shadow: var(--ifm-global-shadow-lw);
         .pages {
             opacity: 1;
             transition: all 0.3s ease-in-out;
-        } 
+        }
     }
     &.extern {
         color: #fca400;
@@ -34,16 +33,15 @@
     .description {
         margin: 0.5em 1em;
     }
-
 }
 
 @media (max-width: 719px) {
-  .feature {
+    .feature {
         h2 {
             font-size: 1rem;
         }
-  }
-  .description {
-    display: none;
-  }
+    }
+    .description {
+        display: none;
+    }
 }

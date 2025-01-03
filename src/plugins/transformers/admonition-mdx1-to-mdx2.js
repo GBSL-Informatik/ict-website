@@ -3,10 +3,9 @@ const path = require('path');
 
 const fileDirectories = ['docs'];
 
-
 const camelCased = (dashed) => {
     return dashed.replace(/-([a-zA-Z])/g, (g) => g[1].toUpperCase()).replace(/-/g, '');
-}
+};
 
 /**
  * @example
@@ -15,7 +14,7 @@ const camelCased = (dashed) => {
 const REGEX = /(?<opening>:::+)(?<tag>[a-z]+) (?<title>.*)\n/;
 
 const getFilesRecursively = (directory) => {
-    const files = []
+    const files = [];
     const filesInDirectory = fs.readdirSync(directory);
     for (const f of filesInDirectory) {
         const absolute = path.join(directory, f);
@@ -33,8 +32,8 @@ const files = fileDirectories.reduce((acc, dir) => {
 }, []);
 
 /**
- * 
- * @param {string} file 
+ *
+ * @param {string} file
  */
 async function transformAdmonitions(file) {
     if (!(file.endsWith('.md') || file.endsWith('.mdx'))) {
@@ -42,18 +41,18 @@ async function transformAdmonitions(file) {
     }
     try {
         /** @type string */
-        let raw = await fs.promises.readFile(file, {encoding: 'utf8'});
+        let raw = await fs.promises.readFile(file, { encoding: 'utf8' });
         let match;
         let hasChanged = false;
-        while (match = raw.match(REGEX)) {
+        while ((match = raw.match(REGEX))) {
             hasChanged = true;
-            const {opening, tag, title} = match.groups;
+            const { opening, tag, title } = match.groups;
             const admonitionTitle = `${opening}${tag}[${title}]\n`;
             raw = `${raw.slice(0, match.index)}${admonitionTitle}${raw.slice(match.index + match[0].length)}`;
         }
         if (hasChanged) {
-            console.log(`Writing ${file}`)
-            await fs.promises.writeFile(file, raw, {encoding: 'utf8'});
+            console.log(`Writing ${file}`);
+            await fs.promises.writeFile(file, raw, { encoding: 'utf8' });
         }
     } catch (err) {
         console.error(err);

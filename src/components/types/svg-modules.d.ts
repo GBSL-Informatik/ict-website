@@ -1,3 +1,3 @@
-declare module "*.svg" {
-  export default styles;
+declare module '*.svg' {
+    export default styles;
 }

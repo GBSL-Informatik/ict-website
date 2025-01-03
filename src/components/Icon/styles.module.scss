@@ -1,12 +1,12 @@
 .icon {
-  display: flex;
-  flex-direction: column;
-  align-items: center;
-  width: fit-content;
-  .ico {
-    line-height: 1;
-  }
-  .caption {
-    font-size: 80%;
-  }
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    width: fit-content;
+    .ico {
+        line-height: 1;
+    }
+    .caption {
+        font-size: 80%;
+    }
 }

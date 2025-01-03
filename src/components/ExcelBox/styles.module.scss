@@ -10,21 +10,21 @@
     border: 1px solid #d0cfce;
     outline: none;
     code {
-      background-color: transparent;
-      border: unset;
+        background-color: transparent;
+        border: unset;
     }
     .searchIcon {
-      padding-right: 0.1em;
-      padding-left: 0;
-      margin-right: 0.5em;
-      border-right: 1px solid #d0cfce;
-      height: 70%;
-      svg {
+        padding-right: 0.1em;
+        padding-left: 0;
+        margin-right: 0.5em;
+        border-right: 1px solid #d0cfce;
         height: 70%;
-      }
+        svg {
+            height: 70%;
+        }
     }
     p {
-      margin: 0;
-      white-space: nowrap;
+        margin: 0;
+        white-space: nowrap;
     }
-  }
+}

@@ -6,7 +6,7 @@ const fileDirectories = ['docs'];
 const REGEX = /\[@(?<name>youtube|audio|video|circuitverse)\]\((?<src>.*?)\)/;
 
 const getFilesRecursively = (directory) => {
-    const files = []
+    const files = [];
     const filesInDirectory = fs.readdirSync(directory);
     for (const f of filesInDirectory) {
         const absolute = path.join(directory, f);
@@ -24,8 +24,8 @@ const files = fileDirectories.reduce((acc, dir) => {
 }, []);
 
 /**
- * 
- * @param {string} file 
+ *
+ * @param {string} file
  */
 async function transformMediaLinksIcons(file) {
     if (!(file.endsWith('.md') || file.endsWith('.mdx'))) {
@@ -33,13 +33,14 @@ async function transformMediaLinksIcons(file) {
     }
     try {
         /** @type string */
-        let raw = await fs.promises.readFile(file, {encoding: 'utf8'});
+        let raw = await fs.promises.readFile(file, { encoding: 'utf8' });
         let match;
         let hasChanged = false;
-        while (match = raw.match(REGEX)) {
+        while ((match = raw.match(REGEX))) {
             hasChanged = true;
-            const {name, src} = match.groups;
-            const isAbsolute = /https?:\/\//.test(src) || src.startsWith('pathname://') || src.startsWith('/');
+            const { name, src } = match.groups;
+            const isAbsolute =
+                /https?:\/\//.test(src) || src.startsWith('pathname://') || src.startsWith('/');
             if (!isAbsolute) {
                 console.log('relative', src);
             }
@@ -48,8 +49,8 @@ async function transformMediaLinksIcons(file) {
             raw = `${raw.slice(0, match.index)}${tag}${raw.slice(match.index + match[0].length)}`;
         }
         if (hasChanged) {
-            console.log(`Writing ${file}`)
-            await fs.promises.writeFile(file, raw, {encoding: 'utf8'});
+            console.log(`Writing ${file}`);
+            await fs.promises.writeFile(file, raw, { encoding: 'utf8' });
         }
     } catch (err) {
         console.error(err);

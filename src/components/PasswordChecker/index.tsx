@@ -6,7 +6,7 @@ import {
     DICTIONARY,
     LEVEL_MAP,
     NAMED_NUMBER_DICTIONARY,
-    PERIOD_DICTIONARY,
+    PERIOD_DICTIONARY
 } from './helpers/password-checker';
 import { loadJS } from './helpers/loaders';
 
@@ -14,14 +14,14 @@ const LEVEL_CLASSES = {
     0: styles.achievement,
     1: styles.notice,
     2: styles.warning,
-    3: styles.insecure,
+    3: styles.insecure
 };
 
 const LEVEL_BADGE_MAPPING = {
     0: 'badge--success',
     1: 'badge--primary',
     2: 'badge--warning',
-    3: 'badge--danger',
+    3: 'badge--danger'
 };
 
 const formatTime = (time?: string) => {
@@ -69,7 +69,7 @@ const PasswordChecker = () => {
                 }
                 setLevel(level);
                 setChecks(checks);
-            },
+            }
         };
         (window as any).hsimp(options, ref.current);
     }, [pw, hsimp, ref]);
@@ -94,13 +94,7 @@ const PasswordChecker = () => {
 
     return (
         <div
-            className={clsx(
-                'hero',
-                'shadow--lw',
-                styles.container,
-                styles.pwContainer,
-                LEVEL_CLASSES[level]
-            )}
+            className={clsx('hero', 'shadow--lw', styles.container, styles.pwContainer, LEVEL_CLASSES[level])}
         >
             <p className="hero__subtitle">Passwort Checker</p>
             <h4>Wie sicher ist mein Passwort?</h4>
