@@ -1,5 +1,4 @@
 ---
-description: Kurzbeschreibung für Suchmaschinen
 sidebar_label: Réseau Wi-Fi
 sidebar_position: 18
 tags: []
