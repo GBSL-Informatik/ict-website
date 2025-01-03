@@ -1,6 +1,6 @@
 ---
 description: Kurzbeschreibung für Suchmaschinen
-sidebar_label: IT-Hilfe zur Selbsthilfe
+sidebar_label: Guide d'auto-assistance
 sidebar_position: 10
 tags: []
 sidebar_custom_props:
@@ -112,3 +112,4 @@ flowchart TD
     n11 -- non --> n13["Branchez le câble HDMI et sélectionnez ce canal à l'aide du bouton."]
     C -- non --> n14["Allumez le projecteur et changez la source en appuyant sur hdmi pour hdBaseT."]
 </TabItem> <TabItem value="Installation Bâtiments M + G" label="Installation Bâtiments M + G"> Pas d'alimentation pour la caméra, l'amplificateur </TabItem> </Tabs>
+
