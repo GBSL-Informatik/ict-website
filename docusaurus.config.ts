@@ -215,7 +215,6 @@ const config: Config = {
       if (process.env.NODE_ENV !== 'production') {
         let needsRewrite = false;
         if (Object.keys(result.frontMatter).length === 0) {
-          result.frontMatter.description = 'Kurzbeschreibung für Suchmaschinen';
           result.frontMatter.sidebar_label = 'Seitenname';
           result.frontMatter.sidebar_position = 10;
           result.frontMatter.tags = [];
