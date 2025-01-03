@@ -1,7 +1,7 @@
 ---
 description: Kurzbeschreibung für Suchmaschinen
 sidebar_label: Guide d'auto-assistance
-sidebar_position: 10
+sidebar_position: 11
 tags: []
 sidebar_custom_props:
   icon: mdiHelpBoxMultipleOutline
