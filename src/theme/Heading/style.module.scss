@@ -9,7 +9,7 @@
         color: var(--ifm-color-primary);
         border: 1px solid var(--ifm-color-primary);
         border-radius: 50%;
-        padding: 0 calc(var(--ifm-heading-line-height)*1em/5);
+        padding: 0 calc(var(--ifm-heading-line-height) * 1em / 5);
         cursor: pointer;
         user-select: none;
 
@@ -41,7 +41,7 @@
     }
 }
 
-:global(.markdown)>.title {
+:global(.markdown) > .title {
     &:first-child {
         .icon {
             display: block;

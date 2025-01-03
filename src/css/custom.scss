@@ -7,214 +7,208 @@
 
 /* You can override the default Infima variables here. */
 :root {
-	--ifm-color-primary: #058fcd;
-	--ifm-color-primary-dark: #0581b9;
-	--ifm-color-primary-darker: #047aae;
-	--ifm-color-primary-darkest: #0474a6;
-	--ifm-color-primary-light: #069de1;
-	--ifm-color-primary-lighter: #06a4ec;
-	--ifm-color-primary-lightest: #18b3f9;
-	--ifm-code-font-size: 95%;
-	--docusaurus-highlighted-code-line-bg: rgba(0, 0, 0, 0.1);
+    --ifm-color-primary: #058fcd;
+    --ifm-color-primary-dark: #0581b9;
+    --ifm-color-primary-darker: #047aae;
+    --ifm-color-primary-darkest: #0474a6;
+    --ifm-color-primary-light: #069de1;
+    --ifm-color-primary-lighter: #06a4ec;
+    --ifm-color-primary-lightest: #18b3f9;
+    --ifm-code-font-size: 95%;
+    --docusaurus-highlighted-code-line-bg: rgba(0, 0, 0, 0.1);
 }
 
 /* For readability concerns, you should choose a lighter palette in dark mode. */
 [data-theme='dark'] {
-	--ifm-color-primary: #058fcd;
-	--ifm-color-primary-dark: #0581b9;
-	--ifm-color-primary-darker: #047aae;
-	--ifm-color-primary-darkest: #0474a6;
-	--ifm-color-primary-light: #069de1;
-	--ifm-color-primary-lighter: #06a4ec;
-	--ifm-color-primary-lightest: #18b3f9;
-	--docusaurus-highlighted-code-line-bg: rgba(0, 0, 0, 0.3);
-	--ifm-global-shadow-lw: 0 1px 2px 0 rgb(24 179 249 / 25%);
+    --ifm-color-primary: #058fcd;
+    --ifm-color-primary-dark: #0581b9;
+    --ifm-color-primary-darker: #047aae;
+    --ifm-color-primary-darkest: #0474a6;
+    --ifm-color-primary-light: #069de1;
+    --ifm-color-primary-lighter: #06a4ec;
+    --ifm-color-primary-lightest: #18b3f9;
+    --docusaurus-highlighted-code-line-bg: rgba(0, 0, 0, 0.3);
+    --ifm-global-shadow-lw: 0 1px 2px 0 rgb(24 179 249 / 25%);
 }
 
-p>img {
-	display: block;
-	margin-left: auto;
-	margin-right: auto;
+p > img {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
 }
 
 table {
-	margin-left: auto;
-	margin-right: auto;
-	display: table;
+    margin-left: auto;
+    margin-right: auto;
+    display: table;
 
-	td,
-	th {
-		border: none;
-	}
+    td,
+    th {
+        border: none;
+    }
 
-	th:empty {
-		display: none;
-	}
+    th:empty {
+        display: none;
+    }
 
-	thead {
-		tr {
-			border-bottom-width: 1px;
-		}
+    thead {
+        tr {
+            border-bottom-width: 1px;
+        }
 
-		&:first-child {
-			border-top: 2px solid var(--ifm-table-border-color);
-		}
-	}
+        &:first-child {
+            border-top: 2px solid var(--ifm-table-border-color);
+        }
+    }
 
-	tbody:last-child {
-		border-bottom: 2px solid var(--ifm-table-border-color);
-	}
+    tbody:last-child {
+        border-bottom: 2px solid var(--ifm-table-border-color);
+    }
 }
 
 @media screen and (min-width: 997px) {
-	main>.container {
-		padding-left: 3em;
-	}
+    main > .container {
+        padding-left: 3em;
+    }
 }
 
-
 .navbar__inner {
-	.navbar__items {
-		div[class^='searchBox'] {
-			position: static;
-		}
-	}
+    .navbar__items {
+        div[class^='searchBox'] {
+            position: static;
+        }
+    }
 }
 
 .aa-DetachedOverlay,
 .dsla-search-wrapper {
-	order: 0;
-	--aa-search-input-height: 34px;
-	--aa-primary-color-rgb: 4, 116, 166;
-	--aa-text-color-rgb: 4, 116, 166;
-	--aa-muted-color-rgb: 4, 116, 166;
+    order: 0;
+    --aa-search-input-height: 34px;
+    --aa-primary-color-rgb: 4, 116, 166;
+    --aa-text-color-rgb: 4, 116, 166;
+    --aa-muted-color-rgb: 4, 116, 166;
 
-	.dsla-search-field {
-		.aa-DetachedSearchButton {
-			border-radius: 20px;
-		}
-	}
+    .dsla-search-field {
+        .aa-DetachedSearchButton {
+            border-radius: 20px;
+        }
+    }
 }
 
 .plugin-docs {
-	.dsla-search-wrapper {
-		display: block;
-	}
+    .dsla-search-wrapper {
+        display: block;
+    }
 }
 
 html[data-theme='dark'] {
-
-	.aa-DetachedOverlay,
-	.dsla-search-wrapper {
-		--aa-primary-color-rgb: 4, 116, 166;
-		--aa-text-color-rgb: 4, 116, 166;
-		--aa-muted-color-rgb: 4, 116, 166;
-	}
+    .aa-DetachedOverlay,
+    .dsla-search-wrapper {
+        --aa-primary-color-rgb: 4, 116, 166;
+        --aa-text-color-rgb: 4, 116, 166;
+        --aa-muted-color-rgb: 4, 116, 166;
+    }
 }
 
 .badge {
-	--ifm-link-hover-color: #102445;
+    --ifm-link-hover-color: #102445;
 }
 
-
 strong.underline {
-	color: #3348b5;
-	font-weight: normal;
-	border: 1px solid var(--ifm-color-gray-600);
-	padding: 0.15em 0.4em 0.15em 0.3em;
-	border-radius: 2px;
-	-moz-border-radius: .2em;
-	-webkit-border-radius: .2em;
-	border-radius: .2em;
-	white-space: nowrap;
+    color: #3348b5;
+    font-weight: normal;
+    border: 1px solid var(--ifm-color-gray-600);
+    padding: 0.15em 0.4em 0.15em 0.3em;
+    border-radius: 2px;
+    -moz-border-radius: 0.2em;
+    -webkit-border-radius: 0.2em;
+    border-radius: 0.2em;
+    white-space: nowrap;
 }
 
 html[data-theme='dark'] {
-
-	strong.underline {
-		color: var(--ifm-color-primary);
-	}
+    strong.underline {
+        color: var(--ifm-color-primary);
+    }
 }
 
 details.solution {
-	--ifm-alert-background-color: var(--ifm-color-success-contrast-background);
-	--ifm-alert-foreground-color: var(--ifm-color-success-contrast-foreground);
-	--ifm-alert-border-color: var(--ifm-color-success-dark);
+    --ifm-alert-background-color: var(--ifm-color-success-contrast-background);
+    --ifm-alert-foreground-color: var(--ifm-color-success-contrast-foreground);
+    --ifm-alert-border-color: var(--ifm-color-success-dark);
 }
 
 div.flex {
-	display: flex;
-	flex-wrap: wrap;
-	gap: 0.4em;
-	margin-bottom: 1em;
+    display: flex;
+    flex-wrap: wrap;
+    gap: 0.4em;
+    margin-bottom: 1em;
 
-	>div.item {
-		flex-grow: 1;
-		flex-shrink: 1;
-		flex-basis: 10px;
+    > div.item {
+        flex-grow: 1;
+        flex-shrink: 1;
+        flex-basis: 10px;
 
-		&.noFlex {
-			flex-grow: unset;
-			flex-shrink: unset;
-			flex-basis: unset;
-		}
+        &.noFlex {
+            flex-grow: unset;
+            flex-shrink: unset;
+            flex-basis: unset;
+        }
 
-		.card__image {
-			:first-child {
-				margin: 0;
-				margin-left: auto;
-				margin-right: auto;
-			}
+        .card__image {
+            :first-child {
+                margin: 0;
+                margin-left: auto;
+                margin-right: auto;
+            }
 
-			figure {
-				margin: 0;
-				line-height: 0;
-				flex-grow: 1;
+            figure {
+                margin: 0;
+                line-height: 0;
+                flex-grow: 1;
 
-				>* {
-					line-height: normal;
-				}
+                > * {
+                    line-height: normal;
+                }
 
-				figcaption {
-					margin: 0.4em 1em;
-				}
-			}
+                figcaption {
+                    margin: 0.4em 1em;
+                }
+            }
 
-			&.code__card {
-				padding: 0;
-			}
-		}
-	}
-	&.slides {
-		gap: 1em;
-		figure {
-			img {
-				border: 2px solid var(--ifm-color-secondary-contrast-foreground);
-			}
-		}
-	}
+            &.code__card {
+                padding: 0;
+            }
+        }
+    }
+    &.slides {
+        gap: 1em;
+        figure {
+            img {
+                border: 2px solid var(--ifm-color-secondary-contrast-foreground);
+            }
+        }
+    }
 }
-
 
 div.medium-zoom-overlay {
-	z-index: 10000;
+    z-index: 10000;
 }
 .medium-zoom-image.medium-zoom-image--opened {
-	z-index: 10001;
+    z-index: 10001;
 }
 
 .small {
-	max-width: 300px;
+    max-width: 300px;
 }
 
 kbd {
-	padding: 0.3em 0.5em;
-	padding-bottom: 0.35em;
-	padding-top: 0.25em;
+    padding: 0.3em 0.5em;
+    padding-bottom: 0.35em;
+    padding-top: 0.25em;
     border-radius: 0.5em;
     box-shadow: inset 1px -2px 0 var(--ifm-color-emphasis-400);
 }
-
 
 .mdi-icon {
     transform: translateY(20%);
@@ -255,15 +249,13 @@ kbd {
     }
 }
 
-
-
 strong.boxed {
     color: #3348b5;
     font-weight: normal;
     border: 1px solid var(--ifm-color-gray-600);
     padding: 1px 0.4em 1px 0.3em;
-    -moz-border-radius: .2em;
-    -webkit-border-radius: .2em;
+    -moz-border-radius: 0.2em;
+    -webkit-border-radius: 0.2em;
     border-radius: 0.2em;
     line-height: initial;
 }
@@ -274,7 +266,7 @@ figcaption {
     }
 }
 
-html[data-theme='dark'] {    
+html[data-theme='dark'] {
     strong.boxed {
         color: #8395ef;
     }

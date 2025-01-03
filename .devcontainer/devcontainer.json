@@ -1,36 +1,36 @@
 {
     "image": "mcr.microsoft.com/vscode/devcontainers/base:ubuntu-20.04",
     "settings": {
-      "[typescript]": {
-        "editor.defaultFormatter": "esbenp.prettier-vscode",
-        "editor.formatOnSave": true
-      },
-      "[json]": {
-        "editor.defaultFormatter": "esbenp.prettier-vscode",
-        "editor.formatOnSave": true
-      },
-      "[jsonc]": {
-        "editor.defaultFormatter": "esbenp.prettier-vscode",
-        "editor.formatOnSave": true
-      }
+        "[typescript]": {
+            "editor.defaultFormatter": "esbenp.prettier-vscode",
+            "editor.formatOnSave": true
+        },
+        "[json]": {
+            "editor.defaultFormatter": "esbenp.prettier-vscode",
+            "editor.formatOnSave": true
+        },
+        "[jsonc]": {
+            "editor.defaultFormatter": "esbenp.prettier-vscode",
+            "editor.formatOnSave": true
+        }
     },
     "extensions": [
-		"dbaeumer.vscode-eslint",
-		"esbenp.prettier-vscode",
-		"streetsidesoftware.code-spell-checker",
-		"streetsidesoftware.code-spell-checker-german",
-		"mhutchie.git-graph",
-		"donjayamanne.githistory",
-		"yzhang.markdown-all-in-one"
-	],
+        "dbaeumer.vscode-eslint",
+        "esbenp.prettier-vscode",
+        "streetsidesoftware.code-spell-checker",
+        "streetsidesoftware.code-spell-checker-german",
+        "mhutchie.git-graph",
+        "donjayamanne.githistory",
+        "yzhang.markdown-all-in-one"
+    ],
     "forwardPorts": [3000],
     "containerUser": "vscode",
     "postCreateCommand": "yarn install",
     "waitFor": "postCreateCommand", // otherwise automated jest tests fail
     "features": {
-      "node": {
-        "version": "18"
-      },
-      "github-cli": "latest"
+        "node": {
+            "version": "18"
+        },
+        "github-cli": "latest"
     }
-  }
+}

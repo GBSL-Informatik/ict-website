@@ -20,6 +20,34 @@ const BUILD_LOCATION = __dirname;
 
 const GIT_COMMIT_SHA = process.env.DRONE_COMMIT_SHA || Math.random().toString(36).substring(7);
 
+
+function getLocale(): 'de' | 'fr' {
+  return (process.env.DOCUSAURUS_CURRENT_LOCALE && process.env.DOCUSAURUS_CURRENT_LOCALE !== 'undefined')
+      ? process.env.DOCUSAURUS_CURRENT_LOCALE === 'fr' ? 'fr' : 'de'
+      : 'de';
+}
+
+const STATIC_TRANSLATIONS = {
+  solution: {
+    de: 'Lösung',
+    fr: 'Solution'
+  },
+  title: {
+    de: 'ICT am Gymnasium Biel-Seeland',
+    fr: 'ICT au Gymnase Biel-Seeland (DE)'
+  },
+  description: {
+    de: 'Anleitungen, Tipps und Tricks',
+    fr: 'Instructions, conseils et astuces'
+  },
+  banner: {
+    de: 'Einführungsphase',
+    fr: 'Tous les contenus ne sont pas traduits en français.'
+  }
+}
+
+const LOCALE: 'de' | 'fr' = getLocale();
+
 const lightCodeTheme = themes.vsLight;
 const darkCodeTheme = themes.vsDark;
 
@@ -42,7 +70,7 @@ const REMARK_PLUGINS = {
           solution: 'solution'
         },
         defaultLabel: {
-          solution: 'Lösung'
+          solution: STATIC_TRANSLATIONS.solution[LOCALE]
         }
       }
     ]
@@ -88,8 +116,8 @@ const REMARK_PLUGINS = {
 }
 
 const config: Config = {
-  title: 'ICT am Gymnasium Biel-Seeland',
-  tagline: 'Anleitungen, Tipps und Tricks',
+  title: STATIC_TRANSLATIONS.title[LOCALE],
+  tagline: STATIC_TRANSLATIONS.description[LOCALE],
   url: 'https://ict.gbsl.website',
   baseUrl: '/',
   onBrokenLinks: 'warn',
@@ -111,7 +139,15 @@ const config: Config = {
   // to replace "en" with "zh-Hans".
   i18n: {
     defaultLocale: 'de',
-    locales: ['de'],
+    locales: ['de', 'fr'],
+    localeConfigs: {
+      de: {
+        htmlLang: 'en-CH',
+      },
+      fr: {
+        htmlLang: 'fr-CH',
+      },
+    },
   },
   future: {
     experimental_faster: true,
@@ -179,7 +215,6 @@ const config: Config = {
       if (process.env.NODE_ENV !== 'production') {
         let needsRewrite = false;
         if (Object.keys(result.frontMatter).length === 0) {
-          result.frontMatter.description = 'Kurzbeschreibung für Suchmaschinen';
           result.frontMatter.sidebar_label = 'Seitenname';
           result.frontMatter.sidebar_position = 10;
           result.frontMatter.tags = [];
@@ -216,7 +251,12 @@ const config: Config = {
         alt: 'ICT GBSL',
         src: 'img/logo.svg',
       },
-      items: [],
+      items: [
+        {
+          type: 'localeDropdown',
+          position: 'right',
+        }
+      ],
     },
     footer: {
       copyright: `<a href="https://creativecommons.org/licenses/by-nc-sa/4.0/deed.de">
@@ -224,7 +264,7 @@ const config: Config = {
                   <div>
                     Alle Inhalte (falls nicht anders angegeben) lizenziert unter
                   </div>
-                  <img style="height: 2em" src="/img/by-nc-sa.eu.svg" alt="CC-BY-NC-SA">
+                  <img style="height: 2em" src="${LOCALE === 'de' ? '' : `/${LOCALE}`}/img/by-nc-sa.eu.svg" alt="CC-BY-NC-SA">
                 </div>
               </a>
               <div>
@@ -257,7 +297,7 @@ const config: Config = {
     announcementBar: {
       backgroundColor: '#248eca',
       textColor: '#fff',
-      content: 'Einführungsphase',
+      content: STATIC_TRANSLATIONS.banner[LOCALE],
       isCloseable: true
     },
     zoom: {

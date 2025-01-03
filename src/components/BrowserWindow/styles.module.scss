@@ -5,7 +5,7 @@
  * LICENSE file in the root directory of this source tree.
  */
 
- .browserWindow {
+.browserWindow {
     border: 3px solid var(--ifm-color-emphasis-200);
     border-radius: var(--ifm-global-radius);
     box-shadow: var(--ifm-global-shadow-lw);
@@ -39,7 +39,9 @@
             background-color: var(--ifm-background-color);
             color: var(--ifm-color-gray-800);
             padding: 5px 15px;
-            font: 400 13px Arial, sans-serif;
+            font:
+                400 13px Arial,
+                sans-serif;
             user-select: none;
 
             .browserType {
@@ -48,7 +50,7 @@
                 border-right: 1px solid var(--ifm-color-gray-800);
                 .icon {
                     scale: 2;
-                    transform: translateX(-20%)
+                    transform: translateX(-20%);
                 }
             }
             .spacer {
@@ -69,8 +71,6 @@
         }
     }
 
-
-
     .browserWindowBody {
         background-color: var(--ifm-background-color);
         border-bottom-left-radius: inherit;
@@ -81,13 +81,11 @@
             margin-bottom: 0;
         }
     }
-
 }
 
 [data-theme='light'] {
     --ifm-background-color: #fff;
 }
-
 
 [data-theme='dark'] .browserWindowAddressBar {
     color: var(--ifm-color-gray-300);

@@ -11,7 +11,9 @@ sidebar_custom_props:
 
 # Hinweise für Autor:innen
 
-## Typografie
+<Features />
+
+## Markdown
 
 ### relative Links
 Immer auf `md`-Datei verlinken, ausser Links auf `README.md`: dort auf Ordner verlinken:

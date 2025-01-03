@@ -36,11 +36,11 @@ Die Fotodatei muss als `.jpg` gespeichert sein. Falls dies nicht der Fall ist:
 
 - **Mac**  
   Öffnen Sie die Fotodatei mit der App „Vorschau“.  
-  Klicken Sie unter `Ablage` auf `Exportieren` und wählen Sie im Feld `Format` den Dateityp JPEG.
+  Wählen Sie unter __Ablage > Exportieren__ im Feld `Format` den Dateityp `JPEG` aus.
 
 - **Windows**  
   Öffnen Sie das Foto mit der App „Fotos“.  
-  Klicken Sie oben rechts auf die drei Punkte (`...`) und wählen Sie `Speichern unter`.  
+  Klicken Sie oben rechts auf die drei Punkte (__...__) und wählen Sie __Speichern unter__.  
   Wählen Sie unter `Dateityp` das Format `.jpg`.
 
 ### Benennung der Fotodatei:
@@ -48,7 +48,7 @@ Die Datei sollte wie folgt benannt werden:
 
 - **Ihre 5-stellige Schul-ID-Nummer** (finden Sie in der E-Mail)
 - **Bodenstrich** `_`
-- **Ihr Geburtsdatum im amerikanischen Format** (JJJJMMTT)
+- **Ihr Geburtsdatum im amerikanischen Format** (`JJJJMMTT`)
 
 **Beispiel:**
 - Schul-ID-Nummer: `45678`
@@ -60,8 +60,11 @@ Die Datei sollte wie folgt benannt werden:
 2. Melden Sie sich mit Ihrem Schul-E-Mail-Account an.
 3. Laden Sie Ihr Passfoto hoch.
 
-**Abgabefrist:** 13. Mai 2024
+Abgabefrist
+: 13. Mai 2024
 
 Falls Sie Fragen haben, melden Sie sich bitte unter:
-- Telefon: 032 327 07 07
-- E-Mail: sekretariat@gbsl.ch
+Telefon
+: 032 327 07 07
+E-Mail
+: sekretariat@gbsl.ch

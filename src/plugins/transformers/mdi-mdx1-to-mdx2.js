@@ -3,10 +3,9 @@ const path = require('path');
 
 const fileDirectories = ['docs'];
 
-
 const camelCased = (dashed) => {
     return dashed.replace(/-([a-zA-Z])/g, (g) => g[1].toUpperCase()).replace(/-/g, '');
-}
+};
 
 /**
  * @example
@@ -16,7 +15,7 @@ const camelCased = (dashed) => {
 const REGEX = /:mdi-(?<content>\w+(-\w+)*)(--(?<clsx>\w+(\s+\w+)*))?:/;
 
 const getFilesRecursively = (directory) => {
-    const files = []
+    const files = [];
     const filesInDirectory = fs.readdirSync(directory);
     for (const f of filesInDirectory) {
         const absolute = path.join(directory, f);
@@ -34,8 +33,8 @@ const files = fileDirectories.reduce((acc, dir) => {
 }, []);
 
 /**
- * 
- * @param {string} file 
+ *
+ * @param {string} file
  */
 async function transformMdiIcons(file) {
     if (!(file.endsWith('.md') || file.endsWith('.mdx'))) {
@@ -43,19 +42,25 @@ async function transformMdiIcons(file) {
     }
     try {
         /** @type string */
-        let raw = await fs.promises.readFile(file, {encoding: 'utf8'});
+        let raw = await fs.promises.readFile(file, { encoding: 'utf8' });
         let match;
         let hasChanged = false;
-        while (match = raw.match(REGEX)) {
+        while ((match = raw.match(REGEX))) {
             hasChanged = true;
-            const {content, clsx} = match.groups;
-            const clsxStr = clsx ? clsx.split(/\s+/).filter(c => !!c.trim()).map(c => `.${c}`).join(' ') : clsx;
+            const { content, clsx } = match.groups;
+            const clsxStr = clsx
+                ? clsx
+                      .split(/\s+/)
+                      .filter((c) => !!c.trim())
+                      .map((c) => `.${c}`)
+                      .join(' ')
+                : clsx;
             const mdi = clsxStr ? `:mdi[${camelCased(content)}]{${clsxStr}}` : `:mdi[${camelCased(content)}]`;
             raw = `${raw.slice(0, match.index)}${mdi}${raw.slice(match.index + match[0].length)}`;
         }
         if (hasChanged) {
-            console.log(`Writing ${file}`)
-            await fs.promises.writeFile(file, raw, {encoding: 'utf8'});
+            console.log(`Writing ${file}`);
+            await fs.promises.writeFile(file, raw, { encoding: 'utf8' });
         }
     } catch (err) {
         console.error(err);

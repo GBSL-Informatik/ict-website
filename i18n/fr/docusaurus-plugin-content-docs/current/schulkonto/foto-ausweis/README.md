@@ -1,6 +1,5 @@
 ---
-description: Kurzbeschreibung für Suchmaschinen
-sidebar_label: photo carte d'étudiant
+sidebar_label: Photo carte d'étudiant
 sidebar_position: 11
 tags: []
 sidebar_custom_props:
@@ -52,7 +51,7 @@ Le fichier doit être nommé comme suit :
 
 - **Votre numéro d’identification scolaire à 5 chiffres** (vous le trouverez dans l’e-mail)
 - **Tiret bas** `_`
-- **Votre date de naissance au format américain** (AAAAMMJJ)
+- **Votre date de naissance au format américain** (`AAAAMMJJ`)
 
 **Exemple :**
 
@@ -66,9 +65,12 @@ Le fichier doit être nommé comme suit :
 2. Connectez-vous avec votre compte e-mail scolaire.
 3. Téléchargez votre photo d’identité.
 
-**Date limite :** 13 mai 2024
+Date limite
+: 13 mai 2024
 
 En cas de questions, veuillez contacter :
 
-- Téléphone : 032 327 07 07
-- E-mail : sekretariat@gbsl.ch
+Téléphone
+: 032 327 07 07
+E-mail
+: sekretariat@gbsl.ch
