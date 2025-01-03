@@ -440,5 +440,41 @@
   "theme.tags.tagsPageTitle": {
     "message": "Tags",
     "description": "The title of the tag list page"
+  },
+  "main.link.support.text": {
+    "message": "Support"
+  },
+  "main.link.support.description": {
+    "message": "Adresses de support, aide à l'auto-assistance"
+  },
+  "main.link.byod.text": {
+    "message": "Configuration des appareils"
+  },
+  "main.link.byod.description": {
+    "message": "Configuration des appareils, contrôle de l'état des appareils"
+  },
+  "main.link.schulkonto.text": {
+    "message": "Compte scolaire"
+  },
+  "main.link.schulkonto.description": {
+    "message": "Nouveau au GBSL, compte scolaire, départ"
+  },
+  "main.link.anderesoftware.text": {
+    "message": "Logiciels & médias"
+  },
+  "main.link.anderesoftware.description": {
+    "message": "Office365, Adobe, exam.net"
+  },
+  "main.link.infra.text": {
+    "message": "Infrastructure scolaire"
+  },
+  "main.link.infra.description": {
+    "message": "Salles de classe, imprimantes"
+  },
+  "main.link.tipps.text": {
+    "message": "Conseils et règles"
+  },
+  "main.link.tipps.description": {
+    "message": "Mises à jour, outils, nétiquette"
   }
 }

@@ -6,54 +6,93 @@ import styles from './index.module.scss';
 import featuresStyles from '../components/Features/styles.module.scss';
 import Head from '@docusaurus/Head';
 import Feature, { FeatureProps } from '../components/Feature';
+import useBaseUrl from '@docusaurus/useBaseUrl';
+import { translate } from '@docusaurus/Translate';
 
 const QuickLinks: FeatureProps[] = [
     {
-        name: 'Support',
+        name: translate({
+            message: 'Support',
+            id: 'main.link.support.text'
+        }),
         icon: 'mdi-account-supervisor',
         route: '/support',
-        description: 'Supportadressen, Hilfe zur Selbsthilfe'
+        description: translate({
+            message: 'Supportadressen, Hilfe zur Selbsthilfe',
+            id: 'main.link.support.description'
+        })
     }
 ];
 
 const IndexPages: FeatureProps[] = [
     {
-        name: 'Geräte einrichten',
+        name: translate({
+            message: 'Geräte einrichten',
+            id: 'main.link.byod.text'
+        }),
         icon: 'mdi-cog',
         route: '/byod',
-        description: 'Geräte einrichten, Geräte-fit-Check'
+        description: translate({
+            message: 'Geräte einrichten, Geräte-fit-Check',
+            id: 'main.link.byod.description'
+        })
     },
     {
-        name: 'Schulkonto',
+        name: translate({
+            message: 'Schulkonto',
+            id: 'main.link.schulkonto.text'
+        }),
         icon: 'mdi-microsoft-windows',
         route: '/schulkonto',
-        description: 'Neu am GBSL, Schulkonto, Austritt'
+        description: translate({
+            message: 'Neu am GBSL, Schulkonto, Austritt',
+            id: 'main.link.schulkonto.description'
+        })
     },
     {
-        name: 'Software & Medien',
+        name: translate({
+            message: 'Software & Medien',
+            id: 'main.link.anderesoftware.text'
+        }),
         icon: 'mdi-cellphone-link',
         route: '/anderesoftware',
-        description: 'Office365, Adobe, exam.net'
+        description: translate({
+            message: 'Office365, Adobe, exam.net',
+            id: 'main.link.anderesoftware.description'
+        })
     },
     {
-        name: 'Schulinfrastruktur',
+        name: translate({
+            message: 'Schulinfrastruktur',
+            id: 'main.link.infra.text'
+        }),
         icon: 'mdi-home-circle',
         route: '/infra',
-        description: 'Unterrichtszimmer, Drucker'
+        description: translate({
+            message: 'Unterrichtszimmer, Drucker',
+            id: 'main.link.infra.description'
+        })
     },
     {
-        name: 'Nützliches und Regeln',
+        name: translate({
+            message: 'Nützliches und Regeln',
+            id: 'main.link.tipps.text'
+        }),
         icon: 'mdi-lightbulb-on-outline',
         route: '/tipps/',
-        description: 'Update, Tools, Netiquette'
+        description: translate({
+            message: 'Update, Tools, Netiquette',
+            id: 'main.link.tipps.description'
+        })
     }
 ];
 
 function HomepageHeader() {
     const { siteConfig } = useDocusaurusContext();
+    const imgSrc = useBaseUrl('/img/logo.png');
     return (
         <header className={clsx('hero index-page', styles.heroBanner)}>
-            <img src="/img/logo.svg" className={styles.logo} />
+            <img src={imgSrc} className={styles.logo} />
             <div className={clsx('container', 'index-page-title')}>
                 <h1 className="hero__title">{siteConfig.title}</h1>
                 <p className={clsx('hero__subtitle', styles.subTitle)}>{siteConfig.tagline}</p>

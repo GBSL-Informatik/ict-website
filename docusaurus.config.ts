@@ -20,6 +20,15 @@ const BUILD_LOCATION = __dirname;
 
 const GIT_COMMIT_SHA = process.env.DRONE_COMMIT_SHA || Math.random().toString(36).substring(7);
 
+
+function getLocale() {
+  return (process.env.DOCUSAURUS_CURRENT_LOCALE && process.env.DOCUSAURUS_CURRENT_LOCALE !== 'undefined')
+      ? process.env.DOCUSAURUS_CURRENT_LOCALE
+      : 'de';
+}
+
+const LOCALE = getLocale();
+
 const lightCodeTheme = themes.vsLight;
 const darkCodeTheme = themes.vsDark;
 
@@ -237,7 +246,7 @@ const config: Config = {
                   <div>
                     Alle Inhalte (falls nicht anders angegeben) lizenziert unter
                   </div>
-                  <img style="height: 2em" src="/img/by-nc-sa.eu.svg" alt="CC-BY-NC-SA">
+                  <img style="height: 2em" src="${LOCALE === 'de' ? '' : `/${LOCALE}`}/img/by-nc-sa.eu.svg" alt="CC-BY-NC-SA">
                 </div>
               </a>
               <div>
