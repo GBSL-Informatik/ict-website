@@ -1,11 +1,11 @@
 ---
-description: Kurzbeschreibung für Suchmaschinen
 sidebar_label: Guide d'auto-assistance
-sidebar_position: 11
+sidebar_position: 12
 tags: []
 sidebar_custom_props:
   icon: mdiHelpBoxMultipleOutline
 draft: false
+
 ---
 
 # Assistance IT - Guide d'auto-assistance

@@ -1,14 +1,12 @@
 ---
-chapter: Supportadressen
-description: >-
-  Hier findest du Informationen, um dein Problem selbst lösen zu können 
+sidebar_label: Adresses de support
 sidebar_custom_props:
   icon: mdi-help-network
   path: /docs/support/adressen/README.md
-sidebar_position: 14
+sidebar_position: 17
 ---
 
-# Supportadressen
+# Adresses de support
 
 
 :::tip[Tipp 1: Probleme mit dem Schulkonto, mit Office 365]
