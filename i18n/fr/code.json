@@ -1,193 +1,193 @@
 {
-  "theme.admonition.tip": {
-      "message": "Tipp",
-      "description": "The default label used for the Tip admonition (:::tip)"        
-  },
-  "theme.admonition.note": {
-      "message": "Hinweis",
-      "description": "The default label used for the Note admonition (:::note)"        
-  },
-  "theme.admonition.info": {
-      "message": "Info",
-      "description": "The default label used for the Info admonition (:::info)"        
-  },
-  "theme.admonition.danger": {
-      "message": "Vorsicht",
-      "description": "The default label used for the Danger admonition (:::danger)"        
-  },
-  "theme.admonition.caution": {
-      "message": "Achtung",
-      "description": "The default label used for the Caution admonition (:::caution)"
-  },
-  "theme.admonition.warning": {
-      "message": "Warnung",
-      "description": "The default label used for the Warning admonition (:::warning)"
-  },
   "theme.ErrorPageContent.title": {
-    "message": "Die Seite ist abgestürzt.",
+    "message": "Cette page a planté.",
     "description": "The title of the fallback page when the page crashed"
   },
   "theme.BackToTopButton.buttonAriaLabel": {
-    "message": "Zurück nach oben scrollen",
+    "message": "Retour au début de la page",
     "description": "The ARIA label for the back to top button"
   },
   "theme.blog.archive.title": {
-    "message": "Archiv",
+    "message": "Archive",
     "description": "The page & hero title of the blog archive page"
   },
   "theme.blog.archive.description": {
-    "message": "Archiv",
+    "message": "Archive",
     "description": "The page & hero description of the blog archive page"
   },
   "theme.blog.paginator.navAriaLabel": {
-    "message": "Navigation der Blog-Listenseite",
+    "message": "Pagination de la liste des articles du blog",
     "description": "The ARIA label for the blog pagination"
   },
   "theme.blog.paginator.newerEntries": {
-    "message": "Neuere Einträge",
+    "message": "Nouvelles entrées",
     "description": "The label used to navigate to the newer blog posts page (previous page)"
   },
   "theme.blog.paginator.olderEntries": {
-    "message": "Ältere Einträge",
+    "message": "Anciennes entrées",
     "description": "The label used to navigate to the older blog posts page (next page)"
   },
   "theme.blog.post.paginator.navAriaLabel": {
-    "message": "Blog Post Seiten Navigation",
+    "message": "Pagination des articles du blog",
     "description": "The ARIA label for the blog posts pagination"
   },
   "theme.blog.post.paginator.newerPost": {
-    "message": "Neuer Post",
+    "message": "Article plus récent",
     "description": "The blog post button label to navigate to the newer/previous post"
   },
   "theme.blog.post.paginator.olderPost": {
-    "message": "Älterer Post",
+    "message": "Article plus ancien",
     "description": "The blog post button label to navigate to the older/next post"
   },
   "theme.tags.tagsPageLink": {
-    "message": "Alle Tags anzeigen",
+    "message": "Voir tous les tags",
     "description": "The label of the link targeting the tag list page"
   },
   "theme.colorToggle.ariaLabel": {
-    "message": "Umschalten zwischen dunkler und heller Ansicht (momentan {mode})",
+    "message": "Basculer entre le mode sombre et clair (actuellement {mode})",
     "description": "The ARIA label for the navbar color mode toggle"
   },
   "theme.colorToggle.ariaLabel.mode.dark": {
-    "message": "dunkler Modus",
+    "message": "mode sombre",
     "description": "The name for the dark color mode"
   },
   "theme.colorToggle.ariaLabel.mode.light": {
-    "message": "heller Modus",
+    "message": "mode clair",
     "description": "The name for the light color mode"
   },
   "theme.docs.breadcrumbs.navAriaLabel": {
-    "message": "Breadcrumbs",
+    "message": "Fil d'Ariane",
     "description": "The ARIA label for the breadcrumbs"
   },
   "theme.docs.DocCard.categoryDescription.plurals": {
-    "message": "1 Eintrag|{count} Einträge",
+    "message": "1 élément|{count} éléments",
     "description": "The default description for a category card in the generated index about how many items this category includes"
   },
   "theme.docs.paginator.navAriaLabel": {
-    "message": "Dokumentation Seiten",
+    "message": "Pages de documentation",
     "description": "The ARIA label for the docs pagination"
   },
   "theme.docs.paginator.previous": {
-    "message": "Zurück",
+    "message": "Précédent",
     "description": "The label used to navigate to the previous doc"
   },
   "theme.docs.paginator.next": {
-    "message": "Weiter",
+    "message": "Suivant",
     "description": "The label used to navigate to the next doc"
   },
   "theme.docs.tagDocListPageTitle.nDocsTagged": {
-    "message": "Ein doc getaggt|{count} docs getaggt",
+    "message": "Un document tagué|{count} documents tagués",
     "description": "Pluralized label for \"{count} docs tagged\". Use as much plural forms (separated by \"|\") as your language support (see https://www.unicode.org/cldr/cldr-aux/charts/34/supplemental/language_plural_rules.html)"
   },
   "theme.docs.tagDocListPageTitle": {
-    "message": "{nDocsTagged} mit \"{tagName}\"",
+    "message": "{nDocsTagged} avec \"{tagName}\"",
     "description": "The title of the page for a docs tag"
   },
   "theme.docs.versionBadge.label": {
     "message": "Version: {versionLabel}"
   },
   "theme.docs.versions.unreleasedVersionLabel": {
-    "message": "Das ist die unveröffentlichte Dokumentation für {siteTitle} {versionLabel}.",
+    "message": "Ceci est la documentation de la prochaine version {versionLabel} de {siteTitle}.",
     "description": "The label used to tell the user that he's browsing an unreleased doc version"
   },
   "theme.docs.versions.unmaintainedVersionLabel": {
-    "message": "Das ist die Dokumentation für {siteTitle} {versionLabel} und wird nicht weiter gewartet.",
+    "message": "Ceci est la documentation de {siteTitle} {versionLabel}, qui n'est plus activement maintenue.",
     "description": "The label used to tell the user that he's browsing an unmaintained doc version"
   },
   "theme.docs.versions.latestVersionSuggestionLabel": {
-    "message": "Für die aktuellste Dokumentation bitte auf {latestVersionLink} ({versionLabel}) gehen.",
+    "message": "Pour une documentation à jour, consultez la {latestVersionLink} ({versionLabel}).",
     "description": "The label used to tell the user to check the latest version"
   },
   "theme.docs.versions.latestVersionLinkLabel": {
-    "message": "letzte Version",
+    "message": "dernière version",
     "description": "The label used for the latest version suggestion link label"
   },
   "theme.common.editThisPage": {
-    "message": "Diese Seite bearbeiten",
+    "message": "Éditer cette page",
     "description": "The link label to edit the current page"
   },
   "theme.common.headingLinkTitle": {
-    "message": "Direkter Link zur {heading}",
+    "message": "Lien direct vers {heading}",
     "description": "Title for link to heading"
   },
   "theme.lastUpdated.atDate": {
-    "message": " am {date}",
+    "message": " le {date}",
     "description": "The words used to describe on which date a page has been last updated"
   },
   "theme.lastUpdated.byUser": {
-    "message": " von {user}",
+    "message": " par {user}",
     "description": "The words used to describe by who the page has been last updated"
   },
   "theme.lastUpdated.lastUpdatedAtBy": {
-    "message": "Letztes Update{atDate}{byUser}",
+    "message": "Dernière mise à jour{atDate}{byUser}",
     "description": "The sentence used to display when a page has been last updated, and by who"
   },
   "theme.navbar.mobileVersionsDropdown.label": {
-    "message": "Versionen",
+    "message": "Versions",
     "description": "The label for the navbar versions dropdown on mobile view"
   },
   "theme.NotFound.title": {
-    "message": "Seite nicht gefunden",
+    "message": "Page introuvable",
     "description": "The title of the 404 page"
   },
   "theme.tags.tagsListLabel": {
-    "message": "Tags:",
+    "message": "Tags :",
     "description": "The label alongside a tag list"
   },
+  "theme.admonition.caution": {
+    "message": "attention",
+    "description": "The default label used for the Caution admonition (:::caution)"
+  },
+  "theme.admonition.danger": {
+    "message": "danger",
+    "description": "The default label used for the Danger admonition (:::danger)"
+  },
+  "theme.admonition.info": {
+    "message": "info",
+    "description": "The default label used for the Info admonition (:::info)"
+  },
+  "theme.admonition.note": {
+    "message": "remarque",
+    "description": "The default label used for the Note admonition (:::note)"
+  },
+  "theme.admonition.tip": {
+    "message": "astuce",
+    "description": "The default label used for the Tip admonition (:::tip)"
+  },
+  "theme.admonition.warning": {
+    "message": "attention",
+    "description": "The default label used for the Warning admonition (:::warning)"
+  },
   "theme.AnnouncementBar.closeButtonAriaLabel": {
-    "message": "Schließen",
+    "message": "Fermer",
     "description": "The ARIA label for close button of announcement bar"
   },
   "theme.blog.sidebar.navAriaLabel": {
-    "message": "Navigation der letzten Beiträge im Blog",
+    "message": "Navigation article de blog récent",
     "description": "The ARIA label for recent posts in the blog sidebar"
   },
   "theme.CodeBlock.copied": {
-    "message": "Kopiert",
+    "message": "Copié",
     "description": "The copied button label on code blocks"
   },
   "theme.CodeBlock.copyButtonAriaLabel": {
-    "message": "In die Zwischenablage kopieren",
+    "message": "Copier le code",
     "description": "The ARIA label for copy code blocks button"
   },
   "theme.CodeBlock.copy": {
-    "message": "Kopieren",
+    "message": "Copier",
     "description": "The copy button label on code blocks"
   },
   "theme.CodeBlock.wordWrapToggle": {
-    "message": "Toggle word wrap",
+    "message": "Activer/désactiver le retour à la ligne",
     "description": "The title attribute for toggle word wrapping button of code block lines"
   },
   "theme.DocSidebarItem.expandCategoryAriaLabel": {
-    "message": "Expand sidebar category '{label}'",
+    "message": "Développer la catégorie '{label}' de la barre latérale",
     "description": "The ARIA label to expand the sidebar category"
   },
   "theme.DocSidebarItem.collapseCategoryAriaLabel": {
-    "message": "Collapse sidebar category '{label}'",
+    "message": "Réduire la catégorie '{label}' de la barre latérale",
     "description": "The ARIA label to collapse the sidebar category"
   },
   "theme.NavBar.navAriaLabel": {
@@ -195,43 +195,43 @@
     "description": "The ARIA label for the main navigation"
   },
   "theme.navbar.mobileLanguageDropdown.label": {
-    "message": "Sprachen",
+    "message": "Langues",
     "description": "The label for the mobile language switcher dropdown"
   },
   "theme.NotFound.p1": {
-    "message": "Wir konnten nicht finden, wonach Sie gesucht haben.",
+    "message": "Nous n'avons pas trouvé ce que vous recherchez.",
     "description": "The first paragraph of the 404 page"
   },
   "theme.NotFound.p2": {
-    "message": "Bitte kontaktieren Sie den Besitzer der Seite, die Sie mit der ursprünglichen URL verlinkt hat, und teilen Sie ihm mit, dass der Link nicht mehr funktioniert.",
+    "message": "Veuillez contacter le propriétaire du site qui vous a lié à l'URL d'origine et leur faire savoir que leur lien est cassé.",
     "description": "The 2nd paragraph of the 404 page"
   },
   "theme.TOCCollapsible.toggleButtonLabel": {
-    "message": "Auf dieser Seite",
+    "message": "Sur cette page",
     "description": "The label used by the button on the collapsible TOC component"
   },
   "theme.blog.post.readMore": {
-    "message": "Mehr lesen",
+    "message": "Lire plus",
     "description": "The label used in blog post item excerpts to link to full blog posts"
   },
   "theme.blog.post.readMoreLabel": {
-    "message": "Mehr lesen über {title}",
+    "message": "En savoir plus sur {title}",
     "description": "The ARIA label for the link to full blog posts from excerpts"
   },
   "theme.blog.post.readingTime.plurals": {
-    "message": "Eine Minute Lesezeit|{readingTime} Minuten Lesezeit",
+    "message": "Une minute de lecture|{readingTime} minutes de lecture",
     "description": "Pluralized label for \"{readingTime} min read\". Use as much plural forms (separated by \"|\") as your language support (see https://www.unicode.org/cldr/cldr-aux/charts/34/supplemental/language_plural_rules.html)"
   },
   "theme.docs.breadcrumbs.home": {
-    "message": "Home page",
+    "message": "Page d'accueil",
     "description": "The ARIA label for the home page in the breadcrumbs"
   },
   "theme.docs.sidebar.collapseButtonTitle": {
-    "message": "Seitenleiste einklappen",
+    "message": "Réduire le menu latéral",
     "description": "The title attribute for collapse button of doc sidebar"
   },
   "theme.docs.sidebar.collapseButtonAriaLabel": {
-    "message": "Seitenleiste einklappen",
+    "message": "Réduire le menu latéral",
     "description": "The title attribute for collapse button of doc sidebar"
   },
   "theme.docs.sidebar.navAriaLabel": {
@@ -239,162 +239,162 @@
     "description": "The ARIA label for the sidebar navigation"
   },
   "theme.docs.sidebar.closeSidebarButtonAriaLabel": {
-    "message": "Close navigation bar",
+    "message": "Fermer la barre de navigation",
     "description": "The ARIA label for close button of mobile sidebar"
   },
   "theme.navbar.mobileSidebarSecondaryMenu.backButtonLabel": {
-    "message": "← Zurück zum Hauptmenü",
+    "message": "← Retour au menu principal",
     "description": "The label of the back button to return to main menu, inside the mobile navbar sidebar secondary menu (notably used to display the docs sidebar)"
   },
   "theme.docs.sidebar.toggleSidebarButtonAriaLabel": {
-    "message": "Toggle navigation bar",
+    "message": "Ouvrir/fermer la barre de navigation",
     "description": "The ARIA label for hamburger menu button of mobile navigation"
   },
   "theme.docs.sidebar.expandButtonTitle": {
-    "message": "Seitenleiste ausklappen",
+    "message": "Déplier le menu latéral",
     "description": "The ARIA label and title attribute for expand button of doc sidebar"
   },
   "theme.docs.sidebar.expandButtonAriaLabel": {
-    "message": "Seitenleiste ausklappen",
+    "message": "Déplier le menu latéral",
     "description": "The ARIA label and title attribute for expand button of doc sidebar"
   },
   "theme.SearchBar.seeAll": {
-    "message": "Alle {count} Ergebnisse anzeigen"
+    "message": "Voir les {count} résultats"
   },
   "theme.SearchPage.documentsFound.plurals": {
-    "message": "Ein Dokument gefunden|{count} Dokumente gefunden",
+    "message": "Un document trouvé|{count} documents trouvés",
     "description": "Pluralized label for \"{count} documents found\". Use as much plural forms (separated by \"|\") as your language support (see https://www.unicode.org/cldr/cldr-aux/charts/34/supplemental/language_plural_rules.html)"
   },
   "theme.SearchPage.existingResultsTitle": {
-    "message": "Suchergebnisse für \"{query}\"",
+    "message": "Résultats de recherche pour « {query} »",
     "description": "The search page title for non-empty query"
   },
   "theme.SearchPage.emptyResultsTitle": {
-    "message": "Suche in der Dokumentation",
+    "message": "Rechercher dans la documentation",
     "description": "The search page title for empty query"
   },
   "theme.SearchPage.inputPlaceholder": {
-    "message": "Geben Sie hier Ihre Suche ein",
+    "message": "Tapez votre recherche ici",
     "description": "The placeholder for search page input"
   },
   "theme.SearchPage.inputLabel": {
-    "message": "Suche",
+    "message": "Chercher",
     "description": "The ARIA label for search page input"
   },
   "theme.SearchPage.algoliaLabel": {
-    "message": "Suche von Algolia",
+    "message": "Recherche par Algolia",
     "description": "The ARIA label for Algolia mention"
   },
   "theme.SearchPage.noResultsText": {
-    "message": "Es wurden keine Ergebnisse gefunden",
+    "message": "Aucun résultat trouvé",
     "description": "The paragraph for empty search result"
   },
   "theme.SearchPage.fetchingNewResults": {
-    "message": "Neue Ergebnisse abrufen...",
+    "message": "Chargement de nouveaux résultats...",
     "description": "The paragraph for fetching new search results"
   },
   "theme.SearchBar.label": {
-    "message": "Suche",
+    "message": "Chercher",
     "description": "The ARIA label and placeholder for search button"
   },
   "theme.SearchModal.searchBox.resetButtonTitle": {
-    "message": "Clear the query",
+    "message": "Effacer la requête",
     "description": "The label and ARIA label for search box reset button"
   },
   "theme.SearchModal.searchBox.cancelButtonText": {
-    "message": "Cancel",
+    "message": "Annuler",
     "description": "The label and ARIA label for search box cancel button"
   },
   "theme.SearchModal.startScreen.recentSearchesTitle": {
-    "message": "Recent",
+    "message": "Récemment",
     "description": "The title for recent searches"
   },
   "theme.SearchModal.startScreen.noRecentSearchesText": {
-    "message": "No recent searches",
+    "message": "Aucune recherche récente",
     "description": "The text when no recent searches"
   },
   "theme.SearchModal.startScreen.saveRecentSearchButtonTitle": {
-    "message": "Save this search",
+    "message": "Sauvegarder cette recherche",
     "description": "The label for save recent search button"
   },
   "theme.SearchModal.startScreen.removeRecentSearchButtonTitle": {
-    "message": "Remove this search from history",
+    "message": "Supprimer cette recherche de l'historique",
     "description": "The label for remove recent search button"
   },
   "theme.SearchModal.startScreen.favoriteSearchesTitle": {
-    "message": "Favorite",
+    "message": "Favoris",
     "description": "The title for favorite searches"
   },
   "theme.SearchModal.startScreen.removeFavoriteSearchButtonTitle": {
-    "message": "Remove this search from favorites",
+    "message": "Supprimer cette recherche des favoris",
     "description": "The label for remove favorite search button"
   },
   "theme.SearchModal.errorScreen.titleText": {
-    "message": "Unable to fetch results",
+    "message": "Impossible de récupérer les résultats",
     "description": "The title for error screen of search modal"
   },
   "theme.SearchModal.errorScreen.helpText": {
-    "message": "You might want to check your network connection.",
+    "message": "Vous pouvez vérifier votre connexion réseau.",
     "description": "The help text for error screen of search modal"
   },
   "theme.SearchModal.footer.selectText": {
-    "message": "to select",
+    "message": "sélectionner",
     "description": "The explanatory text of the action for the enter key"
   },
   "theme.SearchModal.footer.selectKeyAriaLabel": {
-    "message": "Enter key",
+    "message": "Touche Entrée",
     "description": "The ARIA label for the Enter key button that makes the selection"
   },
   "theme.SearchModal.footer.navigateText": {
-    "message": "to navigate",
+    "message": "naviguer",
     "description": "The explanatory text of the action for the Arrow up and Arrow down key"
   },
   "theme.SearchModal.footer.navigateUpKeyAriaLabel": {
-    "message": "Arrow up",
+    "message": "Flèche vers le haut",
     "description": "The ARIA label for the Arrow up key button that makes the navigation"
   },
   "theme.SearchModal.footer.navigateDownKeyAriaLabel": {
-    "message": "Arrow down",
+    "message": "Flèche vers le bas",
     "description": "The ARIA label for the Arrow down key button that makes the navigation"
   },
   "theme.SearchModal.footer.closeText": {
-    "message": "to close",
+    "message": "fermer",
     "description": "The explanatory text of the action for Escape key"
   },
   "theme.SearchModal.footer.closeKeyAriaLabel": {
-    "message": "Escape key",
+    "message": "Touche Echap",
     "description": "The ARIA label for the Escape key button that close the modal"
   },
   "theme.SearchModal.footer.searchByText": {
-    "message": "Search by",
+    "message": "Recherche via",
     "description": "The text explain that the search is making by Algolia"
   },
   "theme.SearchModal.noResultsScreen.noResultsText": {
-    "message": "No results for",
+    "message": "Aucun résultat pour",
     "description": "The text explains that there are no results for the following search"
   },
   "theme.SearchModal.noResultsScreen.suggestedQueryText": {
-    "message": "Try searching for",
+    "message": "Essayez de chercher",
     "description": "The text for the suggested query when no results are found for the following search"
   },
   "theme.SearchModal.noResultsScreen.reportMissingResultsText": {
-    "message": "Believe this query should return results?",
+    "message": "Vous pensez que cette requête doit donner des résultats ?",
     "description": "The text for the question where the user thinks there are missing results"
   },
   "theme.SearchModal.noResultsScreen.reportMissingResultsLinkText": {
-    "message": "Let us know.",
+    "message": "Faites-le nous savoir.",
     "description": "The text for the link to report missing results"
   },
   "theme.SearchModal.placeholder": {
-    "message": "Search docs",
+    "message": "Rechercher des docs",
     "description": "The placeholder of the input of the DocSearch pop-up modal"
   },
   "theme.blog.post.plurals": {
-    "message": "Ein Post|{count} Posts",
+    "message": "Un article|{count} articles",
     "description": "Pluralized label for \"{count} posts\". Use as much plural forms (separated by \"|\") as your language support (see https://www.unicode.org/cldr/cldr-aux/charts/34/supplemental/language_plural_rules.html)"
   },
   "theme.blog.tagTitle": {
-    "message": "{nPosts} getaggt mit \"{tagName}\"",
+    "message": "{nPosts} tagués avec « {tagName} »",
     "description": "The title of the page for a blog tag"
   },
   "theme.blog.author.pageTitle": {
@@ -414,11 +414,11 @@
     "description": "The text for authors with 0 blog post"
   },
   "theme.contentVisibility.unlistedBanner.title": {
-    "message": "Unlisted page",
+    "message": "Page non répertoriée",
     "description": "The unlisted content banner title"
   },
   "theme.contentVisibility.unlistedBanner.message": {
-    "message": "This page is unlisted. Search engines will not index it, and only users having a direct link can access it.",
+    "message": "Cette page n'est pas répertoriée. Les moteurs de recherche ne l'indexeront pas, et seuls les utilisateurs ayant un lien direct peuvent y accéder.",
     "description": "The unlisted content banner message"
   },
   "theme.contentVisibility.draftBanner.title": {
@@ -430,11 +430,11 @@
     "description": "The draft content banner message"
   },
   "theme.ErrorPageContent.tryAgain": {
-    "message": "Nochmal versuchen",
+    "message": "Réessayer",
     "description": "The label of the button to try again rendering when the React error boundary captures an error"
   },
   "theme.common.skipToMainContent": {
-    "message": "Zum Hauptinhalt springen",
+    "message": "Aller au contenu principal",
     "description": "The skip to content label used for accessibility, allowing to rapidly navigate to main content with keyboard tab/enter navigation"
   },
   "theme.tags.tagsPageTitle": {

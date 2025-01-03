@@ -111,7 +111,15 @@ const config: Config = {
   // to replace "en" with "zh-Hans".
   i18n: {
     defaultLocale: 'de',
-    locales: ['de'],
+    locales: ['de', 'fr'],
+    localeConfigs: {
+      de: {
+        htmlLang: 'en-CH',
+      },
+      fr: {
+        htmlLang: 'fr-CH',
+      },
+    },
   },
   future: {
     experimental_faster: true,
@@ -216,7 +224,12 @@ const config: Config = {
         alt: 'ICT GBSL',
         src: 'img/logo.svg',
       },
-      items: [],
+      items: [
+        {
+          type: 'localeDropdown',
+          position: 'right',
+        }
+      ],
     },
     footer: {
       copyright: `<a href="https://creativecommons.org/licenses/by-nc-sa/4.0/deed.de">

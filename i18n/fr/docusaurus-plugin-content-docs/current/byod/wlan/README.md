@@ -1,11 +1,10 @@
 ---
 description: Kurzbeschreibung für Suchmaschinen
-sidebar_label: réseau sans fil
+sidebar_label: Réseau Wi-Fi
 sidebar_position: 18
 tags: []
 sidebar_custom_props:
   icon: mdi-wifi
-draft: false
 
 ---
 
