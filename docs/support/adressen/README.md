@@ -5,7 +5,7 @@ description: >-
 sidebar_custom_props:
   icon: mdi-help-network
   path: /docs/support/adressen/README.md
-sidebar_position: 14
+sidebar_position: 24
 ---
 
 # Supportadressen
