@@ -1,5 +1,4 @@
 ---
-description: Kurzbeschreibung für Suchmaschinen
 sidebar_label: IT-Hilfe zur Selbsthilfe
 sidebar_position: 10
 tags: []
