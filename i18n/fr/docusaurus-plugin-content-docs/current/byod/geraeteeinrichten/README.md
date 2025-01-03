@@ -1,6 +1,6 @@
 ---
 description: Kurzbeschreibung für Suchmaschinen
-sidebar_label: première installation
+sidebar_label: Première installation
 sidebar_position: 10
 tags: []
 sidebar_custom_props:
@@ -19,9 +19,9 @@ Vous pouvez effectuer la configuration depuis chez vous ou à l'école. Certaine
 **Attention : Les tâches 1 et 2 (voir ci-dessous) doivent être effectuées le plus rapidement possible. La photo pour la carte d'étudiant doit être soumise électroniquement avant le 14 mai.**
 :::
 
-Si vous avez une licence Office365 de votre ancienne école, veuillez consulter impérativement [👉 ce document](../../anderesoftware/office365/README.md).
+Si vous avez une licence Office365 de votre ancienne école, veuillez consulter impérativement [👉 ce document](/anderesoftware/office365).
 
-Vous êtes actuellement sur la page ICT de l'école, où vous pouvez trouver des réponses à tous vos problèmes et questions techniques. Vous pouvez enregistrer l'adresse de cette page comme favori dans votre navigateur ou même l'ajouter comme application sur votre ordinateur portable ou smartphone. Une instruction est disponible sous [Astuces](../../tipps/01-webseite-als-app/README.md).
+Vous êtes actuellement sur la page ICT de l'école, où vous pouvez trouver des réponses à tous vos problèmes et questions techniques. Vous pouvez enregistrer l'adresse de cette page comme favori dans votre navigateur ou même l'ajouter comme application sur votre ordinateur portable ou smartphone. Une instruction est disponible sous [Astuces](/tipps/01-webseite-als-app).
 
 Si vous rencontrez des problèmes lors de la configuration, vous pouvez contacter le support pour les élèves. Le support est disponible dans la salle indiquée pendant le check-up de votre appareil. Plus tard, vous pouvez les contacter par e-mail. Des QR-codes sont disponibles dans l'école. Adresse e-mail pour le support : [it-help-for-students@bernedu.ch](mailto:it-help-for-students@bernedu.ch). Important : les QR-codes verts dans les salles de classe sont uniquement destinés aux enseignants.
 
@@ -34,20 +34,20 @@ Configuration autonome à domicile. Il est attendu que ces étapes soient réali
 
 :::aufgabe[Étapes à domicile]
 
-1. Configuration initiale de votre compte scolaire [👉 Configuration du compte scolaire](../../schulkonto/README.md)  
-2. Photo pour la carte d'étudiant [👉 Photo pour la carte](../../schulkonto/foto-ausweis/README.md)  
-3. Configuration de l'authentification multifactorielle [👉 MFA](../../schulkonto/mfa/README.md)  
-4. Installation des mises à jour [👉 Mises à jour](/docs/tipps/updates/README.md)  
+1. Configuration initiale de votre compte scolaire [👉 Configuration du compte scolaire](/schulkonto)  
+2. Photo pour la carte d'étudiant [👉 Photo pour la carte](/schulkonto/foto-ausweis)  
+3. Configuration de l'authentification multifactorielle [👉 MFA](/schulkonto/mfa)  
+4. Installation des mises à jour [👉 Mises à jour](/tipps/updates)  
 5. Installation des programmes Office : [👉 Office365](http://portal.office.com/)  
    - Office365 (Word, Excel, PowerPoint)  
    - Teams  
    - OneDrive  
    - OneNote  
 6. Autres programmes :  
-   - WebUntis : application d'emploi du temps sur smartphone [👉 Emploi du temps](../stundenplan/)  
-   - Programmes Adobe [👉 Adobe](../../anderesoftware/adobe)  
-   - Programme pour examens électroniques [👉 E-Examens](../../anderesoftware/digitales%20prüfen/)  
-7. Configuration de l’e-mail [Configurer l’e-mail](../mail/e-mail-einstellungen/README.md)  
+   - WebUntis : application d'emploi du temps sur smartphone [👉 Emploi du temps](/stundenplan)  
+   - Programmes Adobe [👉 Adobe](/anderesoftware/adobe)  
+   - Programme pour examens électroniques [👉 E-Examens](/anderesoftware/digitales%20prüfen)  
+7. Configuration de l’e-mail [Configurer l’e-mail](/mail/e-mail-einstellungen)  
 
 :::
 
@@ -59,7 +59,7 @@ Le premier jour d'école, mettre les appareils en service à l'école.
 :::
 
 :::aufgabe[Étapes à l'école]
-[👉 Configurer l'accès Wi-Fi](../wlan/README.md)
+[👉 Configurer l'accès Wi-Fi](/wlan)
 :::
 
 </TabItem>
