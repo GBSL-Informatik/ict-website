@@ -21,13 +21,32 @@ const BUILD_LOCATION = __dirname;
 const GIT_COMMIT_SHA = process.env.DRONE_COMMIT_SHA || Math.random().toString(36).substring(7);
 
 
-function getLocale() {
+function getLocale(): 'de' | 'fr' {
   return (process.env.DOCUSAURUS_CURRENT_LOCALE && process.env.DOCUSAURUS_CURRENT_LOCALE !== 'undefined')
-      ? process.env.DOCUSAURUS_CURRENT_LOCALE
+      ? process.env.DOCUSAURUS_CURRENT_LOCALE === 'fr' ? 'fr' : 'de'
       : 'de';
 }
 
-const LOCALE = getLocale();
+const STATIC_TRANSLATIONS = {
+  solution: {
+    de: 'Lösung',
+    fr: 'Solution'
+  },
+  title: {
+    de: 'ICT am Gymnasium Biel-Seeland',
+    fr: 'ICT au Gymnase Biel-Seeland (DE)'
+  },
+  description: {
+    de: 'Anleitungen, Tipps und Tricks',
+    fr: 'Instructions, conseils et astuces'
+  },
+  banner: {
+    de: 'Einführungsphase',
+    fr: 'Tous les contenus ne sont pas traduits en français.'
+  }
+}
+
+const LOCALE: 'de' | 'fr' = getLocale();
 
 const lightCodeTheme = themes.vsLight;
 const darkCodeTheme = themes.vsDark;
@@ -51,7 +70,7 @@ const REMARK_PLUGINS = {
           solution: 'solution'
         },
         defaultLabel: {
-          solution: 'Lösung'
+          solution: STATIC_TRANSLATIONS.solution[LOCALE]
         }
       }
     ]
@@ -97,8 +116,8 @@ const REMARK_PLUGINS = {
 }
 
 const config: Config = {
-  title: 'ICT am Gymnasium Biel-Seeland',
-  tagline: 'Anleitungen, Tipps und Tricks',
+  title: STATIC_TRANSLATIONS.title[LOCALE],
+  tagline: STATIC_TRANSLATIONS.description[LOCALE],
   url: 'https://ict.gbsl.website',
   baseUrl: '/',
   onBrokenLinks: 'warn',
@@ -279,7 +298,7 @@ const config: Config = {
     announcementBar: {
       backgroundColor: '#248eca',
       textColor: '#fff',
-      content: 'Einführungsphase',
+      content: STATIC_TRANSLATIONS.banner[LOCALE],
       isCloseable: true
     },
     zoom: {
