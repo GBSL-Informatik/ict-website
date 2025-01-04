@@ -5,7 +5,6 @@ tags: []
 sidebar_custom_props:
   icon: mdiHelpBoxMultipleOutline
 draft: false
-
 ---
 
 # Assistance IT - Guide d'auto-assistance
@@ -22,7 +21,7 @@ Signalez que votre compte doit être réinitialisé, n'oubliez pas d'indiquer vo
 :::solution[Solution]
 Le problème de connexion apparaît si vous n'avez pas décoché l'option suivante.
 
-![--width=350px](./login-screen-o365.png)
+![--width=350px](login-screen-o365.png)
 
 Cliquez en bas à gauche sur __Non, se connecter uniquement à cette application__.
 :::
@@ -91,25 +90,4 @@ flowchart TD
     n9 --> n10["Prenez de nouvelles piles."]
     n11 --> n12["Insérez correctement les piles<br>Utilisez une télécommande d'une autre salle si nécessaire."]
 :::
-
-La caméra ne fonctionne pas
-
-Solution
-
-mermaid
-Code kopieren
-flowchart TD
-    C("Le projecteur est allumé et la source est hdBase-T ?") -- oui --> n2["La caméra est-elle alimentée en électricité ?"]
-    n2 -- non --> n3["Les lumières de la salle fonctionnent-elles ?"]
-    n2 -- oui --> n4["Le câble HDMI est-il branché dans HDMI IN ?"]
-    n3 -- oui --> n5["La caméra est-elle allumée ?<br>Le câble d'alimentation est-il branché ?"]
-    n3 -- non --> n6["Appelez le service de maintenance : 032 327 06 69"]
-    n5 -- oui --> n7["Le câble d'alimentation est-il branché en bas de la console AV ?"]
-    n7 --> n8["Contactez le support<br>[<a href='https://forms.office.com/r/akUrVUFaRu' target='_blank'>👉 Support IT</a>]"]
-    n4 --> n9["Pas de câble ou connecteur plié"] & n11["Le câble est-il branché dans le boîtier noir, et le voyant d'entrée est-il allumé ?"]
-    n9 --> n10["Prenez un câble dans D101 ou D201 et branchez-le."]
-    n11 -- oui --> n12["Contactez le support<br>[<a href='https://forms.office.com/r/akUrVUFaRu' target='_blank'>👉 Support IT</a>]"]
-    n11 -- non --> n13["Branchez le câble HDMI et sélectionnez ce canal à l'aide du bouton."]
-    C -- non --> n14["Allumez le projecteur et changez la source en appuyant sur hdmi pour hdBaseT."]
-</TabItem> <TabItem value="Installation Bâtiments M + G" label="Installation Bâtiments M + G"> Pas d'alimentation pour la caméra, l'amplificateur </TabItem> </Tabs>
 

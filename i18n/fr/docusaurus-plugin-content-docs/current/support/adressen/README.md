@@ -2,7 +2,6 @@
 sidebar_label: Adresses de support
 sidebar_custom_props:
   icon: mdi-help-network
-  path: /docs/support/adressen/README.md
 sidebar_position: 17
 ---
 
