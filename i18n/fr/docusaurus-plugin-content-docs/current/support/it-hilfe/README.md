@@ -11,13 +11,15 @@ draft: false
 
 <Tabs>
   <TabItem value="Mon appareil" label="Mon appareil">
-:::info[J'ai des problèmes avec mon compte, Office 365, ou l'authentification]
+
+::::info[J'ai des problèmes avec mon compte, Office 365, ou l'authentification]
 
 :::solution[Solution]
 Signalez que votre compte doit être réinitialisé, n'oubliez pas d'indiquer votre adresse e-mail et votre numéro de téléphone portable : [👉 :mdi[emailEditOutline]](mailto:soarhe.jahany@bernedu.ch?subject=Réinitialisation%20du%20compte%20élève&body=Bonjour%20M.%20Jahany%2C%0A%0AMerci%20de%20réinitialiser%20mon%20compte%20:%0A%0A%40edu.gbsl.ch%0A%0ATel.%2007%0A%0AMerci%20d'avance%20et%20cordialement)
 :::
+::::
 
-:::info[Je ne peux pas me connecter à Word ou à une autre application]
+::::info[Je ne peux pas me connecter à Word ou à une autre application]
 :::solution[Solution]
 Le problème de connexion apparaît si vous n'avez pas décoché l'option suivante.
 
@@ -25,8 +27,9 @@ Le problème de connexion apparaît si vous n'avez pas décoché l'option suivan
 
 Cliquez en bas à gauche sur __Non, se connecter uniquement à cette application__.
 :::
+::::
 
-:::info[Je n'arrive pas à me connecter à Internet avec mon MacBook, même si je suis connecté au Wi-Fi]
+::::info[Je n'arrive pas à me connecter à Internet avec mon MacBook, même si je suis connecté au Wi-Fi]
 :::solution[Solution]
 1. Installez un autre navigateur (Chrome, Opera, Edge) depuis chez vous ou via un hotspot, cela vous permettra d'accéder à Internet à l'école.
 2. Vérifiez si vous avez un abonnement iCloud+ et si __Private Relay__ est activé :
@@ -44,8 +47,9 @@ Cliquez sur le menu Apple __:mdi[apple]__, sélectionnez __Réglages système__.
 
 Enfin, désactivez l'option __Limiter le suivi de l'adresse IP__.
 :::
+::::
 
-:::info[Wi-Fi]
+::::info[Wi-Fi]
 Problème de **mot de passe** lors de la connexion
 :::solution[Solution]
 Ne définissez pas un nouveau mot de passe lors du processus de connexion Wi-Fi ! Définissez un nouveau mot de passe ici, il sera valable pour toutes vos connexions à l'école (apps, Wi-Fi, e-mail) : [👉 ](https://password.edubern.ch/)
@@ -54,18 +58,21 @@ Si cela ne fonctionne toujours pas, votre compte est probablement bloqué et doi
 
 Une fois votre compte réinitialisé, vous pourrez définir un nouveau mot de passe [👉 ](https://password.edubern.ch/) et l'utiliser pour vous reconnecter au Wi-Fi BYOD.
 :::
+::::
 
-:::info[Mon ordinateur portable Windows passe en veille ou l'écran s'éteint pendant une présentation.]
+::::info[Mon ordinateur portable Windows passe en veille ou l'écran s'éteint pendant une présentation.]
 
 :::solution[Solution]
 Une solution simple et pratique consiste à installer __Microsoft PowerToys__ depuis le __Microsoft Store__. Utilisez __PowerToys Awake__ après l'installation. Configurez les paramètres comme suit :
 
 ![](PowerToysAwake.png)
 :::
+::::
 
 </TabItem>
-  <TabItem value="Installation Bâtiment D" label="Installation Bâtiment D">
-:::info[Son]
+<TabItem value="Installation Bâtiment D" label="Installation Bâtiment D">
+
+::::info[Son]
 Pas de son pendant une présentation ou un film
 
 :::solution[Solution]
@@ -77,8 +84,8 @@ Vérifiez également le bouton __Volume__ sur la télécommande du projecteur.
 
 Insérez une image  
 :::
-
-:::info[Le projecteur ne s'allume pas]
+::::
+::::info[Le projecteur ne s'allume pas]
 
 :::solution[Solution]
 ```mermaid
@@ -89,5 +96,9 @@ flowchart TD
     n7 --> n9["Pas de piles ou piles usées"] & n11["Piles correctement insérées ?"]
     n9 --> n10["Prenez de nouvelles piles."]
     n11 --> n12["Insérez correctement les piles<br>Utilisez une télécommande d'une autre salle si nécessaire."]
+```
 :::
+::::
 
+</TabItem>
+</Tabs>
