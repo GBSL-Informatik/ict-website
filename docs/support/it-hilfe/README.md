@@ -109,7 +109,7 @@ flowchart TD
 ::::info[Kamera funktioniert nicht]
 
 :::solution[Lösung]
- 
+
 ```mermaid
 flowchart TD
     C("Der Beamer ist eingeschaltet und die Quelle ist hdBase-T?") -- ja --> n2["Kamera hat Strom"]
