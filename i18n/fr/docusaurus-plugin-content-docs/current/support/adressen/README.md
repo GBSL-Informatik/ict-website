@@ -1,8 +1,10 @@
 ---
 sidebar_label: Adresses de support
+sidebar_position: 11
+tags: []
 sidebar_custom_props:
   icon: mdi-help-network
-sidebar_position: 17
+draft: false
 ---
 
 # Adresses de support
