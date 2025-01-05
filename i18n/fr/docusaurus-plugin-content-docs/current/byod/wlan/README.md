@@ -4,7 +4,6 @@ sidebar_position: 18
 tags: []
 sidebar_custom_props:
   icon: mdi-wifi
-
 ---
 
 # Configurer le réseau Wi-Fi
