@@ -68,7 +68,7 @@ Une solution simple et pratique est d'installer __Microsoft PowerToys__ depuis l
 ![](PowerToysAwake.png)
 
 :::
-
+::::
 
   </TabItem>
   <TabItem value="Installation D-Gebäude" label="Installation D-Gebäude">
