@@ -18,11 +18,11 @@
         "format:check": "prettier --check ."
     },
     "dependencies": {
-        "@docusaurus/core": "^3.6.3",
-        "@docusaurus/faster": "^3.6.3",
-        "@docusaurus/plugin-pwa": "^3.6.3",
-        "@docusaurus/preset-classic": "^3.6.3",
-        "@docusaurus/theme-mermaid": "^3.6.3",
+        "@docusaurus/core": "^3.7.0",
+        "@docusaurus/faster": "^3.7.0",
+        "@docusaurus/plugin-pwa": "^3.7.0",
+        "@docusaurus/preset-classic": "^3.7.0",
+        "@docusaurus/theme-mermaid": "^3.7.0",
         "@mdi/js": "^7.4.47",
         "@mdi/react": "^1.6.1",
         "@mdx-js/react": "^3.0.1",
@@ -38,9 +38,9 @@
         "sass": "^1.52.2"
     },
     "devDependencies": {
-        "@docusaurus/module-type-aliases": "^3.6.3",
-        "@docusaurus/tsconfig": "^3.6.3",
-        "@docusaurus/types": "^3.6.3",
+        "@docusaurus/module-type-aliases": "^3.7.0",
+        "@docusaurus/tsconfig": "^3.7.0",
+        "@docusaurus/types": "^3.7.0",
         "gray-matter": "^4.0.3",
         "known-css-properties": "^0.31.0",
         "minimist": "^1.2.6",

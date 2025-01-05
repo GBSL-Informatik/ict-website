@@ -11,13 +11,14 @@ draft: false
 
 <Tabs>
   <TabItem value="Mein Gerät" label="Mein Gerät">
-:::info[Ich habe Probleme mit meinem Konto, mit Office 365, mit Authentifizieren]
+::::info[Ich habe Probleme mit meinem Konto, mit Office 365, mit Authentifizieren]
 
 :::solution[Lösung]
 Melde, dass dein Konto zurückgesetzt werden muss, vergiss nicht deine Mailadresse und deine Mobilenummer anzugeben: [👉 :mdi[emailEditOutline]](mailto:soarhe.jahany@bernedu.ch?subject=Account%20Sch%C3%BCler%3Ain%20zur%C3%BCcksetzen&body=Guten%20Tag%20Herr%20Jahany%2C%0A%0ABitte%20setzen%20Sie%20meinen%20Account%20zur%C3%BCck%3A%0A%0A%40edu.gbsl.ch%0A%0ATel.%2007%0A%0ABesten%20Dank%20und%20freundliche%20Gr%C3%BCsse)
 :::
+::::
 
-:::info[Ich kann mich bei Word oder einer andern App nicht anmelden]
+::::info[Ich kann mich bei Word oder einer andern App nicht anmelden]
 :::solution[Lösung]
 Anmeldung nicht möglich tritt auf, wenn du folgendes Häkchen nicht gelöscht hast.
 
@@ -25,8 +26,9 @@ Anmeldung nicht möglich tritt auf, wenn du folgendes Häkchen nicht gelöscht h
 
 Unten Links auf __Nein, nur bei dieser App anmelden__ klicken.
 :::
+::::
 
-:::info[Ich komme mit meinem Macbook nicht ins Internert, obwohl ich im WLAN angemeldet bin]
+::::info[Ich komme mit meinem Macbook nicht ins Internert, obwohl ich im WLAN angemeldet bin]
 :::solution[Lösung]
 1. Installiere (daheim ober über Hotspot) einen andern Browser (Chrome, Opera, Edge) damit kommst du auch in der Schule ins Internet.
 2. Kontrolliere, ob du ein iCloud+-Abo hast und __Privat-Relay__ eingeschaltet ist:
@@ -44,8 +46,9 @@ Klicke auf das Apple-Menü __:mdi[apple]__, wähle __Systemeinstellungen__ . Kli
 
 Deaktiviere zum Schluss die Option __Tracking der IP-Adresse beschränken__.
 :::
+::::
 
-:::info[WLAN]
+::::info[WLAN]
 Problem mit dem **Passwort** beim Anmelden
 :::solution[Lösung]
 Kein neues Passwort setzen im Anmeldeprozess des WLAN! Setze dir hier ein neues Passwort, das gilt für alle Anmeldungen in der Schule (Apps, WLAN, Mail): [👉 ](https://password.edubern.ch/)
@@ -54,8 +57,9 @@ Klappt auch das nicht, dann ist dein Account gesperrt und muss zurückgesetzt we
 
 Wenn dein Account zurückgesetzt ist, kannst du dir ein neues Passwort setzen [👉 ](https://password.edubern.ch/) und dich danach damit wieder beim WLAN-BYOD anmelden.
 :::
+::::
 
-:::info[Mein Windows-Notebook geht in den Ruhezustand oder der Bildschirm wird dunkel während einer Präsentation.]
+::::info[Mein Windows-Notebook geht in den Ruhezustand oder der Bildschirm wird dunkel während einer Präsentation.]
 
 :::solution[Lösung]
 Eine einfache und praktische Lösung ist die Installation von __Microsoft PowerToys__ über den __Microsoft Store__. Interessant ist __PowerToys Awake__, das du aufrufen kannst, nachdem du __PowerToys__ installiert hast. Dort wählst du folgende Einstellungen:
@@ -64,10 +68,12 @@ Eine einfache und praktische Lösung ist die Installation von __Microsoft PowerT
 
 
 :::
+::::
 
-  </TabItem>
-  <TabItem value="Installation D-Gebäude" label="Installation D-Gebäude">
-:::info[Ton]
+</TabItem>
+<TabItem value="Installation D-Gebäude" label="Installation D-Gebäude">
+
+::::info[Ton]
 Kein Ton bei einer Präsention, bei einem Film
 
 :::solution[Lösung]
@@ -79,8 +85,9 @@ Kontrolliere auf der Fernbedienung des Beamers __Volume__
 
 Bild
 :::
+::::
 
-:::info[Beamer lässt sich nicht einschalten]
+::::info[Beamer lässt sich nicht einschalten]
 
 :::solution[Lösung]
  
@@ -95,15 +102,14 @@ flowchart TD
 
     D@{ shape: rounded}
     n2@{ shape: rounded}
-
-
 ```
 :::
+::::
 
-:::info[Kamera funktioniert nicht]
+::::info[Kamera funktioniert nicht]
 
 :::solution[Lösung]
- 
+
 ```mermaid
 flowchart TD
     C("Der Beamer ist eingeschaltet und die Quelle ist hdBase-T?") -- ja --> n2["Kamera hat Strom"]
@@ -123,8 +129,10 @@ flowchart TD
 
 ```
 :::
+::::
+
 </TabItem>
-  <TabItem value="Installation M + G" label="Installation M + G">
+<TabItem value="Installation M + G" label="Installation M + G">
 Kein Strom bei Kamera, Verstärker
 
 </TabItem>
