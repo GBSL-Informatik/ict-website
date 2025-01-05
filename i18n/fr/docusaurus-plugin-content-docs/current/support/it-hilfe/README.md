@@ -76,7 +76,7 @@ Une solution simple et pratique est d'installer __Microsoft PowerToys__ depuis l
 Kein Ton bei einer Präsention, bei einem Film
 
 :::solution[Lösung]
-Kontrolliere, ob du den] Ton nicht auf stumm eingestellt hast auf deinem Gerät:
+Kontrolliere, ob du den Ton nicht auf stumm eingestellt hast auf deinem Gerät:
 ![](lautstärke.png)
 Bild einsetzen
 
