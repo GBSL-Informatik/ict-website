@@ -76,7 +76,7 @@ Um MFA zu nutzen, müssen weitere Sicherheitsinformationen für die Anmeldemetho
    ![--width=350px](../mfa/mfa8.jpg)
 :::
 
-:::details[Klicke, wenn du eine weitere Authentifikationsmethode hinzufügen möchtest]  
+:::details[Klicke, wenn du eine weitere Authentifikationsmethode hinzufügen möchtest, z.B. die App __Authenticator__]  
 
 [Anleitung - Einrichten MFA EDUBERN](https://erzbe.sharepoint.com/sites/EDUBERN-Infohub-Hilfsmittel/Lists/Hilfsmittel/Attachments/4/Anleitung%20-%20Einrichten%20MFA%20EDUBERN%20.pdf)
 
