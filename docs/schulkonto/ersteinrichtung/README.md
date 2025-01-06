@@ -17,7 +17,7 @@ Darin inbegriffen sind während der gesamten Ausbildungszeit:
 
 - ein Mail-Account, lautend auf Vorname.Nachname@edu.gbsl.ch
 - ein Microsoft-Office365-Paket (Word, Excel, PowerPoint usw.), welches auf bis zu fünf Geräten (Computer oder Mobiltelefon) installiert und frei verwendet werden kann
-- ein umfangreicher Cloudspeicherplatz (1 GB) auf Microsoft OneDrive
+- ein umfangreicher Cloudspeicherplatz (5 TB) auf Microsoft OneDrive
 
 ## Ersteinrichtung
 
