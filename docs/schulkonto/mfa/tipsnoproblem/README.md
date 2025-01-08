@@ -30,3 +30,8 @@ Im sich öffnenden Fenster kannst du die gewünschte Anmeldemethode wählen. Du 
 ![](KontovieleAnmeldemethoden.png)
 
 Du wirst anschliessend durch den Anmeldeprozess geführt.
+
+Hier ein Account mit vielen Anmeldemöglichkeiten auch einem iPad:
+
+![](alleMethodenMFA.png)
+
