@@ -11,7 +11,7 @@ draft: false
 
 Hier solltest du Lösungen für dein technisches Problem finden können.
 
-Falls für dein Problem keine Lösung zu finden ist oder du eine Lösung ausprobiert hast, aber dein Problem damit nicht gelöst werden konnte, so kannst du das bei hier melden. Gib bitte genau an, was das Problem ist und was du für Lösungen probiert hast. Screenshots sind hilfreich für den Support. 
+Falls für dein Problem keine Lösung zu finden ist oder du eine Lösung ausprobiert hast, aber dein Problem damit nicht gelöst werden konnte, so kannst du das hier melden. Gib bitte genau an, was das Problem ist und was du für Lösungen probiert hast. Screenshots sind hilfreich für den Support. 
 [Mail schreiben](mailto:it-help-for-students@bernedu.ch?subject=IT-Hilfe%20zur%20Selbsthilfe&body=Guten%20Tag%0A%0AIch%20habe%20folgendes%20Problem%2C%20f%C3%BCr%20das%20auf%20ict.gbsl.website%20keine%20L%C3%B6sung%20zu%20finden%20ist%3A%0A%0A*Beschreibe%20das%20Problem%20genau%2C%20h%C3%A4nge%20Screenshots%20ans%20Mail%20an%2C%20wenn%20du%20es%20dadurch%20besser%20erkl%C3%A4ren%20kannst.*%0A%0Aoder%0A%0AIch%20habe%20folgendes%20Problem%2C%20f%C3%BCr%20das%20ich%20folgende%20hier%20gefundene%20L%C3%B6sung%20ausprobiert%20habe%2C%20aber%20mein%20Problem%20konnte%20dadurch%20nicht%20gel%C3%B6st%20werden%3A%0A%0A*Beschreibe%20das%20Problem%20und%20gib%20exakt%20an%2C%20was%20du%20ausprobiert%20hast%2C%20mach%20von%20eventuellen%20Fehlermeldungen%20Screenshots%20und%20h%C3%A4nge%20die%20ans%20Mail%20an.*%0A%0AW%C3%A4re%20es%20m%C3%B6glich%2C%20dass%20ich%20beim%20Support%20vorbeikommen%20kann%20und%20k%C3%B6nnen%20Sie%20mir%20einen%20Termin%20angeben%3F%0A%0ABesten%20Dank%20f%C3%BCr%20Ihre%20Hilfe%0A%0AMit%20freundlichen%20Gr%C3%BCssen)
 
 <Tabs>
