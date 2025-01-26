@@ -40,6 +40,8 @@ Versuche dich bei einer App anzumelden, wenn folgende Box angezeigt wird, Häkch
 
 Unten Links auf __Nein, nur bei dieser App anmelden__ klicken.
 
+Taucht diese Box nicht auf, so schau hier nach:
+
 ### 2. Ein Schulkonto ist fälschlicherweise eingerichtet 
 
 Entweder hast du von deiner alten Schule die Office-Installation nicht vollständig gelöscht oder du hast versehentlich ein Schulkonto hinzugefügt.
