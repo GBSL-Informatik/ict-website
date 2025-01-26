@@ -28,11 +28,43 @@ Wenn du die Meldung erhalten hast, dass dein Account zurückgesetzt worden ist, 
 
 ::::info[Ich kann mich bei Word oder einer andern App nicht anmelden]
 :::solution[Lösung]
+## Hast du Probleme mit Anmelden, gibt es zwei Hauptursachen
+
+### 1. Bei Anmeldung Häkchen nicht deaktiviert
+
 Anmeldung nicht möglich tritt auf, wenn du folgendes Häkchen nicht gelöscht hast.
+
+Versuche dich bei einer App anzumelden, wenn folgende Box angezeigt wird, Häkchen deaktivieren und markierte Variante anklicken:
 
 ![--width=350px](./login-screen-o365.png)
 
 Unten Links auf __Nein, nur bei dieser App anmelden__ klicken.
+
+### 2. Ein Schulkonto ist fälschlicherweise eingerichtet 
+
+Entweder hast du von deiner alten Schule die Office-Installation nicht vollständig gelöscht oder du hast versehentlich ein Schulkonto hinzugefügt.
+
+Um ein bestehendes Schulkonto zu entfernen, ist wie folgt vorzugehen:
+
+<Tabs groupId="os">
+  <TabItem value="win" label="Windows">
+
+Unter __Einstellungen :mdi[cog]{.blue}__ klicke auf __Konten :mdi[account]{.cyan}__ scrolle runter auf __Auf Arbeits-, Schulkonto...zugreifen__ danach auf __trennen__ klicken.
+
+![](./Schulkonto2.png)
+
+  </TabItem>
+  <TabItem value="osx" label="Mac">
+
+Unter Mac OS X muss ein Tool für die Entfernung von bestehenden Konten verwendet werden. 
+
+Anleitung
+: [👉 Anleitung](https://support.microsoft.com/de-de/office/entfernen-von-office-lizenzdateien-auf-einem-mac-b032c0f6-a431-4dad-83a9-6b727c03b193)
+Tool
+: [👉 Removal-Tool](https://go.microsoft.com/fwlink/?linkid=849815)
+
+  </TabItem>
+</Tabs>
 :::
 ::::
 
