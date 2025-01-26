@@ -18,4 +18,3 @@ Gib im Suchfenster _Version_ ein und  wähle _Ueberprüfen..._
 ![](WinVersion.png)
 Schau unter _Systemtyp_ nach.
 :::
-
