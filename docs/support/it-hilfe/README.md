@@ -98,7 +98,11 @@ Deaktiviere zum Schluss die Option __Tracking der IP-Adresse beschränken__.
 ::::info[WLAN]
 Problem mit dem **Passwort** beim Anmelden
 :::solution[Lösung]
-Kein neues Passwort setzen im Anmeldeprozess des WLAN! Setze dir hier ein neues Passwort, das gilt für alle Anmeldungen in der Schule (Apps, WLAN, Mail): [👉 ](https://password.edubern.ch/)
+Kein neues Passwort setzen im Anmeldeprozess des WLAN! 
+
+![Hier kannst du kein neues Passwort setzen! Das geht nur über den Passwortreset --width=200px](./wlanpwneu.jpeg)
+
+Setze dir hier ein neues Passwort, das gilt für alle Anmeldungen in der Schule (Apps, WLAN, Mail): [👉 ](https://password.edubern.ch/)
 
 Klappt auch das nicht, dann ist dein Account gesperrt und muss zurückgesetzt werden. Melde dich mit diesem Mail, gib deine gbsl-Mailadresse und deine Mobilenummer ein: [👉 :mdi[emailEditOutline]](mailto:soarhe.jahany@bernedu.ch?subject=Account%20Sch%C3%BCler%3Ain%20zur%C3%BCcksetzen&body=Guten%20Tag%20Herr%20Jahany%2C%0A%0ABitte%20setzen%20Sie%20meinen%20Account%20zur%C3%BCck%3A%0A%0A%40edu.gbsl.ch%0A%0ATel.%2007%0A%0ABesten%20Dank%20und%20freundliche%20Gr%C3%BCsse)
 
