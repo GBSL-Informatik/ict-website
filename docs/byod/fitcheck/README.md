@@ -1,19 +1,11 @@
 ---
-sidebar_label: Seitenname
-sidebar_position: 10
-tags: []
-sidebar_custom_props:
-  icon: mdi-file-document-outline
-draft: true
----
----
 description: Kurzbeschreibung für Suchmaschinen
 sidebar_label: Geräte-fit-Check
 sidebar_custom_props:
   icon: mdi-hand-okay
   path: /docs/byod/fitcheck/README.md
 sidebar_position: 11
-draft
+draft: true
 ---
 
 # Geräte-fit-Check
