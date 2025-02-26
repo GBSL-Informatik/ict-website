@@ -55,7 +55,6 @@ Darin inbegriffen sind während der gesamten Ausbildungszeit:
 
 import PasswordDocs from '../../sicherheit/internet-passwort/\_passwords.mdx';
 
-
 # Sicheres Passwort
 
 Mit dem Schulkonto hat man Zugriff auf viele verschiedene Dienste - Dateien auf OneDrive, E-Mails und Teams-Nachrichten versenden, Adobe-Produkte nutzen, etc. Deshalb ist es wichtig, ein **starkes Passwort** zu verwenden.
