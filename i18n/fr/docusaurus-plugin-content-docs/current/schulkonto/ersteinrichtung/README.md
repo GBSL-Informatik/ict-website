@@ -15,7 +15,7 @@ Tous les élèves du Gymnase Bienne-Seeland reçoivent une adresse e-mail scolai
 
 Ce compte inclut, pendant toute la durée de la formation :
 
-- un compte e-mail, sous la forme Prénom.Nom@edu.gbsl.ch
+- un compte e-mail, sous la forme `Prénom.Nom@edu.gbsl.ch`
 - un pack Microsoft Office365 (Word, Excel, PowerPoint, etc.), qui peut être installé et utilisé librement sur jusqu'à cinq appareils (ordinateur ou téléphone mobile)
 - un espace de stockage cloud étendu (5 To) sur Microsoft OneDrive
 
@@ -27,7 +27,7 @@ Ce compte inclut, pendant toute la durée de la formation :
 
 ![--width=450px](../ersteinrichtung/gbsleinstieg.png)
 
-3. Saisis ton adresse e-mail scolaire (Prénom.Nom@edu.gbsl.ch pour les élèves ou Prénom.Nom@gbsl.ch pour les enseignants) ainsi que ton numéro de mobile au format 07x xxx xx xx. Ensuite, clique sur « Soumettre ».
+3. Saisis ton adresse e-mail scolaire (`Prénom.Nom@edu.gbsl.ch` pour les élèves ou Prénom.Nom@gbsl.ch pour les enseignants) ainsi que ton numéro de mobile au format 07x xxx xx xx. Ensuite, clique sur « Soumettre ».
 ![--width=350px](../ersteinrichtung/edubernpwreset.png)
    - **Important :** Utilise ton numéro de mobile personnel, celui que tu as indiqué sur les formulaires d'inscription de l'école.
 
@@ -36,7 +36,7 @@ Ce compte inclut, pendant toute la durée de la formation :
 
 5. Une nouvelle fenêtre s'ouvrira alors dans ton navigateur mobile, te permettant de définir un mot de passe pour ton compte e-mail scolaire.
 ![--width=350px](../ersteinrichtung/edubernpwvergeben.png)
-   1. Saisis ton adresse e-mail scolaire (Prénom.Nom@edu.gbsl.ch).
+   1. Saisis ton adresse e-mail scolaire (`Prénom.Nom@edu.gbsl.ch`).
    2. Saisis ton numéro de mobile personnel, celui que tu as utilisé à l'étape 3.
    3. Saisis ton nouveau mot de passe.
    4. Confirme ton nouveau mot de passe.
@@ -51,8 +51,8 @@ Ce compte inclut, pendant toute la durée de la formation :
 
 6. Un message de confirmation t'indiquera que ton mot de passe a été défini avec succès.
 ![--width=350px](../ersteinrichtung/edubernpwbestätigt.png)
-   - **Si tu reçois un message d'erreur, contacte le secrétariat au 032 327 07 07 ou à l'adresse sekretariat@gbsl.ch.**
-:::
+   - **Si tu reçois un message d'erreur, contacte le secrétariat au __032 327 07 07__ ou à l'adresse sekretariat@gbsl.ch.**
+
 
 ## Réinitialisation du mot de passe
 
