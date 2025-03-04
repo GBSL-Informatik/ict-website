@@ -19,7 +19,9 @@ Hast du von der alten Schule her eine Office365 Lizenz, so beachte unbedingt [�
 
 Du befindest dich übrigens auf der ict-Seite der Schule, auf der du für alle möglichen technischen Probleme und Fragen Antworten finden kannst. Du kannst die Adresse dieser Seite im Browser als Favorit speichern oder sogar als App auf deinem Laptop oder Smartphone einrichten. Eine Anleitung findest du unter [Tipps](../../tipps/01-webseite-als-app/README.md).
 
-Hast du beim Einrichten Probleme, kannst du dich beim Support für Schüler:innen melden. Den Support findest du während des Geräte-fit-Checkups im angegebenen Zimmer. Später kannst du dich per Mail melden, QR-Codes findest du im Schulhaus. Mailadresse für den Support: [it-help-for-students@bernedu.ch](mailto:it-help-for-students@bernedu.ch). Wichtig: die grünen QR-Codes in den Schulzimmern sind nur für die Lehrpersonen gedacht.
+Hast du beim Einrichten Probleme, kannst du dich beim Support für Schüler:innen melden:
+
+QR-Codes findest du im Schulhaus. Mailadresse für den Support: [it-help-for-students@bernedu.ch](mailto:it-help-for-students@bernedu.ch). Wichtig: die grünen QR-Codes in den Schulzimmern sind nur für die Lehrpersonen gedacht.
 
 <Tabs>
 <TabItem value="home" label="1. Vorgängig" default>

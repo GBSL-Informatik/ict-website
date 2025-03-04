@@ -23,7 +23,9 @@ Si vous avez une licence Office365 de votre ancienne école, veuillez consulter 
 
 Vous êtes actuellement sur la page ICT de l'école, où vous pouvez trouver des réponses à tous vos problèmes et questions techniques. Vous pouvez enregistrer l'adresse de cette page comme favori dans votre navigateur ou même l'ajouter comme application sur votre ordinateur portable ou smartphone. Une instruction est disponible sous [Astuces](/tipps/01-webseite-als-app).
 
-Si vous rencontrez des problèmes lors de la configuration, vous pouvez contacter le support pour les élèves. Le support est disponible dans la salle indiquée pendant le check-up de votre appareil. Plus tard, vous pouvez les contacter par e-mail. Des QR-codes sont disponibles dans l'école. Adresse e-mail pour le support : [it-help-for-students@bernedu.ch](mailto:it-help-for-students@bernedu.ch). Important : les QR-codes verts dans les salles de classe sont uniquement destinés aux enseignants.
+Si vous rencontrez des problèmes lors de la configuration, vous pouvez contacter le support pour les élèves: 
+
+Des QR-codes sont disponibles dans l'école. Adresse e-mail pour le support : [it-help-for-students@bernedu.ch](mailto:it-help-for-students@bernedu.ch). Important : les QR-codes verts dans les salles de classe sont uniquement destinés aux enseignants.
 
 <Tabs>
 <TabItem value="home" label="1. Préparation à domicile" default>
