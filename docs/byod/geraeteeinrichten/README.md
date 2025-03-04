@@ -23,6 +23,25 @@ Hast du beim Einrichten Probleme, kannst du dich beim Support für Schüler:inne
 
 QR-Codes findest du im Schulhaus. Mailadresse für den Support: [it-help-for-students@bernedu.ch](mailto:it-help-for-students@bernedu.ch). Wichtig: die grünen QR-Codes in den Schulzimmern sind nur für die Lehrpersonen gedacht.
 
+::::tip[Zusätzliches Benutzerkonto einrichten]
+Wir empfehlen ein Benutzerkonto für die Schule einzurichten, damit Probleme zwischen einem bisherigen Konto der alten Schule und/oder einem privaten Konto von vornherein ausgeschlossen werden.
+
+:::solution[Anleitung]
+<Tabs>
+<TabItem value="Win" label="Windows" default>
+![Einstellungen öffnen](userwin1.jpg)
+![Hier auf keinen Fall die Schulmailadresse eingeben](userwin2.jpg)
+
+</TabItem>
+<TabItem value="OSX" label="Mac">
+![](usermac1.jpg)
+![](usermac2.jpg)
+![Wichtig: Administrator einstellen!](usermac4.jpg)
+</TabItem>
+</Tabs>
+:::
+::::
+
 <Tabs>
 <TabItem value="home" label="1. Vorgängig" default>
 
@@ -46,6 +65,8 @@ Eigenständige Einrichtung zu Hause. Es wird erwartet, dass diese Schritte bis a
    - Adobe-Programme [👉 Adobe](../../anderesoftware/adobe)
    - Programm für elektronische Prüfungen [👉 E-Prüfen](../../anderesoftware/digitales%20prüfen/)
 7. Mail einrichten [Mail einrichten](../mail/e-mail-einstellungen/README.md)
+8. Abschluss: Fülle dieses Formular aus [👉](https://forms.office.com/e/ets3TWfbhs)
+
 :::
 
 </TabItem>
