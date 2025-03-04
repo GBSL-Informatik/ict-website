@@ -27,7 +27,7 @@ Ce compte inclut, pendant toute la durée de la formation :
 
 ![--width=450px](../ersteinrichtung/gbsleinstieg.png)
 
-3. Saisis ton adresse e-mail scolaire (Prénom.Nom@edu.gbsl.ch pour les élèves ou Prénom.Nom@gbsl.ch pour les enseignants) ainsi que ton numéro de mobile au format 07x xxx xx xx. Ensuite, clique sur « Soumettre ».
+3. Saisis ton adresse e-mail scolaire (Pré`nom.Nom@edu.gbsl.ch pour les élèves ou Prénom.Nom@gbsl.ch pour les enseignants) ainsi que ton numéro de mobile au format 07x xxx xx xx. Ensuite, clique sur « Soumettre ».
 ![--width=350px](../ersteinrichtung/edubernpwreset.png)
    - **Important :** Utilise ton numéro de mobile personnel, celui que tu as indiqué sur les formulaires d'inscription de l'école.
 
