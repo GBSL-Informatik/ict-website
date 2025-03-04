@@ -33,7 +33,7 @@ const IndexPages: FeatureProps[] = [
         icon: 'mdi-cog',
         route: '/byod',
         description: translate({
-            message: 'Geräte einrichten, Geräte-fit-Check',
+            message: 'Geräte einrichten, Ersteinrichtung',
             id: 'main.link.byod.description'
         })
     },
