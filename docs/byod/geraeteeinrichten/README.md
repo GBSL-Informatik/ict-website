@@ -27,10 +27,10 @@ QR-Codes findest du im Schulhaus. Mailadresse für den Support: [it-help-for-stu
 <TabItem value="home" label="1. Vorgängig" default>
 
 :::danger[Vorgängig]
-Eigenständige Einrichtung zu Hause. Es wird erwartet, dass diese Schritte bereits während den Sommerferien erledigt werden.
+Eigenständige Einrichtung zu Hause. Es wird erwartet, dass diese Schritte bis am 15. Juni erledigt werden.
 :::
 
-:::aufgabe[Schritte zu Hause]
+:::aufgabe[Schritte zu Hause, erledigt bis 15. Juni]
 
 1. Ersteinrichtung deines Schulkontos [👉 Ersteinrichtung Schulkonto](../../schulkonto/README.md)
 2. Foto für den Schüler:innenausweis [👉 Foto für den Ausweis](../../schulkonto/foto-ausweis/README.md)

@@ -31,10 +31,10 @@ Des QR-codes sont disponibles dans l'école. Adresse e-mail pour le support : [i
 <TabItem value="home" label="1. Préparation à domicile" default>
 
 :::danger[Préparation]
-Configuration autonome à domicile. Il est attendu que ces étapes soient réalisées pendant les vacances d'été.
+Configuration autonome à domicile. Il est attendu que ces étapes soient réalisées jusquau 15. juin.
 :::
 
-:::aufgabe[Étapes à domicile]
+:::aufgabe[Étapes à domicile réalisées jusquau 15. juin]
 
 1. Configuration initiale de votre compte scolaire [👉 Configuration du compte scolaire](/schulkonto)  
 2. Photo pour la carte d'étudiant [👉 Photo pour la carte](/schulkonto/foto-ausweis)  
