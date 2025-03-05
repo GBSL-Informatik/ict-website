@@ -65,7 +65,7 @@ Eigenständige Einrichtung zu Hause. Es wird erwartet, dass diese Schritte bis a
    - Adobe-Programme [👉 Adobe](../../anderesoftware/adobe)
    - Programm für elektronische Prüfungen [👉 E-Prüfen](../../anderesoftware/digitales%20prüfen/)
 7. Mail einrichten [Mail einrichten](../mail/e-mail-einstellungen/README.md)
-8. Abschluss: Fülle dieses Formular aus [👉](https://forms.office.com/e/ets3TWfbhs)
+8. Abschluss: Fülle dieses Formular aus [👉](https://forms.office.com/e/8rwV7ixe5G)
 
 :::
 
