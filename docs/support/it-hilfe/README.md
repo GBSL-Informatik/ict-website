@@ -130,6 +130,10 @@ Eine einfache und praktische Lösung ist die Installation von __Microsoft PowerT
 </TabItem>
 <TabItem value="Installation D-Gebäude" label="Installation D-Gebäude">
 
+::::tip[Tipp]
+Kleinere und einfachere Probleme löst du am schnellsten selber. Dazu findest du in D101 und D201 je eine rote Box mit Kabeln, Batterien, Fernbedienungen, Ladegeräten plus eine laminierte Anleitung mit den Flussidagrammen, die du hier unter "Beamer lässt sich nicht einschalten" und "Kamera funktioniert nicht" ebenfalls finden kannst.
+::::
+
 ::::info[Ton]
 Kein Ton bei einer Präsention, bei einem Film
 
