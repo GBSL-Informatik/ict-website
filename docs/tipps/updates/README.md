@@ -39,7 +39,7 @@ Updates sind wichtig, damit deine Programme auf dem aktuellen Stand bleiben. Mei
     - Es ist eine neue Version vorhanden.
     - Bei *Meinen Mac automatisch aktualisieren* ist ein Haken gesetzt.
 
-    ![](./macos-check.png)
+    ![--width=554](./macos-check.png)
   </TabItem>
 
   <TabItem value="ios" label="iOS">
