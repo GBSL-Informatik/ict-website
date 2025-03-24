@@ -19,7 +19,7 @@ Auf dein Smartphone erhältst du einen Code, um dich zu authentifizieren beim Zu
 Passwort zurücksetzen:
 
 <BrowserWindow url="https://password.edubern.ch/">
-  ![--width=400px](./pwrücksetzen.png)
+  ![--width=400px](./reset_pw.png)
 </BrowserWindow>
 
 Und hast du eine neue Mobile-Nummer, kannst du die Nummer selber ändern, wenn du noch Zugriff auf die alte Nummer hast. Das kannst du direkt in deinem Konto vornehmen.
