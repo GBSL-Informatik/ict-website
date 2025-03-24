@@ -161,7 +161,7 @@ const config: Config = {
           showLastUpdateTime: true,
           sidebarCollapsible: true,
           sidebarPath: 'sidebars.ts',
-          editUrl: 'https://github.com/gbsl-informatik/ict-website/edit/main/',
+          editUrl: 'https://teaching-dev.gbsl.website/cms/gbsl-informatik/ict-website/',
           admonitions: {
             keywords: ['aufgabe', 'finding'],
             extendDefaults: true,
