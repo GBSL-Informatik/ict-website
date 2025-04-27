@@ -1,5 +1,5 @@
 ---
-
+sidebar_label: Authentification Multi-Facteurs
 sidebar_custom_props:
   icon: mdi-two-factor-authentication
 sidebar_position: 12
