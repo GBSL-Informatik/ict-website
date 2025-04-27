@@ -8,69 +8,59 @@ draft: false
 ---
 
 
-# Créer une photo pour la carte d'étudiant
+# Créer une photo pour la carte d'élève
 
-*Avril 2024*
+Tous les élèves du Gymnase Biel-Seeland reçoivent une carte d'élève personnelle au début de leur scolarité. Avec cette carte, vous pouvez :
 
-Tous les élèves du Gymnase Biel-Seeland reçoivent une carte d'étudiant personnelle au début de leur scolarité. Avec celle-ci, vous pouvez :
+- Emprunter des livres à la bibliothèque
+- Copier et imprimer à la bibliothèque en chargeant un crédit sur la carte
+- Ouvrir des portes (selon les autorisations personnelles, par exemple, salles de musique, ascenseur, etc.)
 
-- emprunter des livres à la bibliothèque
-- copier et imprimer à la bibliothèque en rechargeant un crédit sur la carte
-- ouvrir des portes (selon vos autorisations personnelles, par exemple, salles de musique, ascenseur, etc.)
+La photo est enregistrée dans la base de données interne et est visible pour vos enseignants.
 
-La photo sera stockée dans la base de données interne et sera visible par vos enseignants.
+---
 
-## Prendre et télécharger une photo
+## Créer et télécharger la photo
 
-Utilisez la fonction selfie de votre téléphone portable ou faites-vous photographier.
+Utilisez la fonction selfie de votre téléphone mobile ou faites-vous photographier.
 
 ### Exigences pour la photo :
 
-- **Cadrage adapté** (visage)
-- **Fond clair et uni**
-- **Accessoires** (par exemple, bonnets, lunettes de soleil) non autorisés
+- Découpage approprié de l'image (visage)
+- Fond clair et uni
+- Les accessoires (par exemple, bonnets, lunettes de soleil) ne sont pas autorisés
 
-Envoyez la photo prise à votre nouvelle adresse e-mail scolaire afin de pouvoir la modifier sur l'ordinateur. Enregistrez l'image sur votre ordinateur.
+Enregistrez l'image sur votre ordinateur.
 
-### Format du fichier photo :
+---
 
-Le fichier photo doit être enregistré au format `.jpg`. Si ce n’est pas le cas :
+## Format du fichier photo
 
-- **Mac**  
-  Ouvrez le fichier photo avec l’application « Aperçu ».  
-  Cliquez sur `Fichier` > `Exporter` et choisissez le type de fichier JPEG dans le champ `Format`.
+Le fichier photo doit être enregistré au format **.jpg**. Si ce n'est pas le cas :
 
-- **Windows**  
-  Ouvrez la photo avec l’application « Photos ».  
-  Cliquez sur les trois points en haut à droite (`...`) et sélectionnez `Enregistrer sous`.  
-  Choisissez le format `.jpg` dans le champ `Type de fichier`.
+### Mac
 
-### Nom du fichier photo :
+1. Ouvrez le fichier photo avec l'application **"Aperçu"**.
+2. Dans **Fichier > Exporter**, sélectionnez le type de fichier **JPEG**.
 
-Le fichier doit être nommé comme suit :
+### Windows
 
-- **Votre numéro d’identification scolaire à 5 chiffres** (vous le trouverez dans l’e-mail)
-- **Tiret bas** `_`
-- **Votre date de naissance au format américain** (`AAAAMMJJ`)
+1. Ouvrez la photo avec l'application **"Photos"**.
+2. Cliquez en haut à droite sur les trois points **(...)** et sélectionnez **Enregistrer sous**.
+3. Sous **Type de fichier**, choisissez le format **.jpg**.
 
-**Exemple :**
-
-- Numéro d’identification scolaire : `45678`
-- Date de naissance : `15.06.2007`
-- Nom du fichier : `45678_20070615.jpg`
+---
 
 ## Télécharger la photo
 
-1. Ouvrez ce lien : [https://forms.office.com/e/G0f1EESe5r](https://forms.office.com/e/G0f1EESe5r)
-2. Connectez-vous avec votre compte e-mail scolaire.
-3. Téléchargez votre photo d’identité.
+1. Ouvrez ce lien : [https://schulabrechnung.ch](https://schulabrechnung.ch)
+2. Connectez-vous avec votre **compte e-mail scolaire**.
+3. Téléchargez votre photo et entrez votre **date de naissance**.
 
-Date limite
-: 13 mai 2024
+---
 
-En cas de questions, veuillez contacter :
+Si vous avez des questions, veuillez contacter :
 
-Téléphone
-: 032 327 07 07
-E-mail
-: sekretariat@gbsl.ch
+📞 **032 327 07 07**
+
+✉️ **[sekretariat@gbsl.ch](mailto:sekretariat@gbsl.ch?subject=Question%20concernant%20la%20carte%20d'élève&body=Bonjour%2C%0A%0AJe%20pose%20une%20courte%20question%20concernant%20la%20carte%20d'élève%3A%0A%0ACordialement%2C%0A%5BNom%5D)**

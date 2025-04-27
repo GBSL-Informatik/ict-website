@@ -10,61 +10,57 @@ draft: false
 
 # Foto für den Schülerausweis erstellen
 
-*April 2024*
-
 Alle Schülerinnen und Schüler des Gymnasiums Biel-Seeland erhalten zu Beginn ihrer Schulzeit einen persönlichen Schülerausweis. Damit können Sie:
 
 - Bücher aus der Bibliothek ausleihen
 - in der Bibliothek kopieren und drucken, indem Sie ein Guthaben auf die Karte laden
-- Türen öffnen (gemäß persönlicher Berechtigung, z. B. Musik-Übungsräume, Lift usw.)
+- Türen öffnen (gemäss persönlicher Berechtigung, z. B. Musik-Übungsräume, Lift usw.)
 
 Das Foto wird in der internen Datenbank gespeichert und ist für Ihre Lehrpersonen sichtbar.
+
+---
 
 ## Foto erstellen und hochladen
 
 Verwenden Sie die Selfie-Funktion auf Ihrem Mobiltelefon oder lassen Sie sich fotografieren.
 
 ### Anforderungen an das Foto:
-- **Passender Bildausschnitt** (Gesicht)
-- **Heller und einfarbiger Hintergrund**
-- **Zubehör** (z. B. Mützen, Sonnenbrillen) ist nicht erlaubt
 
-Senden Sie das erstellte Foto an Ihre neue Schul-E-Mail-Adresse, sodass Sie das Foto am Computer bearbeiten können. Speichern Sie das Bild auf Ihrem Computer.
+- Passender Bildausschnitt (Gesicht)
+- Heller und einfarbiger Hintergrund
+- Zubehör (z. B. Mützen, Sonnenbrillen) ist nicht erlaubt
 
-### Format der Fotodatei:
-Die Fotodatei muss als `.jpg` gespeichert sein. Falls dies nicht der Fall ist:
+Speichern Sie das Bild auf Ihrem Computer.
 
-- **Mac**  
-  Öffnen Sie die Fotodatei mit der App „Vorschau“.  
-  Wählen Sie unter __Ablage > Exportieren__ im Feld `Format` den Dateityp `JPEG` aus.
+---
 
-- **Windows**  
-  Öffnen Sie das Foto mit der App „Fotos“.  
-  Klicken Sie oben rechts auf die drei Punkte (__...__) und wählen Sie __Speichern unter__.  
-  Wählen Sie unter `Dateityp` das Format `.jpg`.
+## Format der Fotodatei
 
-### Benennung der Fotodatei:
-Die Datei sollte wie folgt benannt werden:
+Die Fotodatei muss als **.jpg** gespeichert sein. Falls dies nicht der Fall ist:
 
-- **Ihre 5-stellige Schul-ID-Nummer** (finden Sie in der E-Mail)
-- **Bodenstrich** `_`
-- **Ihr Geburtsdatum im amerikanischen Format** (`JJJJMMTT`)
+### Mac
 
-**Beispiel:**
-- Schul-ID-Nummer: `45678`
-- Geburtsdatum: `15.06.2007`
-- Dateiname: `45678_20070615.jpg`
+1. Öffnen Sie die Fotodatei mit der App **„Vorschau“**.
+2. Wählen Sie unter **Ablage > Exportieren** im Feld **Format** den Dateityp **JPEG** aus.
+
+### Windows
+
+1. Öffnen Sie das Foto mit der App **„Fotos“**.
+2. Klicken Sie oben rechts auf die drei Punkte **(...)** und wählen Sie **Speichern unter**.
+3. Wählen Sie unter **Dateityp** das Format **.jpg**.
+
+---
 
 ## Foto hochladen
-1. Öffnen Sie diesen Link: [https://forms.office.com/e/G0f1EESe5r](https://forms.office.com/e/G0f1EESe5r)
-2. Melden Sie sich mit Ihrem Schul-E-Mail-Account an.
-3. Laden Sie Ihr Passfoto hoch.
 
-Abgabefrist
-: 13. Mai 2024
+1. Öffnen Sie diesen Link: [https://schulabrechnung.ch](https://schulabrechnung.ch)
+2. Melden Sie sich mit Ihrem **Schul-E-Mail-Account** an.
+3. Laden Sie Ihr Foto hoch und geben Sie Ihr **Geburtsdatum** ein.
+
+---
 
 Falls Sie Fragen haben, melden Sie sich bitte unter:
-Telefon
-: 032 327 07 07
-E-Mail
-: sekretariat@gbsl.ch
+
+📞 **032 327 07 07**
+
+✉️ **[sekretariat@gbsl.ch](mailto:sekretariat@gbsl.ch?subject=Frage%20zum%20Schülerausweis&body=Guten%20Tag%2C%0A%0AIch%20habe%20eine%20kurze%20Frage%20zum%20Schülerausweis:%0A%0AMit%20freundlichen%20Gr%C3%BCssen%0A%5BIhr%20Name%5D)**
