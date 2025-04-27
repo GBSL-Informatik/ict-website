@@ -1,5 +1,5 @@
 ---
-sidebar_label: Seitenname
+sidebar_label: Compte scolaire
 sidebar_position: 10
 tags: []
 sidebar_custom_props:
