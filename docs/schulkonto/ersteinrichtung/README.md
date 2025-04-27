@@ -66,3 +66,8 @@ Mit dem Schulkonto hat man Zugriff auf viele verschiedene Dienste - Dateien auf 
 ## Passwort zurücksetzen
 
 Hier kannst du dein Passwort zurücksetzen, falls du es vergessen hast: [👉 Passwort zurücksetzen](https://password.edubern.ch/)
+
+## Wichtig: Mehrfachauthentifizierung einrichten
+Aus Sicherheitsgründen wird oft neben dem Passwort eine weitere Authentifikationsmethode verlangt, eine MFA, eine Mehrfachauthentifizierung. Von daheim aus musst du dich beispielsweise so bei den Diensten der Schule anmelden. 
+
+Mit der Nummer deines Smartphones solltest du bereits eine solche eingerichtet haben. Wie du kontrollierst, ob das so ist und was du tun sollst, falls das nicht der Fall ist: [👉 MFA einrichten](../../schulkonto/mfa/README.md)

@@ -37,8 +37,8 @@ Configuration autonome à domicile. Il est attendu que ces étapes soient réali
 :::aufgabe[Étapes à domicile réalisées jusquau 15. juin]
 
 1. Configuration initiale de votre compte scolaire [👉 Configuration du compte scolaire](/schulkonto)  
-2. Photo pour la carte d'étudiant [👉 Photo pour la carte](/schulkonto/foto-ausweis)  
-3. Configuration de l'authentification multifactorielle [👉 MFA](/schulkonto/mfa)  
+2. Configuration de l'authentification multifactorielle [👉 MFA](/schulkonto/mfa) 
+3. Photo pour la carte d'étudiant [👉 Photo pour la carte](/schulkonto/foto-ausweis)
 4. Installation des mises à jour [👉 Mises à jour](/tipps/updates)  
 5. Installation des programmes Office : [👉 Office365](http://portal.office.com/)  
    - Office365 (Word, Excel, PowerPoint)  

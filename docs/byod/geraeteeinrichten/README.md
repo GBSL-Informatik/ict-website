@@ -52,8 +52,8 @@ Eigenständige Einrichtung zu Hause. Es wird erwartet, dass diese Schritte bis a
 :::aufgabe[Schritte zu Hause, erledigt bis 15. Juni]
 
 1. Ersteinrichtung deines Schulkontos [👉 Ersteinrichtung Schulkonto](../../schulkonto/README.md)
-2. Foto für den Schüler:innenausweis [👉 Foto für den Ausweis](../../schulkonto/foto-ausweis/README.md)
-3. Mehrfachauthentifikation einrichten [👉 MFA](../../schulkonto/mfa/README.md)
+2. Mehrfachauthentifikation einrichten [👉 MFA](../../schulkonto/mfa/README.md)
+3. Foto für den Schüler:innenausweis [👉 Foto für den Ausweis](../../schulkonto/foto-ausweis/README.md)
 4. Updates installieren [👉Updates](/docs/tipps/updates/README.md)
 5. Office-Programme installieren: [👉 Office365](http://portal.office.com/)
    - Office365 (Word, Excel, Powerpoint)

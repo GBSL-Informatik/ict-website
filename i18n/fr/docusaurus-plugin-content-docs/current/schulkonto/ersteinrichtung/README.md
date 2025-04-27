@@ -57,3 +57,8 @@ Ce compte inclut, pendant toute la durée de la formation :
 ## Réinitialisation du mot de passe
 
 Tu peux réinitialiser ton mot de passe ici si tu l'as oublié : [👉 Réinitialiser le mot de passe](https://password.edubern.ch/)
+
+## Important : Configurer l'authentification multifactorielle
+Pour des raisons de sécurité, il est souvent exigé, en plus du mot de passe, une autre méthode d'authentification, appelée MFA, authentification multifactorielle. Depuis chez toi, par exemple, tu dois te connecter ainsi aux services de l'école.
+
+Avec le numéro de ton smartphone, tu devrais déjà avoir configuré une telle méthode. Pour vérifier si c'est le cas et savoir quoi faire si ce n'est pas fait : [👉 Configurer la MFA](../../schulkonto/mfa/README.md)
