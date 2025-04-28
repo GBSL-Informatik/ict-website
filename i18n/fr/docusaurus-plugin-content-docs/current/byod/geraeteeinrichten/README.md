@@ -38,18 +38,18 @@ Configuration autonome à domicile. Il est attendu que ces étapes soient réali
 
 1. Configuration initiale de votre compte scolaire [👉 Configuration du compte scolaire](/schulkonto)  
 2. Configuration de l'authentification multifactorielle [👉 MFA](/schulkonto/mfa) 
-3. Photo pour la carte d'étudiant [👉 Photo pour la carte](/schulkonto/foto-ausweis)
-4. Installation des mises à jour [👉 Mises à jour](/tipps/updates)  
-5. Installation des programmes Office : [👉 Office365](http://portal.office.com/)  
+3. Configuration de l’e-mail [Configurer l’e-mail](byod/mail/e-mail-einstellungen)
+4. Photo pour la carte d'étudiant [👉 Photo pour la carte](/schulkonto/foto-ausweis)
+5. Installation des mises à jour [👉 Mises à jour](/tipps/updates)  
+6. Installation des programmes Office : [👉 Office365](http://portal.office.com/)  
    - Office365 (Word, Excel, PowerPoint)  
    - Teams  
    - OneDrive  
    - OneNote  
-6. Autres programmes :  
+7. Autres programmes :  
    - WebUntis : application d'emploi du temps sur smartphone [👉 Emploi du temps](/stundenplan)  
    - Programmes Adobe [👉 Adobe](/anderesoftware/adobe)  
    - Programme pour examens électroniques [👉 E-Examens](/anderesoftware/digitales%20prüfen)  
-7. Configuration de l’e-mail [Configurer l’e-mail](byod/mail/e-mail-einstellungen)  
 
 :::
 
