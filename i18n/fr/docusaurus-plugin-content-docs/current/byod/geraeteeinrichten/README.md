@@ -21,7 +21,7 @@ Vous pouvez effectuer la configuration depuis chez vous ou à l'école. Certaine
 
 Si vous avez une licence Office365 de votre ancienne école, veuillez consulter impérativement [👉 ce document](/anderesoftware/office365).
 
-Vous êtes actuellement sur la page ICT de l'école, où vous pouvez trouver des réponses à tous vos problèmes et questions techniques. Vous pouvez enregistrer l'adresse de cette page comme favori dans votre navigateur ou même l'ajouter comme application sur votre ordinateur portable ou smartphone. Une instruction est disponible sous [Astuces](/tipps/01-webseite-als-app).
+Vous êtes actuellement sur la page ICT de l'école, où vous pouvez trouver des réponses à tous vos problèmes et questions techniques. Vous pouvez enregistrer l'adresse de cette page comme favori dans votre navigateur ou même l'ajouter comme application sur votre ordinateur portable ou smartphone. Une instruction est disponible sous [Astuces](/tipps/webseite-als-app).
 
 Si vous rencontrez des problèmes lors de la configuration, vous pouvez contacter le support pour les élèves: 
 
@@ -49,7 +49,7 @@ Configuration autonome à domicile. Il est attendu que ces étapes soient réali
    - WebUntis : application d'emploi du temps sur smartphone [👉 Emploi du temps](/stundenplan)  
    - Programmes Adobe [👉 Adobe](/anderesoftware/adobe)  
    - Programme pour examens électroniques [👉 E-Examens](/anderesoftware/digitales%20prüfen)  
-7. Configuration de l’e-mail [Configurer l’e-mail](/mail/e-mail-einstellungen)  
+7. Configuration de l’e-mail [Configurer l’e-mail](byod/mail/e-mail-einstellungen)  
 
 :::
 
@@ -61,7 +61,7 @@ Le premier jour d'école, mettre les appareils en service à l'école.
 :::
 
 :::aufgabe[Étapes à l'école]
-[👉 Configurer l'accès Wi-Fi](/wlan)
+[👉 Configurer l'accès Wi-Fi](byod/wlan)
 :::
 
 </TabItem>
