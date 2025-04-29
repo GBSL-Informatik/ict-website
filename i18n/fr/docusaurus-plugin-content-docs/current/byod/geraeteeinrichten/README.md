@@ -16,7 +16,7 @@ draft: false
 
 Vous pouvez effectuer la configuration depuis chez vous ou à l'école. Certaines étapes ne peuvent pas être réalisées depuis chez vous. Configurez tout ce qui est possible depuis chez vous dans la mesure du possible.
 
-**Attention : Les tâches 1 et 2 (voir ci-dessous) doivent être effectuées le plus rapidement possible. La photo pour la carte d'étudiant doit être soumise électroniquement avant le 14 mai.**
+**Attention : Les tâches 1 - 4 (voir ci-dessous) doivent être effectuées le plus rapidement possible.**
 :::
 
 Si vous avez une licence Office365 de votre ancienne école, veuillez consulter impérativement [👉 ce document](/anderesoftware/office365).

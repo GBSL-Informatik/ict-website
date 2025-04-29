@@ -12,7 +12,7 @@ sidebar_position: 1
 
 Du kannst die Einrichtung von daheim aus vornehmen und in der Schule. Von daheim aus kannst du nicht alles einrichten. Richte nach Möglichkeit aber alles ein, was du von daheim einrichten kannst.
 
- **Achtung: Die Aufgaben 1 und 2 (s. weiter unten) möglichst rasch erledigen, die Foto für den Ausweis muss bis am 14. Mai elektronisch eingereicht werden.**
+ **Achtung: Die Aufgaben 1 bis 4 (s. weiter unten) möglichst rasch erledigen.**
 :::
 
 Hast du von der alten Schule her eine Office365 Lizenz, so beachte unbedingt [👉 das](../../anderesoftware/office365/README.md).
