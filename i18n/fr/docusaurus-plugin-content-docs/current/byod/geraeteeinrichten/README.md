@@ -50,6 +50,8 @@ Configuration autonome à domicile. Il est attendu que ces étapes soient réali
    - WebUntis : application d'emploi du temps sur smartphone [👉 Emploi du temps](/stundenplan)  
    - Programmes Adobe [👉 Adobe](/anderesoftware/adobe)  
    - Programme pour examens électroniques [👉 E-Examens](/anderesoftware/digitales%20prüfen)  
+8. Conclusion : Remplis ce formulaire [👉](https://forms.office.com/e/8rwV7ixe5G)
+
 
 :::
 
