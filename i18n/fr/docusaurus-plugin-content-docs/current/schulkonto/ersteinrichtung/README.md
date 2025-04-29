@@ -27,7 +27,7 @@ Ce compte inclut, pendant toute la durée de la formation :
 
 ![--width=450px](../ersteinrichtung/gbsleinstieg.png)
 
-3. Saisis ton adresse e-mail scolaire (`Prénom.Nom@edu.gbsl.ch` pour les élèves ou Prénom.Nom@gbsl.ch pour les enseignants) ainsi que ton numéro de mobile au format 07x xxx xx xx. Ensuite, clique sur « Soumettre ».
+3. Saisis ton adresse e-mail scolaire (`Prénom.Nom@edu.gbsl.ch` pour les élèves ou `Prénom.Nom@gbsl.ch` pour les enseignants) ainsi que ton numéro de mobile au format 07x xxx xx xx. Ensuite, clique sur « Soumettre ».
 ![--width=350px](../ersteinrichtung/edubernpwreset.png)
    - **Important :** Utilise ton numéro de mobile personnel, celui que tu as indiqué sur les formulaires d'inscription de l'école.
 
@@ -62,7 +62,3 @@ Tu peux réinitialiser ton mot de passe ici si tu l'as oublié : [👉 Réinitia
 Pour des raisons de sécurité, il est souvent exigé, en plus du mot de passe, une autre méthode d'authentification, appelée MFA, authentification multifactorielle. Depuis chez toi, par exemple, tu dois te connecter ainsi aux services de l'école.
 
 Avec le numéro de ton smartphone, tu devrais déjà avoir configuré une telle méthode. Pour vérifier si c'est le cas et savoir quoi faire si ce n'est pas fait : [👉 Configurer la MFA](../../schulkonto/mfa)
-
-C:\Users\thoma\git_code\ict-website\i18n\fr\docusaurus-plugin-content-docs\current\schulkonto\mfa\README.md
-
-i18n\fr\docusaurus-plugin-content-docs\current\schulkonto\mfa\README.md

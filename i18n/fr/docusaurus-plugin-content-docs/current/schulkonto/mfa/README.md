@@ -33,7 +33,7 @@ Pour utiliser le MFA, des informations de sécurité supplémentaires doivent ê
    Vous serez invité à entrer l'adresse e-mail (nom d'utilisateur). Entrez l'adresse e-mail et confirmez en cliquant sur [Suivant].
 
    :::warning[Important]
-   Utilisez ici l'adresse e-mail scolaire : __Prénom.Nom@edu.gbsl.ch__
+   Utilisez ici l'adresse e-mail scolaire : `__Prénom.Nom@edu.gbsl.ch__`
    :::
 
    ![--width=350px](../mfa/mfa1.jpg)
