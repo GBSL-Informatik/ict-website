@@ -53,7 +53,7 @@ Eigenständige Einrichtung zu Hause. Es wird erwartet, dass diese Schritte bis a
 
 1. Ersteinrichtung deines Schulkontos [👉 Ersteinrichtung Schulkonto](../../schulkonto/README.md)
 2. Mehrfachauthentifikation einrichten [👉 MFA](../../schulkonto/mfa/README.md)
-3. Mailprogramm einrichten [Mail einrichten](../mail/mail-programme/README.md)
+3. Mail einrichten [Mail einrichten](../mail/outlook-web/README.md)
 4. Foto für den Schüler:innenausweis [👉 Foto für den Ausweis](../../schulkonto/foto-ausweis/README.md)
 5. Updates installieren [👉Updates](/docs/tipps/updates/README.md)
 6. Office-Programme installieren: [👉 Office365](http://portal.office.com/)
@@ -62,7 +62,8 @@ Eigenständige Einrichtung zu Hause. Es wird erwartet, dass diese Schritte bis a
    - OneDrive
    - OneNote
 7. Weitere Programme
-   - WebUntis: Stundenplan-App auf dem Smartphone [👉 Stundenplan](../stundenplan/)
+   - Mailprogramm einrichten [👉 Mailprogramm](../mail/mail-programme)
+   - WebUntis: Stundenplan-App auf dem Smartphone [👉 Stundenplan](../stundenplan)
    - Adobe-Programme [👉 Adobe](../../anderesoftware/adobe)
    - Programm für elektronische Prüfungen [👉 E-Prüfen](../../anderesoftware/digitales%20prüfen/)
 8. Abschluss: Fülle dieses Formular aus [👉](https://forms.office.com/e/8rwV7ixe5G)

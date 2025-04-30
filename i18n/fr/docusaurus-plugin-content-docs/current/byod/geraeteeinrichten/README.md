@@ -37,8 +37,8 @@ Configuration autonome à domicile. Il est attendu que ces étapes soient réali
 :::aufgabe[Étapes à domicile réalisées jusquau 15. juin]
 
 1. Configuration initiale de votre compte scolaire [👉 Configuration du compte scolaire](/schulkonto)  
-2. Configuration de l'authentification multifactorielle [👉 MFA](/schulkonto/mfa) 
-3. Configuration de l’e-mail [Configurer l’e-mail](byod/mail/e-mail-einstellungen)
+2. Configuration de l'authentification multifactorielle [👉 MFA](/byod/schulkonto/mfa) 
+3. Configuration de l’e-mail [Configurer l’e-mail](../mail/outlook-web)
 4. Photo pour la carte d'étudiant [👉 Photo pour la carte](/schulkonto/foto-ausweis)
 5. Installation des mises à jour [👉 Mises à jour](/tipps/updates)  
 6. Installation des programmes Office : [👉 Office365](http://portal.office.com/)  
@@ -47,7 +47,8 @@ Configuration autonome à domicile. Il est attendu que ces étapes soient réali
    - OneDrive  
    - OneNote  
 7. Autres programmes :  
-   - WebUntis : application d'emploi du temps sur smartphone [👉 Emploi du temps](/stundenplan)  
+   - Configurer le programme de messagerie [👉 Configurer le programme de messagerie](../mail/mail-programme/)
+   - WebUntis : application d'emploi du temps sur smartphone [👉 Emploi du temps](../stundenplan/)  
    - Programmes Adobe [👉 Adobe](/anderesoftware/adobe)  
    - Programme pour examens électroniques [👉 E-Examens](/anderesoftware/digitales%20prüfen)  
 8. Conclusion : Remplis ce formulaire [👉](https://forms.office.com/e/8rwV7ixe5G)
@@ -63,7 +64,7 @@ Le premier jour d'école, mettre les appareils en service à l'école.
 :::
 
 :::aufgabe[Étapes à l'école]
-[👉 Configurer l'accès Wi-Fi](byod/wlan)
+[👉 Configurer l'accès Wi-Fi](../wlan/README.md)
 :::
 
 </TabItem>
