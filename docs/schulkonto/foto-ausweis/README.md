@@ -25,7 +25,14 @@ Das Foto wird in der internen Datenbank gespeichert und ist für die Lehrpersone
 - Heller und einfarbiger Hintergrund
 - Zubehör (z. B. Mützen, Sonnenbrillen) ist nicht erlaubt
 
-![Schema für das Foto](Passbild-Schablone.jpg)
+:::solution[Musterbeispiele für Foto]
+![](fotomustertafel%20(3)_Seite_1.jpg)
+![](fotomustertafel%20(3)_Seite_2.jpg)
+![](fotomustertafel%20(3)_Seite_3.jpg)
+
+(Quelle: fedpol.ch)
+:::
+
 ---
 
 ## Foto erstellen und hochladen
@@ -58,6 +65,31 @@ Danach machst du das Bild für den Schüler:innenausweis und klickst auf **Foto 
 
 :::details[Anleitung für Android-Smartphone]
 
+Du kannst den ganzen Prozess mit deinem Smartphone durchführen.
+
+1. Öffne diesen Link: [https://schulabrechnung.ch](https://schulabrechnung.ch)
+2. Melde dich mit deinem **Schul-E-Mail-Account** an.
+3. Wähle im Register **Foto hochladen** aus
+4. Gibt dein Geburtsdatum ein
+5. Klicke auf __Datei auswählen__
+
+![](schulfotoiphone1.jpg)
+
+6. Folgendes Fenster öffnet sich, in dem du auf __Foto oder Video aufnehmen klickst__:
+
+![](schulfotoiphone2.jpeg)
+
+Danach machst du das Bild für den Schüler:innenausweis und klickst auf **Foto benutzen**. Es öffnet sich wieder **schulabrechnung.ch**
+
+7. Nun siehst du das Bild als kleines icon im Feld (8), klickst auf **Bild hochladen** und wartest einen Moment, bis du dein Bild rechts etwas grösser siehst.
+
+![](schulfotoiphone3.jpg)
+
+![](schulfotoiphone4.jpg)
+
+
+## Alte Version
+
 Verwenden Sie die Selfie-Funktion auf Ihrem Mobiltelefon oder lassen Sie sich fotografieren.
 ---
 
@@ -80,6 +112,7 @@ Die Fotodatei muss als **.jpg** gespeichert sein. Falls dies nicht der Fall ist:
 1. Öffnen Sie diesen Link: [https://schulabrechnung.ch](https://schulabrechnung.ch)
 2. Melden Sie sich mit Ihrem **Schul-E-Mail-Account** an.
 3. Laden Sie Ihr Foto hoch und geben Sie Ihr **Geburtsdatum** ein.
+
 
 :::
 ---
