@@ -37,9 +37,9 @@ Das Foto wird in der internen Datenbank gespeichert und ist für die Lehrpersone
 
 ## Foto erstellen und hochladen
 
+Du kannst den ganzen Prozess mit deinem Smartphone durchführen.
 
 :::details[Anleitung für iPhone]
-Du kannst den ganzen Prozess mit deinem iPhone durchführen.
 
 1. Öffne diesen Link: [https://schulabrechnung.ch](https://schulabrechnung.ch)
 2. Melde dich mit deinem **Schul-E-Mail-Account** an.
@@ -63,41 +63,42 @@ Danach machst du das Bild für den Schüler:innenausweis und klickst auf **Foto 
 
 :::
 
-:::details[Anleitung für Android-Smartphone]
-
-Du kannst den ganzen Prozess mit deinem Smartphone durchführen.
+:::details[Anleitung für Android Phone]
 
 1. Öffne diesen Link: [https://schulabrechnung.ch](https://schulabrechnung.ch)
 2. Melde dich mit deinem **Schul-E-Mail-Account** an.
 3. Wähle im Register **Foto hochladen** aus
 4. Gibt dein Geburtsdatum ein
-5. Klicke auf __Datei auswählen__
+5. Klicke auf Datei hinzufügen
 
 ![](schulfotoiphone1.jpg)
 
-6. Folgendes Fenster öffnet sich, in dem du auf __Foto oder Video aufnehmen klickst__:
+6. Folgendes Fenster öffnet sich, in dem du auf **Foto oder Video aufnehmen klickst**:
 
-![](schulfotoiphone2.jpeg)
+![](schulfotoandroid2a.png)
 
 Danach machst du das Bild für den Schüler:innenausweis und klickst auf **Foto benutzen**. Es öffnet sich wieder **schulabrechnung.ch**
 
 7. Nun siehst du das Bild als kleines icon im Feld (8), klickst auf **Bild hochladen** und wartest einen Moment, bis du dein Bild rechts etwas grösser siehst.
 
-![](schulfotoiphone3.jpg)
+![](‫schulfotoandroid3a.jpg)
 
-![](schulfotoiphone4.jpg)
+![](schulfotoandroid4.png)
 
+:::
 
-## Alte Version
+:::solution[Das Format deines Fotos ist nicht __.jpg__]
 
 Verwenden Sie die Selfie-Funktion auf Ihrem Mobiltelefon oder lassen Sie sich fotografieren.
+
+Speichern Sie das Bild auf Ihrem Computer. Sie können es z.B. sich selber mailen und danach auf dem PC öffnen
+
 ---
 
-## Format der Fotodatei
+### Mac
 
-Die Fotodatei muss als **.jpg** gespeichert sein. Falls dies nicht der Fall ist:
-
-
+1. Öffnen Sie die Fotodatei mit der App **„Vorschau“**.
+2. Wählen Sie unter **Ablage > Exportieren** im Feld **Format** den Dateityp **JPEG** aus.
 
 ### Windows
 
@@ -113,7 +114,7 @@ Die Fotodatei muss als **.jpg** gespeichert sein. Falls dies nicht der Fall ist:
 2. Melden Sie sich mit Ihrem **Schul-E-Mail-Account** an.
 3. Laden Sie Ihr Foto hoch und geben Sie Ihr **Geburtsdatum** ein.
 
-
+👉 [Foto hochladen - Schulabrechnung](https://schulabrechnung.ch)
 :::
 ---
 
