@@ -10,10 +10,10 @@ draft: false
 
 # Foto für den Schülerausweis erstellen
 
-Alle Schülerinnen und Schüler des Gymnasiums Biel-Seeland erhalten zu Beginn ihrer Schulzeit einen persönlichen Schülerausweis. Damit können sie:
+Alle Schüler:innen des Gymnasiums Biel-Seeland erhalten zu Beginn ihrer Schulzeit einen persönlichen Schülerausweis. Damit können sie:
 
 - Bücher aus der Bibliothek ausleihen
-- in der Bibliothek kopieren und drucken, indem Sie ein Guthaben auf die Karte laden
+- in der Bibliothek kopieren und drucken, indem sie ein Guthaben auf die Karte laden
 - Türen öffnen (gemäss persönlicher Berechtigung, z. B. Musik-Übungsräume, Lift usw.)
 
 Das Foto wird in der internen Datenbank gespeichert und ist für die Lehrpersonen sichtbar.
@@ -39,6 +39,12 @@ Das Foto wird in der internen Datenbank gespeichert und ist für die Lehrpersone
 
 Du kannst den ganzen Prozess mit deinem Smartphone durchführen.
 
+:::solution[Klicke für QR Code]
+
+![--width=60%](qrschulfotoweiss.jpg)
+
+:::
+
 :::details[Anleitung für iPhone]
 
 1. Öffne diesen Link: [https://schulabrechnung.ch](https://schulabrechnung.ch)
@@ -55,7 +61,9 @@ Du kannst den ganzen Prozess mit deinem Smartphone durchführen.
 
 Danach machst du das Bild für den Schüler:innenausweis und klickst auf **Foto benutzen**. Es öffnet sich wieder **schulabrechnung.ch**
 
-7. Nun siehst du das Bild als kleines icon im Feld (8), klickst auf **Bild hochladen** und wartest einen Moment, bis du dein Bild rechts etwas grösser siehst.
+7. Nun siehst du das Bild als kleines icon im Feld (8). Kontrolliere, ob die Dateiendung __jpg__ lautet. (Möglicherweise musst du das Handy vom Hochformat ins Querformat drehen, um das kontrollieren zu können). Wenn die Dateiendung anders lautet, musst du weiter unten die andere Methode für die Erstellung des Fotos wählen.
+
+Wenn die Dateiendung richtig ist, klickst auf **Bild hochladen** und wartest einen Moment, bis du dein Bild rechts etwas grösser siehst. Wenn das der Fall ist, ist das Bild erfolgreich hochgeladen. Wenn das Bild aber kein korrektes Passbild zeigt, musst du weiter unten die andere Methode für die Erstellung des Fotos wählen.
 
 ![](schulfotoiphone3.jpg)
 
@@ -73,13 +81,18 @@ Danach machst du das Bild für den Schüler:innenausweis und klickst auf **Foto 
 
 ![](schulfotoiphone1.jpg)
 
-6. Folgendes Fenster öffnet sich, in dem du auf **Foto oder Video aufnehmen klickst**:
+6. Folgendes Fenster öffnet sich, in dem du auf **Kamera klickst**:
 
 ![](schulfotoandroid2a.png)
 
 Danach machst du das Bild für den Schüler:innenausweis und klickst auf **Foto benutzen**. Es öffnet sich wieder **schulabrechnung.ch**
 
-7. Nun siehst du das Bild als kleines icon im Feld (8), klickst auf **Bild hochladen** und wartest einen Moment, bis du dein Bild rechts etwas grösser siehst.
+7. Nun siehst du den Dateinamen deines Fotos im Feld (8). Kontrolliere, ob die Dateiendung __jpg__ lautet. (Möglicherweise musst du das Handy vom Hochformat ins Querformat drehen, um das kontrollieren zu können). Wenn die Dateiendung anders lautet, musst du weiter unten die andere Methode für die Erstellung des Fotos wählen.
+
+Wenn die Dateiendung richtig ist, klickst auf **Bild hochladen** und wartest einen Moment, bis du dein Bild rechts etwas grösser siehst. Wenn das der Fall ist, ist das Bild erfolgreich hochgeladen. Wenn das Bild aber kein korrektes Passbild zeigt, musst du weiter unten die andere Methode für die Erstellung des Fotos wählen.
+
+
+klickst auf **Bild hochladen** und wartest einen Moment, bis du dein Bild rechts etwas grösser siehst.
 
 ![](‫schulfotoandroid3a.jpg)
 
@@ -87,7 +100,7 @@ Danach machst du das Bild für den Schüler:innenausweis und klickst auf **Foto 
 
 :::
 
-:::solution[Das Format deines Fotos ist nicht __.jpg__]
+:::solution[Das Format deines Fotos ist nicht __.jpg__ oder zeigt kein korrektes Passbild]
 
 Verwenden Sie die Selfie-Funktion auf Ihrem Mobiltelefon oder lassen Sie sich fotografieren.
 
