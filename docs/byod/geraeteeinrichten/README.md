@@ -66,7 +66,9 @@ Eigenständige Einrichtung zu Hause. Es wird erwartet, dass diese Schritte bis a
    - WebUntis: Stundenplan-App auf dem Smartphone [👉 Stundenplan](../stundenplan)
    - Adobe-Programme [👉 Adobe](../../anderesoftware/adobe)
    - Programm für elektronische Prüfungen [👉 E-Prüfen](../../anderesoftware/digitales%20prüfen/)
-8. Abschluss: Fülle dieses Formular aus [👉](https://forms.office.com/e/8rwV7ixe5G)
+8. Abschluss: 
+   - Hier kannst du deine Installationen testen: Teile mit gbsl.onboarding@bernedu.ch eine Word-Datei: [Word-Datei teilen](../onedrive/Dateienteilen)
+   - Fülle dieses Formular aus [👉](https://forms.office.com/e/8rwV7ixe5G)
 
 :::
 
