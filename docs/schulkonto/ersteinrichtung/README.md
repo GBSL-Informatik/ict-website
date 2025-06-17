@@ -50,8 +50,9 @@ Darin inbegriffen sind während der gesamten Ausbildungszeit:
    - Der eigene Vorname oder Nachname darf nicht verwendet werden.
 
 6. Eine Nachricht bestätigt, dass du dein Passwort erfolgreich festgelegt hast.
+
 ![--width=350px](../ersteinrichtung\edubernpwbestätigt.png)
-   - **Falls du eine Fehlermeldung erhalten hast, melde dich bitte im Sekretariat unter 032 327 07 07 oder sekretariat@gbsl.ch.**
+   - **Falls du eine Fehlermeldung erhalten hast, melde dich bei it-help-for-students@bernedu.ch**
 
 import PasswordDocs from '../../sicherheit/internet-passwort/\_passwords.mdx';
 
