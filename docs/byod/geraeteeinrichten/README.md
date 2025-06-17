@@ -47,6 +47,8 @@ Wir empfehlen ein Benutzerkonto für die Schule einzurichten, damit Probleme zwi
 
 :::danger[Vorgängig]
 Eigenständige Einrichtung zu Hause. Es wird erwartet, dass diese Schritte bis am 15. Juni erledigt werden.
+
+Wenn du mit dem Einrichten grosse Probleme und keine Hilfe hast, kannst du vor oder in den Ferien vorbeikommen und wir helfen dir beim Einrichten. Unter Punkt 8 kannst du das Formular ausfüllen und dich für einen Termin anmelden.
 :::
 
 :::aufgabe[Schritte zu Hause, erledigt bis 15. Juni]
