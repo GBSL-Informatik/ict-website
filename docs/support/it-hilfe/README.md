@@ -127,6 +127,37 @@ Eine einfache und praktische Lösung ist die Installation von __Microsoft PowerT
 :::
 ::::
 
+::::info[Bei der Erstanmeldung oder dem Passwort-Reset erhalte ich keine SMS]
+
+Das kann 2 mögliche Ursachen haben: Entweder ist auf deinem Smartphone ein SMS-Filter aktiviert oder auf der SIM-Karte deines Mobile-Anbieters verhindert eine Einstellung den Empfang.
+
+:::solution[SMS-Filter prüfen]
+
+
+![](PowerToysAwake.png)
+
+
+:::
+
+:::solution[Netzwerk-Einstellungen zurücksetzen]
+
+
+
+Wähle „Einstellungen“  > „Allgemein“ > „iPhone übertragen/zurücksetzen“ > „Zurücksetzen“.
+
+ACHTUNG: Wenn du die Option „Alle Inhalte & Einstellungen löschen“ wählst, wird dein gesamter Inhalt gelöscht. Weitere Informationen findest du unter iPhone löschen.
+
+Wähle eine Option aus:
+
+Alle Einstellungen zurücksetzen: Alle Einstellungen – die Netzwerkeinstellungen, das Tastaturwörterbuch, die Standorteinstellungen, die Datenschutzeinstellungen und die für Apple Pay hinterlegten Karten – werden entfernt und auf ihre jeweiligen Standardwerte zurückgesetzt. Es werden aber keine Daten oder Medien gelöscht.
+
+Netzwerkeinstellungen zurücksetzen: Alle Netzwerkeinstellungen werden zurückgesetzt. Außerdem wird der unter „Einstellungen“ > „Allgemein“ > „Info“ zugeordnete Name auf „iPhone“ zurückgesetzt. Zertifikate, die manuell als vertrauenswürdig eingestuft wurden (etwa für Websites), werden in „nicht vertrauenswürdig“ geändert.
+:::
+
+
+
+::::
+
 </TabItem>
 <TabItem value="Installation D-Gebäude" label="Installation D-Gebäude">
 
