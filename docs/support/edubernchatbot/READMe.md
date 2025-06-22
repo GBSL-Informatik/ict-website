@@ -6,7 +6,8 @@ sidebar_custom_props:
 draft: false
 ---
 
-# Chatbot von edubern
+# Login-Assistent von edubern - 
+ein chatbot hilft dir bei Problemen mit dem Onboarding.
 
 edubern ist der Informatikbetreiber unserer Schule. Er bietet einen Chatbot an, der dir bei Problemen hilft, eine Lösung zu finden.
 
