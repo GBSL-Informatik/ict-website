@@ -7,9 +7,9 @@ draft: false
 ---
 
 # Login-Assistent von edubern - 
-ein chatbot hilft dir bei Problemen mit dem Onboarding.
+ein chatbot hilft dir beim Onboarding.
 
-edubern ist der Informatikbetreiber unserer Schule. Er bietet einen Chatbot an, der dir bei Problemen hilft, eine Lösung zu finden.
+edubern ist der Informatikbetreiber unserer Schule. Er bietet einen Chatbot an, der dir hilft Lösungen zu finden, wenn du beim Onboarding Probleme hast.
 
 <iframe 
   src="https://qr.edubern.ch/assistent" 

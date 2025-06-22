@@ -20,7 +20,7 @@ Darin inbegriffen sind während der gesamten Ausbildungszeit:
 - ein umfangreicher Cloudspeicherplatz (5 TB) auf Microsoft OneDrive
 
 ## Ersteinrichtung
-
+ 
 1. Gehe in einem Internet-Browser auf die Website des Gymnasiums Biel-Seeland: www.gbsl.ch
 
 2. Klicke auf das Menü «Quicklinks» und wähle «PasswortReset».

@@ -136,30 +136,44 @@ Das kann 2 mögliche Ursachen haben: Entweder ist auf deinem Smartphone ein SMS-
 <Tabs groupId="phone">
   <TabItem value="iPhone" label="iPhone">
 
-Wähle „Einstellungen“  > „Allgemein“ > „iPhone übertragen/zurücksetzen“ > „Zurücksetzen“.
+Wähle __Einstellungen__ scrolle runter zu __App__, wähle __App__.
 
-ACHTUNG: Wenn du die Option „Alle Inhalte & Einstellungen löschen“ wählst, wird dein gesamter Inhalt gelöscht. Weitere Informationen findest du unter iPhone löschen.
 
-Wähle eine Option aus:
+![--width=75%](iphonesmsfilter2.jpeg)
 
-Alle Einstellungen zurücksetzen: Alle Einstellungen – die Netzwerkeinstellungen, das Tastaturwörterbuch, die Standorteinstellungen, die Datenschutzeinstellungen und die für Apple Pay hinterlegten Karten – werden entfernt und auf ihre jeweiligen Standardwerte zurückgesetzt. Es werden aber keine Daten oder Medien gelöscht.
 
-Netzwerkeinstellungen zurücksetzen: Alle Netzwerkeinstellungen werden zurückgesetzt. Außerdem wird der unter „Einstellungen“ > „Allgemein“ > „Info“ zugeordnete Name auf „iPhone“ zurückgesetzt. Zertifikate, die manuell als vertrauenswürdig eingestuft wurden (etwa für Websites), werden in „nicht vertrauenswürdig“ geändert.
+Scrolle runter zu __Nachrichten__ und wähle diese.
+
+![--width=75%](iphonesmsfilter3.jpeg)
+
+
+Ist dieser Filter gesetzt, kannst du in der Liste nachschauen, ob du eine SMS von 079 807 10 11 erhalten hast und diese Nummer zu den bekannten Absendern hinzufügen.
+
+Wenn dieser Filter nicht gesetzt ist, dann gehe zur nächsten Lösung "Netzwerk zurücksetzen".
+
+![--width=75%](iphonesmsfillter4.jpeg)
 
   </TabItem>
   <TabItem value="android" label="Android">
 
+Hinweis: Je nach Android-Version oder Hersteller können die Screenshots anders aussehen.
 
-Anleitung
+Öffne die Nachrichten-App und tippe danach auf das Symbol für deinen Kontonamen:
 
+![--width=75%](androidsmsfilter1.png)
+
+Hier wählst du __Als Spam markiert und blockiert__.
+
+![--width=75%](androidsmsfilter2.png)
+
+Wenn du folgenden Screen siehst, musst du die Lösung "Netzwerkeinstellungen zurücksetzen" wählen.
+
+![--width=75%](AndroidleererOrdnerFilterSMS.jpg)
+
+Siehst du einen Ordner mit SMS-Nachrichten, suchst du eine Nachricht von 079 807 10 11, öffne sie und tippe auf __Kein Spam__ danach solltest du die SMS empfangen können.
 
   </TabItem>
 </Tabs>
-
-
-
-![](PowerToysAwake.png)
-
 
 :::
 
@@ -168,29 +182,44 @@ Anleitung
 <Tabs groupId="phone">
   <TabItem value="iPhone" label="iPhone">
 
-Wähle „Einstellungen“  > „Allgemein“ > „iPhone übertragen/zurücksetzen“ > „Zurücksetzen“.
+Wähle __Einstellungen__    und danach __Allgemein__ 
 
-ACHTUNG: Wenn du die Option „Alle Inhalte & Einstellungen löschen“ wählst, wird dein gesamter Inhalt gelöscht. Weitere Informationen findest du unter iPhone löschen.
+ ![--width=75%](iPhoneNetzwerReset1.jpeg)
 
-Wähle eine Option aus:
+ Hier wählst du __iPhone übertragen/zurücksetzen__ 
+ 
+ ![--width=75%](iPhoneNetzwerReset2.jpeg)
+ 
 
-Alle Einstellungen zurücksetzen: Alle Einstellungen – die Netzwerkeinstellungen, das Tastaturwörterbuch, die Standorteinstellungen, die Datenschutzeinstellungen und die für Apple Pay hinterlegten Karten – werden entfernt und auf ihre jeweiligen Standardwerte zurückgesetzt. Es werden aber keine Daten oder Medien gelöscht.
+ ![--width=75%](iPhoneNetzwerReset3.jpeg)
 
-Netzwerkeinstellungen zurücksetzen: Alle Netzwerkeinstellungen werden zurückgesetzt. Außerdem wird der unter „Einstellungen“ > „Allgemein“ > „Info“ zugeordnete Name auf „iPhone“ zurückgesetzt. Zertifikate, die manuell als vertrauenswürdig eingestuft wurden (etwa für Websites), werden in „nicht vertrauenswürdig“ geändert.
+
+ACHTUNG: Nichts Falsches wählen, wenn du die Option „Alle Inhalte & Einstellungen löschen“ wählst, wird dein gesamter Inhalt gelöscht.
+
+Wähle 
+
+**Netzwerkeinstellungen**: Alle Netzwerkeinstellungen werden zurückgesetzt. Außerdem wird der unter „Einstellungen“ > „Allgemein“ > „Info“ zugeordnete Name auf „iPhone“ zurückgesetzt. Zertifikate, die manuell als vertrauenswürdig eingestuft wurden (etwa für Websites), werden in „nicht vertrauenswürdig“ geändert.
 
   </TabItem>
   <TabItem value="android" label="Android">
 
+Wähle __Einstelllungen__ und scrolle runter zu __System__, wähle dies an.
 
-Anleitung
+Die Screenshots stammen von einem Pixel mit Android 15 und Android 16. Je nach Android-Version und Hersteller des Smartphones können die Menüs anders ausschauen.
 
+![--width=75%](androidnetzwerkreset1.png)
 
+Scrolle nach unten und wähle __Optionen zum Zurücksetzen__ an.
+
+![--width=75%](androidnetzwerkreset2.png)
+
+Wähle __Einstellungen für Mobilfunknetze zurücksetzen__ aus. 
+
+![--width=75%](androidnetzwerkreset3.png)
   </TabItem>
 </Tabs>
 
-
 :::
-
 
 
 ::::

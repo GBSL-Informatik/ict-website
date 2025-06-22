@@ -48,6 +48,11 @@ Wir empfehlen ein Benutzerkonto für die Schule einzurichten, damit Probleme zwi
 :::danger[Vorgängig]
 Eigenständige Einrichtung zu Hause. Es wird erwartet, dass diese Schritte bis am 15. Juni erledigt werden.
 
+Edubern, der Informatikbetreiber der Schule bietet eine ausführliche Anleitung an: [Anleitung edubern](https://erzbe.sharepoint.com/sites/EDUBERN-Infohub-Hilfsmittel/Lists/Hilfsmittel/Attachments/157/Anleitung%20–%20Onboarding%20EDUBERN%20BYOD%20FED_RESET_D.pdf) und einen Chatbot, der bei Problemen Lösungen vorschlägt:[Chatbot Onboarding](https://qr.edubern.ch/assistent)
+
+**Achtung**: Die Anleitung von edubern deckt nicht alles ab, was du für dein Arbeiten am GBSL benötigst. Deshalb führe sorgfältig die weiteren Punkte unserer Anleitung durch.
+
+
 Wenn du mit dem Einrichten grosse Probleme und keine Hilfe hast, kannst du vor oder in den Ferien vorbeikommen und wir helfen dir beim Einrichten. Unter Punkt 8 kannst du das Formular ausfüllen und dich für einen Termin anmelden.
 :::
 
