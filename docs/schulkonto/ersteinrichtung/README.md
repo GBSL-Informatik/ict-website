@@ -34,6 +34,8 @@ Darin inbegriffen sind während der gesamten Ausbildungszeit:
 4. Wenn du deine Angaben korrekt eingegeben hast, erhältst du eine SMS mit einem Link. Die SMS wird an die Mobilnummer gesendet, welche du in Schritt 3 angegeben hast. Klicke nun auf den Link in der SMS.
    - **Falls eine Fehlermeldung angezeigt wird oder du keine SMS erhalten hast, melde dich bei it-help-for-students@bernedu.ch.**
 
+   - **Auf folgender Seite findest du Lösungen zu diesem Problem: [it-hilfe](https://ict.gbsl.website/support/it-hilfe/)**
+
 5. Jetzt öffnet sich auf deinem Mobiltelefon ein neues Fenster im Internet-Browser. Hier kannst du dein Passwort für den E-Mail-Account der Schule festlegen.
 ![--width=350px](../ersteinrichtung\edubernpwvergeben.png)
    1. Gib deine E-Mail-Adresse der Schule ein (Vorname.Nachname@edu.gbsl.ch).
