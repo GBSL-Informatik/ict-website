@@ -16,11 +16,17 @@ Einrichten des Uniflow-Druckertreibers für die Fotokopierer/Drucker. Klicke auf
 
 ![](./uniflowkonto.png)
 
-Melde dich mit deinem Schulkonto (Mailadresse) an. Du wirst eine Mail mit dem PIN für uniflow erhalten.
+Fortfahren mit __Fortfahren mit AAD EDUBERN__. Melde dich mit deinem Schulkonto (Mailadresse) an. Danach befindest du dich auf dem **Dashboard**.
+
+![](.\druckenPINauslesen.png)
+
+Scrolle ganz nach unten und fahre mit deiner Maus auf __PIN__, rechts siehst du dann die __...__ und kannst deine PIN anzeigen. Mit dieser PIN kannst du am Drucker deinen Badge oder deine Karte registrieren.
+
+Drucker installieren:
 
 ![](.\uniflowdashboard.png)
 
-Du befindest dich auf dem Dashboard. Klicke im Menü links auf "Drucken starten" und scrolle herunter bis zu "Druckertreiber installieren".
+Klicke im Menü links auf "Drucken starten" und scrolle herunter bis zu "Druckertreiber installieren".
 
 Wähle den Druckertreiber gemäss deinem Betriebssystem.
 
