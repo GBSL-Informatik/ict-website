@@ -21,7 +21,7 @@ Kannst du dich nicht im Wlan anmelden, dann schau noch einmal unter [**WLAN**](.
 :::info[Bist du Schüler:in]
 
 wendest du dich an:
-**it-help-for-students@bernedu.ch**
+**ithelp@bernedu.ch**
 :::
 
 :::info[Bist du eine Lehrperson]
@@ -41,7 +41,7 @@ In jeder Klasse hat es eine:n Digicoach:
 
 Aufgaben der Digicoaches:
 - Support der Klassenkolleg:innen bei Problemen mit deren BYOD-Geräten.
-- Weiterleitung an it-help-for-students@bernedu.ch, falls sie die Probleme nicht lösen können.
+- Weiterleitung an ithelp@bernedu.ch, falls sie die Probleme nicht lösen können.
 - Unterstützung der Lehrer:innen bei Schwierigkeiten mit der Technik in den Unterrichtszimmern.
 - Meldung an den Support über den QR-Code auf den AV-Stehpulten, falls sie das Problem nicht lösen können.
 
