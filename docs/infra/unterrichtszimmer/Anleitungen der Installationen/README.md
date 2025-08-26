@@ -51,7 +51,6 @@ Optional:
 
 ---
 ![](FB-Beamer.png)
-
 <a target="\_blank" href={require('./assets/Installationen-A-D.pdf').default}>
    :mdi[download-box-outline]{.blue} Download dieser Anleitung
 </a>
