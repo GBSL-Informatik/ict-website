@@ -3,7 +3,7 @@ description: 'Alles, was zur (digitalen) Schulinfrastruktur gehört'
 chapter: Schulinfrastruktur
 sidebar_position: 3
 sidebar_custom_props:
-  icon: mdi-home-circle
+  icon: mdi[GoogleClassroom]
   source: gym-kirchenfeld
   path: /docs/infra/README.md
 ---

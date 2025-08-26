@@ -3,7 +3,7 @@ sidebar_label: Anleitungen Zimmerinstallationen
 sidebar_position: 10
 tags: []
 sidebar_custom_props:
-  icon: mdi-file-document-outline
+  icon: mdiPresentation
 draft: false
 ---
 
@@ -12,7 +12,7 @@ draft: false
 <Tabs groupId="gebäude">
   <TabItem value="d" label="Gebäude A,D">
 
-Der **Beamer** ist das zentrale Gerät in diesen Unterrichtszimmern über ihn werden die Quellen geschaltet.
+Der **Beamer** ist das zentrale Gerät in diesen Unterrichtszimmern, über ihn werden die Quellen geschaltet.
 
 - Die Steuerung der Quellen erfolgt über die **Fernbedienung des Beamers**.  
   - Die Lautstärke stellst du damit ein oder über deinen Laptop.  
@@ -31,8 +31,9 @@ Der **Beamer** ist das zentrale Gerät in diesen Unterrichtszimmern über ihn we
   - Für die Kamera wählst du den anderen Eingang.  
   - Mit der Fernbedienung „HDBaseT“ wählen.  
 
-- Auf dem **Lehrertisch** findest du eine Tischsteckdose mit Stromstecker für deinen Laptop.  
-
+- Auf dem **Lehrertisch** findest du eine Tischsteckdose mit Stromstecker für deinen Laptop.
+ 
+![](Tischsteckdose.png)
 ---
 
 ## Fernbedienung des Beamers
@@ -47,19 +48,11 @@ Optional:
 - **Freeze**
 
 ---
-
-## Bedienungsschritte
-
-1. **Beamer einschalten/ausschalten**
-2. **hdmi-Taste** schaltet zwischen  
-   - hdmi2: Win-Air  
-   - hdmi1: Mac-Air  
-   - HDBaseT: Kamera oder Laptop mit Kabel  
-3. **Lautstärke** ändern (Fernbedienung oder Laptop)  
-4. **Blank = A/V Mute** (schaltet das Bild des Beamers aus)  
-5. **Freeze** (friert das Bild ein – du kannst auf deinem Laptop ein anderes Programm öffnen)
-
 ![](FB-Beamer.png)
+
+<a target="\_blank" href={require('./assets/Installationen-A-D.pdf').default}>
+   :mdi[download-box-outline]{.blue} Download dieser Anleitung
+</a>
 
   </TabItem>
   <TabItem value="p" label="Gebäude G,M,P,S">
@@ -84,10 +77,9 @@ Zentrales Steuergerät ist der **Verstärker**, über diesen werden die Quellen 
 5. Welche Quelle angewählt ist, siehst du auf dem Display **(5)**.
 6. Die Lautstärke stellst du auf dem rechten Drehknopf **(3)** ein.
 
-Die Anleitung kannst du hier downloaden
 
 <a target="\_blank" href={require('./assets/Installationen-G-M-P-S.pdf').default}>
-   :mdi[download-box-outline]{.blue} Download dieser Datei
+   :mdi[download-box-outline]{.blue} Download dieser Anleitung
 </a>
 
   </TabItem>
