@@ -28,12 +28,14 @@ Der **Beamer** ist das zentrale Gerät in diesen Unterrichtszimmern, über ihn w
 - **Kabelverbindung:**  
   - MacBook und Windows-Laptop kannst du auch mit Kabel verbinden.  
   - Schließe das Kabel am schwarzen Kästchen an und wähle mit dem Knopf den entsprechenden Eingang.  
-  - Für die Kamera wählst du den anderen Eingang.  
+  ![--width=50%](swkästchen.png)
+  - Für die Kamera wählst du den anderen Eingang. 
+  - Das Ledlämpchen des gewählten und damit aktiven Eingangs leuchtet.
   - Mit der Fernbedienung „HDBaseT“ wählen.  
 
 - Auf dem **Lehrertisch** findest du eine Tischsteckdose mit Stromstecker für deinen Laptop.
- 
-![](Tischsteckdose.png)
+
+![--width=60%](Tischsteckdose.png)
 ---
 
 ## Fernbedienung des Beamers
@@ -76,6 +78,8 @@ Zentrales Steuergerät ist der **Verstärker**, über diesen werden die Quellen 
        - Verbinde deinen Laptop mit einem **HDMI-Kabel** an der Front des Verstärkers **(4)**.  
 5. Welche Quelle angewählt ist, siehst du auf dem Display **(5)**.
 6. Die Lautstärke stellst du auf dem rechten Drehknopf **(3)** ein.
+
+![](Verstärker.png)
 
 
 <a target="\_blank" href={require('./assets/Installationen-G-M-P-S.pdf').default}>
