@@ -57,6 +57,19 @@ EDUBERN
 :::
 ::::
 
+::::info[Ich muss meinen Laptop zur Reparatur einschicken - gibt es Ersatzgeräte?]
+
+:::solution[Lösung]
+Unsere Bibliothek leiht Laptops aus: [](https://www.winmedio.net/gymb)
+
+1. Klicke auf __Suchergebnisse__
+2. Setze das Häkchen bei __Laptops__
+
+![](laptopbiblio.jpg)
+:::
+::::
+
+
 ::::info[Ich kann mich bei Word oder einer andern App nicht anmelden]
 :::solution[Lösung]
 ## Hast du Probleme mit Anmelden, gibt es zwei Hauptursachen
