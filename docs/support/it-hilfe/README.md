@@ -135,6 +135,28 @@ Deaktiviere zum Schluss die Option __Tracking der IP-Adresse beschränken__.
 ::::
 
 ::::info[WLAN]
+Ich kann mit meinem Mac nicht mehr direkt drucken über **uniflow**
+:::solution[Lösung]
+Wenn deinstallieren und neu installieren nicht hilft, so musst du folgendermassen vorgehen, um ein deep clean zu erzwingen, damit keine alten Installationsdateien zurückbleiben:
+
+Oeffne den __Finder__, gehe zu __Programme__ dann zu __Dienstprogramme__ und öffne die **Aktivitätsanzeige** (gelb markiert) mit einem Doppelklick.
+
+![](aktivitätsanzeige1.png)
+
+Anschliessend suchst du **smartclient**, doppelklicke und wähle __Sofort beenden__.
+
+Du befindest dich immer noch im Finder, suche __Terminal__ (im Screenshot oben grün markiert), doppelklicke und gib folgendes ein:
+
+sudo bash /etc/smartclient/uninstall-smartclient.bash
+
+Gib dein Passwort ein für dein Macbook - es klappt, auch wenn du keine Eingabe siehst. Drücke __Enter__.
+
+
+Danach kannst du den Druckertreiber über das Dashboard installieren [👉 ](https://gymb.eu.uniflowonline.com/#Dashboard).
+:::
+::::
+
+::::info[WLAN]
 Problem mit dem **Passwort** beim Anmelden
 :::solution[Lösung]
 Kein neues Passwort setzen im Anmeldeprozess des WLAN! 
