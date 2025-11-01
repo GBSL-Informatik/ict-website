@@ -12,14 +12,14 @@ draft: false
 Hier solltest du Lösungen für dein technisches Problem finden können.
 
 Falls für dein Problem keine Lösung zu finden ist oder du eine Lösung ausprobiert hast, aber dein Problem damit nicht gelöst werden konnte, so kannst du das hier melden. Gib bitte genau an, was das Problem ist und was du für Lösungen probiert hast. Screenshots sind hilfreich für den Support. 
-[Mail schreiben](mailto:it-help-for-students@bernedu.ch?subject=%20&body=%20Damit%20wir%20rasch%20helfen%20können,%20benötigen%20wir%20folgende%20Angaben%0A%0AMailadresse%20gbsl:%0A%0AAktuelle%20Mobilnummer:%0A%0AMac%20oder%20Windows:%0A%0AGenaue%20Beschreibung%20des%20Problems:%0A%0AFehlermeldung,%20falls%20eine%20erscheint:%0A%0AEvtl.%20Screenshot%20im%20Anhang)
+[Mail schreiben](mailto:ithelp@bernedu.ch?subject=%20&body=%20Damit%20wir%20rasch%20helfen%20können,%20benötigen%20wir%20folgende%20Angaben%0A%0AMailadresse%20gbsl:%0A%0AAktuelle%20Mobilnummer:%0A%0AMac%20oder%20Windows:%0A%0AGenaue%20Beschreibung%20des%20Problems:%0A%0AFehlermeldung,%20falls%20eine%20erscheint:%0A%0AEvtl.%20Screenshot%20im%20Anhang)
 
 <Tabs>
   <TabItem value="Mein Gerät" label="Mein Gerät">
 ::::info[Ich habe Probleme mit meinem Konto, mit Office 365, mit Authentifizieren]
 
 :::solution[Lösung]
-Melde, dass dein Konto zurückgesetzt werden muss, vergiss nicht deine Mailadresse und deine Mobilenummer anzugeben: [👉 :mdi[emailEditOutline]](mailto:it-help-for-students@bernedu.ch?subject=Account%20Sch%C3%BCler%3Ain%20zur%C3%BCcksetzen&body=Guten%20Tag%20Herr%20Jahany%2C%0A%0ABitte%20setzen%20Sie%20meinen%20Account%20zur%C3%BCck%3A%0A%0A%40edu.gbsl.ch%0A%0ATel.%2007%0A%0ABesten%20Dank%20und%20freundliche%20Gr%C3%BCsse)
+Melde, dass dein Konto zurückgesetzt werden muss, vergiss nicht deine Mailadresse und deine Mobilenummer anzugeben: [👉 :mdi[emailEditOutline]](mailto:ithelp@bernedu.ch?subject=Account%20Sch%C3%BCler%3Ain%20zur%C3%BCcksetzen&body=Guten%20Tag%20Herr%20Jahany%2C%0A%0ABitte%20setzen%20Sie%20meinen%20Account%20zur%C3%BCck%3A%0A%0A%40edu.gbsl.ch%0A%0ATel.%2007%0A%0ABesten%20Dank%20und%20freundliche%20Gr%C3%BCsse)
 :::
 ::::
 
