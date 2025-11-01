@@ -12,14 +12,14 @@ draft: false
 Hier solltest du Lösungen für dein technisches Problem finden können.
 
 Falls für dein Problem keine Lösung zu finden ist oder du eine Lösung ausprobiert hast, aber dein Problem damit nicht gelöst werden konnte, so kannst du das hier melden. Gib bitte genau an, was das Problem ist und was du für Lösungen probiert hast. Screenshots sind hilfreich für den Support. 
-[Mail schreiben](mailto:ithelp@bernedu.ch?subject=IT-Hilfe%20zur%20Selbsthilfe&body=Guten%20Tag%0A%0AIch%20habe%20folgendes%20Problem%2C%20f%C3%BCr%20das%20auf%20ict.gbsl.website%20keine%20L%C3%B6sung%20zu%20finden%20ist%3A%0A%0A*Beschreibe%20das%20Problem%20genau%2C%20h%C3%A4nge%20Screenshots%20ans%20Mail%20an%2C%20wenn%20du%20es%20dadurch%20besser%20erkl%C3%A4ren%20kannst.*%0A%0Aoder%0A%0AIch%20habe%20folgendes%20Problem%2C%20f%C3%BCr%20das%20ich%20folgende%20hier%20gefundene%20L%C3%B6sung%20ausprobiert%20habe%2C%20aber%20mein%20Problem%20konnte%20dadurch%20nicht%20gel%C3%B6st%20werden%3A%0A%0A*Beschreibe%20das%20Problem%20und%20gib%20exakt%20an%2C%20was%20du%20ausprobiert%20hast%2C%20mach%20von%20eventuellen%20Fehlermeldungen%20Screenshots%20und%20h%C3%A4nge%20die%20ans%20Mail%20an.*%0A%0AW%C3%A4re%20es%20m%C3%B6glich%2C%20dass%20ich%20beim%20Support%20vorbeikommen%20kann%20und%20k%C3%B6nnen%20Sie%20mir%20einen%20Termin%20angeben%3F%0A%0ABesten%20Dank%20f%C3%BCr%20Ihre%20Hilfe%0A%0AMit%20freundlichen%20Gr%C3%BCssen)
+[Mail schreiben](mailto:it-help-for-students@bernedu.ch?subject=%20&body=%20Damit%20wir%20rasch%20helfen%20können,%20benötigen%20wir%20folgende%20Angaben%0A%0AMailadresse%20gbsl:%0A%0AAktuelle%20Mobilnummer:%0A%0AMac%20oder%20Windows:%0A%0AGenaue%20Beschreibung%20des%20Problems:%0A%0AFehlermeldung,%20falls%20eine%20erscheint:%0A%0AEvtl.%20Screenshot%20im%20Anhang)
 
 <Tabs>
   <TabItem value="Mein Gerät" label="Mein Gerät">
 ::::info[Ich habe Probleme mit meinem Konto, mit Office 365, mit Authentifizieren]
 
 :::solution[Lösung]
-Melde, dass dein Konto zurückgesetzt werden muss, vergiss nicht deine Mailadresse und deine Mobilenummer anzugeben: [👉 :mdi[emailEditOutline]](mailto:soarhe.jahany@bernedu.ch?subject=Account%20Sch%C3%BCler%3Ain%20zur%C3%BCcksetzen&body=Guten%20Tag%20Herr%20Jahany%2C%0A%0ABitte%20setzen%20Sie%20meinen%20Account%20zur%C3%BCck%3A%0A%0A%40edu.gbsl.ch%0A%0ATel.%2007%0A%0ABesten%20Dank%20und%20freundliche%20Gr%C3%BCsse)
+Melde, dass dein Konto zurückgesetzt werden muss, vergiss nicht deine Mailadresse und deine Mobilenummer anzugeben: [👉 :mdi[emailEditOutline]](mailto:it-help-for-students@bernedu.ch?subject=Account%20Sch%C3%BCler%3Ain%20zur%C3%BCcksetzen&body=Guten%20Tag%20Herr%20Jahany%2C%0A%0ABitte%20setzen%20Sie%20meinen%20Account%20zur%C3%BCck%3A%0A%0A%40edu.gbsl.ch%0A%0ATel.%2007%0A%0ABesten%20Dank%20und%20freundliche%20Gr%C3%BCsse)
 :::
 ::::
 
@@ -52,8 +52,6 @@ Im neuen Fenster [Anmeldemethode hinzufügen] auswählen.
 Methode «Microsoft Authenticator» gemäss Anweisungen auf Bildschirm einrichten.
 Anschliessend kann die MFA für das Login wieder wie gewohnt verwendet werden. Informationen und Anleitungen dazu sind auf der [Website von EDUBERN](https://www.edubern.bkd.be.ch/de/start/portal.html) zu finden.
 
-Freundliche Grüsse
-EDUBERN
 :::
 ::::
 
@@ -153,6 +151,12 @@ Gib dein Passwort ein für dein Macbook - es klappt, auch wenn du keine Eingabe 
 
 
 Danach kannst du den Druckertreiber über das Dashboard installieren [👉 ](https://gymb.eu.uniflowonline.com/#Dashboard).
+
+Pour les collègues dont le menu de l'ordinateur est en français : vous trouverez ci-joint un mode d'emploi du GBJB à télécharger.
+<a target="\_blank" href={require('./assets/ReinstallerUniflowsurMac.pdf').default}>
+   :mdi[download-box-outline]{.blue} Download dieser Anleitung
+</a>
+
 :::
 ::::
 
