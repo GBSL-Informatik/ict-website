@@ -12,8 +12,7 @@ Für das neue WLAN musst du in die Sicherheitseinstellungen deiner Geräte eingr
 :::
 
 :::details[Wieso ist ein Wechsel nötig?]
-    Die bisherige Anmeldung mit E-Mail und Passwort entspricht nicht mehr den heutigen Sicherheitsanforderungen, Mailadresse und Passwort können gestohlen werden, ohne dass man es bemerkt. Aus diesem Grund benutzt das neue WLAN auch die Identität der Geräte, die sich verbinden. Dass das Gerät gestohlen worden ist, bemerkt man ja.
-  :::
+    Die bisherige Anmeldung mit E-Mail und Passwort entspricht nicht mehr den heutigen Sicherheitsanforderungen, Mailadresse und Passwort können gestohlen werden, ohne dass man es bemerkt. Aus diesem Grund benutzt das neue WLAN auch die Identität der Geräte, die sich verbinden.
 
   :::details[Was ist die MAC-Adresse? Was der Gerätename?]
 Die MAC-Adresse hat nichts mit Macbooks zu tun, sondern ist eine Abkürzung für *Media Access Control*, und ist eine weltweit eindeutige Hardware-Adresse eines Netzwerkadapters, die im Chip fest verbaut ist. In Netzwerken wird sie zur Identifizierung von Geräten verwendet.
@@ -33,24 +32,59 @@ Nein, wenn du die Anleitungen klar befolgst, schaltest du die Sicherheitseinstel
 
 Es wird empfohlen die erstmalige Anmeldung mit dem Laptop durchzuführen.
 
+Neu erfolgt die Anmeldung ins WLAN über das __Onway Director Portal__. Die Anmeldung kann nur im WLAN der Schule erfolgen.
+
+Du solltest mit deinem Gerät im bisherigen Schul-WLAN sei. Alternativ kannst du dich auch über __BEGuest__ verbinden.
+
+Gib ihm Browser folgende Adresse ein: https://onwaydirector.be.ch/n/login
+
+Anschliessend erscheint die Startseite von __Onway Director__.
+
+![](Login%20Onway%20Director.jpeg)
+
+Du meldest dich mit deinen Zugangsdaten für die Schule an:
+vorname.name@edu.gbsl.ch oder vorname.name@gbsl.ch (für Lehrer:innen) und deinem Passwort an.
+
+ Die Authentifizierung wird durchgeführt und es dauert einen kleinen Moment bis  die noch leere Übersichtsseite erscheint.
+Um mit der Einrichtung weiterzufahren, klicke entweder auf __Verbinde dein erstes Gerät__ oder __Hinzufügen__. Es erscheint folgendes Fenster mit dem Namen des neuen WLANs: __GYMB-BYOD__ und deinen Zugangsdaten:
+
+![](Onway%20Director%20user%20pw.png)
+
+:::danger[Username und Passwort unbedingt speichern]
+Es erscheint ein Benutzername und Passwort (musst du zuerst aufdecken). Wenn du dich nach Anleitung mit dem neuen WLAN verbinden wirst, wird das Passwort verschwinden, deshalb musst du Username + Passwort UNBEDINGT JETZT herausschreiben (z.B. in ein Word kopieren oder mit dem Smartphone fotografieren).
+Solltest du sie verloren haben, so melde dich wieder bei __Onway Director__ an. Das kannst du immer über __BEGuest__. Im Portal einfach auf __Hinzufügen__ klicken und schon siehst du deinen Username und dein Passwort.
+:::
+
+
 <Tabs groupId="os" queryString>
   <TabItem value="win" label="Windows">
-  Klicke in der Taskleiste unten auf das WLAN-Symbol und wähle das WLAN __WLGYMB-BYOD__ aus. Verbinde dich mit diesem Netzwerk, ignoriere die die Meldung über das Zertifikat und melde dich mit Mailadresse und Passwort an.
 
-  :::details[Keine Verbindung möglich oder kein Internetzugang?]
-    Gib __WLAN-Einstellungen__ im Suchfeld ein und kontrolliere die folgenden Einstellungen
-    ![WLAN ist eingeschaltet](./Netzwerk%20%20und%20Internet.png)
-  :::
+Verbinde dich mit dem gewohnten Schul-WLAN oder mit BEGuest.
+
+Öffne die Systemeinstellungen, wähle __Netzwerk und Internet__, __WLAN__. Die __Zufällige Hardwareadresse__ muss auf __Aus__ sein, damit die Anmeldung im Onway Portal ohne Probleme klappt.
+
+
+  
+Öffne die WLAN-Einstellungen deines Laptops und wähle __GYMB-BYOD__. Verbinde dich mit diesem WLAN.
+
+Du wirst aufgefordert, Benutzername und Kennwort einzugeben. Nutze dazu den Benutzernamen und das Passwort aus dem Onway Director.
+
+Wenn du deinen Laptop mit dem neuen WLAn verbunden hast, wechselst du wieder auf die Systemeinstellungen und schaltest die __Zufällige Hardwareadresse__ wieder ein.
+
+Anschliessend gehst du auf __Bekannte Netzwerke__, suchst das alte WLAN “WLGYMB-BYOD” und klickst auf “Nicht speichern”.
+
+:::details[Empfehlung]
+Kontrolliere bei dieser Gelegenheit auch, ob für die andern Netzwerke die zufällige Hardwareadresse eingeschaltet ist. Das ist die Empfehlung, sollten in einem bestimmten Netzwerk Probleme auftreten, kannst du das wieder ausschalten.
+:::
+
   </TabItem>
   <TabItem value="osx" label="Mac OS">
-Klicke oben rechts auf :mdi[wifi] → unten auf __WLAN Einstellungen__  
-
+Klicke oben rechts auf :mdi[wifi] → im neuen Fenster auf __WLAN Einstellungen__  
+![--width=60%](mac1.png)
 Im neuen Fenster kannst du nun bei allen WLANs die Einstellungen kontrollieren und ändern
 
 → bei __GYMB-BYOD__ auf «Details» oder ⓘ klicken
 
-
-![--width=60%](mac1.png)
 → im Menu «Private WLAN-Adresse» auf «Aus» stellen. Deaktiviere ebenfalls die Option __Tracking der IP-Adresse beschränken__.
 
 ![--width=80%](mac3.png)
