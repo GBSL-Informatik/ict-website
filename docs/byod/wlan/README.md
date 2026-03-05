@@ -36,7 +36,7 @@ Neu erfolgt die Anmeldung ins WLAN über das __Onway Director Portal__. Die Anme
 
 Du solltest mit deinem Gerät im bisherigen Schul-WLAN sei. Alternativ kannst du dich auch über __BEGuest__ verbinden.
 
-Gib ihm Browser folgende Adresse ein: https://onwaydirector.be.ch/n/login
+Gib im Browser folgende Adresse ein: https://onwaydirector.be.ch/n/login
 
 Anschliessend erscheint die Startseite von __Onway Director__.
 
@@ -59,11 +59,9 @@ Solltest du sie verloren haben, so melde dich wieder bei __Onway Director__ an. 
 <Tabs groupId="os" queryString>
   <TabItem value="win" label="Windows">
 
-Verbinde dich mit dem gewohnten Schul-WLAN oder mit BEGuest.
-
 Öffne die Systemeinstellungen, wähle __Netzwerk und Internet__, __WLAN__. Die __Zufällige Hardwareadresse__ muss auf __Aus__ sein, damit die Anmeldung im Onway Portal ohne Probleme klappt.
 
-
+![](ZufälligeHardwareadressenausschaltenWindows.jpg)
   
 Öffne die WLAN-Einstellungen deines Laptops und wähle __GYMB-BYOD__. Verbinde dich mit diesem WLAN.
 
@@ -73,12 +71,15 @@ Wenn du deinen Laptop mit dem neuen WLAn verbunden hast, wechselst du wieder auf
 
 Anschliessend gehst du auf __Bekannte Netzwerke__, suchst das alte WLAN “WLGYMB-BYOD” und klickst auf “Nicht speichern”.
 
+[!](WinaltesWlanausschalten.png)
+
 :::details[Empfehlung]
 Kontrolliere bei dieser Gelegenheit auch, ob für die andern Netzwerke die zufällige Hardwareadresse eingeschaltet ist. Das ist die Empfehlung, sollten in einem bestimmten Netzwerk Probleme auftreten, kannst du das wieder ausschalten.
 :::
 
   </TabItem>
   <TabItem value="osx" label="Mac OS">
+  
 Klicke oben rechts auf :mdi[wifi] → im neuen Fenster auf __WLAN Einstellungen__  
 ![--width=60%](mac1.png)
 Im neuen Fenster kannst du nun bei allen WLANs die Einstellungen kontrollieren und ändern
