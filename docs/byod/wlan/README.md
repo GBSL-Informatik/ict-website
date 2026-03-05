@@ -71,7 +71,7 @@ Wenn du deinen Laptop mit dem neuen WLAn verbunden hast, wechselst du wieder auf
 
 Anschliessend gehst du auf __Bekannte Netzwerke__, suchst das alte WLAN “WLGYMB-BYOD” und klickst auf “Nicht speichern”.
 
-[!](WinaltesWlanausschalten.png)
+![](WinaltesWlanausschalten.png)
 
 :::details[Empfehlung]
 Kontrolliere bei dieser Gelegenheit auch, ob für die andern Netzwerke die zufällige Hardwareadresse eingeschaltet ist. Das ist die Empfehlung, sollten in einem bestimmten Netzwerk Probleme auftreten, kannst du das wieder ausschalten.
