@@ -6,6 +6,7 @@ sidebar_position: 17
 ---
 
 # Wechsel des WLAN-Netzwerkes
+**Von WLGYMB-BYOD zu GYMB-BYOD**
 
 :::danger
 Für das neue WLAN musst du in die Sicherheitseinstellungen deiner Geräte eingreifen. Es ist von Vorteil, wenn du verstehst , warum was gemacht werden muss. Aus diesem Grund findest du hier Infoboxen, die du anklicken kannst.
