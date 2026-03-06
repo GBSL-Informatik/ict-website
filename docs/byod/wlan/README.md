@@ -127,13 +127,11 @@ Danach verbindest du dich mit diesem Netzwerk und bestätigst das Zertifikat.
   :::
 
   :::details[Samsung Phone]
-![--width=60%](samsung3.jpg)
+![--width=60%](samsdt1.jpg)
 Scrolle nach unten:
-![--width=60%](samsung2.jpg)
-![--width=60%](samsung1.jpg)
+![--width=60%](samsdt2.jpg)
+![--width=60%](samsdt3.jpg)
   :::
-
-
 
 
   </TabItem>
