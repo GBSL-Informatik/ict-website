@@ -66,7 +66,9 @@ Solltest du sie verloren haben, so melde dich wieder bei __Onway Director__ an. 
   
 Öffne die WLAN-Einstellungen deines Laptops und wähle __GYMB-BYOD__. Verbinde dich mit diesem WLAN.
 
-Du wirst aufgefordert, Benutzername und Kennwort einzugeben. Nutze dazu den Benutzernamen und das Passwort aus dem Onway Director.
+:::danger
+Du wirst aufgefordert, Benutzername und Kennwort einzugeben. Nutze dazu den Benutzernamen und das Passwort aus dem Onway Director, mit deiner Mailadresse funktioniert die Anmeldung nicht im neuen WLAN.
+:::
 
 Wenn du deinen Laptop mit dem neuen WLAn verbunden hast, wechselst du wieder auf die Systemeinstellungen und schaltest die __Zufällige Hardwareadresse__ wieder ein.
 
@@ -90,7 +92,10 @@ Im neuen Fenster kannst du nun bei allen WLANs die Einstellungen kontrollieren u
 → im Menu «Private WLAN-Adresse» auf «Aus» stellen. Deaktiviere ebenfalls die Option __Tracking der IP-Adresse beschränken__.
 
 ![--width=80%](mac3.png)
-Verbinde dich mit diesem Netzwerk mit Username und Passwort, die du in Onway Director erhalten hast. Die folgende Fehlermeldung kannst du ignorieren, sie bestätigt dir, dass du die private WLAN-Adresse korrekt ausgeschaltet hast.
+
+:::danger
+Du wirst aufgefordert, Benutzername und Kennwort einzugeben. Nutze dazu den Benutzernamen und das Passwort aus dem Onway Director, mit deiner Mailadresse funktioniert die Anmeldung nicht im neuen WLAN. Die folgende Fehlermeldung kannst du ignorieren, sie bestätigt dir, dass du die private WLAN-Adresse korrekt ausgeschaltet hast.
+:::
 
 ![--width=80%](mac4.png)
 
@@ -110,7 +115,9 @@ __Private WLAN-Adresse__ stellst du auf __Aus__ und bestätigst das im nächsten
 
 ![--width=60%](iphone5.png)
 
-Danach verbindest du dich mit diesem Netzwerk und bestätigst das Zertifikat.
+:::danger
+Danach verbindest du dich mit __GYMB-BYOD__. Du wirst aufgefordert, Benutzername und Kennwort einzugeben. Nutze dazu den Benutzernamen und das Passwort aus dem Onway Director, mit deiner Mailadresse funktioniert die Anmeldung nicht im neuen WLAN.Danach verbindest du dich mit diesem Netzwerk und bestätigst das Zertifikat.
+:::
 
 ![--width=60%](iphone6.png)
 
@@ -119,7 +126,8 @@ Danach verbindest du dich mit diesem Netzwerk und bestätigst das Zertifikat.
   <TabItem value="android" label="Android">
     Öffne auf deinem Gerät die Einstellungen und klicke unter WLAN auf das Netzwerk __GYMB-BYOD__.
     
-    Gib folgende Einstellungen ein und melde dich mit Username und Passwort an, die du auf dem Onway Director Portal erhalten hast. Untenstehend Screenshots der nötigen Schritte von einem Samsung und einem Google Pixel.
+    :::dangerDu wirst aufgefordert, Benutzername und Kennwort einzugeben. Nutze dazu den Benutzernamen und das Passwort aus dem Onway Director, mit deiner Mailadresse funktioniert die Anmeldung nicht im neuen WLAN.Untenstehend Screenshots der nötigen Schritte von einem Samsung und einem Google Pixel.
+    :::
 
   :::details[Google Pixel]
 ![--width=60%](pixel1.png)
