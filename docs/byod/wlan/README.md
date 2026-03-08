@@ -8,7 +8,11 @@ sidebar_position: 17
 # Wechsel des WLAN-Netzwerkes
 **Von WLGYMB-BYOD zu GYMB-BYOD**
 
-:::danger
+:::danger[Achtung]
+Du musst dich im alten WLAN oder in BEGuest in der Schule (mit einem Hotspot geht das nicht) mit deiner Schulmailadresse und deinem Passwort auf einem Portal einloggen. Dort erhältst du einen neuen Usernamen und ein neues Passwort, mit denen du dich im neuen WLAN **GYMB-BYOD** anmelden musst. Diese sind nun für das neue WLAN deine Anmeldedaten.
+:::
+
+:::warning
 Für das neue WLAN musst du in die Sicherheitseinstellungen deiner Geräte eingreifen. Es ist von Vorteil, wenn du verstehst , warum was gemacht werden muss. Aus diesem Grund findest du hier Infoboxen, die du anklicken kannst.
 :::
 
@@ -126,7 +130,8 @@ Danach verbindest du dich mit __GYMB-BYOD__. Du wirst aufgefordert, Benutzername
   <TabItem value="android" label="Android">
     Öffne auf deinem Gerät die Einstellungen und klicke unter WLAN auf das Netzwerk __GYMB-BYOD__.
     
-    :::dangerDu wirst aufgefordert, Benutzername und Kennwort einzugeben. Nutze dazu den Benutzernamen und das Passwort aus dem Onway Director, mit deiner Mailadresse funktioniert die Anmeldung nicht im neuen WLAN.Untenstehend Screenshots der nötigen Schritte von einem Samsung und einem Google Pixel.
+    :::danger
+    Du wirst aufgefordert, Benutzername und Kennwort einzugeben. Nutze dazu den Benutzernamen und das Passwort aus dem Onway Director, mit deiner Mailadresse funktioniert die Anmeldung nicht im neuen WLAN. Untenstehend Screenshots der nötigen Schritte von einem Samsung und einem Google Pixel.
     :::
 
   :::details[Google Pixel]
