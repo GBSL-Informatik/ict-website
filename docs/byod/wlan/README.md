@@ -17,7 +17,8 @@ Für das neue WLAN musst du in die Sicherheitseinstellungen deiner Geräte eingr
 :::
 
 :::details[Wieso ist ein Wechsel nötig?]
-    Die bisherige Anmeldung mit E-Mail und Passwort entspricht nicht mehr den heutigen Sicherheitsanforderungen, Mailadresse und Passwort können gestohlen werden, ohne dass man es bemerkt. Aus diesem Grund benutzt das neue WLAN auch die Identität der Geräte, die sich verbinden.
+Die bisherige Anmeldung mit E-Mail und Passwort entspricht nicht mehr den heutigen Sicherheitsanforderungen, Mailadresse und Passwort können gestohlen werden, ohne dass man es bemerkt. Aus diesem Grund benutzt das neue WLAN auch die Identität der Geräte, die sich verbinden.
+:::
 
   :::details[Was ist die MAC-Adresse? Was der Gerätename?]
 Die MAC-Adresse hat nichts mit Macbooks zu tun, sondern ist eine Abkürzung für *Media Access Control*, und ist eine weltweit eindeutige Hardware-Adresse eines Netzwerkadapters, die im Chip fest verbaut ist. In Netzwerken wird sie zur Identifizierung von Geräten verwendet.
