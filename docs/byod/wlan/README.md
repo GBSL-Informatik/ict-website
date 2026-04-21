@@ -5,19 +5,19 @@ sidebar_custom_props:
 sidebar_position: 17
 ---
 
-# Wechsel des WLAN-Netzwerkes
+# Einrichten des WLAN-Netzwerkes
 **Von WLGYMB-BYOD zu GYMB-BYOD**
 
 :::danger[Achtung]
-Du musst dich im alten WLAN oder in BEGuest in der Schule (mit einem Hotspot geht das nicht) mit deiner Schulmailadresse und deinem Passwort auf einem Portal einloggen. Dort erhältst du einen neuen Usernamen und ein neues Passwort, mit denen du dich im neuen WLAN **GYMB-BYOD** anmelden musst. Diese sind nun für das neue WLAN deine Anmeldedaten.
+Du musst dich im WLAN **BEGuest** in der Schule (mit einem Hotspot geht das nicht) mit deiner Schulmailadresse und deinem Passwort auf einem Portal einloggen. Dort erhältst du einen neuen Usernamen und ein neues Passwort, mit denen du dich im WLAN **GYMB-BYOD** anmelden musst. Diese sind nun für das WLAN deine Anmeldedaten.
 :::
 
 :::warning
-Für das neue WLAN musst du in die Sicherheitseinstellungen deiner Geräte eingreifen. Es ist von Vorteil, wenn du verstehst , warum was gemacht werden muss. Aus diesem Grund findest du hier Infoboxen, die du anklicken kannst.
+Für das Schul-WLAN musst du in die Sicherheitseinstellungen deiner Geräte eingreifen. Es ist von Vorteil, wenn du verstehst , warum was gemacht werden muss. Aus diesem Grund findest du hier Infoboxen, die du anklicken kannst.
 :::
 
-:::details[Wieso ist ein Wechsel nötig?]
-Die bisherige Anmeldung mit E-Mail und Passwort entspricht nicht mehr den heutigen Sicherheitsanforderungen, Mailadresse und Passwort können gestohlen werden, ohne dass man es bemerkt. Aus diesem Grund benutzt das neue WLAN auch die Identität der Geräte, die sich verbinden.
+:::details[Sicherheitseinstellungen]
+Eine Anmeldung mit E-Mail und Passwort entspricht nicht mehr den heutigen Sicherheitsanforderungen, Mailadresse und Passwort können gestohlen werden, ohne dass man es bemerkt. Aus diesem Grund benutzt das Schul-WLAN auch die Identität der Geräte, die sich verbinden.
 :::
 
   :::details[Was ist die MAC-Adresse? Was der Gerätename?]
@@ -38,11 +38,11 @@ Nein, wenn du die Anleitungen klar befolgst, schaltest du die Sicherheitseinstel
 
 Es wird empfohlen die erstmalige Anmeldung mit dem Laptop durchzuführen.
 
-Neu erfolgt die Anmeldung ins WLAN über das __Onway Director Portal__. Die Anmeldung kann nur im WLAN der Schule erfolgen.
+Die Anmeldung ins WLAN der Schule erfolgt über das __Onway Director Portal__. Die Anmeldung kann nur im WLAN der Schule erfolgen.
 
-Du solltest mit deinem Gerät im bisherigen Schul-WLAN sei. Alternativ kannst du dich auch über __BEGuest__ verbinden.
+Deshalb must du dich mit dem WLAN  __BEGuest__ verbinden.
 
-Gib im Browser folgende Adresse ein: https://onwaydirector.be.ch/n/login
+Danach gibst du im Browser folgende Adresse ein: https://onwaydirector.be.ch/n/login
 
 Anschliessend erscheint die Startseite von __Onway Director__.
 
@@ -51,14 +51,14 @@ Anschliessend erscheint die Startseite von __Onway Director__.
 Du meldest dich mit deinen Zugangsdaten für die Schule an:
 vorname.name@edu.gbsl.ch oder vorname.name@gbsl.ch (für Lehrer:innen) und deinem Passwort an.
 
- Die Authentifizierung wird durchgeführt und es dauert einen kleinen Moment bis  die noch leere Übersichtsseite erscheint.
+ Die Authentifizierung wird durchgeführt und es dauert einen kleinen Moment, bis  die noch leere Übersichtsseite erscheint.
 Um mit der Einrichtung weiterzufahren, klicke entweder auf __Verbinde dein erstes Gerät__ oder __Hinzufügen__. Es erscheint folgendes Fenster mit dem Namen des neuen WLANs: __GYMB-BYOD__ und deinen Zugangsdaten:
 
 ![](Onway%20Director%20user%20pw.png)
 
 :::danger[Username und Passwort unbedingt speichern]
 Es erscheint ein Benutzername und Passwort (musst du zuerst aufdecken). Wenn du dich nach Anleitung mit dem neuen WLAN verbinden wirst, wird das Passwort verschwinden, deshalb musst du Username + Passwort UNBEDINGT JETZT herausschreiben (z.B. in ein Word kopieren oder mit dem Smartphone fotografieren).
-Solltest du sie verloren haben, so melde dich wieder bei __Onway Director__ an. Das kannst du immer über __BEGuest__. Im Portal einfach auf __Hinzufügen__ klicken und schon siehst du deinen Username und dein Passwort.
+Solltest du sie verloren haben, so melde dich wieder bei __Onway Director__ an. Das kannst du immer über __BEGuest__. Im Portal einfach auf __Hinzufügen__ klicken und schon siehst du deinen Usernamen und dein Passwort.
 :::
 
 
@@ -77,7 +77,6 @@ Du wirst aufgefordert, Benutzername und Kennwort einzugeben. Nutze dazu den Benu
 
 Wenn du deinen Laptop mit dem neuen WLAn verbunden hast, wechselst du wieder auf die Systemeinstellungen und schaltest die __Zufällige Hardwareadresse__ wieder ein.
 
-Anschliessend gehst du auf __Bekannte Netzwerke__, suchst das alte WLAN “WLGYMB-BYOD” und klickst auf “Nicht speichern”.
 
 ![](WinaltesWlanausschalten.png)
 
@@ -99,7 +98,7 @@ Im neuen Fenster kannst du nun bei allen WLANs die Einstellungen kontrollieren u
 ![--width=80%](mac3.png)
 
 :::danger
-Du wirst aufgefordert, Benutzername und Kennwort einzugeben. Nutze dazu den Benutzernamen und das Passwort aus dem Onway Director, mit deiner Mailadresse funktioniert die Anmeldung nicht im neuen WLAN. Die folgende Fehlermeldung kannst du ignorieren, sie bestätigt dir, dass du die private WLAN-Adresse korrekt ausgeschaltet hast.
+Du wirst aufgefordert, Benutzername und Kennwort einzugeben. Nutze dazu den Benutzernamen und das Passwort aus dem Onway Director, mit deiner Mailadresse funktioniert die Anmeldung nicht. Die folgende Fehlermeldung kannst du ignorieren, sie bestätigt dir, dass du die private WLAN-Adresse korrekt ausgeschaltet hast.
 :::
 
 ![--width=80%](mac4.png)
@@ -121,7 +120,7 @@ __Private WLAN-Adresse__ stellst du auf __Aus__ und bestätigst das im nächsten
 ![--width=60%](iphone5.png)
 
 :::danger
-Danach verbindest du dich mit __GYMB-BYOD__. Du wirst aufgefordert, Benutzername und Kennwort einzugeben. Nutze dazu den Benutzernamen und das Passwort aus dem Onway Director, mit deiner Mailadresse funktioniert die Anmeldung nicht im neuen WLAN.Danach verbindest du dich mit diesem Netzwerk und bestätigst das Zertifikat.
+Danach verbindest du dich mit __GYMB-BYOD__. Du wirst aufgefordert, Benutzername und Kennwort einzugeben. Nutze dazu den Benutzernamen und das Passwort aus dem Onway Director, mit deiner Mailadresse funktioniert die Anmeldung nicht.Danach verbindest du dich mit diesem Netzwerk und bestätigst das Zertifikat.
 :::
 
 ![--width=60%](iphone6.png)
@@ -132,7 +131,7 @@ Danach verbindest du dich mit __GYMB-BYOD__. Du wirst aufgefordert, Benutzername
     Öffne auf deinem Gerät die Einstellungen und klicke unter WLAN auf das Netzwerk __GYMB-BYOD__.
     
     :::danger
-    Du wirst aufgefordert, Benutzername und Kennwort einzugeben. Nutze dazu den Benutzernamen und das Passwort aus dem Onway Director, mit deiner Mailadresse funktioniert die Anmeldung nicht im neuen WLAN. Untenstehend Screenshots der nötigen Schritte von einem Samsung und einem Google Pixel.
+    Du wirst aufgefordert, Benutzername und Kennwort einzugeben. Nutze dazu den Benutzernamen und das Passwort aus dem Onway Director, mit deiner Mailadresse funktioniert die Anmeldung nicht. Untenstehend Screenshots der nötigen Schritte von einem Samsung und einem Google Pixel.
     :::
 
   :::details[Google Pixel]
