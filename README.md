@@ -5,7 +5,7 @@
 ### Installation
 
 ```
-$ yarn
+$ yarn run start
 ```
 
 ### Local Development
