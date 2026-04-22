@@ -2,7 +2,6 @@
 
 [![Build Status](https://drone.gbsl.website/api/badges/GBSL-Informatik/ict-website/status.svg)](https://drone.gbsl.website/GBSL-Informatik/ict-website)
 
-
 ### Installation
 
 ```
