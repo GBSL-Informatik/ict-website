@@ -41,8 +41,8 @@ const STATIC_TRANSLATIONS = {
     fr: 'Instructions, conseils et astuces'
   },
   banner: {
-    de: '🚧 V1 - die neue ICT-Website befindet sich unter https://ict-v1.gbsl.website 🚧',
-    fr: '🚧 V1 - la nouvelle website ICT se trouve sous https://ict-v1.gbsl.website 🚧'
+    de: '🚧 V1 - die neue ICT-Website befindet sich unter <a href="https://ict.gbsl.website">👉 ict.gbsl.website</a> 🚧',
+    fr: '🚧 V1 - la nouvelle website ICT se trouve sous <a href="https://ict.gbsl.website">👉 ict.gbsl.website</a> 🚧'
   }
 }
 
