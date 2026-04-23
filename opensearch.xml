@@ -4,8 +4,8 @@
   <ShortName>ICT am Gymnasium Biel-Seeland</ShortName>
   <Description>Search ICT am Gymnasium Biel-Seeland</Description>
   <InputEncoding>UTF-8</InputEncoding>
-  <Image width="16" height="16" type="image/x-icon">https://ict.gbsl.website/img/favicon.ico</Image>
-  <Url type="text/html" method="get" template="https://ict.gbsl.website/search?q={searchTerms}"/>
-  <Url type="application/opensearchdescription+xml" rel="self" template="https://ict.gbsl.website/opensearch.xml" />
-  <moz:SearchForm>https://ict.gbsl.website/</moz:SearchForm>
+  <Image width="16" height="16" type="image/x-icon">https://ict.v1.gbsl.website/img/favicon.ico</Image>
+  <Url type="text/html" method="get" template="https://ict.v1.gbsl.website/search?q={searchTerms}"/>
+  <Url type="application/opensearchdescription+xml" rel="self" template="https://ict.v1.gbsl.website/opensearch.xml" />
+  <moz:SearchForm>https://ict.v1.gbsl.website/</moz:SearchForm>
 </OpenSearchDescription>
