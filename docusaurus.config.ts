@@ -41,8 +41,8 @@ const STATIC_TRANSLATIONS = {
     fr: 'Instructions, conseils et astuces'
   },
   banner: {
-    de: 'Einführungsphase',
-    fr: 'Tous les contenus ne sont pas traduits en français.'
+    de: '🚧 V1 - die neue ICT-Website befindet sich unter https://ict.v1.gbsl.website 🚧',
+    fr: '🚧 V1 - la nouvelle website ICT se trouve sous https://ict.v1.gbsl.website 🚧'
   }
 }
 
@@ -295,8 +295,8 @@ const config: Config = {
       darkTheme: darkCodeTheme,
     },
     announcementBar: {
-      backgroundColor: '#248eca',
-      textColor: '#fff',
+      backgroundColor: '#efe522',
+      textColor: '#000000',
       content: STATIC_TRANSLATIONS.banner[LOCALE],
       isCloseable: true
     },
