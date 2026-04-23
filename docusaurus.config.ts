@@ -118,7 +118,7 @@ const REMARK_PLUGINS = {
 const config: Config = {
   title: STATIC_TRANSLATIONS.title[LOCALE],
   tagline: STATIC_TRANSLATIONS.description[LOCALE],
-  url: 'https://ict.gbsl.website',
+  url: 'https://ict.v1.gbsl.website',
   baseUrl: '/',
   onBrokenLinks: 'warn',
   onBrokenMarkdownLinks: 'warn',
@@ -327,7 +327,7 @@ const config: Config = {
     {
       src: 'https://umami.gbsl.website/tell-me.js',
       ['data-website-id']: 'b712f437-c0b3-41f0-ba9b-c1e5ec681751',
-      ['data-domains']: 'ict.gbsl.website',
+      ['data-domains']: 'ict.v1.gbsl.website',
       async: true,
       defer: true
     }
