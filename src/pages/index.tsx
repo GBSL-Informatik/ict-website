@@ -106,7 +106,7 @@ export default function Home() {
         <>
             <Head>
                 <meta property="og:description" content="Anleitungen, Tipps & Tricks" />
-                <meta property="og:image" content="https://ict.v1.gbsl.website/img/logo.png" />
+                <meta property="og:image" content="https://ict-v1.gbsl.website/img/logo.png" />
             </Head>
             <Layout description="Anleitungen, Tipps & Tricks">
                 <HomepageHeader />

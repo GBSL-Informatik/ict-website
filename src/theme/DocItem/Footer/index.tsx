@@ -75,7 +75,7 @@ Freundliche Grüsse
                 <a
                     title="Feedback: Fehler, Vorschläge oder Anregungen mitteilen"
                     className={clsx(styles.edited, 'badge', 'badge--success')}
-                    href={`mailto:ICT%20Feedback<ict.gbsl@bernedu.ch>?subject=${encodeURIComponent('Feedback ict.v1.gbsl.website')}&body=${encodeURIComponent(feedbackBody)}`}
+                    href={`mailto:ICT%20Feedback<ict.gbsl@bernedu.ch>?subject=${encodeURIComponent('Feedback ict-v1.gbsl.website')}&body=${encodeURIComponent(feedbackBody)}`}
                 >
                     Rückmeldung{' '}
                     <Icon
