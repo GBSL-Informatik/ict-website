@@ -7,7 +7,7 @@ draft: false
 
 # Austritt - digitales Kofferpacken
 :::danger[Deadline]
-Wenn Sie diesen Sommer die Schule verlassen, wird Ihre Schul-E-Mail-Adresse per **Ende Juli** deaktiviert.
+Wenn Sie diesen Sommer die Schule verlassen, wird Ihre Schul-E-Mail-Adresse per **letztem Schultag, um 23.59 Uhr**, deaktiviert.
 
 Bis dahin müssen Sie alle Daten gesichert haben, die Sie noch benötigen. Bei der Deaktivierung Ihrer E-Mail-Adresse werden diese gelöscht.
 :::
